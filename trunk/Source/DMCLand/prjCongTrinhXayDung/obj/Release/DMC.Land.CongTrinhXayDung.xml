@@ -1,0 +1,95 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.CongTrinhXayDung
+</name>
+</assembly>
+<members>
+<member name="M:DMC.Land.CongTrinhXayDung.ctrlCongTrinhXayDung.ShowData">
+	<summary>
+ Hiển thị thông tin Công trình xây dựng
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.CongTrinhXayDung.clsCongTrinhXayDung.UpdateCongTrinhXayDungByMaCongTrinhXayDung">
+	<summary>
+ Cập nhật thông tin Công trình xây dựng theo Mã Công trình xây dựng
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.CongTrinhXayDung.clsCongTrinhXayDung.DeleteCongTrinhXayDungByMaCongTrinhXayDung">
+	<summary>
+ Xóa thông tin Công trình xây dựng theo Mã công trình xây dựng
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.CongTrinhXayDung.clsCongTrinhXayDung.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi thủ tục SQLServer
+ </summary>
+	<param name="strStoreProcedureName"></param>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.CongTrinhXayDung.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.CongTrinhXayDung.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.CongTrinhXayDung.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DMC.Land.CongTrinhXayDung.clsHangMucCongTrinh.Execute(System.String@,System.String)">
+	<summary>
+ Hàm thức thi cơ sở dữ liệu dùng chung cho
+ trường hợp: Insert, Update, Delete Công trình xây dựng
+ </summary>
+	<param name="records"></param>
+	<param name="strStoreProcedureName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.CongTrinhXayDung.clsHangMucCongTrinh.DeleteHangMucCongTrinhByMaCongTrinhXayDung(System.String@)">
+	<summary>
+ Xóa Công trình xây dựng với Mã Công trình xây dựng cho trước
+ Trường hợp này xóa nhiều bản ghi Công trình xây dựng
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.CongTrinhXayDung.clsHangMucCongTrinh.DeleteHangMucCongTrinhByMaHangMucCongTrinh(System.String@)">
+	<summary>
+ Xóa Công trình xây dựng với Mã Công trình xây dựng cho trước
+ Trường hợp này Xóa một bản ghi Công trình xây dựng
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.CongTrinhXayDung.clsHangMucCongTrinh.UpdateHangMucCongTrinh(System.String@)">
+	<summary>
+ Cập nhật thông tin Hạng mục công trình
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.CongTrinhXayDung.clsHangMucCongTrinh.InsertHangMucCongTrinh(System.String@)">
+	<summary>
+ Thêm một Hạng mục công trình
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.CongTrinhXayDung.clsHangMucCongTrinh.GetData(System.String,System.Data.DataTable@)">
+	<summary>
+ Truy vấn Hạng mục công trình theo điều kiện truy vấn
+ </summary>
+	<param name="dtResults"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

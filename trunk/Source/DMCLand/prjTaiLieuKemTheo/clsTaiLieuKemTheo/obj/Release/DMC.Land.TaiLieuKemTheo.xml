@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.TaiLieuKemTheo
+</name>
+</assembly>
+<members>
+<member name="M:DMC.Land.TaiLieuKemTheo.clsTaiLieuKemTheo.Execute(System.String)">
+	<summary>
+ Thực thi câu lệnh truy vấn thông tin Tài liệu kèm theo
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục muốn thực thi phát biểu SQL</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.clsTaiLieuKemTheo.InsertTaiLieuKemTheo">
+	<summary>
+ Thêm mới tài liệu kèm theo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.clsTaiLieuKemTheo.UpdateTaiLieuKemTheo">
+	<summary>
+ Cập nhật thông tin tài liệu kèm theo 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.clsTaiLieuKemTheo.DeleteTaiLieuKemTheoByMaTaiLieuKemTheo">
+	<summary>
+ Xóa tài liệu kèm theo theo Mã Tài liệu kèm theo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.clsTaiLieuKemTheo.DeleteTaiLieuKemTheoByMaHoSoCapGCN">
+	<summary>
+ Xóa tài liệu kèm theo theo Mã Hồ sơ cấp GCN
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.clsTaiLieuKemTheo.SelectTaiLieuKemTheo(System.Object)">
+	<summary>
+ SelectTaiLieuKemTheo
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.clsTaiLieuKemTheo.SelectTaiLieuKemTheoByMaTaiLieuKemTheo">
+	<summary>
+ Select Tài liệu kèm theo theo Mã Tài liệu kèm theo
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.clsTaiLieuKemTheo.SelectTaiLieuKemTheoByMaHoSoCapGCN">
+	<summary>
+ Select Tài liệu kèm theo theo Mã Hồ sơ cấp GCN
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.clsTaiLieuKemTheo.SaveFile(System.String,System.Byte[],System.Int32)">
+	<summary>
+ Lưu File trên ổ đĩa 
+ </summary>
+	<param name="strSaveFileName">Tên file cần lưu</param>
+	<param name="byteContent">Nội dung tài liệu cần luu (kiểu byte)</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.clsTaiLieuKemTheo.ReadFile(System.String)">
+	<summary>
+ Đọc File tài liệu từ ổ đĩa với Tên đường dẫn cho trước
+ </summary>
+	<param name="strPath">Tên đường dẫn File tài liệu trên ổ đĩa</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.ctrlTaiLieuKemTheo.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột trên Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.ctrlTaiLieuKemTheo.FormatGridContruction">
+	<summary>
+ Định dạng lại cấu trúc Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.ctrlTaiLieuKemTheo.UpdateData">
+	<summary>
+ Cập mhật dữ liệu
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.ctrlTaiLieuKemTheo.ShowData">
+	<summary>
+ Hiển thị dữ liệu
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.ctrlTaiLieuKemTheo.TrangThaiCapNhat(System.Boolean)">
+	<summary>
+ Xác định trạng thái cho các ô nhập liệu
+ </summary>
+	<param name="blnCapNhat"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.ctrlTaiLieuKemTheo.TrangThaiBanDau(System.Boolean)">
+	<summary>
+ Thiết lập trạng thái cho ô nhập liệu
+ và Grid về trạng thái ban đầu
+ </summary>
+	<param name="blnClearGrid"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.TaiLieuKemTheo.ctrlTaiLieuKemTheo.TrangThaiChucNang(System.Boolean,System.Boolean)">
+	<summary>
+ Thiết lập trạng thái cho các nút cập nhật
+ </summary>
+	<param name="blnStartEdited"></param>
+	<param name="blnStartDeleted"></param>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.TaiLieuKemTheo.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.TaiLieuKemTheo.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.TaiLieuKemTheo.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

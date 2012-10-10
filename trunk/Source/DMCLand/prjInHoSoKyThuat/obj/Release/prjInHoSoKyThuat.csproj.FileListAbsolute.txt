@@ -1,0 +1,10 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoSoKyThuat\bin\Release\DMC.Land.RptHoSoKyThuat.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoSoKyThuat\bin\Release\DMC.Land.RptHoSoKyThuat.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoSoKyThuat\bin\Release\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoSoKyThuat\bin\Release\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoSoKyThuat\bin\Release\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoSoKyThuat\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoSoKyThuat\obj\Release\prjInHoSoKyThuat.CtrInHoSoKyThuat.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoSoKyThuat\obj\Release\prjInHoSoKyThuat.csproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoSoKyThuat\obj\Release\DMC.Land.RptHoSoKyThuat.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoSoKyThuat\obj\Release\DMC.Land.RptHoSoKyThuat.pdb

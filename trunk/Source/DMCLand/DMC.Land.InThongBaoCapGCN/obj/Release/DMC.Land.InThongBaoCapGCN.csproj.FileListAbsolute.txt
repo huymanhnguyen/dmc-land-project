@@ -1,0 +1,15 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\bin\Release\DMC.Land.InThongBaoCapGCN.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\bin\Release\DMC.Land.InThongBaoCapGCN.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\bin\Release\prjNhatKyNguoiDung.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\bin\Release\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\bin\Release\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\bin\Release\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\bin\Release\prjNhatKyNguoiDung.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\bin\Release\prjNhatKyNguoiDung.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\obj\Release\DMC.Land.InThongBaoCapGCN.ctrInThongBaoCapGCN.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\obj\Release\DMC.Land.InThongBaoCapGCN.CtrKhongDuDKCapGCN.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\obj\Release\DMC.Land.InThongBaoCapGCN.Properties.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\obj\Release\DMC.Land.InThongBaoCapGCN.csproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\obj\Release\DMC.Land.InThongBaoCapGCN.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.InThongBaoCapGCN\obj\Release\DMC.Land.InThongBaoCapGCN.pdb

@@ -1,0 +1,9 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjToTrinhQuyetDinh\bin\Release\DMC.Land.ToTrinhQuyetDinh.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjToTrinhQuyetDinh\bin\Release\DMC.Land.ToTrinhQuyetDinh.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjToTrinhQuyetDinh\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjToTrinhQuyetDinh\obj\Release\prjToTrinhQuyetDinh.ctrToTrinhQuyetDinh.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjToTrinhQuyetDinh\obj\Release\prjToTrinhQuyetDinh.frmQuyetDinh.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjToTrinhQuyetDinh\obj\Release\prjToTrinhQuyetDinh.frmToTrinh.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjToTrinhQuyetDinh\obj\Release\prjToTrinhQuyetDinh.csproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjToTrinhQuyetDinh\obj\Release\DMC.Land.ToTrinhQuyetDinh.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjToTrinhQuyetDinh\obj\Release\DMC.Land.ToTrinhQuyetDinh.pdb

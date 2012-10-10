@@ -1,0 +1,31 @@
+MaTinh	String	20	
+MaHuyen	String	20	
+MaXa	String	20	
+TenTinh	String	200	
+TenHuyen	String	200	
+TenXa	String	200	
+ChuSuDung	String	500	
+GDPhongDangKy	String	200	
+GiamDocSoTN	String	200	
+QuyenSo	String	100	
+HoTen	String	200	
+NamSinh	String	100	
+SoHoKhau	String	100	
+NgayCap	Date		
+DiaChi	String	300	
+NgayVaoSo	Date		
+SoThua	String	100	
+ToBanDo	String	200	
+DienTich	Number		
+DienTichChung	Number		
+DienTichRieng	Number		
+MucDichSD	String	300	
+NguonGoc	String	500	
+ThoiHanSD	String	100	
+SoPhatHanh	String	50	
+SoVaoso	String	50
+NoiDungBienDong	String	500	
+NgayBienDong	Date		
+QuyenSoSo	String	20	
+TrangSo	Number		
+TenCSD	String	200	

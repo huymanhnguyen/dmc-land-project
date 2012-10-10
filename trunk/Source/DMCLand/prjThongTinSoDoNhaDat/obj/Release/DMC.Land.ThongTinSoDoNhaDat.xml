@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.ThongTinSoDoNhaDat
+</name>
+</assembly>
+<members>
+<member name="M:DMC.Land.ThongTinSoDoNhaDat.clsThongTinSoDoNhaDat.DeleteSoDoNhaDatThamDinhByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin Sơ đồ nhà đất thẩm định theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinSoDoNhaDat.clsThongTinSoDoNhaDat.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi thủ tục SQLServer
+ </summary>
+	<param name="strStoreProcedureName"></param>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.ThongTinSoDoNhaDat.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.ThongTinSoDoNhaDat.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.ThongTinSoDoNhaDat.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

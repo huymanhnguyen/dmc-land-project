@@ -1,0 +1,17 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\bin\Release\DMC.Land.YeuCauBoSung.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\bin\Release\DMC.Land.YeuCauBoSung.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\bin\Release\DMC.Land.YeuCauBoSung.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\bin\Release\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\bin\Release\DMC.Interface.GridView.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\bin\Release\DMC.Interface.GridView.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\bin\Release\DMC.Interface.GridView.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\bin\Release\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\bin\Release\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\obj\Release\DMC.Land.YeuCauBoSung.ctrlThongTinBoSung.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\obj\Release\DMC.Land.YeuCauBoSung.ctrlYeuCauBoXung.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\obj\Release\DMC.Land.YeuCauBoSung.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\obj\Release\prjYeuCauBoXung.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\obj\Release\DMC.Land.YeuCauBoSung.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\obj\Release\DMC.Land.YeuCauBoSung.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjYeuCauBoXung\clsYeuCauBoXung\obj\Release\DMC.Land.YeuCauBoSung.pdb

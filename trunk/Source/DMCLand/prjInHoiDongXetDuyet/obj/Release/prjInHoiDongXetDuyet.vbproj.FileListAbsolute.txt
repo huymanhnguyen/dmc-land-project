@@ -1,0 +1,13 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\bin\Release\DMC.Land.RptHoiDongXetDuyet.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\bin\Release\DMC.Land.RptHoiDongXetDuyet.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\bin\Release\DMC.Land.RptHoiDongXetDuyet.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\bin\Release\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\bin\Release\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\bin\Release\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\obj\Release\DMC.Land.RptHoiDongXetDuyet.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\obj\Release\DMC.Land.RptHoiDongXetDuyet.ctrQuyetDinhThanhLapHoiDong.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\obj\Release\prjInHoiDongXetDuyet.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\obj\Release\DMC.Land.RptHoiDongXetDuyet.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\obj\Release\DMC.Land.RptHoiDongXetDuyet.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInHoiDongXetDuyet\obj\Release\DMC.Land.RptHoiDongXetDuyet.pdb

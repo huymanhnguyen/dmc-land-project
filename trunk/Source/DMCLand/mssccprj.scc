@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[DMC.EngineGIS.sln]
+SCC_Aux_Path = "\\Dmcserver\DMC.ManagementSource.Land"
+SCC_Project_Name = "$/DMCLand.root/DMCLand", CAAAAAAA
+
+[DMCLand.sln]
+SCC_Aux_Path = "\\Dmcserver\DMC.ManagementSource.Land"
+SCC_Project_Name = "$/DMCLand.root/DMCLand", CAAAAAAA

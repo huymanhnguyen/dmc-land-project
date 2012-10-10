@@ -1,0 +1,18 @@
+ChuSuDung	String	300	
+DiaChiThua	String	300
+ChiTiet	String	1000		
+DienTich	Number		
+DienTichSuDung	Number		
+DienTichTangGiam	Number		
+DienTichKhongPhep	Number		
+SoTang	Number		
+TenTang	String	100	
+NgayXayDung	String	200	
+TranhChapKhieuNai	String	200	
+DienTichDeNghiCap	Number		
+DienTichRieng	Number		
+DienTichChung	Number		
+TenQuan	String	200	
+NgayHT	String	100	
+NghiaVuTaiChinh	String	300	
+KetCau	String	200	

@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{565DF669-BC36-416A-9EA2-19FB4E87A5BD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DMC.Land.DangKyBienDong</RootNamespace>
+    <AssemblyName>DMC.Land.DangKyBienDong</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="DMC.Land.ChuHoSoCapGCN, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\prjChuHoSoCapGCN\bin\Debug\DMC.Land.ChuHoSoCapGCN.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsDangKyBienDong.cs" />
+    <Compile Include="clsMatBonGCN.cs" />
+    <Compile Include="ctrlDangKyBienDong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlDangKyBienDong.Designer.cs">
+      <DependentUpon>ctrlDangKyBienDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlRptGCN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlRptGCN.Designer.cs">
+      <DependentUpon>ctrlRptGCN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBangMa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBangMa.Designer.cs">
+      <DependentUpon>frmBangMa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInMatBonGCN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInMatBonGCN.Designer.cs">
+      <DependentUpon>frmInMatBonGCN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLichSuBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLichSuBD.Designer.cs">
+      <DependentUpon>frmLichSuBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaCoQuanThucHien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaCoQuanThucHien.Designer.cs">
+      <DependentUpon>frmMaCoQuanThucHien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNguoiNhanChuyenNhuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNguoiNhanChuyenNhuong.Designer.cs">
+      <DependentUpon>frmNguoiNhanChuyenNhuong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ctrlDangKyBienDong.resx">
+      <DependentUpon>ctrlDangKyBienDong.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlRptGCN.resx">
+      <DependentUpon>ctrlRptGCN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBangMa.resx">
+      <DependentUpon>frmBangMa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInMatBonGCN.resx">
+      <DependentUpon>frmInMatBonGCN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLichSuBD.resx">
+      <DependentUpon>frmLichSuBD.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaCoQuanThucHien.resx">
+      <DependentUpon>frmMaCoQuanThucHien.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNguoiNhanChuyenNhuong.resx">
+      <DependentUpon>frmNguoiNhanChuyenNhuong.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\prjBangMa\clsBangMa\prjBangMa.vbproj">
+      <Project>{E8DA5A0C-4AF3-46F7-AC2A-2CF2D62C3DF9}</Project>
+      <Name>prjBangMa</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjChuSuDung\prjChuSuDung.vbproj">
+      <Project>{326FFDD6-01D9-46F9-AB09-74F134C47522}</Project>
+      <Name>prjChuSuDung</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjDatabase\clsDatabase\prjDatabase.vbproj">
+      <Project>{4DFC1D82-EFDD-45C7-BA23-50B77EC8F25F}</Project>
+      <Name>prjDatabase</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjGridView\prjGridView\prjGridView.vbproj">
+      <Project>{4887C0A0-7A3F-465A-B33E-81FA1D03E198}</Project>
+      <Name>prjGridView</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjLichSuHoSoBienDong\prjLichSuHoSoBienDong.vbproj">
+      <Project>{4C0FF4A8-2274-4065-BB2F-25179BF4CBD9}</Project>
+      <Name>prjLichSuHoSoBienDong</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjNhatKyNguoiDung\prjNhatKyNguoiDung.vbproj">
+      <Project>{F4A19EA0-1F72-42C9-AF29-9DD34DCD76CE}</Project>
+      <Name>prjNhatKyNguoiDung</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjTrangThaiHoSo\prjTrangThaiHoSo.vbproj">
+      <Project>{9F86F723-A393-4257-89BB-159166A7A931}</Project>
+      <Name>prjTrangThaiHoSo</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

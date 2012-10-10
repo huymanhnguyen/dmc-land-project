@@ -1,0 +1,18 @@
+!table
+!version 450
+!charset WindowsLatin1
+
+Definition Table
+  Type Native charset "WindowsLatin1"
+  Fields 11
+    MaHoSoCapGCN integer ;
+    MaDoiTuong integer ;
+    ToBanDo char (100) ;
+    SoThua char (100) ;
+    DienTich float ;
+    featureID integer ;
+    TYLEIN float ;
+    Temp logical ;
+    FixZoom float ;
+    DrecText char (100) ;
+    SW_MEMBER integer ;

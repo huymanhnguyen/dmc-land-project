@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[DMC.Land.InThongBaoCapGCN.csproj]
+SCC_Aux_Path = "\\Dmcserver\DMC.ManagementSource.Land"
+SCC_Project_Name = "$/DMCLand.root/DMCLand/prjInThongBaoCapGCN", IFCAAAAA
+
+[prjInThongBaoCapGCN.csproj]
+SCC_Aux_Path = "\\Dmcserver\DMC.ManagementSource.Land"
+SCC_Project_Name = "$/DMCLand.root/DMCLand/prjInThongBaoCapGCN", IFCAAAAA

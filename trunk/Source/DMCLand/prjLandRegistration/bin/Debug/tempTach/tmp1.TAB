@@ -1,0 +1,18 @@
+!table
+!version 450
+!charset WindowsLatin1
+
+Definition Table
+  Type Native charset "WindowsLatin1"
+  Fields 11
+    ToBanDo char (10) ;
+    SoThua char (10) ;
+    DienTichTuNhien float ;
+    FeatureID char (10) ;
+    TYLEIN integer ;
+    Status integer ;
+    MaDonViHanhChinh char (10) ;
+    DanhSachMaThuaDatCha char (10) ;
+    MaDoiTuong integer ;
+    MucDichSuDung char (10) ;
+    SW_MEMBER integer ;

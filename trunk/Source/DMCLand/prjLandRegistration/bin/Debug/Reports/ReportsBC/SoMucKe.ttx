@@ -1,0 +1,23 @@
+Tinh	String	120	
+Huyen	String	120	
+Xa	String	120	
+MaTinh	String	10	
+MaHuyen	String	10	
+MaXa	String	10
+CacToBanDo	String	20	
+ToBanDo	        String	10 	
+SoTTThua	String	10 	
+ChuDat		String	120	
+LoaiDoiTuong	String	10	
+DienTich	String	10	
+KyHieu		String	10	
+KyHieuQuiHoach	String	10	
+KyHieuKiemKe	String	10	
+ChiTiet		String	100
+BienDong	String	10
+SoTTBienDong		String	10
+NoiDung		String	500
+SoTTBienDong2		String	10
+NoiDung2		String	500
+	
+	

@@ -1,0 +1,5 @@
+SoThua	String	20	
+TenCSD	String	200	
+QuyenSo	String	20	
+TrangSo	Number		
+Van	BLOB		

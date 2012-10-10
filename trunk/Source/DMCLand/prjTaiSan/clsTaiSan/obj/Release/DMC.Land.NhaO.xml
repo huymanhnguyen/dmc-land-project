@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.NhaO
+</name>
+</assembly>
+<members>
+<member name="M:DMC.Land.NhaO.clsNhaO.Execute(System.String@,System.String)">
+	<summary>
+ Hàm thức thi cơ sở dữ liệu dùng chung cho
+ trường hợp: Insert, Update, Delete Tài sản
+ </summary>
+	<param name="records"></param>
+	<param name="strStoreProcedureName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.NhaO.clsNhaO.DeleteNhaOByMaHoSoCapGCN(System.String@)">
+	<summary>
+ Xóa Tài sản với Mã Hồ sơ cấp GCN cho trước
+ Trường hợp này xóa nhiều bản ghi Tài sản
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.NhaO.clsNhaO.DeleteNhaOByMaNhaO(System.String@)">
+	<summary>
+ Xóa tài sản với Mã Tài sản cho trước
+ Trường hợp này Xóa một bản ghi tài sản
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.NhaO.clsNhaO.UpdateNhaO(System.String@)">
+	<summary>
+ Cập nhật thông tin Tài sản là NHÀ Ở
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.NhaO.clsNhaO.InsertNhaO(System.String@)">
+	<summary>
+ Thêm thông tin nhà ở
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.NhaO.clsNhaO.GetData(System.String,System.Data.DataTable@)">
+	<summary>
+ Nhận Tài sản theo điều kiện truy vấn
+ </summary>
+	<param name="dtResults"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.NhaO.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.NhaO.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.NhaO.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.ThongTinRungCay
+</name>
+</assembly>
+<members>
+<member name="M:DMC.Land.ThongTinRungCay.clsThongTinRungCay.Execute(System.String@,System.String)">
+	<summary>
+ Hàm thức thi cơ sở dữ liệu dùng chung cho
+ trường hợp: Insert, Update, Delete Tài sản
+ </summary>
+	<param name="records"></param>
+	<param name="strStoreProcedureName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinRungCay.clsThongTinRungCay.DeleteThongTinRungCayByMaHoSoCapGCN(System.String@)">
+	<summary>
+ Xóa Thông tin Rừng cây với Mã Hồ sơ cấp GCN cho trước
+ Trường hợp này xóa nhiều bản ghi Thông tin Rừng cây
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinRungCay.clsThongTinRungCay.DeleteThongTinRungCayByMaThongTinRungCay(System.String@)">
+	<summary>
+ Xóa tài sản với Mã Tài sản cho trước
+ Trường hợp này Xóa một bản ghi tài sản
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinRungCay.clsThongTinRungCay.UpdateThongTinRungCay(System.String@)">
+	<summary>
+ Cập nhật thông tin Rừng cây
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinRungCay.clsThongTinRungCay.InsertThongTinRungCay(System.String@)">
+	<summary>
+ Thêm mới Thông tin Rừng cây
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinRungCay.clsThongTinRungCay.GetData(System.String,System.Data.DataTable@)">
+	<summary>
+ Nhận Thông tin Rừng cây theo điều kiện truy vấn
+ </summary>
+	<param name="dtResults"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.ThongTinRungCay.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.ThongTinRungCay.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.ThongTinRungCay.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
