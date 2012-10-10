@@ -1,0 +1,459 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjChuSoHuuTaiSan", "prjChuSoHuuTaiSan\clsChuSuDungDat\prjChuSoHuuTaiSan.vbproj", "{EEDE4BA4-0747-4090-8D3F-BB815D534946}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjChonDVHC", "prjDonViHanhChinh\prjChonDVHC.vbproj", "{2F4585FD-EBA5-4FC5-B840-2590B14CB184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMC.GIS.Common", "prjGISCommon\DMC.GIS.Common.csproj", "{94C1A697-46B0-4331-A903-C36E45DA8C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GhepThua", "prjGhepThua\GhepThua.csproj", "{F541E63A-CC30-4629-ABE4-632771177D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TachThua", "prjTachThua\TachThua.csproj", "{B6DF196B-7D25-49BD-AEE9-1E888ADA3B8A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjTimKiem", "prjTimKiem\clsTimKiem\prjTimKiem.vbproj", "{62F2E3DF-E22A-4A85-BB61-9BBA0EA577C0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjThongTinThuaTuNhien", "prjThongTinThuaTuNhien\clsThongTinThuaTuNhien\prjThongTinThuaTuNhien.vbproj", "{879E4931-EF55-4F7C-8968-F660D5CD3FD8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjThamDinh", "prjThamDinh\clsThamDinh\prjThamDinh.vbproj", "{B1B3E2F7-E70C-4252-9A77-89CE06EAE46F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjDatabase", "prjDatabase\clsDatabase\prjDatabase.vbproj", "{4DFC1D82-EFDD-45C7-BA23-50B77EC8F25F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjMucDich", "prjMucDich\clsMucDich\prjMucDich.vbproj", "{F24CAAED-CCF9-4C37-A765-45DF99B176C3}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjChuSuDungDat", "prjChuSuDungDat\clsChuSuDungDat\prjChuSuDungDat.vbproj", "{5F27E885-EC63-47C4-902B-EC626174CD12}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjRptThamDinh", "prjRptThamDinh\clsRptThamDinh\prjRptThamDinh.vbproj", "{9F9D7961-D12D-4CD4-92BE-2B2EC6F714D6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjThongTinCapGCN", "prjThongTinCapGCN\clsThongTinCapGCN\prjThongTinCapGCN.vbproj", "{D135C9FB-0258-474D-A20C-BD896AF3AC62}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjRptGCN", "prjRptGCN\clsRptGCN\prjRptGCN.vbproj", "{B326549D-B6DC-4B39-9697-21A2A88F6A48}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjBangMa", "prjBangMa\clsBangMa\prjBangMa.vbproj", "{E8DA5A0C-4AF3-46F7-AC2A-2CF2D62C3DF9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjGridView", "prjGridView\prjGridView\prjGridView.vbproj", "{4887C0A0-7A3F-465A-B33E-81FA1D03E198}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjChu", "prjChu\prjChu.vbproj", "{EAEBD1DD-5767-485C-ADC0-F3FE6A0BCA20}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjComponents", "prjComponents\clsComponents\prjComponents.vbproj", "{32E89372-0926-4AA2-A344-51B241D2C439}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjXetDuyetCapCoSo", "prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\prjXetDuyetCapCoSo.vbproj", "{2F002652-6715-4889-979B-C2DD9A8F05D9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjYeuCauBoXung", "prjYeuCauBoXung\clsYeuCauBoXung\prjYeuCauBoXung.vbproj", "{82F5FB0F-B7B3-4304-ACAA-32F5C982F618}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjNguonGoc", "prjNguonGoc\clsNguonGoc\prjNguonGoc.vbproj", "{EF13F5F6-CDFD-4701-A9B3-EBC721A056CE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjThongTinThuaKeKhai", "prjThongTinThuaKeKhai\clsThongTinThuaKeKhai\prjThongTinThuaKeKhai.vbproj", "{41E46AAD-6160-420E-9BDE-1A7E70AEA80C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjHoiDongXetDuyet", "prjHoiDongXetDuyet\clsHoiDongXetDuyet\prjHoiDongXetDuyet.vbproj", "{DE0C3F93-53AC-4A41-9FD6-001EA4BB25A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjTuDienNguoiXetDuyet", "prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\prjTuDienNguoiXetDuyet.csproj", "{ACA986A6-0441-42C9-840F-53228EB6C4FD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjThongTinXetDuyet", "prjThongTinXetDuyet\clsThongTinXetDuyet\prjThongTinXetDuyet.vbproj", "{FA325E06-9A67-4938-AC41-4C97884C215F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjPheDuyet", "prjPheDuyet\clsPheDuyet\prjPheDuyet.vbproj", "{8DCF42E8-9FC6-46B0-A9C4-9F1A5A3DA43C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjSoanHoSo", "prjSoanHoSo\prjSoanHoSo.csproj", "{37D27789-F47D-4C35-81C2-61FE6A42CC98}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjLandRegistration", "prjLandRegistration\prjLandRegistration.vbproj", "{CD7A098B-C5B1-4B15-B164-DE55324E9C0E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjTaiLieuKemTheo", "prjTaiLieuKemTheo\clsTaiLieuKemTheo\prjTaiLieuKemTheo.vbproj", "{CFC115A7-DD94-49D1-9085-BC53F8E5FB3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjThongTinTiepNhanHoSo", "prjThongTinTiepNhanHoSo\prjThongTinTiepNhanHoSo.csproj", "{DF96BBC8-58F4-4730-A54A-6AB1E94227D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjTongHopIn", "prjTongHopIn\prjTongHopIn.csproj", "{DC1919AF-D54B-4856-ADE6-B20A52B0FC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeLib", "prjBarcode\BarcodeLib.csproj", "{F8646414-0C9C-49BB-9DA3-3923BF78A398}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjThongTinRungCay", "prjThongTinRungCay\prjThongTinRungCay.vbproj", "{05013A4B-44E1-4237-8370-8429C0304798}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjThongTinCayLauNam", "prjThongTinCayLauNam\prjThongTinCayLauNam.vbproj", "{EE570017-80BE-45FD-96E9-C205859507E9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjInHoiDongXetDuyet", "prjInHoiDongXetDuyet\prjInHoiDongXetDuyet.vbproj", "{88E04531-9895-4383-B82B-043167B6C216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjInHoSoKyThuat", "prjInHoSoKyThuat\prjInHoSoKyThuat.csproj", "{5AFE34E9-C3D2-40CE-A76B-2FA27676F421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjBienDong", "prjDangKyBienDong\prjBienDong\prjBienDong.csproj", "{565DF669-BC36-416A-9EA2-19FB4E87A5BD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjInBienBanXetDuyetCapGCN", "DMC.Land.BienBanXetDuyetCapGCN\prjInBienBanXetDuyetCapGCN.vbproj", "{4121221B-C080-448F-A8A0-9B8692A8B62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMC.Land.InThongBaoCapGCN", "DMC.Land.InThongBaoCapGCN\DMC.Land.InThongBaoCapGCN.csproj", "{E53C8F6D-46D7-40EE-ABCC-186129EB8715}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DMC.Land.QuanLyLog", "DMC.Land.QuanLyLog\DMC.Land.QuanLyLog.vbproj", "{6D23D28C-B916-4C68-88E5-53577E26E863}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DMC.Land.NghiaVuTaiChinh", "DMC.Land.NghiaVuTaiChinh\DMC.Land.NghiaVuTaiChinh.vbproj", "{8B36FA94-0A5E-4DC8-963A-9E60082D7B9F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjCongTrinhXayDung", "prjCongTrinhXayDung\prjCongTrinhXayDung.vbproj", "{A37D21C0-204F-4320-B7A9-5A768BA3CA4C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjThongTinSoDoNhaDat", "prjThongTinSoDoNhaDat\prjThongTinSoDoNhaDat.vbproj", "{B6D22D63-25ED-40D2-A96D-EA19CB3A8E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjHinhDangThua", "prjHinhDangThua\prjHinhDangThua.csproj", "{6A73DE5C-BDD6-4B0F-AE23-2053329184BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjToTrinhQuyetDinh", "prjToTrinhQuyetDinh\prjToTrinhQuyetDinh.csproj", "{3AC5D906-00C3-45AB-B345-8DEB28A7A4FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjInBaoCaKetQuaThamDinh", "prjInBaoCaKetQuaThamDinh\prjInBaoCaKetQuaThamDinh.csproj", "{3879AADC-D0DE-474C-BB0D-1292E7F02B9E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjChuHoSoCapGCN", "prjChuHoSoCapGCN\prjChuHoSoCapGCN.vbproj", "{94EDCC9A-930E-42C8-A53F-987892E73D2D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjHoSoKeKhaiCapGCN", "prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\prjHoSoKeKhaiCapGCN.vbproj", "{B067C322-D3C7-4999-8205-9BB270EEE883}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjNhaO", "prjTaiSan\clsTaiSan\prjNhaO.vbproj", "{94284126-8F23-4411-B440-57179E857A24}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 50
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = prjChuSoHuuTaiSan\\clsChuSuDungDat\\prjChuSoHuuTaiSan.vbproj
+		SccProjectName1 = \u0022$/DMCLand.root/DMCLand/prjChuSoHuuTaiSan/clsChuSuDungDat\u0022,\u0020HBAAAAAA
+		SccLocalPath1 = prjChuSoHuuTaiSan\\clsChuSuDungDat
+		SccProjectUniqueName2 = prjDonViHanhChinh\\prjChonDVHC.vbproj
+		SccProjectName2 = \u0022$/DMCLand.root/DMCLand/prjDonViHanhChinh\u0022,\u0020HGAAAAAA
+		SccLocalPath2 = prjDonViHanhChinh
+		SccProjectUniqueName3 = prjGISCommon\\DMC.GIS.Common.csproj
+		SccProjectName3 = \u0022$/DMCLand.root/DMCLand/prjGISCommon\u0022,\u0020HHAAAAAA
+		SccLocalPath3 = prjGISCommon
+		SccProjectUniqueName4 = prjGhepThua\\GhepThua.csproj
+		SccProjectName4 = \u0022$/DMCLand.root/DMCLand/prjGhepThua\u0022,\u0020VGAAAAAA
+		SccLocalPath4 = prjGhepThua
+		SccProjectUniqueName5 = prjTachThua\\TachThua.csproj
+		SccProjectName5 = \u0022$/DMCLand.root/DMCLand/prjTachThua\u0022,\u0020OOAAAAAA
+		SccLocalPath5 = prjTachThua
+		SccProjectUniqueName6 = prjTimKiem\\clsTimKiem\\prjTimKiem.vbproj
+		SccProjectName6 = \u0022$/DMCLand.root/DMCLand/prjTimKiem/clsTimKiem\u0022,\u0020QUAAAAAA
+		SccLocalPath6 = prjTimKiem\\clsTimKiem
+		SccProjectUniqueName7 = prjThongTinThuaTuNhien\\clsThongTinThuaTuNhien\\prjThongTinThuaTuNhien.vbproj
+		SccProjectName7 = \u0022$/DMCLand.root/DMCLand/prjThongTinThuaTuNhien/clsThongTinThuaTuNhien\u0022,\u0020AUAAAAAA
+		SccLocalPath7 = prjThongTinThuaTuNhien\\clsThongTinThuaTuNhien
+		SccProjectUniqueName8 = prjThamDinh\\clsThamDinh\\prjThamDinh.vbproj
+		SccProjectName8 = \u0022$/DMCLand.root/DMCLand/prjThamDinh/clsThamDinh\u0022,\u0020LSAAAAAA
+		SccLocalPath8 = prjThamDinh\\clsThamDinh
+		SccProjectUniqueName9 = prjDatabase\\clsDatabase\\prjDatabase.vbproj
+		SccProjectName9 = \u0022$/DMCLand.root/DMCLand/prjDatabase/clsDatabase\u0022,\u0020VFAAAAAA
+		SccLocalPath9 = prjDatabase\\clsDatabase
+		SccProjectUniqueName10 = prjMucDich\\clsMucDich\\prjMucDich.vbproj
+		SccProjectName10 = \u0022$/DMCLand.root/DMCLand/prjMucDich/clsMucDich\u0022,\u0020BKAAAAAA
+		SccLocalPath10 = prjMucDich\\clsMucDich
+		SccProjectUniqueName11 = prjChuSuDungDat\\clsChuSuDungDat\\prjChuSuDungDat.vbproj
+		SccProjectName11 = \u0022$/DMCLand.root/DMCLand/prjChuSuDungDat/clsChuSuDungDat\u0022,\u0020VCAAAAAA
+		SccLocalPath11 = prjChuSuDungDat\\clsChuSuDungDat
+		SccProjectUniqueName12 = prjRptThamDinh\\clsRptThamDinh\\prjRptThamDinh.vbproj
+		SccProjectName12 = \u0022$/DMCLand.root/DMCLand/prjRptThamDinh/clsRptThamDinh\u0022,\u0020INAAAAAA
+		SccLocalPath12 = prjRptThamDinh\\clsRptThamDinh
+		SccProjectUniqueName13 = prjThongTinCapGCN\\clsThongTinCapGCN\\prjThongTinCapGCN.vbproj
+		SccProjectName13 = \u0022$/DMCLand.root/DMCLand/prjThongTinCapGCN/clsThongTinCapGCN\u0022,\u0020ETAAAAAA
+		SccLocalPath13 = prjThongTinCapGCN\\clsThongTinCapGCN
+		SccProjectUniqueName14 = prjRptGCN\\clsRptGCN\\prjRptGCN.vbproj
+		SccProjectName14 = \u0022$/DMCLand.root/DMCLand/prjRptGCN/clsRptGCN\u0022,\u0020QLAAAAAA
+		SccLocalPath14 = prjRptGCN\\clsRptGCN
+		SccProjectUniqueName15 = prjBangMa\\clsBangMa\\prjBangMa.vbproj
+		SccProjectName15 = \u0022$/DMCLand.root/DMCLand/prjBangMa/clsBangMa\u0022,\u0020VVAAAAAA
+		SccLocalPath15 = prjBangMa\\clsBangMa
+		SccProjectUniqueName16 = prjGridView\\prjGridView\\prjGridView.vbproj
+		SccProjectName16 = \u0022$/DMCLand.root/DMCLand/prjGridView/prjGridView\u0022,\u0020LWAAAAAA
+		SccLocalPath16 = prjGridView\\prjGridView
+		SccProjectUniqueName17 = prjChu\\prjChu.vbproj
+		SccProjectName17 = \u0022$/DMCLand.root/DMCLand/prjChu\u0022,\u0020ZWAAAAAA
+		SccLocalPath17 = prjChu
+		SccProjectUniqueName18 = prjComponents\\clsComponents\\prjComponents.vbproj
+		SccProjectName18 = \u0022$/DMCLand.root/DMCLand/prjComponents/clsComponents\u0022,\u0020QYAAAAAA
+		SccLocalPath18 = prjComponents\\clsComponents
+		SccProjectUniqueName19 = prjXetDuyetCapCoSo\\clsXetDuyetCapCoSo\\prjXetDuyetCapCoSo.vbproj
+		SccProjectName19 = \u0022$/DMCLand.root/DMCLand/prjXetDuyetCapCoSo/clsXetDuyetCapCoSo\u0022,\u0020DABAAAAA
+		SccLocalPath19 = prjXetDuyetCapCoSo\\clsXetDuyetCapCoSo
+		SccProjectUniqueName20 = prjYeuCauBoXung\\clsYeuCauBoXung\\prjYeuCauBoXung.vbproj
+		SccProjectName20 = \u0022$/DMCLand.root/DMCLand/prjYeuCauBoXung/clsYeuCauBoXung\u0022,\u0020UABAAAAA
+		SccLocalPath20 = prjYeuCauBoXung\\clsYeuCauBoXung
+		SccProjectUniqueName21 = prjNguonGoc\\clsNguonGoc\\prjNguonGoc.vbproj
+		SccProjectName21 = \u0022$/DMCLand.root/DMCLand/prjNguonGoc/clsNguonGoc\u0022,\u0020KBBAAAAA
+		SccLocalPath21 = prjNguonGoc\\clsNguonGoc
+		SccProjectUniqueName22 = prjThongTinThuaKeKhai\\clsThongTinThuaKeKhai\\prjThongTinThuaKeKhai.vbproj
+		SccProjectName22 = \u0022$/DMCLand.root/DMCLand/prjThongTinThuaKeKhai/clsThongTinThuaKeKhai\u0022,\u0020DCBAAAAA
+		SccLocalPath22 = prjThongTinThuaKeKhai\\clsThongTinThuaKeKhai
+		SccProjectUniqueName23 = prjHoiDongXetDuyet\\clsHoiDongXetDuyet\\prjHoiDongXetDuyet.vbproj
+		SccProjectName23 = \u0022$/DMCLand.root/DMCLand/prjHoiDongXetDuyet/clsHoiDongXetDuyet\u0022,\u0020TCBAAAAA
+		SccLocalPath23 = prjHoiDongXetDuyet\\clsHoiDongXetDuyet
+		SccProjectUniqueName24 = prjTuDienNguoiXetDuyet\\clsTuDienNguoiXetDuyet\\prjTuDienNguoiXetDuyet.csproj
+		SccProjectName24 = \u0022$/DMCLand.root/DMCLand/prjTuDienNguoiXetDuyet/clsTuDienNguoiXetDuyet\u0022,\u0020MDBAAAAA
+		SccLocalPath24 = prjTuDienNguoiXetDuyet\\clsTuDienNguoiXetDuyet
+		SccProjectUniqueName25 = prjThongTinXetDuyet\\clsThongTinXetDuyet\\prjThongTinXetDuyet.vbproj
+		SccProjectName25 = \u0022$/DMCLand.root/DMCLand/prjThongTinXetDuyet/clsThongTinXetDuyet\u0022,\u0020WDBAAAAA
+		SccLocalPath25 = prjThongTinXetDuyet\\clsThongTinXetDuyet
+		SccProjectUniqueName26 = prjPheDuyet\\clsPheDuyet\\prjPheDuyet.vbproj
+		SccProjectName26 = \u0022$/DMCLand.root/DMCLand/prjPheDuyet/clsPheDuyet\u0022,\u0020MEBAAAAA
+		SccLocalPath26 = prjPheDuyet\\clsPheDuyet
+		SccProjectUniqueName27 = prjSoanHoSo\\prjSoanHoSo.csproj
+		SccProjectName27 = \u0022$/DMCLand.root/DMCLand/prjSoanHoSo\u0022,\u0020OOBAAAAA
+		SccLocalPath27 = prjSoanHoSo
+		SccProjectUniqueName28 = prjLandRegistration\\prjLandRegistration.vbproj
+		SccProjectName28 = \u0022$/DMCLand.root/DMCLand/prjLandRegistration\u0022,\u0020HIAAAAAA
+		SccLocalPath28 = prjLandRegistration
+		SccProjectUniqueName29 = prjTaiLieuKemTheo\\clsTaiLieuKemTheo\\prjTaiLieuKemTheo.vbproj
+		SccProjectName29 = \u0022$/DMCLand.root/DMCLand/prjTaiLieuKemTheo/clsTaiLieuKemTheo\u0022,\u0020EGBAAAAA
+		SccLocalPath29 = prjTaiLieuKemTheo\\clsTaiLieuKemTheo
+		SccProjectUniqueName30 = prjThongTinTiepNhanHoSo\\prjThongTinTiepNhanHoSo.csproj
+		SccProjectName30 = \u0022$/DMCLand.root/DMCLand/prjThongTinTiepNhanHoSo\u0022,\u0020QUBAAAAA
+		SccLocalPath30 = prjThongTinTiepNhanHoSo
+		SccProjectUniqueName31 = prjTongHopIn\\prjTongHopIn.csproj
+		SccProjectName31 = \u0022$/DMCLand.root/DMCLand/prjTongHopIn\u0022,\u0020DVBAAAAA
+		SccLocalPath31 = prjTongHopIn
+		SccProjectUniqueName32 = prjBarcode\\BarcodeLib.csproj
+		SccProjectName32 = \u0022$/DMCLand.root/DMCLand/prjBarcode\u0022,\u0020AYBAAAAA
+		SccLocalPath32 = prjBarcode
+		SccProjectUniqueName33 = prjThongTinRungCay\\prjThongTinRungCay.vbproj
+		SccProjectName33 = \u0022$/DMCLand.root/DMCLand/prjThongTinRungCay\u0022,\u0020QACAAAAA
+		SccLocalPath33 = prjThongTinRungCay
+		SccProjectUniqueName34 = prjThongTinCayLauNam\\prjThongTinCayLauNam.vbproj
+		SccProjectName34 = \u0022$/DMCLand.root/DMCLand/prjThongTinCayLauNam\u0022,\u0020GBCAAAAA
+		SccLocalPath34 = prjThongTinCayLauNam
+		SccProjectUniqueName35 = prjInHoiDongXetDuyet\\prjInHoiDongXetDuyet.vbproj
+		SccProjectName35 = \u0022$/DMCLand.root/DMCLand/prjInHoiDongXetDuyet\u0022,\u0020EDCAAAAA
+		SccLocalPath35 = prjInHoiDongXetDuyet
+		SccProjectUniqueName36 = prjInHoSoKyThuat\\prjInHoSoKyThuat.csproj
+		SccProjectName36 = \u0022$/DMCLand.root/DMCLand/prjInHoSoKyThuat\u0022,\u0020VCCAAAAA
+		SccLocalPath36 = prjInHoSoKyThuat
+		SccProjectUniqueName37 = prjDangKyBienDong\\prjBienDong\\prjBienDong.csproj
+		SccProjectName37 = \u0022$/DMCLand.root/DMCLand/prjDangKyBienDong/prjBienDong\u0022,\u0020QECAAAAA
+		SccLocalPath37 = prjDangKyBienDong\\prjBienDong
+		SccProjectUniqueName38 = DMC.Land.BienBanXetDuyetCapGCN\\prjInBienBanXetDuyetCapGCN.vbproj
+		SccProjectName38 = \u0022$/DMCLand.root/DMCLand/DMC.Land.BienBanXetDuyetCapGCN\u0022,\u0020GHCAAAAA
+		SccLocalPath38 = DMC.Land.BienBanXetDuyetCapGCN
+		SccProjectUniqueName39 = DMC.Land.InThongBaoCapGCN\\DMC.Land.InThongBaoCapGCN.csproj
+		SccProjectName39 = \u0022$/DMCLand.root/DMCLand/prjInThongBaoCapGCN\u0022,\u0020IFCAAAAA
+		SccLocalPath39 = DMC.Land.InThongBaoCapGCN
+		SccProjectUniqueName40 = DMC.Land.QuanLyLog\\DMC.Land.QuanLyLog.vbproj
+		SccProjectName40 = \u0022$/DMCLand.root/DMCLand/DMC.Land.QuanLyLog\u0022,\u0020SICAAAAA
+		SccLocalPath40 = DMC.Land.QuanLyLog
+		SccProjectUniqueName41 = DMC.Land.NghiaVuTaiChinh\\DMC.Land.NghiaVuTaiChinh.vbproj
+		SccProjectName41 = \u0022$/DMCLand.root/DMCLand/DMC.Land.NghiaVuTaiChinh\u0022,\u0020FLCAAAAA
+		SccLocalPath41 = DMC.Land.NghiaVuTaiChinh
+		SccProjectUniqueName42 = prjCongTrinhXayDung\\prjCongTrinhXayDung.vbproj
+		SccProjectName42 = \u0022$/DMCLand.root/DMCLand/prjCongTrinhXayDung\u0022,\u0020ENCAAAAA
+		SccLocalPath42 = prjCongTrinhXayDung
+		SccProjectUniqueName43 = prjThongTinSoDoNhaDat\\prjThongTinSoDoNhaDat.vbproj
+		SccProjectName43 = \u0022$/DMCLand.root/DMCLand/prjThongTinSoDoNhaDat\u0022,\u0020SPCAAAAA
+		SccLocalPath43 = prjThongTinSoDoNhaDat
+		SccProjectUniqueName44 = prjHinhDangThua\\prjHinhDangThua.csproj
+		SccProjectName44 = \u0022$/DMCLand.root/DMCLand/prjHinhDangThua\u0022,\u0020MQCAAAAA
+		SccLocalPath44 = prjHinhDangThua
+		SccProjectUniqueName45 = prjToTrinhQuyetDinh\\prjToTrinhQuyetDinh.csproj
+		SccProjectName45 = \u0022$/DMCLand.root/DMCLand/prjToTrinhQuyetDinh\u0022,\u0020ZQCAAAAA
+		SccLocalPath45 = prjToTrinhQuyetDinh
+		SccProjectUniqueName46 = prjInBaoCaKetQuaThamDinh\\prjInBaoCaKetQuaThamDinh.csproj
+		SccProjectName46 = \u0022$/DMCLand.root/DMCLand/prjInBaoCaKetQuaThamDinh\u0022,\u0020SRCAAAAA
+		SccLocalPath46 = prjInBaoCaKetQuaThamDinh
+		SccProjectUniqueName47 = prjChuHoSoCapGCN\\prjChuHoSoCapGCN.vbproj
+		SccLocalPath47 = .
+		SccProjectFilePathRelativizedFromConnection47 = prjChuHoSoCapGCN\\
+		SccProjectUniqueName48 = prjHoSoKeKhaiCapGCN\\clsHoSoKeKhaiCapGCN\\prjHoSoKeKhaiCapGCN.vbproj
+		SccProjectName48 = \u0022$/DMCLand.root/DMCLand/prjHoSoKeKhaiCapGCN/clsHoSoKeKhaiCapGCN\u0022,\u0020RHAAAAAA
+		SccLocalPath48 = prjHoSoKeKhaiCapGCN\\clsHoSoKeKhaiCapGCN
+		SccProjectUniqueName49 = prjTaiSan\\clsTaiSan\\prjNhaO.vbproj
+		SccProjectName49 = \u0022$/DMCLand.root/DMCLand/prjTaiSan/clsTaiSan\u0022,\u0020SRAAAAAA
+		SccLocalPath49 = prjTaiSan\\clsTaiSan
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEDE4BA4-0747-4090-8D3F-BB815D534946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDE4BA4-0747-4090-8D3F-BB815D534946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDE4BA4-0747-4090-8D3F-BB815D534946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDE4BA4-0747-4090-8D3F-BB815D534946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4585FD-EBA5-4FC5-B840-2590B14CB184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4585FD-EBA5-4FC5-B840-2590B14CB184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4585FD-EBA5-4FC5-B840-2590B14CB184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4585FD-EBA5-4FC5-B840-2590B14CB184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C1A697-46B0-4331-A903-C36E45DA8C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C1A697-46B0-4331-A903-C36E45DA8C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C1A697-46B0-4331-A903-C36E45DA8C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C1A697-46B0-4331-A903-C36E45DA8C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F541E63A-CC30-4629-ABE4-632771177D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F541E63A-CC30-4629-ABE4-632771177D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F541E63A-CC30-4629-ABE4-632771177D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F541E63A-CC30-4629-ABE4-632771177D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6DF196B-7D25-49BD-AEE9-1E888ADA3B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DF196B-7D25-49BD-AEE9-1E888ADA3B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DF196B-7D25-49BD-AEE9-1E888ADA3B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DF196B-7D25-49BD-AEE9-1E888ADA3B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F2E3DF-E22A-4A85-BB61-9BBA0EA577C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F2E3DF-E22A-4A85-BB61-9BBA0EA577C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F2E3DF-E22A-4A85-BB61-9BBA0EA577C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F2E3DF-E22A-4A85-BB61-9BBA0EA577C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879E4931-EF55-4F7C-8968-F660D5CD3FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879E4931-EF55-4F7C-8968-F660D5CD3FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879E4931-EF55-4F7C-8968-F660D5CD3FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879E4931-EF55-4F7C-8968-F660D5CD3FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B3E2F7-E70C-4252-9A77-89CE06EAE46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B3E2F7-E70C-4252-9A77-89CE06EAE46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B3E2F7-E70C-4252-9A77-89CE06EAE46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B3E2F7-E70C-4252-9A77-89CE06EAE46F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFC1D82-EFDD-45C7-BA23-50B77EC8F25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFC1D82-EFDD-45C7-BA23-50B77EC8F25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFC1D82-EFDD-45C7-BA23-50B77EC8F25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFC1D82-EFDD-45C7-BA23-50B77EC8F25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24CAAED-CCF9-4C37-A765-45DF99B176C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24CAAED-CCF9-4C37-A765-45DF99B176C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24CAAED-CCF9-4C37-A765-45DF99B176C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24CAAED-CCF9-4C37-A765-45DF99B176C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F27E885-EC63-47C4-902B-EC626174CD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F27E885-EC63-47C4-902B-EC626174CD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F27E885-EC63-47C4-902B-EC626174CD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F27E885-EC63-47C4-902B-EC626174CD12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9D7961-D12D-4CD4-92BE-2B2EC6F714D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9D7961-D12D-4CD4-92BE-2B2EC6F714D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9D7961-D12D-4CD4-92BE-2B2EC6F714D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9D7961-D12D-4CD4-92BE-2B2EC6F714D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D135C9FB-0258-474D-A20C-BD896AF3AC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D135C9FB-0258-474D-A20C-BD896AF3AC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D135C9FB-0258-474D-A20C-BD896AF3AC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D135C9FB-0258-474D-A20C-BD896AF3AC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B326549D-B6DC-4B39-9697-21A2A88F6A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B326549D-B6DC-4B39-9697-21A2A88F6A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B326549D-B6DC-4B39-9697-21A2A88F6A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B326549D-B6DC-4B39-9697-21A2A88F6A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8DA5A0C-4AF3-46F7-AC2A-2CF2D62C3DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DA5A0C-4AF3-46F7-AC2A-2CF2D62C3DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DA5A0C-4AF3-46F7-AC2A-2CF2D62C3DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DA5A0C-4AF3-46F7-AC2A-2CF2D62C3DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4887C0A0-7A3F-465A-B33E-81FA1D03E198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4887C0A0-7A3F-465A-B33E-81FA1D03E198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4887C0A0-7A3F-465A-B33E-81FA1D03E198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4887C0A0-7A3F-465A-B33E-81FA1D03E198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAEBD1DD-5767-485C-ADC0-F3FE6A0BCA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEBD1DD-5767-485C-ADC0-F3FE6A0BCA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEBD1DD-5767-485C-ADC0-F3FE6A0BCA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEBD1DD-5767-485C-ADC0-F3FE6A0BCA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E89372-0926-4AA2-A344-51B241D2C439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E89372-0926-4AA2-A344-51B241D2C439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E89372-0926-4AA2-A344-51B241D2C439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E89372-0926-4AA2-A344-51B241D2C439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F002652-6715-4889-979B-C2DD9A8F05D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F002652-6715-4889-979B-C2DD9A8F05D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F002652-6715-4889-979B-C2DD9A8F05D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F002652-6715-4889-979B-C2DD9A8F05D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F5FB0F-B7B3-4304-ACAA-32F5C982F618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F5FB0F-B7B3-4304-ACAA-32F5C982F618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F5FB0F-B7B3-4304-ACAA-32F5C982F618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F5FB0F-B7B3-4304-ACAA-32F5C982F618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF13F5F6-CDFD-4701-A9B3-EBC721A056CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF13F5F6-CDFD-4701-A9B3-EBC721A056CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF13F5F6-CDFD-4701-A9B3-EBC721A056CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF13F5F6-CDFD-4701-A9B3-EBC721A056CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E46AAD-6160-420E-9BDE-1A7E70AEA80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E46AAD-6160-420E-9BDE-1A7E70AEA80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E46AAD-6160-420E-9BDE-1A7E70AEA80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E46AAD-6160-420E-9BDE-1A7E70AEA80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE0C3F93-53AC-4A41-9FD6-001EA4BB25A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0C3F93-53AC-4A41-9FD6-001EA4BB25A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0C3F93-53AC-4A41-9FD6-001EA4BB25A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0C3F93-53AC-4A41-9FD6-001EA4BB25A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA986A6-0441-42C9-840F-53228EB6C4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA986A6-0441-42C9-840F-53228EB6C4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA986A6-0441-42C9-840F-53228EB6C4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA986A6-0441-42C9-840F-53228EB6C4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA325E06-9A67-4938-AC41-4C97884C215F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA325E06-9A67-4938-AC41-4C97884C215F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA325E06-9A67-4938-AC41-4C97884C215F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA325E06-9A67-4938-AC41-4C97884C215F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DCF42E8-9FC6-46B0-A9C4-9F1A5A3DA43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCF42E8-9FC6-46B0-A9C4-9F1A5A3DA43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCF42E8-9FC6-46B0-A9C4-9F1A5A3DA43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCF42E8-9FC6-46B0-A9C4-9F1A5A3DA43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D27789-F47D-4C35-81C2-61FE6A42CC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D27789-F47D-4C35-81C2-61FE6A42CC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D27789-F47D-4C35-81C2-61FE6A42CC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D27789-F47D-4C35-81C2-61FE6A42CC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7A098B-C5B1-4B15-B164-DE55324E9C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7A098B-C5B1-4B15-B164-DE55324E9C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7A098B-C5B1-4B15-B164-DE55324E9C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7A098B-C5B1-4B15-B164-DE55324E9C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC115A7-DD94-49D1-9085-BC53F8E5FB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC115A7-DD94-49D1-9085-BC53F8E5FB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC115A7-DD94-49D1-9085-BC53F8E5FB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC115A7-DD94-49D1-9085-BC53F8E5FB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF96BBC8-58F4-4730-A54A-6AB1E94227D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF96BBC8-58F4-4730-A54A-6AB1E94227D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF96BBC8-58F4-4730-A54A-6AB1E94227D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF96BBC8-58F4-4730-A54A-6AB1E94227D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1919AF-D54B-4856-ADE6-B20A52B0FC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1919AF-D54B-4856-ADE6-B20A52B0FC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1919AF-D54B-4856-ADE6-B20A52B0FC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1919AF-D54B-4856-ADE6-B20A52B0FC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8646414-0C9C-49BB-9DA3-3923BF78A398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8646414-0C9C-49BB-9DA3-3923BF78A398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8646414-0C9C-49BB-9DA3-3923BF78A398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8646414-0C9C-49BB-9DA3-3923BF78A398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05013A4B-44E1-4237-8370-8429C0304798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05013A4B-44E1-4237-8370-8429C0304798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05013A4B-44E1-4237-8370-8429C0304798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05013A4B-44E1-4237-8370-8429C0304798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE570017-80BE-45FD-96E9-C205859507E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE570017-80BE-45FD-96E9-C205859507E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE570017-80BE-45FD-96E9-C205859507E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE570017-80BE-45FD-96E9-C205859507E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E04531-9895-4383-B82B-043167B6C216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E04531-9895-4383-B82B-043167B6C216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E04531-9895-4383-B82B-043167B6C216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E04531-9895-4383-B82B-043167B6C216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFE34E9-C3D2-40CE-A76B-2FA27676F421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFE34E9-C3D2-40CE-A76B-2FA27676F421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFE34E9-C3D2-40CE-A76B-2FA27676F421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFE34E9-C3D2-40CE-A76B-2FA27676F421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565DF669-BC36-416A-9EA2-19FB4E87A5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565DF669-BC36-416A-9EA2-19FB4E87A5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565DF669-BC36-416A-9EA2-19FB4E87A5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565DF669-BC36-416A-9EA2-19FB4E87A5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4121221B-C080-448F-A8A0-9B8692A8B62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4121221B-C080-448F-A8A0-9B8692A8B62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4121221B-C080-448F-A8A0-9B8692A8B62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4121221B-C080-448F-A8A0-9B8692A8B62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53C8F6D-46D7-40EE-ABCC-186129EB8715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53C8F6D-46D7-40EE-ABCC-186129EB8715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53C8F6D-46D7-40EE-ABCC-186129EB8715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53C8F6D-46D7-40EE-ABCC-186129EB8715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D23D28C-B916-4C68-88E5-53577E26E863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D23D28C-B916-4C68-88E5-53577E26E863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D23D28C-B916-4C68-88E5-53577E26E863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D23D28C-B916-4C68-88E5-53577E26E863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B36FA94-0A5E-4DC8-963A-9E60082D7B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B36FA94-0A5E-4DC8-963A-9E60082D7B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B36FA94-0A5E-4DC8-963A-9E60082D7B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B36FA94-0A5E-4DC8-963A-9E60082D7B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37D21C0-204F-4320-B7A9-5A768BA3CA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37D21C0-204F-4320-B7A9-5A768BA3CA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37D21C0-204F-4320-B7A9-5A768BA3CA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37D21C0-204F-4320-B7A9-5A768BA3CA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D22D63-25ED-40D2-A96D-EA19CB3A8E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D22D63-25ED-40D2-A96D-EA19CB3A8E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D22D63-25ED-40D2-A96D-EA19CB3A8E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D22D63-25ED-40D2-A96D-EA19CB3A8E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A73DE5C-BDD6-4B0F-AE23-2053329184BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A73DE5C-BDD6-4B0F-AE23-2053329184BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A73DE5C-BDD6-4B0F-AE23-2053329184BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A73DE5C-BDD6-4B0F-AE23-2053329184BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC5D906-00C3-45AB-B345-8DEB28A7A4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC5D906-00C3-45AB-B345-8DEB28A7A4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC5D906-00C3-45AB-B345-8DEB28A7A4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC5D906-00C3-45AB-B345-8DEB28A7A4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3879AADC-D0DE-474C-BB0D-1292E7F02B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3879AADC-D0DE-474C-BB0D-1292E7F02B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3879AADC-D0DE-474C-BB0D-1292E7F02B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3879AADC-D0DE-474C-BB0D-1292E7F02B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EDCC9A-930E-42C8-A53F-987892E73D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EDCC9A-930E-42C8-A53F-987892E73D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EDCC9A-930E-42C8-A53F-987892E73D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EDCC9A-930E-42C8-A53F-987892E73D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B067C322-D3C7-4999-8205-9BB270EEE883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B067C322-D3C7-4999-8205-9BB270EEE883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B067C322-D3C7-4999-8205-9BB270EEE883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B067C322-D3C7-4999-8205-9BB270EEE883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94284126-8F23-4411-B440-57179E857A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94284126-8F23-4411-B440-57179E857A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94284126-8F23-4411-B440-57179E857A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94284126-8F23-4411-B440-57179E857A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

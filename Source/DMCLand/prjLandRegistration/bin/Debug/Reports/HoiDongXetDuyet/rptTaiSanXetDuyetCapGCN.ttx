@@ -1,0 +1,9 @@
+LoaiNha	String	200	
+SoTang	String	20	
+KetCauNha	String	50	
+CapHangNha	String	20	
+NamXayDung	String	20	
+DienTichXayDung	String	20	
+DienTichSanXD	String	20	
+ThoiHanSuDung	String	50	
+GhiChu	String	200	

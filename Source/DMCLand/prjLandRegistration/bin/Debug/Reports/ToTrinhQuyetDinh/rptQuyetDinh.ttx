@@ -1,0 +1,15 @@
+TenQuan	String	100	
+TenQuanThuong	String	100	
+NgayHT	String	200	
+ChuSuDung	String	500	
+SoToTrinh	String	50	
+NgayTrinh	String	50	
+DienTich	Number		
+DienTichRieng	Number		
+DienTichChung	Number		
+DienTichSuDung	Number		
+KetCau	String	200	
+SoTang	String	50	
+ChuSoHuu	String	300	
+TenTang	String	100	
+NguoiKy	String	200	

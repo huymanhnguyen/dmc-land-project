@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prjChuSuDung
+</name>
+</assembly>
+<members>
+<member name="M:prjChuSuDung.ctrlChuGDCN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột của Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.ctrlChuGDCN.UpdateData">
+	<summary>
+ Cập nhật thông tin Chủ sử dụng
+ </summary>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.clsChu.Execute(System.String@,System.String)">
+	<summary>
+ Thực thi phát biểu SQL
+ </summary>
+	<param name="records"></param>
+	<param name="strStoreProcedureName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.clsChu.DeleteData(System.String@)">
+	<summary>
+ Xóa chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.clsChu.UpdateData(System.String@)">
+	<summary>
+ Cập nhật Chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.clsChu.InsertData(System.String@)">
+	<summary>
+ Thêm Chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.clsChu.GetData(System.Data.DataTable@)">
+	<summary>
+ Lựa chọn Chủ sử dụng (Đối tượng Gia đình - Cá nhân)
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.ctrlChuCQNN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột của Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.ctrlChuCQNN.UpdateData">
+	<summary>
+ Cập nhật thông tin Chủ sử dụng
+ </summary>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.clsTraCuu.SelectTraCuuChuByGDCN">
+	<summary>
+ Tra cứu Chủ hồ sơ cấp GCN thuộc nhóm Gia đình, cá nhận
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.clsTraCuu.SelectTraCuuChuByCQNN">
+	<summary>
+ Tra cứu Chủ hồ sơ cấp GCN thuộc nhóm Cơ quan nhà nước
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.clsTraCuu.SelectTraCuuChuByTCDN">
+	<summary>
+ Tra cứu Chủ hồ sơ cấp GCN thuộc nhóm Tổ chức doanh nghiệp
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.ctrlChuTCDN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.ctrlChuTCDN.FormatGridContruction">
+	<summary>
+ Định dạng các cột Grid Chủ thuộc nhóm Tổ chức doanh nghiệp
+ </summary>
+	<remarks></remarks>
+</member><member name="M:prjChuSuDung.ctrlChuTCDN.UpdateData">
+	<summary>
+ Cập nhật thông tin Chủ sử dụng
+ </summary>
+	<remarks></remarks>
+</member><member name="P:prjChuSuDung.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:prjChuSuDung.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:prjChuSuDung.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

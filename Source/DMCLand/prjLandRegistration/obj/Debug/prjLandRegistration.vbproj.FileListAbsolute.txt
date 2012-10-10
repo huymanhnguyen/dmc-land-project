@@ -1,0 +1,4 @@
+E:\DMCLand\DMCLand\Source\20102812_DMCLand\prjLandRegistration\bin\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand\DMCLand\Source\20102812_DMCLand\prjLandRegistration\bin\Debug\prjLichSuHoSoBienDong.dll
+E:\DMCLand\DMCLand\Source\20102812_DMCLand\prjLandRegistration\bin\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand\DMCLand\Source\20102812_DMCLand\prjLandRegistration\bin\Debug\prjLichSuHoSoBienDong.pdb

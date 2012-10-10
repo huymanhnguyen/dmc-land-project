@@ -1,0 +1,9 @@
+SoThua	String	200	
+ToBanDo	String	200	
+DiaChiThuaDat	String	500	
+DienTichDat	String	10	
+DienTichThucCapBangChu	String	500	
+HinhThucSuDung	String	200	
+MucDich	String	200	
+ThoiHan	String	200	
+NguonGoc	String	200	

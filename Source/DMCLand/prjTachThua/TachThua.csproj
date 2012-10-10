@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B6DF196B-7D25-49BD-AEE9-1E888ADA3B8A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DMC.Land.TachThua</RootNamespace>
+    <AssemblyName>DMC.Land.TachThua</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <StartupObject>
+    </StartupObject>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.CrystalReports.Engine\10.5.3700.0__692fbea5521e1304\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.ReportSource\10.5.3700.0__692fbea5521e1304\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.Shared\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="DMC.Land.SoanHoSo, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dll\DMC.Land.SoanHoSo.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MapInfo.CommonDialogExt, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CommonDialogExt.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreEngine, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreEngine.Wrapper, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreEngine.Wrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreTypes, Version=6.8.0.536, Culture=neutral, PublicKeyToken=f548bcba69d4b8da">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Design, Version=6.8.0.536, Culture=neutral, PublicKeyToken=4ac3224575145b20, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Services, Version=6.8.0.536, Culture=neutral, PublicKeyToken=4ac3224575145b20, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows.Dialogs, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.Dialogs.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows.Framework, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows.Printing, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.Printing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsHoSoCapGCN.cs" />
+    <Compile Include="CommonLand.cs" />
+    <Compile Include="frmExtendLandPlot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExtendLandPlot.Designer.cs">
+      <DependentUpon>frmExtendLandPlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoSoCapGCN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoSoCapGCN.Designer.cs">
+      <DependentUpon>frmHoSoCapGCN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLichSuBienDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLichSuBienDong.Designer.cs">
+      <DependentUpon>frmLichSuBienDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSoDoNhaDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSoDoNhaDat.Designer.cs">
+      <DependentUpon>frmSoDoNhaDat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUploadBanDo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUploadBanDo.Designer.cs">
+      <DependentUpon>frmUploadBanDo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVertexLable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVertexLable.Designer.cs">
+      <DependentUpon>frmVertexLable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWallBorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWallBorder.Designer.cs">
+      <DependentUpon>frmWallBorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmXemTruocKhiIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmXemTruocKhiIn.Designer.cs">
+      <DependentUpon>frmXemTruocKhiIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlTachThua.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlTachThua.Designer.cs">
+      <DependentUpon>ctrlTachThua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChiaDoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChiaDoan.Designer.cs">
+      <DependentUpon>frmChiaDoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditingMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditingMode.Designer.cs">
+      <DependentUpon>frmEditingMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInfoTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInfoTool.Designer.cs">
+      <DependentUpon>frmInfoTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLayerVisibility.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLayerVisibility.Designer.cs">
+      <DependentUpon>frmLayerVisibility.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearch.Designer.cs">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSnapPoints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSnapPoints.Designer.cs">
+      <DependentUpon>frmSnapPoints.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewEntireLayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewEntireLayer.Designer.cs">
+      <DependentUpon>frmViewEntireLayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LandPlotHistory.cs" />
+    <Compile Include="LayerControlEnhancer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ctrlTachThua.resx">
+      <DependentUpon>ctrlTachThua.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChiaDoan.resx">
+      <DependentUpon>frmChiaDoan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditingMode.resx">
+      <DependentUpon>frmEditingMode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExtendLandPlot.resx">
+      <DependentUpon>frmExtendLandPlot.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoSoCapGCN.resx">
+      <DependentUpon>frmHoSoCapGCN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInfoTool.resx">
+      <DependentUpon>frmInfoTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLayerVisibility.resx">
+      <DependentUpon>frmLayerVisibility.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLichSuBienDong.resx">
+      <DependentUpon>frmLichSuBienDong.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearch.resx">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSnapPoints.resx">
+      <DependentUpon>frmSnapPoints.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSoDoNhaDat.resx">
+      <DependentUpon>frmSoDoNhaDat.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUploadBanDo.resx">
+      <DependentUpon>frmUploadBanDo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVertexLable.resx">
+      <DependentUpon>frmVertexLable.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewEntireLayer.resx">
+      <DependentUpon>frmViewEntireLayer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWallBorder.resx">
+      <DependentUpon>frmWallBorder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmXemTruocKhiIn.resx">
+      <DependentUpon>frmXemTruocKhiIn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\BoChon.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\prjDatabase\clsDatabase\prjDatabase.vbproj">
+      <Project>{4DFC1D82-EFDD-45C7-BA23-50B77EC8F25F}</Project>
+      <Name>prjDatabase</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjGISCommon\DMC.GIS.Common.csproj">
+      <Project>{94C1A697-46B0-4331-A903-C36E45DA8C09}</Project>
+      <Name>DMC.GIS.Common</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjGridView\prjGridView\prjGridView.vbproj">
+      <Project>{4887C0A0-7A3F-465A-B33E-81FA1D03E198}</Project>
+      <Name>prjGridView</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjInSoDoNhaDat\prjInSoDoNhaDat.csproj">
+      <Project>{3C0585AE-B916-4C48-8C2D-D57D76711687}</Project>
+      <Name>prjInSoDoNhaDat</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjNhatKyNguoiDung\prjNhatKyNguoiDung.vbproj">
+      <Project>{F4A19EA0-1F72-42C9-AF29-9DD34DCD76CE}</Project>
+      <Name>prjNhatKyNguoiDung</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjXemLichSuThuaDat\prjXemLichSuThuaDat.csproj">
+      <Project>{8274A1A2-5E4D-4CBD-BAD3-974F1EC8B78C}</Project>
+      <Name>prjXemLichSuThuaDat</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToaDoDiem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DsToaDo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\removenew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layerlistoptions_sm.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lui.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VumgThanhDuong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GiaoduongTron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DuongTron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KhoetThua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Point1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

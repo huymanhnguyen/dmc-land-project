@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8E8ED909-A15C-4E77-8B17-6F722CAB4808}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DMC.Land.TinhToanDenBu</RootNamespace>
+    <AssemblyName>DMC.Land.TinhToanDenBu</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DMC.GIS.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\prjGISCommon\bin\Debug\DMC.GIS.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MapInfo.CommonDialogExt, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CommonDialogExt.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreEngine, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreEngine.Wrapper, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreEngine.Wrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreTypes, Version=6.8.0.536, Culture=neutral, PublicKeyToken=f548bcba69d4b8da">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows.Dialogs, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.Dialogs.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="clsTinhToanDenBu.cs" />
+    <Compile Include="ctrlTinhToanDenBu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlTinhToanDenBu.Designer.cs">
+      <DependentUpon>ctrlTinhToanDenBu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChiTietDenBu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChiTietDenBu.Designer.cs">
+      <DependentUpon>frmChiTietDenBu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTinhToanDenBu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTinhToanDenBu.Designer.cs">
+      <DependentUpon>frmTinhToanDenBu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ctrlTinhToanDenBu.resx">
+      <DependentUpon>ctrlTinhToanDenBu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChiTietDenBu.resx">
+      <DependentUpon>frmChiTietDenBu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTinhToanDenBu.resx">
+      <DependentUpon>frmTinhToanDenBu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\prjGridView\prjGridView\prjGridView.vbproj">
+      <Project>{4887C0A0-7A3F-465A-B33E-81FA1D03E198}</Project>
+      <Name>prjGridView</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Buff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\LopBanDo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\thm_individual.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

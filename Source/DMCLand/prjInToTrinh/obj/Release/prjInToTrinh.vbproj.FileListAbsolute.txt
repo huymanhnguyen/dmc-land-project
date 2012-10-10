@@ -1,0 +1,16 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\bin\Release\DMC.Land.InToTrinh.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\bin\Release\DMC.Land.InToTrinh.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\bin\Release\DMC.Land.InToTrinh.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\bin\Release\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\bin\Release\DMC.Interface.GridView.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\bin\Release\DMC.Interface.GridView.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\bin\Release\DMC.Interface.GridView.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\bin\Release\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\bin\Release\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\obj\Release\DMC.Land.InToTrinh.ctrInToTrinh.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\obj\Release\DMC.Land.InToTrinh.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\obj\Release\prjInToTrinh.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\obj\Release\DMC.Land.InToTrinh.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\obj\Release\DMC.Land.InToTrinh.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjInToTrinh\obj\Release\DMC.Land.InToTrinh.pdb

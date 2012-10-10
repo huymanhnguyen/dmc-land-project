@@ -1,0 +1,15 @@
+SoTT	String	20
+Tinh	String	20
+Huyen	String	20
+Xa	String	20
+MaTinh	String	20
+MaHuyen	String	20
+MaXa	String	20
+Tungay	String	20
+Denngay	String	20
+MaHoSoCapGCN	String	50	
+ThoiDiemTiepNhan	datetime
+SoHoSoTiepNhan	String	20	
+TenNguoiTiepNhan	String	100	
+TenNguoiDiKeKhai	String	100	
+NguoiVietDon	String	100	

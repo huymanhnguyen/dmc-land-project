@@ -1,0 +1,745 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CD7A098B-C5B1-4B15-B164-DE55324E9C0E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DMCLand.My.MyApplication</StartupObject>
+    <RootNamespace>DMCLand</RootNamespace>
+    <AssemblyName>DMCLand</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DMCLand.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DMCLand.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Interop.SQLDMO, Version=8.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Interop.SQLDMO.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreEngine, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreTypes, Version=6.8.0.536, Culture=neutral, PublicKeyToken=f548bcba69d4b8da, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows.Dialogs, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.Dialogs.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="PrjBaoCaoTongHop, Version=1.0.4665.25550, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="prjLichSuHoSoBienDong, Version=1.0.3874.16202, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\prjLichSuHoSoBienDong\bin\Debug\prjLichSuHoSoBienDong.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="clsBaoCaoNoiBo.vb" />
+    <Compile Include="clsDonViHanhChinh.vb" />
+    <Compile Include="clsHoSoCapGCN.vb" />
+    <Compile Include="ctrlNghiepVuHoSo.Designer.vb">
+      <DependentUpon>ctrlNghiepVuHoSo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlNghiepVuHoSo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmBanDoTongThe.Designer.vb">
+      <DependentUpon>frmBanDoTongThe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBanDoTongThe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBangMa.designer.vb">
+      <DependentUpon>frmBangMa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBangMa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBaoCaoKetQuaThamDinh.Designer.vb">
+      <DependentUpon>frmBaoCaoKetQuaThamDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBaoCaoKetQuaThamDinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBaoCaoTongHop.Designer.vb">
+      <DependentUpon>frmBaoCaoTongHop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBaoCaoTongHop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCanhBaoQuyTrinh.Designer.vb">
+      <DependentUpon>frmCanhBaoQuyTrinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCanhBaoQuyTrinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChinhLyBanDo.Designer.vb">
+      <DependentUpon>frmChinhLyBanDo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChinhLyBanDo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.designer.vb">
+      <DependentUpon>frmDangNhap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDanhSachDVHC.designer.vb">
+      <DependentUpon>frmDanhSachDVHC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDanhSachDVHC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInDanhSachToTrinh.Designer.vb">
+      <DependentUpon>frmInDanhSachToTrinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInDanhSachToTrinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKhoiTaoDuLieuBanDoPhuong.Designer.vb">
+      <DependentUpon>frmKhoiTaoDuLieuBanDoPhuong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKhoiTaoDuLieuBanDoPhuong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLapDanhSachToTrinh.Designer.vb">
+      <DependentUpon>frmLapDanhSachToTrinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLapDanhSachToTrinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLichGiaoViec.Designer.vb">
+      <DependentUpon>frmLichGiaoViec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLichGiaoViec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLichSuBienDong.Designer.vb">
+      <DependentUpon>frmLichSuBienDong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLichSuBienDong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLuanChuyenHoSo.designer.vb">
+      <DependentUpon>frmLuanChuyenHoSo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLuanChuyenHoSo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNghiepVuHoSo.Designer.vb">
+      <DependentUpon>frmNghiepVuHoSo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNghiepVuHoSo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhatKyNguoiDung.Designer.vb">
+      <DependentUpon>frmNhatKyNguoiDung.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhatKyNguoiDung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhanQuyenChucNang.Designer.vb">
+      <DependentUpon>frmPhanQuyenChucNang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhanQuyenChucNang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhieuChuyenDiaChinh.Designer.vb">
+      <DependentUpon>frmPhieuChuyenDiaChinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhieuChuyenDiaChinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhieuChuyenThongTinDiaChinh.Designer.vb">
+      <DependentUpon>frmPhieuChuyenThongTinDiaChinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhieuChuyenThongTinDiaChinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSoanHoSo.Designer.vb">
+      <DependentUpon>frmSoanHoSo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSoanHoSo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTaiKhoanNguoiDung.Designer.vb">
+      <DependentUpon>frmTaiKhoanNguoiDung.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTaiKhoanNguoiDung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThamSoMacDinh.Designer.vb">
+      <DependentUpon>frmThamSoMacDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThamSoMacDinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongKeHoSoNhap.Designer.vb">
+      <DependentUpon>frmThongKeHoSoNhap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKeHoSoNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimKiem.designer.vb">
+      <DependentUpon>frmTimKiem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimKiem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTinToTrinhQuyetDinh.Designer.vb">
+      <DependentUpon>frmTinToTrinhQuyetDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTinToTrinhQuyetDinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUploadBanDo.designer.vb">
+      <DependentUpon>frmUploadBanDo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUploadBanDo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWait.Designer.vb">
+      <DependentUpon>frmWait.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWait.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdlMain.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="FrmXuatDuLieuTuBanDo.Designer.vb">
+      <DependentUpon>FrmXuatDuLieuTuBanDo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmXuatDuLieuTuBanDo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ctrlNghiepVuHoSo.resx">
+      <DependentUpon>ctrlNghiepVuHoSo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBanDoTongThe.resx">
+      <DependentUpon>frmBanDoTongThe.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBangMa.resx">
+      <DependentUpon>frmBangMa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBaoCaoKetQuaThamDinh.resx">
+      <DependentUpon>frmBaoCaoKetQuaThamDinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBaoCaoTongHop.resx">
+      <DependentUpon>frmBaoCaoTongHop.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCanhBaoQuyTrinh.resx">
+      <DependentUpon>frmCanhBaoQuyTrinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDanhSachDVHC.resx">
+      <DependentUpon>frmDanhSachDVHC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInDanhSachToTrinh.resx">
+      <DependentUpon>frmInDanhSachToTrinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKhoiTaoDuLieuBanDoPhuong.resx">
+      <DependentUpon>frmKhoiTaoDuLieuBanDoPhuong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLapDanhSachToTrinh.resx">
+      <DependentUpon>frmLapDanhSachToTrinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLichGiaoViec.resx">
+      <DependentUpon>frmLichGiaoViec.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLichSuBienDong.resx">
+      <DependentUpon>frmLichSuBienDong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLuanChuyenHoSo.resx">
+      <DependentUpon>frmLuanChuyenHoSo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNghiepVuHoSo.resx">
+      <DependentUpon>frmNghiepVuHoSo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhatKyNguoiDung.resx">
+      <DependentUpon>frmNhatKyNguoiDung.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhanQuyenChucNang.resx">
+      <DependentUpon>frmPhanQuyenChucNang.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhieuChuyenDiaChinh.resx">
+      <DependentUpon>frmPhieuChuyenDiaChinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhieuChuyenThongTinDiaChinh.resx">
+      <DependentUpon>frmPhieuChuyenThongTinDiaChinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSoanHoSo.resx">
+      <DependentUpon>frmSoanHoSo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTaiKhoanNguoiDung.resx">
+      <DependentUpon>frmTaiKhoanNguoiDung.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThamSoMacDinh.resx">
+      <DependentUpon>frmThamSoMacDinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKeHoSoNhap.resx">
+      <DependentUpon>frmThongKeHoSoNhap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimKiem.resx">
+      <DependentUpon>frmTimKiem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTinToTrinhQuyetDinh.resx">
+      <DependentUpon>frmTinToTrinhQuyetDinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUploadBanDo.resx">
+      <DependentUpon>frmUploadBanDo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWait.resx">
+      <DependentUpon>frmWait.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmXuatDuLieuTuBanDo.resx">
+      <DependentUpon>FrmXuatDuLieuTuBanDo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DMC.Land.InThongBaoCapGCN\DMC.Land.InThongBaoCapGCN.csproj">
+      <Project>{E53C8F6D-46D7-40EE-ABCC-186129EB8715}</Project>
+      <Name>DMC.Land.InThongBaoCapGCN</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjBangMa\clsBangMa\prjBangMa.vbproj">
+      <Project>{E8DA5A0C-4AF3-46F7-AC2A-2CF2D62C3DF9}</Project>
+      <Name>prjBangMa</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjBarcode\BarcodeLib.csproj">
+      <Project>{F8646414-0C9C-49BB-9DA3-3923BF78A398}</Project>
+      <Name>BarcodeLib</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjChuHoSoCapGCN\prjChuHoSoCapGCN.vbproj">
+      <Project>{94EDCC9A-930E-42C8-A53F-987892E73D2D}</Project>
+      <Name>prjChuHoSoCapGCN</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjChuSuDung\prjChuSuDung.vbproj">
+      <Project>{326FFDD6-01D9-46F9-AB09-74F134C47522}</Project>
+      <Name>prjChuSuDung</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjChu\prjChu.vbproj">
+      <Project>{EAEBD1DD-5767-485C-ADC0-F3FE6A0BCA20}</Project>
+      <Name>prjChu</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjComponents\clsComponents\prjComponents.vbproj">
+      <Project>{32E89372-0926-4AA2-A344-51B241D2C439}</Project>
+      <Name>prjComponents</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjCongTrinhXayDung\prjCongTrinhXayDung.vbproj">
+      <Project>{A37D21C0-204F-4320-B7A9-5A768BA3CA4C}</Project>
+      <Name>prjCongTrinhXayDung</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjDangKyBienDong\prjBienDong\prjBienDong.csproj">
+      <Project>{565DF669-BC36-416A-9EA2-19FB4E87A5BD}</Project>
+      <Name>prjBienDong</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjDangNhap\clsDangNhap\prjDangNhap.vbproj">
+      <Project>{65993623-5D0B-4E0B-BC16-0FB9FD1420D1}</Project>
+      <Name>prjDangNhap</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjDanhSachDonViHanhChinh\clsDanhSachDonViHanhChinh\prjDanhSachDonViHanhChinh.vbproj">
+      <Project>{3C79B80E-F4E3-4710-8F54-49F250CEB978}</Project>
+      <Name>prjDanhSachDonViHanhChinh</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjDatabase\clsDatabase\prjDatabase.vbproj">
+      <Project>{4DFC1D82-EFDD-45C7-BA23-50B77EC8F25F}</Project>
+      <Name>prjDatabase</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjFilterGrid\prjFilterGrid.vbproj">
+      <Project>{4087BB5F-2E01-45F7-A129-590FF472364B}</Project>
+      <Name>prjFilterGrid</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjGISCommon\DMC.GIS.Common.csproj">
+      <Project>{94C1A697-46B0-4331-A903-C36E45DA8C09}</Project>
+      <Name>DMC.GIS.Common</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjGridView\prjGridView\prjGridView.vbproj">
+      <Project>{4887C0A0-7A3F-465A-B33E-81FA1D03E198}</Project>
+      <Name>prjGridView</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjGroupToTrinhPhuong\prjGroupToTrinhPhuong.vbproj">
+      <Project>{26F8ABD8-4C7C-428E-B98B-C99749D43E76}</Project>
+      <Name>prjGroupToTrinhPhuong</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjHoiDongXetDuyet\clsHoiDongXetDuyet\prjHoiDongXetDuyet.vbproj">
+      <Project>{DE0C3F93-53AC-4A41-9FD6-001EA4BB25A7}</Project>
+      <Name>prjHoiDongXetDuyet</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\prjHoSoKeKhaiCapGCN.vbproj">
+      <Project>{B067C322-D3C7-4999-8205-9BB270EEE883}</Project>
+      <Name>prjHoSoKeKhaiCapGCN</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjInBaoCaKetQuaThamDinh\prjInBaoCaoKetQuaThamDinh.csproj">
+      <Project>{3879AADC-D0DE-474C-BB0D-1292E7F02B9E}</Project>
+      <Name>prjInBaoCaoKetQuaThamDinh</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjInHoiDongXetDuyet\prjInHoiDongXetDuyet.vbproj">
+      <Project>{88E04531-9895-4383-B82B-043167B6C216}</Project>
+      <Name>prjInHoiDongXetDuyet</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjInHoSoKyThuat\prjInHoSoKyThuat.csproj">
+      <Project>{5AFE34E9-C3D2-40CE-A76B-2FA27676F421}</Project>
+      <Name>prjInHoSoKyThuat</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjInPhieu\prjInPhieu.vbproj">
+      <Project>{BCCC1296-B961-436F-9794-1C5F6556915C}</Project>
+      <Name>prjInPhieu</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjInToTrinh\prjInToTrinh.vbproj">
+      <Project>{AB45BC8F-DA7F-40E5-ACA0-5108BA540BF4}</Project>
+      <Name>prjInToTrinh</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjMucDich\clsMucDich\prjMucDich.vbproj">
+      <Project>{F24CAAED-CCF9-4C37-A765-45DF99B176C3}</Project>
+      <Name>prjMucDich</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjNguonGoc\clsNguonGoc\prjNguonGoc.vbproj">
+      <Project>{EF13F5F6-CDFD-4701-A9B3-EBC721A056CE}</Project>
+      <Name>prjNguonGoc</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjNhatKyNguoiDung\prjNhatKyNguoiDung.vbproj">
+      <Project>{F4A19EA0-1F72-42C9-AF29-9DD34DCD76CE}</Project>
+      <Name>prjNhatKyNguoiDung</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjOutlookBar\OutlookBar v2 2005\prjOutlookBar.vbproj">
+      <Project>{2642E580-1D15-417A-BCFA-E75BD899563D}</Project>
+      <Name>prjOutlookBar</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjPhanQuyenQuyTrinhChucNang\prjPhanQuyenQuyTrinhChucNang.vbproj">
+      <Project>{7F5C4A6D-3448-4EB1-B030-EB0FC8AF75E5}</Project>
+      <Name>prjPhanQuyenQuyTrinhChucNang</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjPheDuyet\clsPheDuyet\prjPheDuyet.vbproj">
+      <Project>{8DCF42E8-9FC6-46B0-A9C4-9F1A5A3DA43C}</Project>
+      <Name>prjPheDuyet</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjPhieuChuyenThongTinDiaChinh\prjPhieuChuyenThongTinDiaChinh.csproj">
+      <Project>{71594976-E4B9-490F-A72D-0181E5003128}</Project>
+      <Name>prjPhieuChuyenThongTinDiaChinh</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjQuanLyGiaoViec\prjQuanLyGiaoViec.vbproj">
+      <Project>{05FA713D-9F9F-4D07-8E33-D3B49CCF36E6}</Project>
+      <Name>prjQuanLyGiaoViec</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjQuyTrinhLuanChuyen\prjQuyTrinhLuanChuyen.vbproj">
+      <Project>{3A79262A-4D44-477E-9316-0DAB16158FD0}</Project>
+      <Name>prjQuyTrinhLuanChuyen</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjRptGCN\clsRptGCN\prjRptGCN.vbproj">
+      <Project>{B326549D-B6DC-4B39-9697-21A2A88F6A48}</Project>
+      <Name>prjRptGCN</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjRptThamDinh\clsRptThamDinh\prjRptThamDinh.vbproj">
+      <Project>{9F9D7961-D12D-4CD4-92BE-2B2EC6F714D6}</Project>
+      <Name>prjRptThamDinh</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjSoanHoSo\prjSoanHoSo.csproj">
+      <Project>{37D27789-F47D-4C35-81C2-61FE6A42CC98}</Project>
+      <Name>prjSoanHoSo</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjTachThua\TachThua.csproj">
+      <Project>{B6DF196B-7D25-49BD-AEE9-1E888ADA3B8A}</Project>
+      <Name>TachThua</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjTaiKhoanNguoiDung\clsTaiKhoanNguoiDung\prjTaiKhoanNguoiDung.vbproj">
+      <Project>{73E86C15-AA59-4D1D-81D2-8556EF22DA1B}</Project>
+      <Name>prjTaiKhoanNguoiDung</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjTaiLieuKemTheo\clsTaiLieuKemTheo\prjTaiLieuKemTheo.vbproj">
+      <Project>{CFC115A7-DD94-49D1-9085-BC53F8E5FB3B}</Project>
+      <Name>prjTaiLieuKemTheo</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjTaiSan\clsTaiSan\prjNhaO.vbproj">
+      <Project>{94284126-8F23-4411-B440-57179E857A24}</Project>
+      <Name>prjNhaO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\prjThamDinh\clsThamDinh\prjThamDinh.vbproj">
+      <Project>{B1B3E2F7-E70C-4252-9A77-89CE06EAE46F}</Project>
+      <Name>prjThamDinh</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjThongTinCapGCN\clsThongTinCapGCN\prjThongTinCapGCN.vbproj">
+      <Project>{D135C9FB-0258-474D-A20C-BD896AF3AC62}</Project>
+      <Name>prjThongTinCapGCN</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjThongTinCayLauNam\prjThongTinCayLauNam.vbproj">
+      <Project>{EE570017-80BE-45FD-96E9-C205859507E9}</Project>
+      <Name>prjThongTinCayLauNam</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjThongTinHoSoXetDuyet\prjThongTinHoSoXetDuyet.vbproj">
+      <Project>{485C1973-74F1-450B-99BB-44499DBAFB2B}</Project>
+      <Name>prjThongTinHoSoXetDuyet</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjThongTinRungCay\prjThongTinRungCay.vbproj">
+      <Project>{05013A4B-44E1-4237-8370-8429C0304798}</Project>
+      <Name>prjThongTinRungCay</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjThongTinSoDoNhaDat\prjThongTinSoDoNhaDat.vbproj">
+      <Project>{B6D22D63-25ED-40D2-A96D-EA19CB3A8E89}</Project>
+      <Name>prjThongTinSoDoNhaDat</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjThongTinThuaKeKhai\clsThongTinThuaKeKhai\prjThongTinThuaKeKhai.vbproj">
+      <Project>{41E46AAD-6160-420E-9BDE-1A7E70AEA80C}</Project>
+      <Name>prjThongTinThuaKeKhai</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjThongTinThuaTuNhien\clsThongTinThuaTuNhien\prjThongTinThuaTuNhien.vbproj">
+      <Project>{879E4931-EF55-4F7C-8968-F660D5CD3FD8}</Project>
+      <Name>prjThongTinThuaTuNhien</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjThongTinTiepNhanHoSo\prjThongTinTiepNhanHoSo.csproj">
+      <Project>{DF96BBC8-58F4-4730-A54A-6AB1E94227D4}</Project>
+      <Name>prjThongTinTiepNhanHoSo</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjThongTinXetDuyet\clsThongTinXetDuyet\prjThongTinXetDuyet.vbproj">
+      <Project>{FA325E06-9A67-4938-AC41-4C97884C215F}</Project>
+      <Name>prjThongTinXetDuyet</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjTimKiem\clsTimKiem\prjTimKiem.vbproj">
+      <Project>{62F2E3DF-E22A-4A85-BB61-9BBA0EA577C0}</Project>
+      <Name>prjTimKiem</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjTongHopThongTinDatInBienBanXetDuyet\prjTongHopThongTinDatInBienBanXetDuyet.vbproj">
+      <Project>{AB7F424F-7B27-4DC9-A68C-015575453680}</Project>
+      <Name>prjTongHopThongTinDatInBienBanXetDuyet</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjToolUploadMap\prjToolUploadMap.csproj">
+      <Project>{937FD6BE-475F-443E-8EFB-3E537C5FBFA7}</Project>
+      <Name>prjToolUploadMap</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjToTrinhQuyetDinh\prjToTrinhQuyetDinh.csproj">
+      <Project>{3AC5D906-00C3-45AB-B345-8DEB28A7A4FB}</Project>
+      <Name>prjToTrinhQuyetDinh</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjTrangThaiHoSo\prjTrangThaiHoSo.vbproj">
+      <Project>{9F86F723-A393-4257-89BB-159166A7A931}</Project>
+      <Name>prjTrangThaiHoSo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\prjTuDienThamSoMacDinh\prjTuDienThamSoMacDinh.vbproj">
+      <Project>{313B510A-37C5-4678-B288-7F379EDAB14C}</Project>
+      <Name>prjTuDienThamSoMacDinh</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjUser\clsUser\prjUser.vbproj">
+      <Project>{9C7D8FAC-888D-4013-966B-271CAE8B6973}</Project>
+      <Name>prjUser</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\prjXetDuyetCapCoSo.vbproj">
+      <Project>{2F002652-6715-4889-979B-C2DD9A8F05D9}</Project>
+      <Name>prjXetDuyetCapCoSo</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjYeuCauBoXung\clsYeuCauBoXung\prjYeuCauBoXung.vbproj">
+      <Project>{82F5FB0F-B7B3-4304-ACAA-32F5C982F618}</Project>
+      <Name>prjYeuCauBoXung</Name>
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="loading.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

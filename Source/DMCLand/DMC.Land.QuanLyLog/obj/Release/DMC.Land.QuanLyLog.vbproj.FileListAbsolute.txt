@@ -1,0 +1,12 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\bin\Release\DMC.Land.QuanLyLog.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\bin\Release\DMC.Land.QuanLyLog.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\bin\Release\DMC.Land.QuanLyLog.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\bin\Release\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\bin\Release\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\bin\Release\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\obj\Release\DMC.Land.QuanLyLog.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\obj\Release\DMC.Land.QuanLyLog.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\obj\Release\DMC.Land.QuanLyLog.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\obj\Release\DMC.Land.QuanLyLog.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.QuanLyLog\obj\Release\DMC.Land.QuanLyLog.pdb

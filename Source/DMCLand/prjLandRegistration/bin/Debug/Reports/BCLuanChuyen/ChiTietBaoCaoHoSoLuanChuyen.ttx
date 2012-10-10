@@ -1,0 +1,15 @@
+ToBanDo	String	100	
+SoThua	String	100	
+DienTich	String	50	
+DiaChiThua	String	500	
+NgayNhan	String	20	
+NguoiNhan	String	200	
+NguoiDiKeKhai	String	200	
+NgayTra	String	100	
+DuKieuKien	String	200	
+LyDoKhongDuDK	String	300	
+DonViXuLy	String	200	
+tmp1	String	300	
+tmp2	String	300	
+tmp3	String	300	
+tmp4	String	300	

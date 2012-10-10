@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Servers>
+  <Server id="1">
+    <TenKetNoi>1</TenKetNoi>
+    <Name>MYPAY018-PC</Name>
+    <Database>georgetown</Database>
+    <DatabaseQuan>georgetown</DatabaseQuan>
+    <UserID>sa</UserID>
+    <Password>30646D6361646D696E31646D6361646D696E32646D6361646D696E33646D6361646D696E34646D6361646D696E35646D6361646D696E36646D6361646D696E646D6361646D696E</Password>
+  </Server>
+</Servers>

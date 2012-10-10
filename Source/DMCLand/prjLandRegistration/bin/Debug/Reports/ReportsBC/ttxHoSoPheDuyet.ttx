@@ -1,0 +1,17 @@
+Tinh	String	100	
+Huyen	String	100	
+Xa	String	100	
+MaTinh	String	100	
+MaHuyen	String	100	
+MaXa	String	100	
+SoTT	String	100	
+MaHoSoCapGCN	String	100	
+ToBanDo	String	100	
+SoThua	String	100	
+DiaChiThua	String	200	
+ChuHoSo	String	100	
+NgayPheDuyet	Date		
+HoTenCanBoPheDuyet	String	100	
+YKienPheDuyet	String	100	
+TuNgay	String	100	
+DenNgay	String	100	

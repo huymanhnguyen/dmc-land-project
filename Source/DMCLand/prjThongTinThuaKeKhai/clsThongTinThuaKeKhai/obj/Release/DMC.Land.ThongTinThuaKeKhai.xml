@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.ThongTinThuaKeKhai
+</name>
+</assembly>
+<members>
+<member name="P:DMC.Land.ThongTinThuaKeKhai.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.ThongTinThuaKeKhai.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.ThongTinThuaKeKhai.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DMC.Land.ThongTinThuaKeKhai.clsThongTinThuaKeKhai.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi phát biểu SQL
+ </summary>
+	<param name="strStoreProcedureName">Tên  Thủ tục trong SQL Server</param>
+	<param name="strResults"></param>
+	<returns>Kết quả trả về là biến lỗi</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,209 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMCLand
+</name>
+</assembly>
+<members>
+<member name="M:DMCLand.clsBaoCaoNoiBo.SelectDiaChiThuaDatByMaHoSoCapGCN">
+	<summary>
+ Lựa chọn thông tin Địa chỉ thửa đất đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về là bảng chứa thông tin 
+ Địa chỉ thửa đất đề nghị cấp GCN</returns>
+	<remarks></remarks>
+</member><member name="M:DMCLand.clsBaoCaoNoiBo.SelectThongTinThuaDat">
+	<summary>
+ Lựa chọn thông tin Thửa đất đề nghị cấp GCN theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là dữ liệu kiểu bảng chứa thông tin
+ Thửa đất đất đề nghị cấp GCN</returns>
+	<remarks></remarks>
+</member><member name="M:DMCLand.clsBaoCaoNoiBo.SelectData(System.String)">
+	<summary>
+ Phương thức thực thi thủ tục truy vấn dữ liệu
+ </summary>
+	<param name="strStoreProcedureName"></param>
+	<returns>Giá trị trả về là kiểu bảng </returns>
+	<remarks></remarks>
+</member><member name="M:DMCLand.clsHoSoCapGCN.ActiveChucNang(System.Int32[],System.String)">
+	<summary>
+ Hàm xác định chức năng nghiệp vụ có được Active hay không
+ </summary>
+	<param name="intMangChucNang">Mảng chức năng mà cán bộ nghiệp vụ có thể thao tác</param>
+	<param name="strTenChucNang">Tên chức năng cần kiểm tra xem  có được thao tác
+ hay không</param>
+	<returns>Kết quả trả về kiểu bool:
+ True: Chức năng có tên strTenChucNang có quyền được thực hiện
+ False: Chức năng có tên strTenChucNang không có được thực hiện</returns>
+	<remarks></remarks>
+</member><member name="P:DMCLand.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMCLand.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMCLand.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DMCLand.mdlMain.chuyensangkhongdau(System.String)">
+	<summary>
+ Hàm chuyển chữ Tiếng Việt có dấu sang không dấu
+ </summary>
+	<param name="mystr"> nhập chuỗi cần chuyển</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.activeChucNang(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean)">
+	<summary>
+ Active chức năng cập nhật (Các nút: Thêm, sửa, xóa, hủy lệnh)
+ của nghiệp vụ cần thực thi
+ NOTE: TRONG PHƯƠNG THỨC NÀY MỘT SỐ CONTROL THÀNH VIÊN CHƯA ĐƯỢC ACTIVE
+ CẦN HOÀN THIỆN (KHI CÓ THỜI GIAN) ĐỂ NGƯỜI DÙNG KHÔNG PHẢI REFRESH NHIỀU LẦN
+ </summary>
+	<param name="blnHoSoKeKhai"></param>
+	<param name="blnThongTinXetDuyet"></param>
+	<param name="blnThamDinh"></param>
+	<param name="blnPheDuyet"></param>
+	<param name="blnCapGCN"></param>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.OutlookBar1_ButtonClicked(System.Object,System.EventArgs)">
+	<summary>
+ Active chức năng tương ứng khi người
+ dùng chọn nghiệp vụ cần thực thi trên Outlook Bar
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.TimKiem">
+	<summary>
+ Khi người dùng thực thi chức năng tìm kiếm
+ Nếu tìm được thửa đất, hồ sơ thì hiển thị thông tin Hồ sơ, thửa đất lên Form
+ Note: Thủ tục này có vẻ hơi rườm rà, cần xem lại để tối ưu hơn
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.ShowLandOriginalInformation">
+	<summary>
+ Hiển thị thông tin thửa tự nhiên lên Form
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.ShowProfileInformation">
+	<summary>
+ Hiển thị thông tin hồ sơ cấp GCN
+ NOTE: CẦN XEM LẠI XEM PHƯƠNG THỨC NÀY CÓ THỰC SỰ CẦN THIẾT KHÔNG
+ CÓ THỂ KHÔNG CẦN NẠP DỮ LIỆU CHO TOÀN BỘ FORM NGHIỆP VỤ
+ MÀ CHỈ CẦN CHO FORM NGHIỆP VỤ ĐẦU TIÊN ĐƯỢC SHOW RA.
+ </summary>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.HoSoKeKhai">
+	<summary>
+ Thiết lập cho Form Hồ sơ kê khai khi người dùng chọn
+ nghiệp vụ Hồ sơ kê khai
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.XetDuyetCapCoSo">
+	<summary>
+ Thiết lập cho Form Xét duyệt cấp cơ sở khi người dùng chọn
+ nghiệp vụ Xét duyệt cấp cơ sở
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.ThamDinh">
+	<summary>
+ Thiết lập cho Form Thẩm định khi người dùng chọn
+ nghiệp vụ Thẩm định
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.PheDuyet">
+	<summary>
+ Thiết lập cho Form Phê duyệt khi người dùng chọn
+ nghiệp vụ Phê duyệt
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.CapGiayChungNhan">
+	<summary>
+ Thiết lập cho Form Cấp Giấy chứng nhận khi người dùng chọn
+ nghiệp vụ Cấp giấy chứng nhận
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.activeTaskForm(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean)">
+	<summary>
+ Chỉ hiển thị Form nghiệp vụ tương ứng, những Form nghiệp vụ khác sẽ bị ẩn.
+ </summary>
+	<param name="blnHoSoKeKhai"></param>
+	<param name="blnXetDuyetCapCoSo"></param>
+	<param name="blnThamDinh"></param>
+	<param name="blnPheDuyet"></param>
+	<param name="blnCapGCN"></param>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.TrangThaiBanDau">
+	<summary>
+ Phương thức thiết đặt trạng thái ban đầu cho toàn bộ điều khiển thành viên
+ NOTE: PHƯƠNG THỨC NÀY PHỤC VỤ TRONG PHẦN THÊM MỚI HỒ SƠ VÀ CẬP NHẬT HỒ SƠ
+ CHO CHỨC NĂNG THÊM MỚI
+ =&gt;  CẦN XEM LẠI CÓ CẦN HÀM NÀY KHÔNG, VÀ CÓ CẦN THIẾT CHỨC NĂNG
+ THÊM MỚI VÀ CẬP NHẬT THÊM MỚI HỒ SƠ TRONG ĐIỀU KHIỂN NGHIỆP VỤ HỒ SƠ CẤP GCN KHÔNG
+ </summary>
+	<remarks>
+	</remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.TrangThaiCapNhat(System.Boolean)">
+	<summary>
+ Thiết lập trạng thái cập nhật cho các đối tượng
+ </summary>
+	<param name="blnCapNhat"></param>
+	<remarks> 
+ Coder: Vũ Lê Thành
+ Date Modified: 200812
+ Thủ tục này chỉ sử dụng cho phần cập nhật Hồ sơ kê khai
+ trong trường hợp Thêm mới hồ sơ?
+ </remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.TrangThaiChucNang(System.Boolean,System.Boolean)">
+	<summary>
+ Bật tắt các chức năng(Thêm, sửa, xóa...) đối với trường hợp thêm
+ mới hồ sơ
+ CẦN XEM LẠI CHỨC NĂNG NÀY ĐỂ TỐI ƯU HƠN
+ </summary>
+	<param name="blnStartEdited"></param>
+	<param name="blnStartDeleted"></param>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.TaoHoSoCapGCNMoiDaCoThongTinKhongGianThuaDat">
+	<summary>
+ Thiết lập các giá trị hiển trên Form trong trường hợp thêm mới hồ sơ
+ Cần xem lại phương thức này để tối ưu hóa 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.UpdateHoSoCapGCNDaCoThongTinKhongGianThuaDat">
+	<summary>
+ Cập nhật Hồ sơ cấp GCN đã có thông tin không gian thửa đất
+ vào bảng tblHoSoCapGCN
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.UpdateHoSoCapGCNChuaCoThongTinKhongGianThuaDat">
+	<summary>
+ Cập nhật Hồ sơ cấp GCN CHƯA có thông tin không gian thửa đất
+ vào bảng tblHoSoCapGCN
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMCLand.ctrlNghiepVuHoSo.TrangThaiHoSoCapGCN(System.Int32)">
+	<summary>
+ Trạng thái Hồ sơ cấp GCN
+ Note: Cần xem lại thủ tục này
+ </summary>
+	<param name="intTrangThaiHoSoCapGCN"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:DMCLand.ctrlNghiepVuHoSo">
+	<summary>
+ Control này phục vụ cho phần nghiệp vụ về Hồ sơ cấp GCN ban đầu
+ Bao gồm 2 nhiệm vụ cơ bản:
+ 1. ACTIVE CHỨC NĂNG NGHIỆP VỤ VỀ HỒ SƠ
+ 2. LIÊN HỆ GIỮA VIỆC ACTIVE TỪNG CHỨC NĂNG NGHIỆP VỤ VỚI CONTROL NGHIỆP VỤ TƯƠNG ỨNG
+ 3. ACTIVE TỪNG CONTROL NGHIỆP VỤ
+ 4. THÊM MỚI VÀ XÓA HỒ SƠ CẤP GCN (PHẦN NÀY CẦN XEM LẠI)
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

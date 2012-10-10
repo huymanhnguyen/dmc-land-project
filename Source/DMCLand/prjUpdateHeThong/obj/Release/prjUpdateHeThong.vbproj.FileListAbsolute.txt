@@ -1,0 +1,10 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjUpdateHeThong\bin\Release\prjUpdateHeThong.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjUpdateHeThong\bin\Release\prjUpdateHeThong.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjUpdateHeThong\bin\Release\prjUpdateHeThong.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjUpdateHeThong\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjUpdateHeThong\obj\Release\prjUpdateHeThong.ctrUpdateHeThong.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjUpdateHeThong\obj\Release\prjUpdateHeThong.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjUpdateHeThong\obj\Release\prjUpdateHeThong.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjUpdateHeThong\obj\Release\prjUpdateHeThong.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjUpdateHeThong\obj\Release\prjUpdateHeThong.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjUpdateHeThong\obj\Release\prjUpdateHeThong.pdb

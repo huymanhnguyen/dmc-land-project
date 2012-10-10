@@ -1,0 +1,12 @@
+HoTen	String	200	
+ChucDanh	String	200	
+ChucVu	String	200	
+OngBa	String	50	
+TenXa	String	200	
+TenXaHoa	String	200
+TenXaDayDuThuong	String	400	
+TenXaDayDuHoa	String	400	
+NguoiDeNghi	String	200	
+ChucVuNguoiDeNghi	String	300	
+NgayThang	String	50	
+SoQuyetDinh	String	50	

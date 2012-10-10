@@ -1,0 +1,14 @@
+Tinh	String	100	
+Huyen	String	100	
+Xa	String	100	
+MaTinh	String	100	
+MaHuyen	String	100	
+MaXa	String	100	
+ToBanDo	String	50	
+SoThua	String	50	
+DienTich	String	50	
+DiaChi	String	4000	
+ThoiDiemTiepNhan	String	50	
+TenNguoiTiepNhan	String	200	
+TenNguoiDiKeKhai	String	200	
+NgayChuyenlenVPNhaDat	String	200

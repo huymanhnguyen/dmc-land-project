@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B1B3E2F7-E70C-4252-9A77-89CE06EAE46F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>DMC.Land.ThamDinh</RootNamespace>
+    <AssemblyName>DMC.Land.ThamDinh</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DMC.Land.ThamDinh.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DMC.Land.ThamDinh.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsDoiSoThanhChu.vb" />
+    <Compile Include="clsPheDuyet.vb" />
+    <Compile Include="clsThongTinCayLauNamDangKyCapGCN.vb" />
+    <Compile Include="clsThongTinCayLauNamDeNghiCapGCN.vb" />
+    <Compile Include="clsThongTinChuDangKyCapGCN.vb" />
+    <Compile Include="clsThongTinChuDeNghiCapGCN.vb" />
+    <Compile Include="clsThongTinCongTrinhXayDungDangKyCapGCN.vb" />
+    <Compile Include="clsThongTinCongTrinhXayDungDeNghiCapGCN.vb" />
+    <Compile Include="clsThongTinGCN.vb" />
+    <Compile Include="clsThongTinKyGCN.vb" />
+    <Compile Include="clsThongTinNhaODangKyCapGCN.vb" />
+    <Compile Include="clsThongTinSoCapGCN.vb" />
+    <Compile Include="clsThongTinThuaDatDangKyCapGCN.vb.vb" />
+    <Compile Include="clsThongTinRungCayDangKyCapGCN.vb" />
+    <Compile Include="clsThongTinRungCayDeNghiCapGCN.vb" />
+    <Compile Include="clsThongTinThuaDatDeNghiCapGCN.vb" />
+    <Compile Include="clsThongTinCanBoThamDinh.vb" />
+    <Compile Include="clsGhiChuNoiDungChuDeNghiCapGCN.vb" />
+    <Compile Include="clsThongTinNhaODeNghiCapGCN.vb" />
+    <Compile Include="clsThongTinPhapLyKhac.vb" />
+    <Compile Include="ctrlDanhSachChuSuDungDat.Designer.vb">
+      <DependentUpon>ctrlDanhSachChuSuDungDat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlDanhSachChuSuDungDat.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThamDinh.designer.vb">
+      <DependentUpon>ctrlThamDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThamDinh.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinCayLauNamDeNghiCapGCN.Designer.vb">
+      <DependentUpon>ctrlThongTinCayLauNamDeNghiCapGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinCayLauNamDeNghiCapGCN.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinCongTrinhXayDungDeNghiCapGCN.Designer.vb">
+      <DependentUpon>ctrlThongTinCongTrinhXayDungDeNghiCapGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinCongTrinhXayDungDeNghiCapGCN.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinGCN.Designer.vb">
+      <DependentUpon>ctrlThongTinGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinGCN.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinKyGCN.Designer.vb">
+      <DependentUpon>ctrlThongTinKyGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinKyGCN.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinRungCayDeNghiCapGCN.Designer.vb">
+      <DependentUpon>ctrlThongTinRungCayDeNghiCapGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinRungCayDeNghiCapGCN.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinSoCapGCN.designer.vb">
+      <DependentUpon>ctrlThongTinSoCapGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinSoCapGCN.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinThuaDatDeNghiCapGCN.Designer.vb">
+      <DependentUpon>ctrlThongTinThuaDatDeNghiCapGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinThuaDatDeNghiCapGCN.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinCanBoThamDinh.Designer.vb">
+      <DependentUpon>ctrlThongTinCanBoThamDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinCanBoThamDinh.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinChuDeNghiCapGCN.Designer.vb">
+      <DependentUpon>ctrlThongTinChuDeNghiCapGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinChuDeNghiCapGCN.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinNhaODeNghiCapGCN.Designer.vb">
+      <DependentUpon>ctrlThongTinNhaODeNghiCapGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinNhaODeNghiCapGCN.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrlThongTinPhapLyKhac.Designer.vb">
+      <DependentUpon>ctrlThongTinPhapLyKhac.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ctrlThongTinPhapLyKhac.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmBangMa.Designer.vb">
+      <DependentUpon>frmBangMa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBangMa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoSoKiThuat.Designer.vb">
+      <DependentUpon>frmHoSoKiThuat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoSoKiThuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRptThamDinh.Designer.vb">
+      <DependentUpon>frmRptThamDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRptThamDinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThamSoMacDinh.Designer.vb">
+      <DependentUpon>frmThamSoMacDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThamSoMacDinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongBaoKhongDuDKCapGCN.designer.vb">
+      <DependentUpon>frmThongBaoKhongDuDKCapGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongBaoKhongDuDKCapGCN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTongHopChuSuDung.Designer.vb">
+      <DependentUpon>frmTongHopChuSuDung.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTongHopChuSuDung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTuDienCanBoPheDuyet.designer.vb">
+      <DependentUpon>frmTuDienCanBoPheDuyet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTuDienCanBoPheDuyet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTuDienCanBoThamDinh.Designer.vb">
+      <DependentUpon>frmTuDienCanBoThamDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTuDienCanBoThamDinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTuDienNguoiKyGCN.Designer.vb">
+      <DependentUpon>frmTuDienNguoiKyGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTuDienNguoiKyGCN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTuDienTieuDeKyGCN.Designer.vb">
+      <DependentUpon>frmTuDienTieuDeKyGCN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTuDienTieuDeKyGCN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ctrlDanhSachChuSuDungDat.resx">
+      <DependentUpon>ctrlDanhSachChuSuDungDat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThamDinh.resx">
+      <DependentUpon>ctrlThamDinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinCayLauNamDeNghiCapGCN.resx">
+      <DependentUpon>ctrlThongTinCayLauNamDeNghiCapGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinCongTrinhXayDungDeNghiCapGCN.resx">
+      <DependentUpon>ctrlThongTinCongTrinhXayDungDeNghiCapGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinGCN.resx">
+      <DependentUpon>ctrlThongTinGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinKyGCN.resx">
+      <DependentUpon>ctrlThongTinKyGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinRungCayDeNghiCapGCN.resx">
+      <DependentUpon>ctrlThongTinRungCayDeNghiCapGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinSoCapGCN.resx">
+      <DependentUpon>ctrlThongTinSoCapGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinThuaDatDeNghiCapGCN.resx">
+      <DependentUpon>ctrlThongTinThuaDatDeNghiCapGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinCanBoThamDinh.resx">
+      <DependentUpon>ctrlThongTinCanBoThamDinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinChuDeNghiCapGCN.resx">
+      <DependentUpon>ctrlThongTinChuDeNghiCapGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinNhaODeNghiCapGCN.resx">
+      <DependentUpon>ctrlThongTinNhaODeNghiCapGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrlThongTinPhapLyKhac.resx">
+      <DependentUpon>ctrlThongTinPhapLyKhac.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBangMa.resx">
+      <DependentUpon>frmBangMa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoSoKiThuat.resx">
+      <DependentUpon>frmHoSoKiThuat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRptThamDinh.resx">
+      <DependentUpon>frmRptThamDinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThamSoMacDinh.resx">
+      <DependentUpon>frmThamSoMacDinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongBaoKhongDuDKCapGCN.resx">
+      <DependentUpon>frmThongBaoKhongDuDKCapGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTongHopChuSuDung.resx">
+      <DependentUpon>frmTongHopChuSuDung.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTuDienCanBoPheDuyet.resx">
+      <DependentUpon>frmTuDienCanBoPheDuyet.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTuDienCanBoThamDinh.resx">
+      <DependentUpon>frmTuDienCanBoThamDinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTuDienNguoiKyGCN.resx">
+      <DependentUpon>frmTuDienNguoiKyGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTuDienTieuDeKyGCN.resx">
+      <DependentUpon>frmTuDienTieuDeKyGCN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DMC.Land.InThongBaoCapGCN\DMC.Land.InThongBaoCapGCN.csproj">
+      <Project>{E53C8F6D-46D7-40EE-ABCC-186129EB8715}</Project>
+      <Name>DMC.Land.InThongBaoCapGCN</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjBangMa\clsBangMa\prjBangMa.vbproj">
+      <Project>{E8DA5A0C-4AF3-46F7-AC2A-2CF2D62C3DF9}</Project>
+      <Name>prjBangMa</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjBarcode\BarcodeLib.csproj">
+      <Project>{F8646414-0C9C-49BB-9DA3-3923BF78A398}</Project>
+      <Name>BarcodeLib</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjChuHoSoCapGCN\prjChuHoSoCapGCN.vbproj">
+      <Project>{94EDCC9A-930E-42C8-A53F-987892E73D2D}</Project>
+      <Name>prjChuHoSoCapGCN</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjCongTrinhXayDung\prjCongTrinhXayDung.vbproj">
+      <Project>{A37D21C0-204F-4320-B7A9-5A768BA3CA4C}</Project>
+      <Name>prjCongTrinhXayDung</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjDatabase\clsDatabase\prjDatabase.vbproj">
+      <Project>{4DFC1D82-EFDD-45C7-BA23-50B77EC8F25F}</Project>
+      <Name>prjDatabase</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjGISCommon\DMC.GIS.Common.csproj">
+      <Project>{94C1A697-46B0-4331-A903-C36E45DA8C09}</Project>
+      <Name>DMC.GIS.Common</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjGridView\prjGridView\prjGridView.vbproj">
+      <Project>{4887C0A0-7A3F-465A-B33E-81FA1D03E198}</Project>
+      <Name>prjGridView</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjInHoSoKyThuat\prjInHoSoKyThuat.csproj">
+      <Project>{5AFE34E9-C3D2-40CE-A76B-2FA27676F421}</Project>
+      <Name>prjInHoSoKyThuat</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjMucDich\clsMucDich\prjMucDich.vbproj">
+      <Project>{F24CAAED-CCF9-4C37-A765-45DF99B176C3}</Project>
+      <Name>prjMucDich</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjNguonGoc\clsNguonGoc\prjNguonGoc.vbproj">
+      <Project>{EF13F5F6-CDFD-4701-A9B3-EBC721A056CE}</Project>
+      <Name>prjNguonGoc</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjNhatKyNguoiDung\prjNhatKyNguoiDung.vbproj">
+      <Project>{F4A19EA0-1F72-42C9-AF29-9DD34DCD76CE}</Project>
+      <Name>prjNhatKyNguoiDung</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjRptThamDinh\clsRptThamDinh\prjRptThamDinh.vbproj">
+      <Project>{9F9D7961-D12D-4CD4-92BE-2B2EC6F714D6}</Project>
+      <Name>prjRptThamDinh</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjTaiLieuKemTheo\clsTaiLieuKemTheo\prjTaiLieuKemTheo.vbproj">
+      <Project>{CFC115A7-DD94-49D1-9085-BC53F8E5FB3B}</Project>
+      <Name>prjTaiLieuKemTheo</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjTaiSan\clsTaiSan\prjNhaO.vbproj">
+      <Project>{94284126-8F23-4411-B440-57179E857A24}</Project>
+      <Name>prjNhaO</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjThietLapThongTinGCN\prjThietLapThongTinGCN.csproj">
+      <Project>{7B0763B9-0449-44A1-8E8D-5BFB39E381D9}</Project>
+      <Name>prjThietLapThongTinGCN</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjThongTinCayLauNam\prjThongTinCayLauNam.vbproj">
+      <Project>{EE570017-80BE-45FD-96E9-C205859507E9}</Project>
+      <Name>prjThongTinCayLauNam</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjThongTinRungCay\prjThongTinRungCay.vbproj">
+      <Project>{05013A4B-44E1-4237-8370-8429C0304798}</Project>
+      <Name>prjThongTinRungCay</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjThongTinSoDoNhaDat\prjThongTinSoDoNhaDat.vbproj">
+      <Project>{B6D22D63-25ED-40D2-A96D-EA19CB3A8E89}</Project>
+      <Name>prjThongTinSoDoNhaDat</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjTrangThaiHoSo\prjTrangThaiHoSo.vbproj">
+      <Project>{9F86F723-A393-4257-89BB-159166A7A931}</Project>
+      <Name>prjTrangThaiHoSo</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\prjTuDienCanBoNghiepVu.csproj">
+      <Project>{ACA986A6-0441-42C9-840F-53228EB6C4FD}</Project>
+      <Name>prjTuDienCanBoNghiepVu</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjTuDienThamSoMacDinh\prjTuDienThamSoMacDinh.vbproj">
+      <Project>{313B510A-37C5-4678-B288-7F379EDAB14C}</Project>
+      <Name>prjTuDienThamSoMacDinh</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\prjYeuCauBoXung\clsYeuCauBoXung\prjYeuCauBoXung.vbproj">
+      <Project>{82F5FB0F-B7B3-4304-ACAA-32F5C982F618}</Project>
+      <Name>prjYeuCauBoXung</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

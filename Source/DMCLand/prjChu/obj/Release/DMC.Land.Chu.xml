@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.Chu
+</name>
+</assembly>
+<members>
+<member name="T:DMC.Land.Chu.clsChu">
+	<summary>
+ Note: Hiện tại class này Chỉ phục vụ cho Phiếu Thẩm định và GCN
+ Tương lại có thể BỎ class này
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuGDCN.Execute(System.String@,System.String)">
+	<summary>
+ Thực thi phát biểu SQL
+ </summary>
+	<param name="records"></param>
+	<param name="strStoreProcedureName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuGDCN.DeleteData(System.String@)">
+	<summary>
+ Xóa chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuGDCN.UpdateData(System.String@)">
+	<summary>
+ Cập nhật Chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuGDCN.InsertData(System.String@)">
+	<summary>
+ Thêm Chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuGDCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Lựa chọn Chủ sử dụng (Đối tượng Gia đình - Cá nhân)
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.ctrlChuGDCN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột của Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.ctrlChuGDCN.UpdateData">
+	<summary>
+ Cập nhật thông tin Chủ sử dụng
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuCQNN.Execute(System.String@,System.String)">
+	<summary>
+ Thực thi phát biểu SQL
+ </summary>
+	<param name="records"></param>
+	<param name="strStoreProcedureName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuCQNN.DeleteData(System.String@)">
+	<summary>
+ Xóa chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuCQNN.UpdateData(System.String@)">
+	<summary>
+ Cập nhật Chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuCQNN.InsertData(System.String@)">
+	<summary>
+ Thêm Chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuCQNN.GetData(System.Data.DataTable@)">
+	<summary>
+ Lựa chọn Chủ sử dụng (Đối tượng Gia đình - Cá nhân)
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuTCDN.Execute(System.String@,System.String)">
+	<summary>
+ Thực thi phát biểu SQL
+ </summary>
+	<param name="records"></param>
+	<param name="strStoreProcedureName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuTCDN.DeleteData(System.String@)">
+	<summary>
+ Xóa chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuTCDN.UpdateData(System.String@)">
+	<summary>
+ Cập nhật Chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuTCDN.InsertData(System.String@)">
+	<summary>
+ Thêm Chủ sử dụng trong bảng tblChuSuDung
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.clsChuTCDN.GetData(System.Data.DataTable@)">
+	<summary>
+ Lựa chọn Chủ sử dụng (Đối tượng Gia đình - Cá nhân)
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.Chu.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.Chu.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.Chu.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DMC.Land.Chu.ctrlChuCQNN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột của Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.ctrlChuCQNN.UpdateData">
+	<summary>
+ Cập nhật thông tin Chủ sử dụng
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.ctrlChuTCDN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.ctrlChuTCDN.FormatGridContruction">
+	<summary>
+ Định dạng các cột Grid Chủ thuộc nhóm Tổ chức doanh nghiệp
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.Chu.ctrlChuTCDN.UpdateData">
+	<summary>
+ Cập nhật thông tin Chủ sử dụng
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

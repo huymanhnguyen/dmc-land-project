@@ -1,0 +1,12 @@
+NgayThang	String	100	
+ChuSuDung	String	200	
+DiaChi	String	200	
+SoQD	String	50	
+ThuaDat	String	50	
+ToBanDo	String	50	
+DienTich	String	50	
+SuDungChung	String	50	
+SuDungRieng	String	50	
+DiaChiLayGCN	String	200	
+GiamDoc	String	200	
+Phuong	String	200	

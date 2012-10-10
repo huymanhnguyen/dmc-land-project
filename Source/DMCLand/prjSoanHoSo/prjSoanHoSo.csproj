@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{37D27789-F47D-4C35-81C2-61FE6A42CC98}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DMC.Land.SoanHoSo</RootNamespace>
+    <AssemblyName>DMC.Land.SoanHoSo</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Leadtools, Version=15.0.0.0, Culture=neutral, PublicKeyToken=9cf889f53ea9b907, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\Leadtools.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Codecs, Version=15.0.0.0, Culture=neutral, PublicKeyToken=9cf889f53ea9b907, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\Leadtools.Codecs.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CommonDialogExt, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CommonDialogExt.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreEngine, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreEngine.Wrapper, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreEngine.Wrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.CoreTypes, Version=6.8.0.536, Culture=neutral, PublicKeyToken=f548bcba69d4b8da, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.CoreTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows.Dialogs, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.Dialogs.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows.Framework, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Windows.Printing, Version=6.8.0.536, Culture=neutral, PublicKeyToken=93e298a0f6b95eb1, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Windows.Printing.dll</HintPath>
+    </Reference>
+    <Reference Include="MapInfo.Wms.Client, Version=6.8.0.536, Culture=neutral, PublicKeyToken=4ac3224575145b20, processorArchitecture=x86">
+      <HintPath>C:\Program Files\Common Files\MapInfo\MapXtreme\6.8.0\MapInfo.Wms.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonLand.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuffer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuffer.designer.cs">
+      <DependentUpon>frmBuffer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChinhLyToaDo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChinhLyToaDo.Designer.cs">
+      <DependentUpon>frmChinhLyToaDo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDieuKhien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDieuKhien.designer.cs">
+      <DependentUpon>frmDieuKhien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditingMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditingMode.Designer.cs">
+      <DependentUpon>frmEditingMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetTextStyle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetTextStyle.designer.cs">
+      <DependentUpon>frmSetTextStyle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrSoanHS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrSoanHS.Designer.cs">
+      <DependentUpon>ctrSoanHS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSnapPoints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSnapPoints.Designer.cs">
+      <DependentUpon>frmSnapPoints.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSongSongVuongGoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSongSongVuongGoc.Designer.cs">
+      <DependentUpon>frmSongSongVuongGoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStyleText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStyleText.Designer.cs">
+      <DependentUpon>frmStyleText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmBuffer.resx">
+      <DependentUpon>frmBuffer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChinhLyToaDo.resx">
+      <DependentUpon>frmChinhLyToaDo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDieuKhien.resx">
+      <DependentUpon>frmDieuKhien.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditingMode.resx">
+      <DependentUpon>frmEditingMode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetTextStyle.resx">
+      <DependentUpon>frmSetTextStyle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrSoanHS.resx">
+      <DependentUpon>ctrSoanHS.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSnapPoints.resx">
+      <DependentUpon>frmSnapPoints.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSongSongVuongGoc.resx">
+      <DependentUpon>frmSongSongVuongGoc.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStyleText.resx">
+      <DependentUpon>frmStyleText.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Arrow-Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Arrow-Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Buff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\chuyenNguoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\copystyle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\cut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\DaoDiem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\del1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\DinhDang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\DoanVung.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\DsToaDo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Giam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\hoi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\LopBanDo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\LopBanDoNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\LopDoiTuong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\mainIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Point.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\refesh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Soan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Tang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\TaoDuongSong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\TaoDuongSongSong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\ThemDSDiem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\viewPrint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\VumgDoan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\write.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\labelCanh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\labelDinh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\labelThua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Node.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Vista %28258%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\DuongBao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Node.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DuongBao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\labelDinh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\labelThua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\labelCanh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\XoayDoiTuong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\giaoDiem2Doan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\catDoan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\ShowNode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\removenew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\Vien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\DiemTrenDoan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\DuongTron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconVip\GiaoduongTron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\prjGISCommon\DMC.GIS.Common.csproj">
+      <Project>{94C1A697-46B0-4331-A903-C36E45DA8C09}</Project>
+      <Name>DMC.GIS.Common</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjGridView\prjGridView\prjGridView.vbproj">
+      <Project>{4887C0A0-7A3F-465A-B33E-81FA1D03E198}</Project>
+      <Name>prjGridView</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjInSoDoNhaDat\prjInSoDoNhaDat.csproj">
+      <Project>{3C0585AE-B916-4C48-8C2D-D57D76711687}</Project>
+      <Name>prjInSoDoNhaDat</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjNhatKyNguoiDung\prjNhatKyNguoiDung.vbproj">
+      <Project>{F4A19EA0-1F72-42C9-AF29-9DD34DCD76CE}</Project>
+      <Name>prjNhatKyNguoiDung</Name>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\prjTachThua\TachThua.csproj">
+      <Project>{B6DF196B-7D25-49BD-AEE9-1E888ADA3B8A}</Project>
+      <Name>TachThua</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

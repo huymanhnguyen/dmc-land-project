@@ -1,0 +1,8 @@
+DiaChiNha	String	200	
+DienTichXayDung	Number		
+DienTichSanXayDung	Number		
+KetCauNha	String	200	
+CapHangNha	String	200	
+SoTang	Number		
+NamHoanThanhXayDung	Long	10	
+ThoiHanSoHuu	String	200	

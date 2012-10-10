@@ -1,0 +1,130 @@
+E:\Du an\ToolsAction\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\Du an\ToolsAction\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\Du an\ToolsAction\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\Du an\ToolsAction\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\Du an\ToolsAction\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\Du an\ToolsAction\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\Du an\ToolsAction\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\Du an\ToolsAction\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\Du an\ToolsAction\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\Du an\ToolsAction\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\Du an\prjQuanLyNhanSu\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\Du an\prjQuanLyNhanSu\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\Du an\prjQuanLyNhanSu\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\Du an\prjQuanLyNhanSu\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\Du an\prjQuanLyNhanSu\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\Du an\prjQuanLyNhanSu\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\Du an\prjQuanLyNhanSu\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\Du an\prjQuanLyNhanSu\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\Du an\prjQuanLyNhanSu\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\Du an\prjQuanLyNhanSu\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\Du an\prjNhapXuatDuLieuTinDung\prjNhapXuatDuLieuTinDung\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\Du an\prjNhapXuatDuLieuTinDung\prjNhapXuatDuLieuTinDung\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\Du an\prjNhapXuatDuLieuTinDung\prjNhapXuatDuLieuTinDung\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\Du an\prjNhapXuatDuLieuTinDung\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\Du an\prjNhapXuatDuLieuTinDung\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\Du an\prjNhapXuatDuLieuTinDung\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\Du an\prjNhapXuatDuLieuTinDung\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\Du an\prjNhapXuatDuLieuTinDung\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\Du an\prjNhapXuatDuLieuTinDung\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\Du an\prjNhapXuatDuLieuTinDung\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+D:\prjNhapXuatDuLieuTinDung\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+D:\prjNhapXuatDuLieuTinDung\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+D:\prjNhapXuatDuLieuTinDung\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+D:\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+D:\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+D:\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+D:\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+D:\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+D:\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+D:\prjNhapXuatDuLieuTinDung\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\Du an\ConverDuLieuFox\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\Du an\ConverDuLieuFox\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\Du an\ConverDuLieuFox\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\Du an\ConverDuLieuFox\ConverDuLieuFox\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\Du an\ConverDuLieuFox\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\Du an\ConverDuLieuFox\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\Du an\ConverDuLieuFox\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\Du an\ConverDuLieuFox\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\Du an\ConverDuLieuFox\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\Du an\ConverDuLieuFox\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+C:\WORK\20110606\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+C:\WORK\20110606\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+C:\WORK\20110606\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+C:\WORK\20110606\ConverDuLieuFox\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\20110606\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+C:\WORK\20110606\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+C:\WORK\20110606\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+C:\WORK\20110606\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+C:\WORK\20110606\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+C:\WORK\20110606\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\Du an\ConverDuLieuFox\20110618\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\Du an\ConverDuLieuFox\20110618\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\Du an\ConverDuLieuFox\20110618\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\Du an\ConverDuLieuFox\20110618\ConverDuLieuFox\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\Du an\ConverDuLieuFox\20110618\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\Du an\ConverDuLieuFox\20110618\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\Du an\ConverDuLieuFox\20110618\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\Du an\ConverDuLieuFox\20110618\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\Du an\ConverDuLieuFox\20110618\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\Du an\ConverDuLieuFox\20110618\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\Du an\Convertdulieu_T21\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\Du an\Convertdulieu_T21\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\Du an\Convertdulieu_T21\ConverDuLieuFox\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\Du an\Convertdulieu_T21\ConverDuLieuFox\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\Du an\Convertdulieu_T21\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\Du an\Convertdulieu_T21\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\Du an\Convertdulieu_T21\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\Du an\Convertdulieu_T21\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\Du an\Convertdulieu_T21\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\Du an\Convertdulieu_T21\ConverDuLieuFox\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\BanHangCongTySII\BanHangCongTySII\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\BanHangCongTySII\BanHangCongTySII\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\BanHangCongTySII\BanHangCongTySII\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\BanHangCongTySII\BanHangCongTySII\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\BanHangCongTySII\BanHangCongTySII\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\BanHangCongTySII\BanHangCongTySII\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\BanHangCongTySII\BanHangCongTySII\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\BanHangCongTySII\BanHangCongTySII\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\BanHangCongTySII\BanHangCongTySII\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\BanHangCongTySII\BanHangCongTySII\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\DMC\20102812_DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\DMC\20102812_DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\DMC\20102812_DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\DMC\20102812_DMCLand\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\DMC\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\DMC\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\DMC\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\DMC\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\DMC\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\DMC\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\DMC\Data\20102812_DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\DMC\Data\20102812_DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\DMC\Data\20102812_DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\DMC\Data\20102812_DMCLand\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\DMC\Data\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\DMC\Data\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\DMC\Data\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\DMC\Data\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\DMC\Data\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\DMC\Data\20102812_DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\prjFilterGrid.pdb

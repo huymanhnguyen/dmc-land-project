@@ -1,0 +1,16 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\bin\Release\DMC.Land.NghiaVuTaiChinh.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\bin\Release\DMC.Land.NghiaVuTaiChinh.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\bin\Release\DMC.Land.NghiaVuTaiChinh.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\bin\Release\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\bin\Release\DMC.Interface.GridView.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\bin\Release\DMC.Interface.GridView.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\bin\Release\DMC.Interface.GridView.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\bin\Release\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\bin\Release\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\obj\Release\DMC.Land.NghiaVuTaiChinh.ctrNghiaVuTaiChinh.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\obj\Release\DMC.Land.NghiaVuTaiChinh.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\obj\Release\DMC.Land.NghiaVuTaiChinh.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\obj\Release\DMC.Land.NghiaVuTaiChinh.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\obj\Release\DMC.Land.NghiaVuTaiChinh.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.NghiaVuTaiChinh\obj\Release\DMC.Land.NghiaVuTaiChinh.pdb

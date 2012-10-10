@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.MucDich
+</name>
+</assembly>
+<members>
+<member name="M:DMC.Land.MucDich.clsMucDich.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi phát biểu SQL
+ </summary>
+	<param name="strStoreProcedureName">Tên  Thủ tục trong SQL Server</param>
+	<param name="strResults"></param>
+	<returns>Kết quả trả về là biến lỗi</returns>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.MucDich.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.MucDich.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.MucDich.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

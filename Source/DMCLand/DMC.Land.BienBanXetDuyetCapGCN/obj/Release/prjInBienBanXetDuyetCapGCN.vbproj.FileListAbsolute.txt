@@ -1,0 +1,13 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\bin\Release\DMC.Land.BienBanXetDuyetCapGCN.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\bin\Release\DMC.Land.BienBanXetDuyetCapGCN.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\bin\Release\DMC.Land.BienBanXetDuyetCapGCN.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\bin\Release\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\bin\Release\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\bin\Release\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Release\DMC.Land.BienBanXetDuyetCapGCN.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Release\DMC.Land.BienBanXetDuyetCapGCN.ctrBienBanXetDuyetCapGCN.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Release\prjInBienBanXetDuyetCapGCN.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Release\DMC.Land.BienBanXetDuyetCapGCN.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Release\DMC.Land.BienBanXetDuyetCapGCN.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Release\DMC.Land.BienBanXetDuyetCapGCN.pdb

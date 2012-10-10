@@ -1,0 +1,252 @@
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.clsChonDVHC.dll
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.clsChonDVHC.pdb
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.clsChonDVHC.xml
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.clsChonDVHC.dll
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.clsChonDVHC.pdb
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.clsChonDVHC.xml
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoXetDuyet.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanSachHoSoTiepNhan.resources
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoThamDinh.resources
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoXetDuyet.resources
+C:\Users\Administrator\Desktop\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanSachHoSoTiepNhan.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoThamDinh.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoPheDuyet.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoCapGCN.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoBienDong.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoTiepNhan.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoXetDuyetCoSo.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoThamDinh.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoPheDuyet.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoCapGCN.resources
+C:\Documents and Settings\Administrator\Desktop\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoBienDong.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.clsChonDVHC.dll
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.clsChonDVHC.pdb
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.clsChonDVHC.xml
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoBienDong.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoCapGCN.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoPheDuyet.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoThamDinh.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanhSachHoSoXetDuyet.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.DanSachHoSoTiepNhan.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoBienDong.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoCapGCN.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoPheDuyet.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoThamDinh.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoTiepNhan.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.HoSoXetDuyetCoSo.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+E:\DMCLand_201011\20110628_QuanTri\Source_QuanTriDMC\Source_QuanTriDMC\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmInBaoCao.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmXemThongTin.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.xml
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.dll
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.pdb
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.xml
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmInBaoCao.resources
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmXemThongTin.resources
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+C:\Users\Administrator\Desktop\20110801_DMCLand\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.dll
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.pdb
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.xml
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmInBaoCao.resources
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmXemThongTin.resources
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+C:\Users\Administrator\Desktop\20102812_DMCLandnew\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmInBaoCao.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmXemThongTin.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmInBaoCao.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmXemThongTin.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandLongBien\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.dll
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.pdb
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.xml
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmInBaoCao.resources
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmXemThongTin.resources
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+E:\DMC\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.dll
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.pdb
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.xml
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmInBaoCao.resources
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmXemThongTin.resources
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+E:\DMC\Data\20102812_DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\DMC.Database.dll
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.dll
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.dll
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.pdb
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\DMC.Interface.GridView.xml
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.pdb
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\DMC.Land.User.xml
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\DMC.Database.pdb
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\bin\Debug\DMC.Database.xml
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmInBaoCao.resources
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmXemThongTin.resources
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb

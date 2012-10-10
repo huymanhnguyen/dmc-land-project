@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.ThongTinCayLauNam
+</name>
+</assembly>
+<members>
+<member name="M:DMC.Land.ThongTinCayLauNam.clsThongTinCayLauNam.Execute(System.String@,System.String)">
+	<summary>
+ Hàm thức thi cơ sở dữ liệu dùng chung cho
+ trường hợp: Insert, Update, Delete Tài sản
+ </summary>
+	<param name="records"></param>
+	<param name="strStoreProcedureName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinCayLauNam.clsThongTinCayLauNam.DeleteThongTinCayLauNamByMaHoSoCapGCN(System.String@)">
+	<summary>
+ Xóa Thông tin Cây lâu năm với Mã Hồ sơ cấp GCN cho trước
+ Trường hợp này xóa nhiều bản ghi Thông tin Cây lâu năm
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinCayLauNam.clsThongTinCayLauNam.DeleteThongTinCayLauNamByMaThongTinCayLauNam(System.String@)">
+	<summary>
+ Xóa tài sản với Mã Tài sản cho trước
+ Trường hợp này Xóa một bản ghi tài sản
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinCayLauNam.clsThongTinCayLauNam.UpdateThongTinCayLauNam(System.String@)">
+	<summary>
+ Cập nhật thông tin Cây lâu năm
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinCayLauNam.clsThongTinCayLauNam.InsertThongTinCayLauNam(System.String@)">
+	<summary>
+ Thêm mới Thông tin Cây lâu năm
+ </summary>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThongTinCayLauNam.clsThongTinCayLauNam.GetData(System.String,System.Data.DataTable@)">
+	<summary>
+ Nhận Thông tin Cây lâu năm theo điều kiện truy vấn
+ </summary>
+	<param name="dtResults"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.ThongTinCayLauNam.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.ThongTinCayLauNam.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.ThongTinCayLauNam.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,8 @@
+TenHangMucCongTrinh	String	500	
+CapHangNha	String	50	
+NamXayDung	String	10	
+ThoiHanSoHuu	String	200	
+KetCauNha	String	50	
+DienTichXayDung	Number		
+DienTichSanXayDung	Number		
+SoTang	Number		

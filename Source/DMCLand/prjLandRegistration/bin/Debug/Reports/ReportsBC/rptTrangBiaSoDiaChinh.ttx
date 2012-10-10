@@ -1,0 +1,9 @@
+MaTinh	String	20	
+TenTinh	String	200	
+MaHuyen	String	20	
+TenHuyen	String	200	
+MaXa	String	20	
+TenXa	String	200	
+QuyenSo	String	20	
+GiamDocPhongDangKy	String	200	
+GiamDocSo	String	200	

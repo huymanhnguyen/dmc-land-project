@@ -1,0 +1,4376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User id="1">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/12/2010 2:42:49 PM</Login>
+    <Logout>8/12/2010 2:49:18 PM</Logout>
+  </User>
+  <User id="2">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/12/2010 4:23:19 PM</Login>
+    <Logout>8/12/2010 5:27:21 PM</Logout>
+  </User>
+  <User id="3">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/14/2010 9:04:51 AM</Login>
+    <Logout>8/14/2010 10:53:21 AM</Logout>
+  </User>
+  <User id="4">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/16/2010 10:42:07 AM</Login>
+    <Logout>8/16/2010 10:42:31 AM</Logout>
+  </User>
+  <User id="5">
+    <TenUser>tuan</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/17/2010 4:52:18 PM</Login>
+    <Logout>8/17/2010 5:27:30 PM</Logout>
+  </User>
+  <User id="6">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/18/2010 2:06:43 PM</Login>
+    <Logout>8/18/2010 4:38:00 PM</Logout>
+  </User>
+  <User id="7">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/18/2010 5:07:17 PM</Login>
+    <Logout>8/18/2010 5:08:14 PM</Logout>
+  </User>
+  <User id="8">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/19/2010 1:44:06 PM</Login>
+    <Logout>8/19/2010 1:45:56 PM</Logout>
+  </User>
+  <User id="9">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/20/2010 11:44:25 AM</Login>
+    <Logout>8/20/2010 11:51:55 AM</Logout>
+  </User>
+  <User id="10">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/24/2010 2:13:20 PM</Login>
+    <Logout>8/24/2010 3:31:26 PM</Logout>
+  </User>
+  <User id="11">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/26/2010 10:15:18 AM</Login>
+    <Logout>8/26/2010 11:33:32 AM</Logout>
+  </User>
+  <User id="12">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/27/2010 3:03:13 PM</Login>
+    <Logout>8/27/2010 4:37:05 PM</Logout>
+  </User>
+  <User id="13">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/30/2010 11:20:48 AM</Login>
+    <Logout>8/30/2010 11:28:16 AM</Logout>
+  </User>
+  <User id="14">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/30/2010 11:41:07 AM</Login>
+    <Logout>8/30/2010 11:45:09 AM</Logout>
+  </User>
+  <User id="15">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/31/2010 8:20:11 AM</Login>
+    <Logout>8/31/2010 8:33:28 AM</Logout>
+  </User>
+  <User id="16">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/31/2010 1:55:24 PM</Login>
+    <Logout>8/31/2010 2:17:11 PM</Logout>
+  </User>
+  <User id="17">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/31/2010 2:49:37 PM</Login>
+    <Logout>8/31/2010 3:51:48 PM</Logout>
+  </User>
+  <User id="18">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/8/2010 9:12:42 AM</Login>
+    <Logout>9/8/2010 9:45:53 AM</Logout>
+  </User>
+  <User id="19">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/9/2010 10:33:56 AM</Login>
+    <Logout>9/9/2010 10:55:00 AM</Logout>
+  </User>
+  <User id="20">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/9/2010 11:33:53 AM</Login>
+    <Logout>9/9/2010 11:35:12 AM</Logout>
+  </User>
+  <User id="21">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/9/2010 2:33:35 PM</Login>
+    <Logout>9/9/2010 2:39:59 PM</Logout>
+  </User>
+  <User id="22">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/11/2010 10:48:07 AM</Login>
+    <Logout>9/11/2010 11:13:06 AM</Logout>
+  </User>
+  <User id="23">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/13/2010 3:54:23 PM</Login>
+    <Logout>9/13/2010 4:04:37 PM</Logout>
+  </User>
+  <User id="24">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/14/2010 9:45:15 AM</Login>
+    <Logout>9/14/2010 10:00:57 AM</Logout>
+  </User>
+  <User id="25">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/14/2010 2:08:35 PM</Login>
+    <Logout>9/14/2010 5:18:39 PM</Logout>
+  </User>
+  <User id="26">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/16/2010 11:48:15 AM</Login>
+    <Logout>9/16/2010 2:02:47 PM</Logout>
+  </User>
+  <User id="27">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/18/2010 9:18:51 AM</Login>
+    <Logout>9/18/2010 9:25:16 AM</Logout>
+  </User>
+  <User id="28">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/18/2010 9:40:46 AM</Login>
+    <Logout>9/18/2010 9:55:43 AM</Logout>
+  </User>
+  <User id="29">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/20/2010 8:44:41 AM</Login>
+    <Logout>9/20/2010 9:04:49 AM</Logout>
+  </User>
+  <User id="30">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/20/2010 9:57:04 AM</Login>
+    <Logout>9/20/2010 10:30:53 AM</Logout>
+  </User>
+  <User id="31">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/20/2010 2:58:22 PM</Login>
+    <Logout>9/20/2010 3:40:43 PM</Logout>
+  </User>
+  <User id="32">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/21/2010 8:31:28 AM</Login>
+    <Logout>9/21/2010 9:09:42 AM</Logout>
+  </User>
+  <User id="33">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/21/2010 9:19:18 AM</Login>
+    <Logout>9/21/2010 9:47:47 AM</Logout>
+  </User>
+  <User id="34">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/22/2010 8:49:51 AM</Login>
+    <Logout>9/22/2010 9:58:41 AM</Logout>
+  </User>
+  <User id="35">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/22/2010 10:05:00 AM</Login>
+    <Logout>9/22/2010 10:06:15 AM</Logout>
+  </User>
+  <User id="36">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/22/2010 10:12:03 AM</Login>
+    <Logout>9/22/2010 10:13:18 AM</Logout>
+  </User>
+  <User id="37">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/22/2010 11:26:54 AM</Login>
+    <Logout>9/22/2010 12:14:38 PM</Logout>
+  </User>
+  <User id="38">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/22/2010 2:44:02 PM</Login>
+    <Logout>9/22/2010 2:52:22 PM</Logout>
+  </User>
+  <User id="39">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/22/2010 4:17:39 PM</Login>
+    <Logout>9/22/2010 5:07:32 PM</Logout>
+  </User>
+  <User id="40">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/23/2010 9:52:53 AM</Login>
+    <Logout>9/23/2010 10:23:49 AM</Logout>
+  </User>
+  <User id="41">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/27/2010 2:40:51 PM</Login>
+    <Logout>9/27/2010 4:55:56 PM</Logout>
+  </User>
+  <User id="42">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/28/2010 10:55:23 AM</Login>
+    <Logout>9/28/2010 11:12:55 AM</Logout>
+  </User>
+  <User id="43">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/28/2010 4:04:23 PM</Login>
+    <Logout>9/28/2010 5:22:38 PM</Logout>
+  </User>
+  <User id="44">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/29/2010 9:04:34 AM</Login>
+    <Logout>9/29/2010 11:31:54 AM</Logout>
+  </User>
+  <User id="45">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/29/2010 11:34:46 AM</Login>
+    <Logout>9/29/2010 2:24:15 PM</Logout>
+  </User>
+  <User id="46">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/29/2010 2:22:02 PM</Login>
+    <Logout>9/29/2010 2:24:21 PM</Logout>
+  </User>
+  <User id="47">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/29/2010 2:28:20 PM</Login>
+    <Logout>9/29/2010 2:31:42 PM</Logout>
+  </User>
+  <User id="48">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/30/2010 8:28:30 AM</Login>
+    <Logout>9/30/2010 8:29:02 AM</Logout>
+  </User>
+  <User id="49">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/30/2010 9:16:10 AM</Login>
+    <Logout>9/30/2010 10:13:15 AM</Logout>
+  </User>
+  <User id="50">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/30/2010 10:21:48 AM</Login>
+    <Logout>9/30/2010 10:40:11 AM</Logout>
+  </User>
+  <User id="51">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/30/2010 11:21:16 AM</Login>
+    <Logout>9/30/2010 11:21:48 AM</Logout>
+  </User>
+  <User id="52">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/30/2010 3:00:34 PM</Login>
+    <Logout>9/30/2010 3:34:43 PM</Logout>
+  </User>
+  <User id="53">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/30/2010 4:15:44 PM</Login>
+    <Logout>9/30/2010 4:25:41 PM</Logout>
+  </User>
+  <User id="54">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/1/2010 11:24:19 AM</Login>
+    <Logout>10/1/2010 11:24:56 AM</Logout>
+  </User>
+  <User id="55">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/1/2010 11:25:01 AM</Login>
+    <Logout>10/1/2010 1:10:53 PM</Logout>
+  </User>
+  <User id="56">
+    <TenUser>hbt</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/4/2010 8:39:17 AM</Login>
+    <Logout>10/4/2010 8:40:56 AM</Logout>
+  </User>
+  <User id="57">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/4/2010 10:11:48 AM</Login>
+    <Logout>10/4/2010 10:13:32 AM</Logout>
+  </User>
+  <User id="58">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/7/2010 4:07:58 PM</Login>
+    <Logout>10/7/2010 4:16:05 PM</Logout>
+  </User>
+  <User id="59">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/8/2010 10:02:28 AM</Login>
+    <Logout>10/8/2010 10:05:34 AM</Logout>
+  </User>
+  <User id="60">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/11/2010 2:38:18 PM</Login>
+    <Logout>10/11/2010 3:59:29 PM</Logout>
+  </User>
+  <User id="61">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/13/2010 10:23:02 AM</Login>
+    <Logout>10/13/2010 10:58:04 AM</Logout>
+  </User>
+  <User id="62">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/14/2010 11:15:50 AM</Login>
+    <Logout>10/14/2010 11:36:26 AM</Logout>
+  </User>
+  <User id="63">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/14/2010 5:16:10 PM</Login>
+    <Logout>10/14/2010 5:25:06 PM</Logout>
+  </User>
+  <User id="64">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/15/2010 10:08:13 AM</Login>
+    <Logout>10/15/2010 10:34:16 AM</Logout>
+  </User>
+  <User id="65">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/15/2010 11:22:30 AM</Login>
+    <Logout>10/15/2010 11:37:33 AM</Logout>
+  </User>
+  <User id="66">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/16/2010 10:24:23 AM</Login>
+    <Logout>10/16/2010 11:07:37 AM</Logout>
+  </User>
+  <User id="67">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/21/2010 10:48:01 AM</Login>
+    <Logout>10/21/2010 11:46:23 AM</Logout>
+  </User>
+  <User id="68">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/21/2010 4:42:47 PM</Login>
+    <Logout>10/21/2010 5:14:58 PM</Logout>
+  </User>
+  <User id="69">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/22/2010 4:39:01 PM</Login>
+    <Logout>10/22/2010 5:01:18 PM</Logout>
+  </User>
+  <User id="70">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/25/2010 2:40:08 PM</Login>
+    <Logout>10/25/2010 4:19:32 PM</Logout>
+  </User>
+  <User id="71">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/26/2010 11:21:27 AM</Login>
+    <Logout>10/26/2010 11:22:31 AM</Logout>
+  </User>
+  <User id="72">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/28/2010 2:49:09 PM</Login>
+    <Logout>10/28/2010 4:21:57 PM</Logout>
+  </User>
+  <User id="73">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/29/2010 4:14:11 PM</Login>
+    <Logout>10/29/2010 4:27:16 PM</Logout>
+  </User>
+  <User id="74">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/1/2010 9:26:44 AM</Login>
+    <Logout>11/1/2010 10:47:37 AM</Logout>
+  </User>
+  <User id="75">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/2/2010 9:54:22 AM</Login>
+    <Logout>11/2/2010 10:10:39 AM</Logout>
+  </User>
+  <User id="76">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/2/2010 10:12:45 AM</Login>
+    <Logout>11/2/2010 10:23:48 AM</Logout>
+  </User>
+  <User id="77">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/2/2010 2:08:02 PM</Login>
+    <Logout>11/2/2010 2:11:28 PM</Logout>
+  </User>
+  <User id="78">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/2/2010 3:53:09 PM</Login>
+    <Logout>11/2/2010 3:53:47 PM</Logout>
+  </User>
+  <User id="79">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/2/2010 3:57:47 PM</Login>
+    <Logout>11/2/2010 4:14:50 PM</Logout>
+  </User>
+  <User id="80">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/3/2010 9:11:18 AM</Login>
+    <Logout>11/3/2010 9:18:00 AM</Logout>
+  </User>
+  <User id="81">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/3/2010 2:10:16 PM</Login>
+    <Logout>11/3/2010 2:17:16 PM</Logout>
+  </User>
+  <User id="82">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/5/2010 1:56:00 PM</Login>
+    <Logout>11/5/2010 2:49:19 PM</Logout>
+  </User>
+  <User id="83">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/5/2010 2:52:18 PM</Login>
+    <Logout>11/5/2010 2:53:28 PM</Logout>
+  </User>
+  <User id="84">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/5/2010 4:36:11 PM</Login>
+    <Logout>11/5/2010 4:38:31 PM</Logout>
+  </User>
+  <User id="85">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/8/2010 9:11:35 AM</Login>
+    <Logout>11/8/2010 9:20:08 AM</Logout>
+  </User>
+  <User id="86">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/8/2010 9:29:53 AM</Login>
+    <Logout>11/8/2010 9:30:26 AM</Logout>
+  </User>
+  <User id="87">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/8/2010 9:50:15 AM</Login>
+    <Logout>11/8/2010 11:43:46 AM</Logout>
+  </User>
+  <User id="88">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/8/2010 2:59:56 PM</Login>
+    <Logout>11/8/2010 3:25:23 PM</Logout>
+  </User>
+  <User id="89">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/9/2010 4:22:53 PM</Login>
+    <Logout>11/9/2010 4:29:35 PM</Logout>
+  </User>
+  <User id="90">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/10/2010 8:34:30 AM</Login>
+    <Logout>11/10/2010 8:36:23 AM</Logout>
+  </User>
+  <User id="91">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/10/2010 9:21:46 AM</Login>
+    <Logout>11/10/2010 9:23:28 AM</Logout>
+  </User>
+  <User id="92">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/10/2010 9:47:53 AM</Login>
+    <Logout>11/10/2010 9:48:55 AM</Logout>
+  </User>
+  <User id="93">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/10/2010 4:57:49 PM</Login>
+    <Logout>11/10/2010 5:02:28 PM</Logout>
+  </User>
+  <User id="94">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/11/2010 8:54:19 AM</Login>
+    <Logout>11/11/2010 9:22:31 AM</Logout>
+  </User>
+  <User id="95">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/11/2010 10:58:34 AM</Login>
+    <Logout>11/11/2010 11:06:15 AM</Logout>
+  </User>
+  <User id="96">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/11/2010 3:06:56 PM</Login>
+    <Logout>11/11/2010 3:44:53 PM</Logout>
+  </User>
+  <User id="97">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/12/2010 9:28:32 AM</Login>
+    <Logout>11/12/2010 9:30:22 AM</Logout>
+  </User>
+  <User id="98">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/12/2010 9:58:43 AM</Login>
+    <Logout>11/12/2010 10:01:20 AM</Logout>
+  </User>
+  <User id="99">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/12/2010 4:12:08 PM</Login>
+    <Logout>11/12/2010 4:25:12 PM</Logout>
+  </User>
+  <User id="100">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/15/2010 4:34:34 PM</Login>
+    <Logout>11/15/2010 4:45:22 PM</Logout>
+  </User>
+  <User id="101">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/15/2010 5:05:56 PM</Login>
+    <Logout>11/15/2010 5:16:56 PM</Logout>
+  </User>
+  <User id="102">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/16/2010 8:45:08 AM</Login>
+    <Logout>11/16/2010 8:52:55 AM</Logout>
+  </User>
+  <User id="103">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/16/2010 3:09:33 PM</Login>
+    <Logout>11/16/2010 3:18:03 PM</Logout>
+  </User>
+  <User id="104">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/16/2010 3:57:22 PM</Login>
+    <Logout>11/16/2010 5:31:04 PM</Logout>
+  </User>
+  <User id="105">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/17/2010 8:28:00 AM</Login>
+    <Logout>11/17/2010 5:23:27 PM</Logout>
+  </User>
+  <User id="106">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/18/2010 8:55:13 AM</Login>
+    <Logout>11/18/2010 9:21:46 AM</Logout>
+  </User>
+  <User id="107">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/18/2010 3:06:50 PM</Login>
+    <Logout>11/18/2010 3:20:38 PM</Logout>
+  </User>
+  <User id="108">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/18/2010 3:55:13 PM</Login>
+    <Logout>11/18/2010 5:22:22 PM</Logout>
+  </User>
+  <User id="109">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/19/2010 3:52:58 PM</Login>
+    <Logout>11/19/2010 4:03:29 PM</Logout>
+  </User>
+  <User id="110">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/20/2010 8:47:04 AM</Login>
+    <Logout>11/20/2010 8:49:38 AM</Logout>
+  </User>
+  <User id="111">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/20/2010 8:54:02 AM</Login>
+    <Logout>11/20/2010 8:56:26 AM</Logout>
+  </User>
+  <User id="112">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/20/2010 9:31:07 AM</Login>
+    <Logout>11/20/2010 10:37:25 AM</Logout>
+  </User>
+  <User id="113">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/21/2010 9:00:38 AM</Login>
+    <Logout>11/21/2010 9:10:29 AM</Logout>
+  </User>
+  <User id="114">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/21/2010 10:18:49 AM</Login>
+    <Logout>11/21/2010 12:26:54 PM</Logout>
+  </User>
+  <User id="115">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/22/2010 9:32:02 AM</Login>
+    <Logout>11/22/2010 9:33:04 AM</Logout>
+  </User>
+  <User id="116">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/22/2010 10:46:02 AM</Login>
+    <Logout>11/22/2010 11:00:07 AM</Logout>
+  </User>
+  <User id="117">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/22/2010 3:40:01 PM</Login>
+    <Logout>11/22/2010 3:51:29 PM</Logout>
+  </User>
+  <User id="118">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/24/2010 11:31:47 AM</Login>
+    <Logout>11/24/2010 11:32:28 AM</Logout>
+  </User>
+  <User id="119">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/24/2010 11:33:17 AM</Login>
+    <Logout>11/24/2010 12:17:21 PM</Logout>
+  </User>
+  <User id="120">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/25/2010 9:00:36 AM</Login>
+    <Logout>11/25/2010 3:10:47 PM</Logout>
+  </User>
+  <User id="121">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/27/2010 11:21:27 AM</Login>
+    <Logout>11/27/2010 11:31:50 AM</Logout>
+  </User>
+  <User id="122">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/27/2010 7:37:11 PM</Login>
+    <Logout>11/27/2010 11:43:47 PM</Logout>
+  </User>
+  <User id="123">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2010 12:32:25 AM</Login>
+    <Logout>11/29/2010 12:37:17 AM</Logout>
+  </User>
+  <User id="124">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2010 12:40:55 AM</Login>
+    <Logout>11/29/2010 1:03:33 AM</Logout>
+  </User>
+  <User id="125">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2010 9:07:04 AM</Login>
+    <Logout>11/29/2010 9:10:45 AM</Logout>
+  </User>
+  <User id="126">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2010 9:19:20 AM</Login>
+    <Logout>11/29/2010 9:26:51 AM</Logout>
+  </User>
+  <User id="127">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2010 10:26:55 AM</Login>
+    <Logout>11/29/2010 10:51:07 AM</Logout>
+  </User>
+  <User id="128">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2010 11:38:29 AM</Login>
+    <Logout>11/29/2010 11:42:15 AM</Logout>
+  </User>
+  <User id="129">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2010 3:03:29 PM</Login>
+    <Logout>11/29/2010 5:15:55 PM</Logout>
+  </User>
+  <User id="130">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/30/2010 9:32:09 AM</Login>
+    <Logout>11/30/2010 1:53:59 PM</Logout>
+  </User>
+  <User id="131">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/30/2010 4:46:53 PM</Login>
+    <Logout>11/30/2010 4:57:53 PM</Logout>
+  </User>
+  <User id="132">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/1/2010 12:23:14 PM</Login>
+    <Logout>12/1/2010 12:27:03 PM</Logout>
+  </User>
+  <User id="133">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/1/2010 1:55:53 PM</Login>
+    <Logout>12/1/2010 2:26:02 PM</Logout>
+  </User>
+  <User id="134">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/2/2010 8:35:54 AM</Login>
+    <Logout>12/2/2010 8:38:11 AM</Logout>
+  </User>
+  <User id="135">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/2/2010 10:19:45 AM</Login>
+    <Logout>12/2/2010 10:25:04 AM</Logout>
+  </User>
+  <User id="136">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/3/2010 10:59:14 AM</Login>
+    <Logout>12/3/2010 11:52:35 AM</Logout>
+  </User>
+  <User id="137">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/3/2010 1:54:46 PM</Login>
+    <Logout>12/3/2010 2:00:44 PM</Logout>
+  </User>
+  <User id="138">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/3/2010 2:52:22 PM</Login>
+    <Logout>12/3/2010 4:03:53 PM</Logout>
+  </User>
+  <User id="139">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/6/2010 2:57:25 PM</Login>
+    <Logout>12/6/2010 3:13:17 PM</Logout>
+  </User>
+  <User id="140">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/8/2010 4:14:20 PM</Login>
+    <Logout>12/8/2010 4:34:36 PM</Logout>
+  </User>
+  <User id="141">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/9/2010 4:04:49 PM</Login>
+    <Logout>12/9/2010 5:22:26 PM</Logout>
+  </User>
+  <User id="142">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/10/2010 8:49:31 AM</Login>
+    <Logout>12/10/2010 4:41:26 PM</Logout>
+  </User>
+  <User id="143">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/10/2010 5:00:15 PM</Login>
+    <Logout>12/10/2010 5:11:52 PM</Logout>
+  </User>
+  <User id="144">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/11/2010 9:14:40 AM</Login>
+    <Logout>12/11/2010 9:43:38 AM</Logout>
+  </User>
+  <User id="145">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/11/2010 10:51:58 AM</Login>
+    <Logout>12/11/2010 11:09:06 AM</Logout>
+  </User>
+  <User id="146">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/13/2010 9:10:48 AM</Login>
+    <Logout>12/13/2010 9:12:02 AM</Logout>
+  </User>
+  <User id="147">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/13/2010 9:21:26 AM</Login>
+    <Logout>12/13/2010 9:22:32 AM</Logout>
+  </User>
+  <User id="148">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/13/2010 9:28:49 AM</Login>
+    <Logout>12/13/2010 9:31:45 AM</Logout>
+  </User>
+  <User id="149">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/13/2010 3:52:06 PM</Login>
+    <Logout>12/13/2010 3:57:33 PM</Logout>
+  </User>
+  <User id="150">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/13/2010 4:36:59 PM</Login>
+    <Logout>12/13/2010 4:40:56 PM</Logout>
+  </User>
+  <User id="151">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/14/2010 4:12:43 PM</Login>
+    <Logout>12/14/2010 4:56:40 PM</Logout>
+  </User>
+  <User id="152">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/15/2010 8:36:53 AM</Login>
+    <Logout>12/15/2010 3:10:04 PM</Logout>
+  </User>
+  <User id="153">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/16/2010 3:20:58 PM</Login>
+    <Logout>12/16/2010 4:50:44 PM</Logout>
+  </User>
+  <User id="154">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/20/2010 11:18:49 AM</Login>
+    <Logout>12/20/2010 11:20:49 AM</Logout>
+  </User>
+  <User id="155">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/20/2010 4:08:35 PM</Login>
+    <Logout>12/20/2010 4:09:59 PM</Logout>
+  </User>
+  <User id="156">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/21/2010 5:08:54 PM</Login>
+    <Logout>12/21/2010 5:29:27 PM</Logout>
+  </User>
+  <User id="157">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/22/2010 8:33:16 AM</Login>
+    <Logout>12/22/2010 9:18:03 AM</Logout>
+  </User>
+  <User id="158">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/22/2010 9:36:31 AM</Login>
+    <Logout>12/22/2010 10:56:45 AM</Logout>
+  </User>
+  <User id="159">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/22/2010 3:50:17 PM</Login>
+    <Logout>12/22/2010 3:58:14 PM</Logout>
+  </User>
+  <User id="160">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/22/2010 4:29:41 PM</Login>
+    <Logout>12/22/2010 4:44:26 PM</Logout>
+  </User>
+  <User id="161">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/23/2010 4:02:46 PM</Login>
+    <Logout>12/23/2010 5:10:39 PM</Logout>
+  </User>
+  <User id="162">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/24/2010 9:14:27 AM</Login>
+    <Logout>12/24/2010 9:31:47 AM</Logout>
+  </User>
+  <User id="163">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/27/2010 11:26:12 AM</Login>
+    <Logout>12/27/2010 11:52:46 AM</Logout>
+  </User>
+  <User id="164">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/29/2010 9:08:52 AM</Login>
+    <Logout>12/29/2010 9:52:55 AM</Logout>
+  </User>
+  <User id="165">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/29/2010 10:53:21 AM</Login>
+    <Logout>12/29/2010 11:15:13 AM</Logout>
+  </User>
+  <User id="166">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/5/2011 9:10:51 AM</Login>
+    <Logout>1/5/2011 10:01:36 AM</Logout>
+  </User>
+  <User id="167">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/5/2011 3:11:15 PM</Login>
+    <Logout>1/5/2011 3:19:07 PM</Logout>
+  </User>
+  <User id="168">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/5/2011 4:04:18 PM</Login>
+    <Logout>1/5/2011 4:50:07 PM</Logout>
+  </User>
+  <User id="169">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/6/2011 9:23:06 AM</Login>
+    <Logout>1/6/2011 11:25:11 AM</Logout>
+  </User>
+  <User id="170">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/7/2011 11:47:15 AM</Login>
+    <Logout>1/7/2011 2:08:54 PM</Logout>
+  </User>
+  <User id="171">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/10/2011 3:54:59 PM</Login>
+    <Logout>1/10/2011 4:02:58 PM</Logout>
+  </User>
+  <User id="172">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/11/2011 10:21:57 AM</Login>
+    <Logout>1/11/2011 10:29:32 AM</Logout>
+  </User>
+  <User id="173">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/12/2011 9:08:39 AM</Login>
+    <Logout>1/12/2011 10:47:25 AM</Logout>
+  </User>
+  <User id="174">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/12/2011 10:52:15 AM</Login>
+    <Logout>1/12/2011 11:33:53 AM</Logout>
+  </User>
+  <User id="175">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/29/2011 10:22:17 AM</Login>
+    <Logout>1/29/2011 10:47:20 AM</Logout>
+  </User>
+  <User id="176">
+    <TenUser>bode</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/14/2011 8:50:45 AM</Login>
+    <Logout>2/14/2011 8:54:18 AM</Logout>
+  </User>
+  <User id="177">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/23/2011 5:19:40 PM</Login>
+    <Logout>2/23/2011 5:23:35 PM</Logout>
+  </User>
+  <User id="178">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/24/2011 10:43:10 AM</Login>
+    <Logout>2/24/2011 10:46:23 AM</Logout>
+  </User>
+  <User id="179">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/25/2011 4:42:11 PM</Login>
+    <Logout>2/25/2011 5:08:36 PM</Logout>
+  </User>
+  <User id="180">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/9/2011 8:45:17 AM</Login>
+    <Logout>3/9/2011 9:11:04 AM</Logout>
+  </User>
+  <User id="181">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/9/2011 9:20:58 AM</Login>
+    <Logout>3/9/2011 10:02:58 AM</Logout>
+  </User>
+  <User id="182">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/10/2011 10:19:52 AM</Login>
+    <Logout>3/10/2011 10:27:13 AM</Logout>
+  </User>
+  <User id="183">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/10/2011 2:58:54 PM</Login>
+    <Logout>3/10/2011 5:18:06 PM</Logout>
+  </User>
+  <User id="184">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/14/2011 3:41:16 PM</Login>
+    <Logout>3/14/2011 4:15:30 PM</Logout>
+  </User>
+  <User id="185">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/22/2011 9:53:31 AM</Login>
+    <Logout>3/22/2011 10:00:09 AM</Logout>
+  </User>
+  <User id="186">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/22/2011 10:47:58 AM</Login>
+    <Logout>3/22/2011 10:55:29 AM</Logout>
+  </User>
+  <User id="187">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/23/2011 9:20:16 AM</Login>
+    <Logout>3/23/2011 9:21:09 AM</Logout>
+  </User>
+  <User id="188">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/23/2011 3:21:50 PM</Login>
+    <Logout>3/23/2011 3:58:39 PM</Logout>
+  </User>
+  <User id="189">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/24/2011 4:27:31 PM</Login>
+    <Logout>3/24/2011 4:39:16 PM</Logout>
+  </User>
+  <User id="190">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/29/2011 10:19:20 AM</Login>
+    <Logout>3/29/2011 10:25:24 AM</Logout>
+  </User>
+  <User id="191">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/29/2011 2:27:45 PM</Login>
+    <Logout>3/29/2011 2:39:35 PM</Logout>
+  </User>
+  <User id="192">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/29/2011 3:10:32 PM</Login>
+    <Logout>3/29/2011 3:23:00 PM</Logout>
+  </User>
+  <User id="193">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/4/2011 3:40:11 PM</Login>
+    <Logout>4/4/2011 3:41:16 PM</Logout>
+  </User>
+  <User id="194">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/4/2011 4:02:37 PM</Login>
+    <Logout>4/4/2011 4:48:27 PM</Logout>
+  </User>
+  <User id="195">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/7/2011 10:51:09 AM</Login>
+    <Logout>4/7/2011 10:52:24 AM</Logout>
+  </User>
+  <User id="196">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/7/2011 3:36:45 PM</Login>
+    <Logout>4/7/2011 3:39:28 PM</Logout>
+  </User>
+  <User id="197">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/8/2011 10:57:24 AM</Login>
+    <Logout>4/8/2011 12:03:14 PM</Logout>
+  </User>
+  <User id="198">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/8/2011 2:11:16 PM</Login>
+    <Logout>4/8/2011 2:13:37 PM</Logout>
+  </User>
+  <User id="199">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/11/2010 9:12:12 AM</Login>
+    <Logout>4/11/2010 9:15:35 AM</Logout>
+  </User>
+  <User id="200">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/11/2010 9:19:52 AM</Login>
+    <Logout>4/11/2010 10:11:58 AM</Logout>
+  </User>
+  <User id="201">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/19/2010 4:31:33 PM</Login>
+    <Logout>4/19/2010 5:19:00 PM</Logout>
+  </User>
+  <User id="202">
+    <TenUser>giangbien</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>4/22/2011 12:40:06 PM</Login>
+    <Logout>4/22/2011 1:52:12 PM</Logout>
+  </User>
+  <User id="203">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/24/2011 10:08:11 AM</Login>
+    <Logout>4/24/2011 10:10:56 AM</Logout>
+  </User>
+  <User id="204">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/26/2011 2:51:32 PM</Login>
+    <Logout>4/26/2011 2:53:00 PM</Logout>
+  </User>
+  <User id="205">
+    <TenUser>bode</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>4/26/2011 4:26:26 PM</Login>
+    <Logout>4/26/2011 4:29:55 PM</Logout>
+  </User>
+  <User id="206">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/27/2011 12:12:10 AM</Login>
+    <Logout>4/27/2011 12:15:00 AM</Logout>
+  </User>
+  <User id="207">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/27/2011 9:41:13 AM</Login>
+    <Logout>4/27/2011 9:43:36 AM</Logout>
+  </User>
+  <User id="208">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/27/2011 10:04:44 AM</Login>
+    <Logout>4/27/2011 11:56:32 AM</Logout>
+  </User>
+  <User id="209">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/30/2011 10:44:35 AM</Login>
+    <Logout>4/30/2011 10:51:18 AM</Logout>
+  </User>
+  <User id="210">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/6/2011 5:03:48 PM</Login>
+    <Logout>5/6/2011 5:09:28 PM</Logout>
+  </User>
+  <User id="211">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/9/2011 9:34:37 AM</Login>
+    <Logout>5/9/2011 9:36:06 AM</Logout>
+  </User>
+  <User id="212">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/9/2011 9:37:34 AM</Login>
+    <Logout>5/9/2011 9:47:15 AM</Logout>
+  </User>
+  <User id="213">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/9/2011 9:54:06 AM</Login>
+    <Logout>5/9/2011 9:57:17 AM</Logout>
+  </User>
+  <User id="214">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/9/2011 10:49:10 AM</Login>
+    <Logout>5/9/2011 11:17:22 AM</Logout>
+  </User>
+  <User id="215">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/10/2011 9:54:53 AM</Login>
+    <Logout>5/10/2011 9:56:04 AM</Logout>
+  </User>
+  <User id="216">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/10/2011 10:43:38 AM</Login>
+    <Logout>5/10/2011 10:46:03 AM</Logout>
+  </User>
+  <User id="217">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/10/2011 11:08:10 AM</Login>
+    <Logout>5/10/2011 11:15:31 AM</Logout>
+  </User>
+  <User id="218">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/10/2011 11:16:44 AM</Login>
+    <Logout>5/10/2011 11:17:30 AM</Logout>
+  </User>
+  <User id="219">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/10/2011 12:12:45 PM</Login>
+    <Logout>5/10/2011 1:14:45 PM</Logout>
+  </User>
+  <User id="220">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/10/2011 1:17:33 PM</Login>
+    <Logout>5/10/2011 1:19:07 PM</Logout>
+  </User>
+  <User id="221">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/10/2011 1:29:28 PM</Login>
+    <Logout>5/10/2011 2:37:33 PM</Logout>
+  </User>
+  <User id="222">
+    <TenUser>cukhoi</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>5/11/2011 4:19:01 AM</Login>
+    <Logout>5/11/2011 4:19:44 AM</Logout>
+  </User>
+  <User id="223">
+    <TenUser>viethung</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>5/11/2011 4:29:45 AM</Login>
+    <Logout>5/11/2011 4:32:17 AM</Logout>
+  </User>
+  <User id="224">
+    <TenUser>giathuy</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>4/18/2011 5:19:33 AM</Login>
+    <Logout>4/18/2011 5:25:44 AM</Logout>
+  </User>
+  <User id="225">
+    <TenUser>giathuy</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>4/18/2011 9:19:36 PM</Login>
+    <Logout>4/18/2011 11:57:16 PM</Logout>
+  </User>
+  <User id="226">
+    <TenUser>giathuy</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>4/19/2011 12:35:25 AM</Login>
+    <Logout>4/19/2011 12:39:25 AM</Logout>
+  </User>
+  <User id="227">
+    <TenUser>giathuy</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>4/19/2011 4:28:14 AM</Login>
+    <Logout>4/19/2011 5:15:18 AM</Logout>
+  </User>
+  <User id="228">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/19/2011 8:49:39 PM</Login>
+    <Logout>4/19/2011 8:59:18 PM</Logout>
+  </User>
+  <User id="229">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/20/2011 11:42:49 PM</Login>
+    <Logout>4/21/2011 12:11:37 AM</Logout>
+  </User>
+  <User id="230">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/21/2011 1:51:44 AM</Login>
+    <Logout>4/21/2011 1:54:11 AM</Logout>
+  </User>
+  <User id="231">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/21/2011 2:00:32 AM</Login>
+    <Logout>4/21/2011 5:13:01 AM</Logout>
+  </User>
+  <User id="232">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/21/2011 9:43:03 PM</Login>
+    <Logout>4/21/2011 11:04:34 PM</Logout>
+  </User>
+  <User id="233">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/24/2011 4:03:34 AM</Login>
+    <Logout>4/24/2011 4:24:03 AM</Logout>
+  </User>
+  <User id="234">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/25/2011 3:07:28 AM</Login>
+    <Logout>4/25/2011 3:15:17 AM</Logout>
+  </User>
+  <User id="235">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/25/2011 3:35:48 AM</Login>
+    <Logout>4/25/2011 4:17:34 AM</Logout>
+  </User>
+  <User id="236">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/25/2011 4:56:02 AM</Login>
+    <Logout>4/25/2011 5:00:04 AM</Logout>
+  </User>
+  <User id="237">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/25/2011 5:03:17 AM</Login>
+    <Logout>4/25/2011 5:05:03 AM</Logout>
+  </User>
+  <User id="238">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/25/2011 5:19:38 AM</Login>
+    <Logout>4/25/2011 5:22:04 AM</Logout>
+  </User>
+  <User id="239">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/26/2011 3:17:33 PM</Login>
+    <Logout>5/26/2011 3:25:34 PM</Logout>
+  </User>
+  <User id="240">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/27/2011 4:57:38 PM</Login>
+    <Logout>5/27/2011 5:13:56 PM</Logout>
+  </User>
+  <User id="241">
+    <TenUser>thachban</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>5/30/2011 2:01:58 AM</Login>
+    <Logout>5/30/2011 2:15:41 AM</Logout>
+  </User>
+  <User id="242">
+    <TenUser>phucloi</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>5/30/2011 10:02:14 AM</Login>
+    <Logout>5/30/2011 10:06:11 AM</Logout>
+  </User>
+  <User id="243">
+    <TenUser>phucloi</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>5/30/2011 10:09:55 AM</Login>
+    <Logout>5/30/2011 11:15:11 AM</Logout>
+  </User>
+  <User id="244">
+    <TenUser>phucloi</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>5/30/2011 1:17:44 PM</Login>
+    <Logout>5/30/2011 1:22:07 PM</Logout>
+  </User>
+  <User id="245">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/2/2011 4:40:05 PM</Login>
+    <Logout>6/2/2011 5:08:03 PM</Logout>
+  </User>
+  <User id="246">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/3/2011 9:45:28 AM</Login>
+    <Logout>6/3/2011 10:21:19 AM</Logout>
+  </User>
+  <User id="247">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/3/2011 10:59:42 AM</Login>
+    <Logout>6/3/2011 1:59:40 PM</Logout>
+  </User>
+  <User id="248">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/3/2011 2:01:45 PM</Login>
+    <Logout>6/3/2011 4:13:22 PM</Logout>
+  </User>
+  <User id="249">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/4/2011 8:30:04 AM</Login>
+    <Logout>6/4/2011 8:51:49 AM</Logout>
+  </User>
+  <User id="250">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/6/2011 10:54:31 AM</Login>
+    <Logout>6/6/2011 10:56:07 AM</Logout>
+  </User>
+  <User id="251">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/6/2011 11:10:20 AM</Login>
+    <Logout>6/6/2011 11:11:36 AM</Logout>
+  </User>
+  <User id="252">
+    <TenUser>ngocthuy</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>6/7/2011 11:12:17 AM</Login>
+    <Logout>6/7/2011 11:15:02 AM</Logout>
+  </User>
+  <User id="253">
+    <TenUser>ngocthuy</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>6/7/2011 11:41:17 AM</Login>
+    <Logout>6/7/2011 12:17:59 PM</Logout>
+  </User>
+  <User id="254">
+    <TenUser>ducgiang</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>6/7/2011 3:40:19 PM</Login>
+    <Logout>6/7/2011 3:46:57 PM</Logout>
+  </User>
+  <User id="255">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/7/2011 4:48:42 PM</Login>
+    <Logout>6/7/2011 5:11:33 PM</Logout>
+  </User>
+  <User id="256">
+    <TenUser>giathuy</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>6/8/2011 3:58:14 PM</Login>
+    <Logout>6/8/2011 3:59:54 PM</Logout>
+  </User>
+  <User id="257">
+    <TenUser>giathuy</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>6/9/2011 9:40:38 AM</Login>
+    <Logout>6/9/2011 9:48:31 AM</Logout>
+  </User>
+  <User id="258">
+    <TenUser>giathuy</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>6/9/2011 2:53:25 PM</Login>
+    <Logout>6/9/2011 2:55:54 PM</Logout>
+  </User>
+  <User id="259">
+    <TenUser>HoangMai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/9/2011 3:52:15 PM</Login>
+    <Logout>6/9/2011 4:06:22 PM</Logout>
+  </User>
+  <User id="260">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/10/2011 8:56:57 AM</Login>
+    <Logout>6/10/2011 9:04:22 AM</Logout>
+  </User>
+  <User id="261">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/10/2011 10:09:27 AM</Login>
+    <Logout>6/10/2011 12:22:24 PM</Logout>
+  </User>
+  <User id="262">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/10/2011 5:01:22 PM</Login>
+    <Logout>6/10/2011 5:20:24 PM</Logout>
+  </User>
+  <User id="263">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/11/2011 9:25:18 AM</Login>
+    <Logout>6/11/2011 9:27:43 AM</Logout>
+  </User>
+  <User id="264">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/11/2011 10:39:35 AM</Login>
+    <Logout>6/11/2011 10:44:19 AM</Logout>
+  </User>
+  <User id="265">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/13/2011 9:48:10 AM</Login>
+    <Logout>6/13/2011 10:10:48 AM</Logout>
+  </User>
+  <User id="266">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/14/2011 9:28:22 AM</Login>
+    <Logout>6/14/2011 9:30:14 AM</Logout>
+  </User>
+  <User id="267">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/17/2011 9:37:55 AM</Login>
+    <Logout>6/17/2011 9:41:58 AM</Logout>
+  </User>
+  <User id="268">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/18/2011 9:53:14 AM</Login>
+    <Logout>6/18/2011 11:24:33 AM</Logout>
+  </User>
+  <User id="269">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/21/2011 8:32:05 AM</Login>
+    <Logout>6/21/2011 2:26:45 PM</Logout>
+  </User>
+  <User id="270">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/21/2011 4:36:18 PM</Login>
+    <Logout>6/21/2011 4:56:19 PM</Logout>
+  </User>
+  <User id="271">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/22/2011 2:03:29 PM</Login>
+    <Logout>6/22/2011 2:12:35 PM</Logout>
+  </User>
+  <User id="272">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/23/2011 1:48:56 PM</Login>
+    <Logout>6/23/2011 1:50:30 PM</Logout>
+  </User>
+  <User id="273">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/24/2011 9:19:15 AM</Login>
+    <Logout>6/24/2011 9:19:52 AM</Logout>
+  </User>
+  <User id="274">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/27/2011 4:12:41 PM</Login>
+    <Logout>7/6/2011 4:21:26 PM</Logout>
+  </User>
+  <User id="275">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/28/2011 2:44:56 PM</Login>
+    <Logout>6/28/2011 2:48:42 PM</Logout>
+  </User>
+  <User id="276">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/28/2011 3:00:23 PM</Login>
+    <Logout>7/7/2011 3:10:04 PM</Logout>
+  </User>
+  <User id="277">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/7/2011 3:40:52 PM</Login>
+    <Logout>7/7/2011 5:19:46 PM</Logout>
+  </User>
+  <User id="278">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/8/2011 8:40:16 AM</Login>
+    <Logout>7/8/2011 8:49:02 AM</Logout>
+  </User>
+  <User id="279">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/10/2011 9:01:43 AM</Login>
+    <Logout>7/10/2011 9:04:26 AM</Logout>
+  </User>
+  <User id="280">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/13/2011 2:43:32 PM</Login>
+    <Logout>7/13/2011 3:05:22 PM</Logout>
+  </User>
+  <User id="281">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/13/2011 10:11:30 PM</Login>
+    <Logout>7/13/2011 11:00:46 PM</Logout>
+  </User>
+  <User id="282">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/14/2011 8:14:00 AM</Login>
+    <Logout>7/14/2011 10:47:55 AM</Logout>
+  </User>
+  <User id="283">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/14/2011 8:16:30 AM</Login>
+    <Logout>7/14/2011 10:47:57 AM</Logout>
+  </User>
+  <User id="284">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/16/2011 3:11:40 PM</Login>
+    <Logout>7/16/2011 3:43:43 PM</Logout>
+  </User>
+  <User id="285">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/18/2011 10:01:20 AM</Login>
+    <Logout>7/18/2011 10:05:47 AM</Logout>
+  </User>
+  <User id="286">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/19/2011 9:16:31 AM</Login>
+    <Logout>7/19/2011 9:23:27 AM</Logout>
+  </User>
+  <User id="287">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/19/2011 10:34:34 AM</Login>
+    <Logout>7/19/2011 10:51:51 AM</Logout>
+  </User>
+  <User id="288">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/20/2011 8:53:55 AM</Login>
+    <Logout>7/20/2011 9:06:53 AM</Logout>
+  </User>
+  <User id="289">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/20/2011 9:16:34 AM</Login>
+    <Logout>7/20/2011 9:32:11 AM</Logout>
+  </User>
+  <User id="290">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/7/2011 2:51:14 PM</Login>
+    <Logout>7/7/2011 3:48:32 PM</Logout>
+  </User>
+  <User id="291">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/11/2011 9:26:23 AM</Login>
+    <Logout>7/11/2011 9:27:01 AM</Logout>
+  </User>
+  <User id="292">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/11/2011 9:58:08 AM</Login>
+    <Logout>7/11/2011 9:59:26 AM</Logout>
+  </User>
+  <User id="293">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/11/2011 10:26:14 AM</Login>
+    <Logout>7/12/2011 11:00:35 AM</Logout>
+  </User>
+  <User id="294">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/12/2011 2:10:21 PM</Login>
+    <Logout>7/12/2011 3:58:40 PM</Logout>
+  </User>
+  <User id="295">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/12/2011 4:03:23 PM</Login>
+    <Logout>7/12/2011 5:09:51 PM</Logout>
+  </User>
+  <User id="296">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/12/2011 4:26:16 PM</Login>
+    <Logout>7/12/2011 4:32:11 PM</Logout>
+  </User>
+  <User id="297">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/14/2011 8:48:47 AM</Login>
+    <Logout>7/14/2011 9:03:39 AM</Logout>
+  </User>
+  <User id="298">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/15/2011 9:11:30 AM</Login>
+    <Logout>7/15/2011 9:12:31 AM</Logout>
+  </User>
+  <User id="299">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/17/2011 8:57:52 AM</Login>
+    <Logout>7/17/2011 9:21:20 AM</Logout>
+  </User>
+  <User id="300">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/17/2011 9:35:16 AM</Login>
+    <Logout>7/17/2011 10:17:47 AM</Logout>
+  </User>
+  <User id="301">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/21/2011 9:12:40 AM</Login>
+    <Logout>7/21/2011 9:24:17 AM</Logout>
+  </User>
+  <User id="302">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/22/2011 8:45:45 AM</Login>
+    <Logout>7/22/2011 9:09:35 AM</Logout>
+  </User>
+  <User id="303">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/23/2011 8:45:31 AM</Login>
+    <Logout>7/23/2011 9:36:13 AM</Logout>
+  </User>
+  <User id="304">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/26/2011 10:24:07 AM</Login>
+    <Logout>7/26/2011 3:11:26 PM</Logout>
+  </User>
+  <User id="305">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/28/2011 10:09:26 AM</Login>
+    <Logout>7/28/2011 10:27:31 AM</Logout>
+  </User>
+  <User id="306">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/5/2011 1:49:23 PM</Login>
+    <Logout>8/5/2011 2:02:22 PM</Logout>
+  </User>
+  <User id="307">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/5/2011 3:48:24 PM</Login>
+    <Logout>8/5/2011 4:00:22 PM</Logout>
+  </User>
+  <User id="308">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/6/2011 9:45:52 AM</Login>
+    <Logout>8/6/2011 9:57:08 AM</Logout>
+  </User>
+  <User id="309">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/6/2011 10:42:45 AM</Login>
+    <Logout>8/6/2011 11:00:23 AM</Logout>
+  </User>
+  <User id="310">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/9/2011 3:30:16 PM</Login>
+    <Logout>8/9/2011 3:31:14 PM</Logout>
+  </User>
+  <User id="311">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/9/2011 3:45:37 PM</Login>
+    <Logout>8/9/2011 4:00:49 PM</Logout>
+  </User>
+  <User id="312">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/9/2011 4:21:06 PM</Login>
+    <Logout>8/9/2011 4:22:12 PM</Logout>
+  </User>
+  <User id="313">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/9/2011 4:45:51 PM</Login>
+    <Logout>8/9/2011 4:51:24 PM</Logout>
+  </User>
+  <User id="314">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/11/2011 2:31:27 PM</Login>
+    <Logout>8/11/2011 2:35:42 PM</Logout>
+  </User>
+  <User id="315">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/11/2011 3:06:14 PM</Login>
+    <Logout>8/11/2011 3:11:03 PM</Logout>
+  </User>
+  <User id="316">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/11/2011 3:19:59 PM</Login>
+    <Logout>8/11/2011 3:21:08 PM</Logout>
+  </User>
+  <User id="317">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/13/2011 10:50:43 AM</Login>
+    <Logout>8/13/2011 11:06:46 AM</Logout>
+  </User>
+  <User id="318">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/12/2011 3:17:40 PM</Login>
+    <Logout>8/12/2011 3:18:03 PM</Logout>
+  </User>
+  <User id="319">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/13/2011 9:23:23 AM</Login>
+    <Logout>8/13/2011 9:23:58 AM</Logout>
+  </User>
+  <User id="320">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/13/2011 9:29:13 AM</Login>
+    <Logout>8/13/2011 9:33:12 AM</Logout>
+  </User>
+  <User id="321">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/13/2011 10:03:24 AM</Login>
+    <Logout>8/13/2011 10:07:02 AM</Logout>
+  </User>
+  <User id="322">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/13/2011 10:18:00 AM</Login>
+    <Logout>8/13/2011 10:19:37 AM</Logout>
+  </User>
+  <User id="323">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/16/2011 8:48:21 AM</Login>
+    <Logout>8/16/2011 8:49:21 AM</Logout>
+  </User>
+  <User id="324">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/17/2011 3:24:58 PM</Login>
+    <Logout>8/17/2011 3:27:13 PM</Logout>
+  </User>
+  <User id="325">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/18/2011 3:34:23 PM</Login>
+    <Logout>8/18/2011 3:39:16 PM</Logout>
+  </User>
+  <User id="326">
+    <TenUser>hoangliet</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/19/2011 9:33:20 AM</Login>
+    <Logout>8/19/2011 10:48:40 AM</Logout>
+  </User>
+  <User id="327">
+    <TenUser>giapbat</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/19/2011 11:29:14 AM</Login>
+    <Logout>8/19/2011 11:42:22 AM</Logout>
+  </User>
+  <User id="328">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/19/2011 2:17:23 PM</Login>
+    <Logout>8/19/2011 2:34:26 PM</Logout>
+  </User>
+  <User id="329">
+    <TenUser>giapbat</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/19/2011 3:35:27 PM</Login>
+    <Logout>8/19/2011 3:45:31 PM</Logout>
+  </User>
+  <User id="330">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/19/2011 3:46:10 PM</Login>
+    <Logout>8/19/2011 3:51:44 PM</Logout>
+  </User>
+  <User id="331">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/19/2011 3:52:07 PM</Login>
+    <Logout>8/19/2011 4:19:13 PM</Logout>
+  </User>
+  <User id="332">
+    <TenUser>giapbat</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/19/2011 10:56:21 PM</Login>
+    <Logout>8/19/2011 10:58:15 PM</Logout>
+  </User>
+  <User id="333">
+    <TenUser>hoangliet</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/20/2011 2:12:36 PM</Login>
+    <Logout>8/20/2011 2:14:03 PM</Logout>
+  </User>
+  <User id="334">
+    <TenUser>hoangliet</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/20/2011 3:10:16 PM</Login>
+    <Logout>8/20/2011 3:12:54 PM</Logout>
+  </User>
+  <User id="335">
+    <TenUser>hoangliet</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/23/2011 11:36:06 AM</Login>
+    <Logout>8/23/2011 11:43:10 AM</Logout>
+  </User>
+  <User id="336">
+    <TenUser>hoangliet</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/23/2011 1:57:00 PM</Login>
+    <Logout>8/23/2011 2:15:31 PM</Logout>
+  </User>
+  <User id="337">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/23/2011 3:00:17 PM</Login>
+    <Logout>8/23/2011 3:06:27 PM</Logout>
+  </User>
+  <User id="338">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/23/2011 3:17:36 PM</Login>
+    <Logout>8/23/2011 3:24:20 PM</Logout>
+  </User>
+  <User id="339">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/23/2011 11:50:30 PM</Login>
+    <Logout>8/23/2011 11:56:20 PM</Logout>
+  </User>
+  <User id="340">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/24/2011 12:16:01 AM</Login>
+    <Logout>8/24/2011 12:17:26 AM</Logout>
+  </User>
+  <User id="341">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/24/2011 8:22:58 AM</Login>
+    <Logout>8/24/2011 8:23:44 AM</Logout>
+  </User>
+  <User id="342">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/24/2011 10:42:03 AM</Login>
+    <Logout>8/24/2011 11:35:25 AM</Logout>
+  </User>
+  <User id="343">
+    <TenUser>giapbat</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/24/2011 10:54:01 PM</Login>
+    <Logout>8/24/2011 11:33:16 PM</Logout>
+  </User>
+  <User id="344">
+    <TenUser>giapbat</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/25/2011 2:17:42 PM</Login>
+    <Logout>8/25/2011 2:28:01 PM</Logout>
+  </User>
+  <User id="345">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/25/2011 3:00:21 PM</Login>
+    <Logout>8/25/2011 3:12:17 PM</Logout>
+  </User>
+  <User id="346">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/26/2011 10:31:21 AM</Login>
+    <Logout>8/26/2011 10:37:14 AM</Logout>
+  </User>
+  <User id="347">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/26/2011 4:03:33 PM</Login>
+    <Logout>8/26/2011 4:52:17 PM</Logout>
+  </User>
+  <User id="348">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/27/2011 10:04:28 AM</Login>
+    <Logout>8/27/2011 10:06:53 AM</Logout>
+  </User>
+  <User id="349">
+    <TenUser>giapbat</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/27/2011 10:40:41 AM</Login>
+    <Logout>8/27/2011 10:45:37 AM</Logout>
+  </User>
+  <User id="350">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/27/2011 2:21:53 PM</Login>
+    <Logout>8/27/2011 2:31:12 PM</Logout>
+  </User>
+  <User id="351">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/31/2011 5:03:31 PM</Login>
+    <Logout>8/31/2011 5:07:29 PM</Logout>
+  </User>
+  <User id="352">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/8/2011 11:39:51 AM</Login>
+    <Logout>9/8/2011 2:13:44 PM</Logout>
+  </User>
+  <User id="353">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/8/2011 3:15:31 PM</Login>
+    <Logout>9/8/2011 3:31:15 PM</Logout>
+  </User>
+  <User id="354">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/14/2011 11:33:59 AM</Login>
+    <Logout>9/14/2011 11:36:28 AM</Logout>
+  </User>
+  <User id="355">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/14/2011 4:14:53 PM</Login>
+    <Logout>9/14/2011 4:21:19 PM</Logout>
+  </User>
+  <User id="356">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/14/2011 4:44:35 PM</Login>
+    <Logout>9/14/2011 4:49:03 PM</Logout>
+  </User>
+  <User id="357">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/15/2011 10:09:09 AM</Login>
+    <Logout>9/15/2011 10:10:42 AM</Logout>
+  </User>
+  <User id="358">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/27/2011 5:17:32 PM</Login>
+    <Logout>9/27/2011 5:21:32 PM</Logout>
+  </User>
+  <User id="359">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/28/2011 12:53:41 AM</Login>
+    <Logout>9/28/2011 12:59:02 AM</Logout>
+  </User>
+  <User id="360">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/28/2011 10:15:47 AM</Login>
+    <Logout>9/28/2011 10:23:21 AM</Logout>
+  </User>
+  <User id="361">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/28/2011 10:51:24 AM</Login>
+    <Logout>9/28/2011 12:34:16 PM</Logout>
+  </User>
+  <User id="362">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/28/2011 8:26:31 PM</Login>
+    <Logout>9/28/2011 8:27:25 PM</Logout>
+  </User>
+  <User id="363">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/28/2011 9:32:18 PM</Login>
+    <Logout>9/28/2011 9:41:40 PM</Logout>
+  </User>
+  <User id="364">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/29/2011 1:31:02 AM</Login>
+    <Logout>9/29/2011 1:32:10 AM</Logout>
+  </User>
+  <User id="365">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/29/2011 9:19:51 AM</Login>
+    <Logout>9/29/2011 9:24:39 AM</Logout>
+  </User>
+  <User id="366">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/2/2011 11:04:23 PM</Login>
+    <Logout>10/2/2011 11:10:20 PM</Logout>
+  </User>
+  <User id="367">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/4/2011 10:13:18 AM</Login>
+    <Logout>10/4/2011 11:07:30 AM</Logout>
+  </User>
+  <User id="368">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/6/2011 1:43:41 PM</Login>
+    <Logout>10/6/2011 1:50:55 PM</Logout>
+  </User>
+  <User id="369">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/7/2011 9:22:17 AM</Login>
+    <Logout>10/7/2011 1:40:40 PM</Logout>
+  </User>
+  <User id="370">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/7/2011 3:39:28 PM</Login>
+    <Logout>10/7/2011 4:01:40 PM</Logout>
+  </User>
+  <User id="371">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/11/2011 8:47:57 AM</Login>
+    <Logout>10/11/2011 9:07:29 AM</Logout>
+  </User>
+  <User id="372">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/11/2011 9:35:24 AM</Login>
+    <Logout>10/11/2011 10:20:00 AM</Logout>
+  </User>
+  <User id="373">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/12/2011 11:11:48 AM</Login>
+    <Logout>10/12/2011 11:36:20 AM</Logout>
+  </User>
+  <User id="374">
+    <TenUser>hoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/13/2011 10:23:21 AM</Login>
+    <Logout>10/13/2011 10:46:32 AM</Logout>
+  </User>
+  <User id="375">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/21/2011 9:23:57 AM</Login>
+    <Logout>10/21/2011 9:34:15 AM</Logout>
+  </User>
+  <User id="376">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/21/2011 10:16:11 AM</Login>
+    <Logout>10/21/2011 10:20:10 AM</Logout>
+  </User>
+  <User id="377">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/22/2011 9:39:49 AM</Login>
+    <Logout>10/22/2011 11:08:41 AM</Logout>
+  </User>
+  <User id="378">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/22/2011 2:20:23 PM</Login>
+    <Logout>10/22/2011 2:56:13 PM</Logout>
+  </User>
+  <User id="379">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/22/2011 3:07:13 PM</Login>
+    <Logout>10/22/2011 3:09:41 PM</Logout>
+  </User>
+  <User id="380">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/22/2011 3:10:06 PM</Login>
+    <Logout>10/22/2011 5:34:58 PM</Logout>
+  </User>
+  <User id="381">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/22/2011 3:10:51 PM</Login>
+    <Logout>10/22/2011 5:35:02 PM</Logout>
+  </User>
+  <User id="382">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/22/2011 4:41:33 PM</Login>
+    <Logout>10/22/2011 5:35:08 PM</Logout>
+  </User>
+  <User id="383">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/23/2011 12:46:50 PM</Login>
+    <Logout>10/23/2011 1:00:39 PM</Logout>
+  </User>
+  <User id="384">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/27/2011 9:24:09 AM</Login>
+    <Logout>10/27/2011 9:24:48 AM</Logout>
+  </User>
+  <User id="385">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/27/2011 10:05:56 AM</Login>
+    <Logout>10/27/2011 10:13:25 AM</Logout>
+  </User>
+  <User id="386">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/27/2011 2:31:59 PM</Login>
+    <Logout>10/27/2011 2:53:24 PM</Logout>
+  </User>
+  <User id="387">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/27/2011 3:01:22 PM</Login>
+    <Logout>10/27/2011 3:27:28 PM</Logout>
+  </User>
+  <User id="388">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/27/2011 4:06:08 PM</Login>
+    <Logout>10/27/2011 4:37:56 PM</Logout>
+  </User>
+  <User id="389">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/28/2011 10:18:10 AM</Login>
+    <Logout>10/28/2011 3:24:00 PM</Logout>
+  </User>
+  <User id="390">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/28/2011 4:47:34 PM</Login>
+    <Logout>10/28/2011 4:53:38 PM</Logout>
+  </User>
+  <User id="391">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/4/2011 3:28:39 PM</Login>
+    <Logout>11/4/2011 3:43:29 PM</Logout>
+  </User>
+  <User id="392">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/5/2011 9:38:24 AM</Login>
+    <Logout>11/5/2011 10:13:00 AM</Logout>
+  </User>
+  <User id="393">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/5/2011 2:22:42 PM</Login>
+    <Logout>11/5/2011 2:30:13 PM</Logout>
+  </User>
+  <User id="394">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/5/2011 2:35:35 PM</Login>
+    <Logout>11/5/2011 3:05:11 PM</Logout>
+  </User>
+  <User id="395">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/5/2011 4:32:23 PM</Login>
+    <Logout>11/5/2011 4:34:47 PM</Logout>
+  </User>
+  <User id="396">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/6/2011 7:55:15 AM</Login>
+    <Logout>11/6/2011 10:41:56 AM</Logout>
+  </User>
+  <User id="397">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/6/2011 9:27:11 AM</Login>
+    <Logout>11/6/2011 10:42:16 AM</Logout>
+  </User>
+  <User id="398">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/6/2011 8:25:10 AM</Login>
+    <Logout>11/6/2011 10:42:17 AM</Logout>
+  </User>
+  <User id="399">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/6/2011 8:06:15 AM</Login>
+    <Logout>11/6/2011 10:42:19 AM</Logout>
+  </User>
+  <User id="400">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/8/2011 4:55:08 PM</Login>
+    <Logout>11/8/2011 5:03:02 PM</Logout>
+  </User>
+  <User id="401">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/9/2011 9:48:46 AM</Login>
+    <Logout>11/9/2011 10:03:42 AM</Logout>
+  </User>
+  <User id="402">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/9/2011 10:24:52 AM</Login>
+    <Logout>11/9/2011 11:10:53 AM</Logout>
+  </User>
+  <User id="403">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/9/2011 11:29:16 AM</Login>
+    <Logout>11/9/2011 4:08:58 PM</Logout>
+  </User>
+  <User id="404">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/16/2011 11:12:08 AM</Login>
+    <Logout>11/16/2011 2:17:14 PM</Logout>
+  </User>
+  <User id="405">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/20/2011 10:45:04 AM</Login>
+    <Logout>11/20/2011 10:49:38 AM</Logout>
+  </User>
+  <User id="406">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/24/2011 3:49:44 PM</Login>
+    <Logout>11/24/2011 3:56:49 PM</Logout>
+  </User>
+  <User id="407">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/25/2011 9:55:03 AM</Login>
+    <Logout>11/25/2011 10:10:19 AM</Logout>
+  </User>
+  <User id="408">
+    <TenUser>0</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/25/2011 11:02:38 AM</Login>
+    <Logout>11/25/2011 11:04:28 AM</Logout>
+  </User>
+  <User id="409">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2011 9:03:36 AM</Login>
+    <Logout>11/29/2011 9:06:15 AM</Logout>
+  </User>
+  <User id="410">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2011 9:09:44 AM</Login>
+    <Logout>11/29/2011 9:13:46 AM</Logout>
+  </User>
+  <User id="411">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2011 9:16:34 AM</Login>
+    <Logout>11/29/2011 9:35:19 AM</Logout>
+  </User>
+  <User id="412">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/29/2011 9:45:04 AM</Login>
+    <Logout>11/29/2011 10:22:25 AM</Logout>
+  </User>
+  <User id="413">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/30/2011 2:48:36 PM</Login>
+    <Logout>11/30/2011 2:50:51 PM</Logout>
+  </User>
+  <User id="414">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>11/30/2011 3:56:05 PM</Login>
+    <Logout>11/30/2011 4:05:31 PM</Logout>
+  </User>
+  <User id="415">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/1/2011 8:59:10 AM</Login>
+    <Logout>12/1/2011 9:10:43 AM</Logout>
+  </User>
+  <User id="416">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/2/2011 10:47:05 AM</Login>
+    <Logout>12/2/2011 2:32:38 PM</Logout>
+  </User>
+  <User id="417">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/10/2011 10:54:34 AM</Login>
+    <Logout>12/10/2011 10:56:15 AM</Logout>
+  </User>
+  <User id="418">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/10/2011 10:57:25 AM</Login>
+    <Logout>12/10/2011 11:06:45 AM</Logout>
+  </User>
+  <User id="419">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/11/2011 10:53:06 AM</Login>
+    <Logout>12/11/2011 11:24:29 AM</Logout>
+  </User>
+  <User id="420">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/13/2011 8:57:10 AM</Login>
+    <Logout>12/13/2011 8:58:45 AM</Logout>
+  </User>
+  <User id="421">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/13/2011 11:22:53 AM</Login>
+    <Logout>12/13/2011 11:53:53 AM</Logout>
+  </User>
+  <User id="422">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/14/2011 9:58:28 AM</Login>
+    <Logout>12/14/2011 10:23:56 AM</Logout>
+  </User>
+  <User id="423">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/14/2011 7:05:23 PM</Login>
+    <Logout>12/14/2011 7:12:22 PM</Logout>
+  </User>
+  <User id="424">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/15/2011 9:26:42 AM</Login>
+    <Logout>12/15/2011 10:08:17 AM</Logout>
+  </User>
+  <User id="425">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/15/2011 10:29:15 AM</Login>
+    <Logout>12/15/2011 11:27:42 AM</Logout>
+  </User>
+  <User id="426">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/17/2011 8:48:26 AM</Login>
+    <Logout>12/17/2011 10:39:44 AM</Logout>
+  </User>
+  <User id="427">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/18/2011 9:44:44 AM</Login>
+    <Logout>12/18/2011 9:46:20 AM</Logout>
+  </User>
+  <User id="428">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/18/2011 10:20:31 AM</Login>
+    <Logout>12/18/2011 10:56:43 AM</Logout>
+  </User>
+  <User id="429">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/21/2011 9:22:52 AM</Login>
+    <Logout>12/21/2011 9:57:52 AM</Logout>
+  </User>
+  <User id="430">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/21/2011 10:49:25 AM</Login>
+    <Logout>12/21/2011 11:47:21 AM</Logout>
+  </User>
+  <User id="431">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/21/2011 3:11:44 PM</Login>
+    <Logout>12/21/2011 3:34:49 PM</Logout>
+  </User>
+  <User id="432">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/21/2011 3:44:59 PM</Login>
+    <Logout>12/21/2011 3:46:27 PM</Logout>
+  </User>
+  <User id="433">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/21/2011 11:28:11 PM</Login>
+    <Logout>12/22/2011 1:17:34 AM</Logout>
+  </User>
+  <User id="434">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/22/2011 9:00:54 AM</Login>
+    <Logout>12/22/2011 9:17:40 AM</Logout>
+  </User>
+  <User id="435">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/23/2011 8:52:22 AM</Login>
+    <Logout>12/23/2011 8:54:45 AM</Logout>
+  </User>
+  <User id="436">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/23/2011 10:14:17 AM</Login>
+    <Logout>12/23/2011 10:21:09 AM</Logout>
+  </User>
+  <User id="437">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/24/2011 10:20:40 PM</Login>
+    <Logout>12/24/2011 10:23:12 PM</Logout>
+  </User>
+  <User id="438">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/27/2011 9:12:04 AM</Login>
+    <Logout>12/27/2011 11:16:02 AM</Logout>
+  </User>
+  <User id="439">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/27/2011 1:55:28 PM</Login>
+    <Logout>12/27/2011 1:59:29 PM</Logout>
+  </User>
+  <User id="440">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/27/2011 3:10:45 PM</Login>
+    <Logout>12/27/2011 3:15:25 PM</Logout>
+  </User>
+  <User id="441">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/27/2011 3:25:51 PM</Login>
+    <Logout>12/27/2011 3:36:16 PM</Logout>
+  </User>
+  <User id="442">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/28/2011 9:13:34 AM</Login>
+    <Logout>12/28/2011 9:14:27 AM</Logout>
+  </User>
+  <User id="443">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/28/2011 2:51:41 PM</Login>
+    <Logout>12/28/2011 4:19:59 PM</Logout>
+  </User>
+  <User id="444">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>12/28/2011 4:31:36 PM</Login>
+    <Logout>12/28/2011 5:09:04 PM</Logout>
+  </User>
+  <User id="445">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/4/2012 2:23:45 PM</Login>
+    <Logout>1/4/2012 2:56:58 PM</Logout>
+  </User>
+  <User id="446">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/6/2012 11:31:39 AM</Login>
+    <Logout>1/6/2012 5:10:25 PM</Logout>
+  </User>
+  <User id="447">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/13/2012 8:49:48 AM</Login>
+    <Logout>1/13/2012 8:52:07 AM</Logout>
+  </User>
+  <User id="448">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/13/2012 10:33:49 AM</Login>
+    <Logout>1/13/2012 10:35:06 AM</Logout>
+  </User>
+  <User id="449">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/13/2012 11:23:40 AM</Login>
+    <Logout>1/13/2012 12:38:11 PM</Logout>
+  </User>
+  <User id="450">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/13/2012 12:44:25 PM</Login>
+    <Logout>1/13/2012 12:45:59 PM</Logout>
+  </User>
+  <User id="451">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/13/2012 1:05:37 PM</Login>
+    <Logout>1/13/2012 1:17:46 PM</Logout>
+  </User>
+  <User id="452">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>1/13/2012 2:33:17 PM</Login>
+    <Logout>1/13/2012 4:07:41 PM</Logout>
+  </User>
+  <User id="453">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/2/2012 9:38:14 PM</Login>
+    <Logout>2/2/2012 9:38:36 PM</Logout>
+  </User>
+  <User id="454">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/3/2012 9:59:50 AM</Login>
+    <Logout>2/3/2012 10:09:33 AM</Logout>
+  </User>
+  <User id="455">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/3/2012 11:23:48 AM</Login>
+    <Logout>2/3/2012 11:54:28 AM</Logout>
+  </User>
+  <User id="456">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/9/2012 8:54:05 AM</Login>
+    <Logout>2/9/2012 9:06:49 AM</Logout>
+  </User>
+  <User id="457">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/9/2012 10:32:16 AM</Login>
+    <Logout>2/9/2012 10:33:58 AM</Logout>
+  </User>
+  <User id="458">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/9/2012 11:15:56 AM</Login>
+    <Logout>2/9/2012 1:30:27 PM</Logout>
+  </User>
+  <User id="459">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/10/2012 9:18:47 AM</Login>
+    <Logout>2/10/2012 9:28:15 AM</Logout>
+  </User>
+  <User id="460">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/10/2012 10:55:03 AM</Login>
+    <Logout>2/10/2012 10:56:44 AM</Logout>
+  </User>
+  <User id="461">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/10/2012 1:19:24 PM</Login>
+    <Logout>2/10/2012 1:39:36 PM</Logout>
+  </User>
+  <User id="462">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/10/2012 3:45:07 PM</Login>
+    <Logout>2/10/2012 3:50:24 PM</Logout>
+  </User>
+  <User id="463">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/11/2012 11:08:38 AM</Login>
+    <Logout>2/11/2012 11:09:35 AM</Logout>
+  </User>
+  <User id="464">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>2/15/2012 10:21:28 AM</Login>
+    <Logout>2/15/2012 10:21:32 AM</Logout>
+  </User>
+  <User id="465">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/15/2012 10:40:17 AM</Login>
+    <Logout>2/15/2012 10:40:24 AM</Logout>
+  </User>
+  <User id="466">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/16/2012 11:05:36 AM</Login>
+    <Logout>2/16/2012 11:15:13 AM</Logout>
+  </User>
+  <User id="467">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/16/2012 4:04:29 PM</Login>
+    <Logout>2/16/2012 4:59:34 PM</Logout>
+  </User>
+  <User id="468">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/24/2012 8:37:44 AM</Login>
+    <Logout>2/24/2012 8:59:19 AM</Logout>
+  </User>
+  <User id="469">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/27/2012 9:33:21 AM</Login>
+    <Logout>2/27/2012 4:50:04 PM</Logout>
+  </User>
+  <User id="470">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/28/2012 3:22:07 PM</Login>
+    <Logout>2/28/2012 3:22:31 PM</Logout>
+  </User>
+  <User id="471">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>2/29/2012 3:36:34 PM</Login>
+    <Logout>2/29/2012 4:03:50 PM</Logout>
+  </User>
+  <User id="472">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/2/2012 10:40:29 AM</Login>
+    <Logout>3/2/2012 10:51:16 AM</Logout>
+  </User>
+  <User id="473">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/2/2012 11:09:51 AM</Login>
+    <Logout>3/2/2012 11:23:54 AM</Logout>
+  </User>
+  <User id="474">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/5/2012 4:28:29 PM</Login>
+    <Logout>3/5/2012 4:56:23 PM</Logout>
+  </User>
+  <User id="475">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/6/2012 11:31:55 AM</Login>
+    <Logout>3/6/2012 1:57:31 PM</Logout>
+  </User>
+  <User id="476">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/7/2012 8:15:22 AM</Login>
+    <Logout>3/7/2012 8:17:56 AM</Logout>
+  </User>
+  <User id="477">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/7/2012 8:40:23 AM</Login>
+    <Logout>3/7/2012 9:15:13 AM</Logout>
+  </User>
+  <User id="478">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/8/2012 2:58:39 AM</Login>
+    <Logout>3/8/2012 3:03:12 AM</Logout>
+  </User>
+  <User id="479">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/8/2012 4:24:07 AM</Login>
+    <Logout>3/8/2012 4:28:58 AM</Logout>
+  </User>
+  <User id="480">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/9/2012 9:49:24 PM</Login>
+    <Logout>3/9/2012 10:58:38 PM</Logout>
+  </User>
+  <User id="481">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/10/2012 1:47:33 AM</Login>
+    <Logout>3/10/2012 4:29:48 AM</Logout>
+  </User>
+  <User id="482">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/10/2012 4:33:43 AM</Login>
+    <Logout>3/10/2012 4:42:01 AM</Logout>
+  </User>
+  <User id="483">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/10/2012 10:52:37 AM</Login>
+    <Logout>3/10/2012 11:03:08 AM</Logout>
+  </User>
+  <User id="484">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/12/2012 10:54:03 AM</Login>
+    <Logout>3/12/2012 11:13:02 AM</Logout>
+  </User>
+  <User id="485">
+    <TenUser>Trang</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>3/13/2012 3:32:49 PM</Login>
+    <Logout>3/13/2012 4:51:46 PM</Logout>
+  </User>
+  <User id="486">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/14/2012 9:33:57 AM</Login>
+    <Logout>3/14/2012 9:46:59 AM</Logout>
+  </User>
+  <User id="487">
+    <TenUser>Phuong</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>3/14/2012 9:57:07 AM</Login>
+    <Logout>3/14/2012 6:16:08 PM</Logout>
+  </User>
+  <User id="488">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/15/2012 1:41:28 PM</Login>
+    <Logout>3/15/2012 2:30:45 PM</Logout>
+  </User>
+  <User id="489">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/16/2012 9:49:49 AM</Login>
+    <Logout>3/16/2012 3:12:14 PM</Logout>
+  </User>
+  <User id="490">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/16/2012 3:12:34 PM</Login>
+    <Logout>3/16/2012 3:45:34 PM</Logout>
+  </User>
+  <User id="491">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/16/2012 4:53:22 PM</Login>
+    <Logout>3/16/2012 5:04:38 PM</Logout>
+  </User>
+  <User id="492">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/17/2012 8:19:25 AM</Login>
+    <Logout>3/17/2012 8:28:51 AM</Logout>
+  </User>
+  <User id="493">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/17/2012 9:01:35 AM</Login>
+    <Logout>3/17/2012 11:40:31 AM</Logout>
+  </User>
+  <User id="494">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/19/2012 8:53:58 AM</Login>
+    <Logout>3/19/2012 12:43:04 PM</Logout>
+  </User>
+  <User id="495">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/19/2012 3:36:19 PM</Login>
+    <Logout>3/19/2012 4:40:34 PM</Logout>
+  </User>
+  <User id="496">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/19/2012 5:17:58 PM</Login>
+    <Logout>3/19/2012 5:20:12 PM</Logout>
+  </User>
+  <User id="497">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/20/2012 8:46:15 AM</Login>
+    <Logout>3/20/2012 10:15:31 AM</Logout>
+  </User>
+  <User id="498">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/20/2012 11:03:47 AM</Login>
+    <Logout>3/20/2012 5:09:25 PM</Logout>
+  </User>
+  <User id="499">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/21/2012 2:46:38 PM</Login>
+    <Logout>3/21/2012 6:08:52 PM</Logout>
+  </User>
+  <User id="500">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/22/2012 10:12:58 AM</Login>
+    <Logout>3/22/2012 3:30:25 PM</Logout>
+  </User>
+  <User id="501">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/24/2012 9:18:14 AM</Login>
+    <Logout>3/24/2012 9:37:54 AM</Logout>
+  </User>
+  <User id="502">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/24/2012 10:54:43 AM</Login>
+    <Logout>3/24/2012 11:29:00 AM</Logout>
+  </User>
+  <User id="503">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/27/2012 11:08:49 AM</Login>
+    <Logout>3/27/2012 11:37:57 AM</Logout>
+  </User>
+  <User id="504">
+    <TenUser>Nga</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>3/27/2012 5:08:14 PM</Login>
+    <Logout>3/27/2012 5:12:51 PM</Logout>
+  </User>
+  <User id="505">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/28/2012 11:01:31 AM</Login>
+    <Logout>3/28/2012 2:02:59 PM</Logout>
+  </User>
+  <User id="506">
+    <TenUser>trang</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>3/28/2012 3:32:15 PM</Login>
+    <Logout>3/28/2012 3:34:17 PM</Logout>
+  </User>
+  <User id="507">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/28/2012 4:24:37 PM</Login>
+    <Logout>3/28/2012 4:27:03 PM</Logout>
+  </User>
+  <User id="508">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/28/2012 3:49:18 PM</Login>
+    <Logout>3/28/2012 4:33:01 PM</Logout>
+  </User>
+  <User id="509">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/28/2012 5:03:35 PM</Login>
+    <Logout>3/28/2012 5:15:22 PM</Logout>
+  </User>
+  <User id="510">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/29/2012 8:46:24 AM</Login>
+    <Logout>3/29/2012 9:42:39 AM</Logout>
+  </User>
+  <User id="511">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/29/2012 10:23:28 AM</Login>
+    <Logout>3/29/2012 10:57:34 AM</Logout>
+  </User>
+  <User id="512">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/29/2012 2:56:42 PM</Login>
+    <Logout>3/29/2012 3:11:20 PM</Logout>
+  </User>
+  <User id="513">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/29/2012 3:17:58 PM</Login>
+    <Logout>3/29/2012 3:24:41 PM</Logout>
+  </User>
+  <User id="514">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/29/2012 4:09:41 PM</Login>
+    <Logout>3/29/2012 5:08:16 PM</Logout>
+  </User>
+  <User id="515">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/30/2012 9:38:26 AM</Login>
+    <Logout>3/30/2012 9:59:27 AM</Logout>
+  </User>
+  <User id="516">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/30/2012 11:11:55 AM</Login>
+    <Logout>3/30/2012 11:13:44 AM</Logout>
+  </User>
+  <User id="517">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>3/30/2012 3:26:34 PM</Login>
+    <Logout>3/30/2012 3:43:51 PM</Logout>
+  </User>
+  <User id="518">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/3/2012 8:51:41 AM</Login>
+    <Logout>4/3/2012 4:44:54 PM</Logout>
+  </User>
+  <User id="519">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/4/2012 3:37:13 PM</Login>
+    <Logout>4/4/2012 5:00:36 PM</Logout>
+  </User>
+  <User id="520">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/5/2012 9:52:19 AM</Login>
+    <Logout>4/5/2012 10:27:28 AM</Logout>
+  </User>
+  <User id="521">
+    <TenUser>lan</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/5/2012 2:08:26 PM</Login>
+    <Logout>4/5/2012 3:49:51 PM</Logout>
+  </User>
+  <User id="522">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/6/2012 9:32:12 AM</Login>
+    <Logout>4/6/2012 10:13:50 AM</Logout>
+  </User>
+  <User id="523">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/6/2012 2:25:00 PM</Login>
+    <Logout>4/6/2012 4:34:28 PM</Logout>
+  </User>
+  <User id="524">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/7/2012 9:35:44 AM</Login>
+    <Logout>4/7/2012 11:33:03 AM</Logout>
+  </User>
+  <User id="525">
+    <TenUser>phuong</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/9/2012 4:30:19 PM</Login>
+    <Logout>4/9/2012 5:08:31 PM</Logout>
+  </User>
+  <User id="526">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/10/2012 8:51:19 AM</Login>
+    <Logout>4/10/2012 9:25:49 AM</Logout>
+  </User>
+  <User id="527">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/10/2012 10:48:32 AM</Login>
+    <Logout>4/10/2012 11:00:06 AM</Logout>
+  </User>
+  <User id="528">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/10/2012 3:22:13 PM</Login>
+    <Logout>4/10/2012 4:57:04 PM</Logout>
+  </User>
+  <User id="529">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/11/2012 10:58:23 AM</Login>
+    <Logout>4/11/2012 12:08:38 PM</Logout>
+  </User>
+  <User id="530">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/11/2012 3:54:30 PM</Login>
+    <Logout>4/11/2012 4:10:45 PM</Logout>
+  </User>
+  <User id="531">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/12/2012 8:45:50 AM</Login>
+    <Logout>4/12/2012 5:04:25 PM</Logout>
+  </User>
+  <User id="532">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/13/2012 9:38:32 AM</Login>
+    <Logout>4/13/2012 10:10:13 AM</Logout>
+  </User>
+  <User id="533">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/13/2012 11:20:57 AM</Login>
+    <Logout>4/13/2012 5:06:18 PM</Logout>
+  </User>
+  <User id="534">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/16/2012 9:12:37 AM</Login>
+    <Logout>4/16/2012 5:08:16 PM</Logout>
+  </User>
+  <User id="535">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/19/2012 8:51:53 AM</Login>
+    <Logout>4/19/2012 10:00:48 AM</Logout>
+  </User>
+  <User id="536">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/20/2012 9:18:07 AM</Login>
+    <Logout>4/20/2012 10:01:17 AM</Logout>
+  </User>
+  <User id="537">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/20/2012 10:25:32 AM</Login>
+    <Logout>4/20/2012 2:03:05 PM</Logout>
+  </User>
+  <User id="538">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>4/20/2012 2:25:33 PM</Login>
+    <Logout>4/20/2012 2:31:39 PM</Logout>
+  </User>
+  <User id="539">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/4/2012 2:22:54 PM</Login>
+    <Logout>5/4/2012 2:26:03 PM</Logout>
+  </User>
+  <User id="540">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/4/2012 2:52:42 PM</Login>
+    <Logout>5/4/2012 2:58:39 PM</Logout>
+  </User>
+  <User id="541">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/5/2012 9:05:52 AM</Login>
+    <Logout>5/5/2012 11:04:06 AM</Logout>
+  </User>
+  <User id="542">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/7/2012 4:22:46 PM</Login>
+    <Logout>5/7/2012 4:51:58 PM</Logout>
+  </User>
+  <User id="543">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/8/2012 3:08:48 PM</Login>
+    <Logout>5/8/2012 3:15:44 PM</Logout>
+  </User>
+  <User id="544">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/8/2012 3:18:04 PM</Login>
+    <Logout>5/8/2012 3:31:36 PM</Logout>
+  </User>
+  <User id="545">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/9/2012 2:24:31 PM</Login>
+    <Logout>5/9/2012 4:18:06 PM</Logout>
+  </User>
+  <User id="546">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/10/2012 3:14:16 PM</Login>
+    <Logout>5/10/2012 5:09:39 PM</Logout>
+  </User>
+  <User id="547">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/11/2012 11:10:45 AM</Login>
+    <Logout>5/11/2012 4:59:40 PM</Logout>
+  </User>
+  <User id="548">
+    <TenUser>sen</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/11/2012 5:01:07 PM</Login>
+    <Logout>5/11/2012 5:16:24 PM</Logout>
+  </User>
+  <User id="549">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/14/2012 11:16:43 AM</Login>
+    <Logout>5/14/2012 5:12:58 PM</Logout>
+  </User>
+  <User id="550">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/15/2012 2:49:51 PM</Login>
+    <Logout>5/15/2012 5:11:25 PM</Logout>
+  </User>
+  <User id="551">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/16/2012 4:38:51 PM</Login>
+    <Logout>5/16/2012 4:55:09 PM</Logout>
+  </User>
+  <User id="552">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/17/2012 4:40:22 PM</Login>
+    <Logout>5/17/2012 5:11:31 PM</Logout>
+  </User>
+  <User id="553">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/18/2012 2:36:45 PM</Login>
+    <Logout>5/18/2012 5:08:37 PM</Logout>
+  </User>
+  <User id="554">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/21/2012 10:06:14 AM</Login>
+    <Logout>5/21/2012 4:59:35 PM</Logout>
+  </User>
+  <User id="555">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/22/2012 10:42:25 AM</Login>
+    <Logout>5/22/2012 10:46:33 AM</Logout>
+  </User>
+  <User id="556">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/22/2012 11:15:47 AM</Login>
+    <Logout>5/22/2012 11:26:56 AM</Logout>
+  </User>
+  <User id="557">
+    <TenUser>longbien</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/22/2012 11:31:48 AM</Login>
+    <Logout>5/22/2012 11:42:34 AM</Logout>
+  </User>
+  <User id="558">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/24/2012 3:56:40 PM</Login>
+    <Logout>5/24/2012 3:59:20 PM</Logout>
+  </User>
+  <User id="559">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/28/2012 10:18:04 AM</Login>
+    <Logout>5/28/2012 10:18:36 AM</Logout>
+  </User>
+  <User id="560">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/28/2012 10:19:09 AM</Login>
+    <Logout>5/28/2012 10:49:01 AM</Logout>
+  </User>
+  <User id="561">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/30/2012 8:54:06 AM</Login>
+    <Logout>5/30/2012 12:39:01 PM</Logout>
+  </User>
+  <User id="562">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>5/31/2012 3:23:00 PM</Login>
+    <Logout>5/31/2012 5:14:58 PM</Logout>
+  </User>
+  <User id="563">
+    <TenUser>quang</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>6/1/2012 11:36:29 AM</Login>
+    <Logout>6/1/2012 11:37:08 AM</Logout>
+  </User>
+  <User id="564">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/1/2012 11:40:03 AM</Login>
+    <Logout>6/1/2012 5:22:13 PM</Logout>
+  </User>
+  <User id="565">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/4/2012 9:40:53 AM</Login>
+    <Logout>6/4/2012 9:49:03 AM</Logout>
+  </User>
+  <User id="566">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/4/2012 9:51:06 AM</Login>
+    <Logout>6/4/2012 10:23:16 AM</Logout>
+  </User>
+  <User id="567">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/4/2012 5:11:15 PM</Login>
+    <Logout>6/4/2012 5:22:22 PM</Logout>
+  </User>
+  <User id="568">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/7/2012 9:22:48 AM</Login>
+    <Logout>6/7/2012 9:27:18 AM</Logout>
+  </User>
+  <User id="569">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/9/2012 10:34:20 AM</Login>
+    <Logout>6/9/2012 10:37:14 AM</Logout>
+  </User>
+  <User id="570">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/9/2012 10:49:55 AM</Login>
+    <Logout>6/9/2012 10:58:02 AM</Logout>
+  </User>
+  <User id="571">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/9/2012 10:58:56 AM</Login>
+    <Logout>6/9/2012 11:37:42 AM</Logout>
+  </User>
+  <User id="572">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/9/2012 11:39:58 AM</Login>
+    <Logout>6/9/2012 11:41:58 AM</Logout>
+  </User>
+  <User id="573">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/13/2012 11:28:55 AM</Login>
+    <Logout>6/13/2012 11:29:52 AM</Logout>
+  </User>
+  <User id="574">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/13/2012 2:31:07 PM</Login>
+    <Logout>6/13/2012 5:22:52 PM</Logout>
+  </User>
+  <User id="575">
+    <TenUser>huong</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/14/2012 5:16:30 PM</Login>
+    <Logout>6/14/2012 5:17:46 PM</Logout>
+  </User>
+  <User id="576">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/15/2012 4:24:24 PM</Login>
+    <Logout>6/15/2012 4:51:02 PM</Logout>
+  </User>
+  <User id="577">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/19/2012 4:49:09 PM</Login>
+    <Logout>6/19/2012 5:20:19 PM</Logout>
+  </User>
+  <User id="578">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/21/2012 10:47:26 AM</Login>
+    <Logout>6/21/2012 10:48:43 AM</Logout>
+  </User>
+  <User id="579">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/25/2012 2:55:09 PM</Login>
+    <Logout>6/25/2012 3:00:33 PM</Logout>
+  </User>
+  <User id="580">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/26/2012 11:20:48 AM</Login>
+    <Logout>6/26/2012 11:24:00 AM</Logout>
+  </User>
+  <User id="581">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/26/2012 11:29:20 AM</Login>
+    <Logout>6/26/2012 11:51:10 AM</Logout>
+  </User>
+  <User id="582">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/26/2012 12:28:02 PM</Login>
+    <Logout>6/26/2012 2:04:26 PM</Logout>
+  </User>
+  <User id="583">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/27/2012 8:46:50 AM</Login>
+    <Logout>6/27/2012 1:58:36 PM</Logout>
+  </User>
+  <User id="584">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/27/2012 4:50:05 PM</Login>
+    <Logout>6/27/2012 4:52:47 PM</Logout>
+  </User>
+  <User id="585">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/27/2012 5:35:42 PM</Login>
+    <Logout>6/27/2012 5:38:29 PM</Logout>
+  </User>
+  <User id="586">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/28/2012 9:02:56 AM</Login>
+    <Logout>6/28/2012 9:04:57 AM</Logout>
+  </User>
+  <User id="587">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/29/2012 8:17:44 AM</Login>
+    <Logout>6/29/2012 8:21:18 AM</Logout>
+  </User>
+  <User id="588">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/29/2012 10:36:44 AM</Login>
+    <Logout>6/29/2012 11:47:46 AM</Logout>
+  </User>
+  <User id="589">
+    <TenUser>
+    </TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/29/2012 2:47:44 PM</Login>
+    <Logout>6/29/2012 2:50:18 PM</Logout>
+  </User>
+  <User id="590">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/29/2012 2:57:29 PM</Login>
+    <Logout>6/29/2012 3:02:54 PM</Logout>
+  </User>
+  <User id="591">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>6/30/2012 9:39:16 AM</Login>
+    <Logout>6/30/2012 11:20:52 AM</Logout>
+  </User>
+  <User id="592">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/5/2012 8:38:06 AM</Login>
+    <Logout>7/5/2012 5:22:59 PM</Logout>
+  </User>
+  <User id="593">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/12/2012 2:19:04 PM</Login>
+    <Logout>7/12/2012 2:22:51 PM</Logout>
+  </User>
+  <User id="594">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/12/2012 3:37:17 PM</Login>
+    <Logout>7/12/2012 3:39:18 PM</Logout>
+  </User>
+  <User id="595">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/13/2012 4:37:34 PM</Login>
+    <Logout>7/13/2012 4:48:59 PM</Logout>
+  </User>
+  <User id="596">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/14/2012 9:10:44 AM</Login>
+    <Logout>7/14/2012 9:12:32 AM</Logout>
+  </User>
+  <User id="597">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/14/2012 10:32:11 AM</Login>
+    <Logout>7/14/2012 10:33:14 AM</Logout>
+  </User>
+  <User id="598">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/19/2012 10:28:50 AM</Login>
+    <Logout>7/19/2012 5:25:44 PM</Logout>
+  </User>
+  <User id="599">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>7/21/2012 9:47:14 AM</Login>
+    <Logout>7/21/2012 10:14:32 AM</Logout>
+  </User>
+  <User id="600">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/2/2012 9:19:11 AM</Login>
+    <Logout>8/2/2012 3:08:04 PM</Logout>
+  </User>
+  <User id="601">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/2/2012 3:51:38 PM</Login>
+    <Logout>8/2/2012 3:56:30 PM</Logout>
+  </User>
+  <User id="602">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/6/2012 10:26:08 AM</Login>
+    <Logout>8/6/2012 10:28:48 AM</Logout>
+  </User>
+  <User id="603">
+    <TenUser>mai</TenUser>
+    <MaQuyen>3</MaQuyen>
+    <Login>8/17/2012 12:13:35 PM</Login>
+    <Logout>8/17/2012 12:34:38 PM</Logout>
+  </User>
+  <User id="604">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/20/2012 9:57:15 AM</Login>
+    <Logout>8/20/2012 10:11:45 AM</Logout>
+  </User>
+  <User id="605">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/22/2012 10:57:27 AM</Login>
+    <Logout>8/22/2012 11:02:40 AM</Logout>
+  </User>
+  <User id="606">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/22/2012 11:21:33 AM</Login>
+    <Logout>8/22/2012 11:23:51 AM</Logout>
+  </User>
+  <User id="607">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/24/2012 8:23:55 AM</Login>
+    <Logout>8/24/2012 9:01:30 AM</Logout>
+  </User>
+  <User id="608">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/24/2012 10:46:41 AM</Login>
+    <Logout>8/24/2012 10:50:13 AM</Logout>
+  </User>
+  <User id="609">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/27/2012 11:10:20 AM</Login>
+    <Logout>8/27/2012 11:14:19 AM</Logout>
+  </User>
+  <User id="610">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/27/2012 2:45:04 PM</Login>
+    <Logout>8/27/2012 4:35:26 PM</Logout>
+  </User>
+  <User id="611">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/27/2012 4:39:22 PM</Login>
+    <Logout>8/27/2012 5:08:27 PM</Logout>
+  </User>
+  <User id="612">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/28/2012 5:21:38 PM</Login>
+    <Logout>8/28/2012 5:27:02 PM</Logout>
+  </User>
+  <User id="613">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/29/2012 12:39:57 AM</Login>
+    <Logout>8/29/2012 12:41:36 AM</Logout>
+  </User>
+  <User id="614">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/29/2012 9:25:22 AM</Login>
+    <Logout>8/29/2012 9:30:54 AM</Logout>
+  </User>
+  <User id="615">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/29/2012 9:55:49 AM</Login>
+    <Logout>8/29/2012 10:04:25 AM</Logout>
+  </User>
+  <User id="616">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/29/2012 2:26:46 PM</Login>
+    <Logout>8/29/2012 2:37:21 PM</Logout>
+  </User>
+  <User id="617">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/29/2012 2:42:01 PM</Login>
+    <Logout>8/29/2012 3:20:24 PM</Logout>
+  </User>
+  <User id="618">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/29/2012 4:04:26 PM</Login>
+    <Logout>8/29/2012 4:07:54 PM</Logout>
+  </User>
+  <User id="619">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/29/2012 4:22:27 PM</Login>
+    <Logout>8/29/2012 4:34:13 PM</Logout>
+  </User>
+  <User id="620">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/30/2012 12:03:59 AM</Login>
+    <Logout>8/30/2012 12:28:12 AM</Logout>
+  </User>
+  <User id="621">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/30/2012 8:53:24 AM</Login>
+    <Logout>8/30/2012 9:23:09 AM</Logout>
+  </User>
+  <User id="622">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/30/2012 12:41:26 PM</Login>
+    <Logout>8/30/2012 1:23:04 PM</Logout>
+  </User>
+  <User id="623">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/30/2012 4:16:10 PM</Login>
+    <Logout>8/30/2012 4:40:07 PM</Logout>
+  </User>
+  <User id="624">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/31/2012 9:21:35 AM</Login>
+    <Logout>8/31/2012 10:33:11 AM</Logout>
+  </User>
+  <User id="625">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>8/31/2012 3:21:04 PM</Login>
+    <Logout>8/31/2012 4:00:19 PM</Logout>
+  </User>
+  <User id="626">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/4/2012 3:35:47 PM</Login>
+    <Logout>9/4/2012 4:29:22 PM</Logout>
+  </User>
+  <User id="627">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/5/2012 2:47:24 PM</Login>
+    <Logout>9/5/2012 4:19:31 PM</Logout>
+  </User>
+  <User id="628">
+    <TenUser>
+    </TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/6/2012 9:37:29 AM</Login>
+    <Logout>9/6/2012 9:47:20 AM</Logout>
+  </User>
+  <User id="629">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/6/2012 3:19:59 PM</Login>
+    <Logout>9/6/2012 3:37:32 PM</Logout>
+  </User>
+  <User id="630">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/7/2012 10:17:14 AM</Login>
+    <Logout>9/7/2012 10:23:09 AM</Logout>
+  </User>
+  <User id="631">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/10/2012 9:34:34 AM</Login>
+    <Logout>9/10/2012 10:23:38 AM</Logout>
+  </User>
+  <User id="632">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/10/2012 2:52:33 PM</Login>
+    <Logout>9/10/2012 3:49:54 PM</Logout>
+  </User>
+  <User id="633">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/10/2012 3:50:09 PM</Login>
+    <Logout>9/10/2012 4:07:43 PM</Logout>
+  </User>
+  <User id="634">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/10/2012 4:08:37 PM</Login>
+    <Logout>9/10/2012 4:26:47 PM</Logout>
+  </User>
+  <User id="635">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/10/2012 4:27:50 PM</Login>
+    <Logout>9/10/2012 4:28:48 PM</Logout>
+  </User>
+  <User id="636">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/10/2012 9:47:37 PM</Login>
+    <Logout>9/10/2012 10:01:40 PM</Logout>
+  </User>
+  <User id="637">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/11/2012 2:11:47 PM</Login>
+    <Logout>9/11/2012 4:16:12 PM</Logout>
+  </User>
+  <User id="638">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/11/2012 4:16:26 PM</Login>
+    <Logout>9/11/2012 4:37:47 PM</Logout>
+  </User>
+  <User id="639">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/12/2012 11:16:54 AM</Login>
+    <Logout>9/12/2012 4:03:48 PM</Logout>
+  </User>
+  <User id="640">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/13/2012 10:45:07 AM</Login>
+    <Logout>9/13/2012 11:09:32 AM</Logout>
+  </User>
+  <User id="641">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/13/2012 11:09:50 AM</Login>
+    <Logout>9/13/2012 11:10:33 AM</Logout>
+  </User>
+  <User id="642">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/13/2012 1:51:39 PM</Login>
+    <Logout>9/13/2012 1:52:32 PM</Logout>
+  </User>
+  <User id="643">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/15/2012 10:10:50 AM</Login>
+    <Logout>9/15/2012 11:32:20 AM</Logout>
+  </User>
+  <User id="644">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/17/2012 9:16:27 AM</Login>
+    <Logout>9/17/2012 4:16:24 PM</Logout>
+  </User>
+  <User id="645">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/21/2012 9:53:46 AM</Login>
+    <Logout>9/21/2012 10:05:18 AM</Logout>
+  </User>
+  <User id="646">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/21/2012 11:41:28 AM</Login>
+    <Logout>9/21/2012 4:49:40 PM</Logout>
+  </User>
+  <User id="647">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/24/2012 10:44:03 AM</Login>
+    <Logout>9/24/2012 10:55:42 AM</Logout>
+  </User>
+  <User id="648">
+    <TenUser>quang</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>9/24/2012 11:26:12 AM</Login>
+    <Logout>9/24/2012 5:20:04 PM</Logout>
+  </User>
+  <User id="649">
+    <TenUser>
+    </TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/1/2012 9:11:00 AM</Login>
+    <Logout>10/1/2012 9:53:21 AM</Logout>
+  </User>
+  <User id="650">
+    <TenUser>quanhoangmai</TenUser>
+    <MaQuyen>2</MaQuyen>
+    <Login>10/1/2012 9:57:52 AM</Login>
+    <Logout>10/1/2012 10:06:26 AM</Logout>
+  </User>
+  <User id="651">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>10/1/2012 11:43:29 AM</Login>
+    <Logout>10/1/2012 11:44:27 AM</Logout>
+  </User>
+  <User id="652">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>03-Oct-12 4:35:01 PM</Login>
+    <Logout>03-Oct-12 4:37:12 PM</Logout>
+  </User>
+  <User id="653">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>03-Oct-12 9:05:54 PM</Login>
+    <Logout>03-Oct-12 9:11:18 PM</Logout>
+  </User>
+  <User id="654">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>03-Oct-12 9:24:48 PM</Login>
+    <Logout>03-Oct-12 9:35:42 PM</Logout>
+  </User>
+  <User id="655">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>03-Oct-12 10:18:58 PM</Login>
+    <Logout>03-Oct-12 10:20:41 PM</Logout>
+  </User>
+  <User id="656">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>03-Oct-12 11:18:14 PM</Login>
+    <Logout>03-Oct-12 11:19:35 PM</Logout>
+  </User>
+  <User id="657">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>03-Oct-12 11:20:24 PM</Login>
+    <Logout>03-Oct-12 11:21:47 PM</Logout>
+  </User>
+  <User id="658">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>03-Oct-12 11:22:22 PM</Login>
+    <Logout>03-Oct-12 11:23:39 PM</Logout>
+  </User>
+  <User id="659">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 8:30:05 AM</Login>
+    <Logout>04-Oct-12 8:33:59 AM</Logout>
+  </User>
+  <User id="660">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 9:24:01 AM</Login>
+    <Logout>04-Oct-12 9:26:15 AM</Logout>
+  </User>
+  <User id="661">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 9:32:38 AM</Login>
+    <Logout>04-Oct-12 9:35:19 AM</Logout>
+  </User>
+  <User id="662">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 9:54:49 AM</Login>
+    <Logout>04-Oct-12 9:57:26 AM</Logout>
+  </User>
+  <User id="663">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 10:52:48 AM</Login>
+    <Logout>04-Oct-12 10:54:53 AM</Logout>
+  </User>
+  <User id="664">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 3:03:31 PM</Login>
+    <Logout>04-Oct-12 3:07:44 PM</Logout>
+  </User>
+  <User id="665">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 3:19:35 PM</Login>
+    <Logout>04-Oct-12 3:20:45 PM</Logout>
+  </User>
+  <User id="666">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 3:31:13 PM</Login>
+    <Logout>04-Oct-12 3:32:11 PM</Logout>
+  </User>
+  <User id="667">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 3:34:31 PM</Login>
+    <Logout>04-Oct-12 3:51:00 PM</Logout>
+  </User>
+  <User id="668">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 3:52:59 PM</Login>
+    <Logout>04-Oct-12 3:53:46 PM</Logout>
+  </User>
+  <User id="669">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 4:01:50 PM</Login>
+    <Logout>04-Oct-12 4:03:27 PM</Logout>
+  </User>
+  <User id="670">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 4:05:41 PM</Login>
+    <Logout>04-Oct-12 4:07:09 PM</Logout>
+  </User>
+  <User id="671">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 4:14:47 PM</Login>
+    <Logout>04-Oct-12 4:15:57 PM</Logout>
+  </User>
+  <User id="672">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 4:28:01 PM</Login>
+    <Logout>04-Oct-12 4:31:58 PM</Logout>
+  </User>
+  <User id="673">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 4:39:47 PM</Login>
+    <Logout>04-Oct-12 4:42:02 PM</Logout>
+  </User>
+  <User id="674">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 4:44:31 PM</Login>
+    <Logout>04-Oct-12 4:47:53 PM</Logout>
+  </User>
+  <User id="675">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 4:56:25 PM</Login>
+    <Logout>04-Oct-12 4:57:11 PM</Logout>
+  </User>
+  <User id="676">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 5:23:56 PM</Login>
+    <Logout>04-Oct-12 5:24:34 PM</Logout>
+  </User>
+  <User id="677">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 5:25:26 PM</Login>
+    <Logout>04-Oct-12 5:28:18 PM</Logout>
+  </User>
+  <User id="678">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 8:49:06 PM</Login>
+    <Logout>04-Oct-12 8:51:37 PM</Logout>
+  </User>
+  <User id="679">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 10:11:25 PM</Login>
+    <Logout>04-Oct-12 10:12:30 PM</Logout>
+  </User>
+  <User id="680">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>04-Oct-12 10:15:04 PM</Login>
+    <Logout>04-Oct-12 10:17:27 PM</Logout>
+  </User>
+  <User id="681">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 8:14:32 AM</Login>
+    <Logout>05-Oct-12 8:17:32 AM</Logout>
+  </User>
+  <User id="682">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 8:54:57 AM</Login>
+    <Logout>05-Oct-12 8:57:07 AM</Logout>
+  </User>
+  <User id="683">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 9:12:41 AM</Login>
+    <Logout>05-Oct-12 9:13:54 AM</Logout>
+  </User>
+  <User id="684">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 9:17:36 AM</Login>
+    <Logout>05-Oct-12 9:19:18 AM</Logout>
+  </User>
+  <User id="685">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 9:30:46 AM</Login>
+    <Logout>05-Oct-12 9:34:19 AM</Logout>
+  </User>
+  <User id="686">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 9:38:21 AM</Login>
+    <Logout>05-Oct-12 9:39:15 AM</Logout>
+  </User>
+  <User id="687">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 9:42:04 AM</Login>
+    <Logout>05-Oct-12 9:43:38 AM</Logout>
+  </User>
+  <User id="688">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 9:45:08 AM</Login>
+    <Logout>05-Oct-12 9:46:18 AM</Logout>
+  </User>
+  <User id="689">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 9:47:21 AM</Login>
+    <Logout>05-Oct-12 9:51:01 AM</Logout>
+  </User>
+  <User id="690">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 9:52:27 AM</Login>
+    <Logout>05-Oct-12 9:54:17 AM</Logout>
+  </User>
+  <User id="691">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 10:00:11 AM</Login>
+    <Logout>05-Oct-12 10:01:48 AM</Logout>
+  </User>
+  <User id="692">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 10:09:18 AM</Login>
+    <Logout>05-Oct-12 10:10:40 AM</Logout>
+  </User>
+  <User id="693">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 10:19:10 AM</Login>
+    <Logout>05-Oct-12 10:30:33 AM</Logout>
+  </User>
+  <User id="694">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 10:32:05 AM</Login>
+    <Logout>05-Oct-12 10:38:03 AM</Logout>
+  </User>
+  <User id="695">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 10:46:01 AM</Login>
+    <Logout>05-Oct-12 10:49:09 AM</Logout>
+  </User>
+  <User id="696">
+    <TenUser>
+    </TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 10:52:50 AM</Login>
+    <Logout>05-Oct-12 10:56:41 AM</Logout>
+  </User>
+  <User id="697">
+    <TenUser>
+    </TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 10:58:57 AM</Login>
+    <Logout>05-Oct-12 11:01:59 AM</Logout>
+  </User>
+  <User id="698">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 11:02:43 AM</Login>
+    <Logout>05-Oct-12 11:05:39 AM</Logout>
+  </User>
+  <User id="699">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 2:35:06 PM</Login>
+    <Logout>05-Oct-12 2:36:56 PM</Logout>
+  </User>
+  <User id="700">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 2:38:26 PM</Login>
+    <Logout>05-Oct-12 2:39:54 PM</Logout>
+  </User>
+  <User id="701">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 2:43:46 PM</Login>
+    <Logout>05-Oct-12 2:45:11 PM</Logout>
+  </User>
+  <User id="702">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 2:57:41 PM</Login>
+    <Logout>05-Oct-12 2:59:13 PM</Logout>
+  </User>
+  <User id="703">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 3:15:20 PM</Login>
+    <Logout>05-Oct-12 3:17:45 PM</Logout>
+  </User>
+  <User id="704">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 3:20:55 PM</Login>
+    <Logout>05-Oct-12 3:22:59 PM</Logout>
+  </User>
+  <User id="705">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 3:35:08 PM</Login>
+    <Logout>05-Oct-12 3:39:06 PM</Logout>
+  </User>
+  <User id="706">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 3:56:59 PM</Login>
+    <Logout>05-Oct-12 3:58:37 PM</Logout>
+  </User>
+  <User id="707">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 3:59:25 PM</Login>
+    <Logout>05-Oct-12 4:01:50 PM</Logout>
+  </User>
+  <User id="708">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 4:03:17 PM</Login>
+    <Logout>05-Oct-12 4:05:43 PM</Logout>
+  </User>
+  <User id="709">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 4:46:17 PM</Login>
+    <Logout>05-Oct-12 4:49:08 PM</Logout>
+  </User>
+  <User id="710">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 4:58:34 PM</Login>
+    <Logout>05-Oct-12 5:00:42 PM</Logout>
+  </User>
+  <User id="711">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>05-Oct-12 8:29:53 PM</Login>
+    <Logout>05-Oct-12 8:38:15 PM</Logout>
+  </User>
+  <User id="712">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>06-Oct-12 9:18:46 AM</Login>
+    <Logout>06-Oct-12 9:21:17 AM</Logout>
+  </User>
+  <User id="713">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>06-Oct-12 10:18:54 AM</Login>
+    <Logout>06-Oct-12 10:20:42 AM</Logout>
+  </User>
+  <User id="714">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>06-Oct-12 10:22:46 AM</Login>
+    <Logout>06-Oct-12 10:24:38 AM</Logout>
+  </User>
+  <User id="715">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>06-Oct-12 10:44:51 AM</Login>
+    <Logout>06-Oct-12 10:45:57 AM</Logout>
+  </User>
+  <User id="716">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>06-Oct-12 10:53:13 AM</Login>
+    <Logout>06-Oct-12 10:54:31 AM</Logout>
+  </User>
+  <User id="717">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>06-Oct-12 11:21:03 AM</Login>
+    <Logout>06-Oct-12 11:23:09 AM</Logout>
+  </User>
+  <User id="718">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>06-Oct-12 11:34:39 AM</Login>
+    <Logout>06-Oct-12 11:35:00 AM</Logout>
+  </User>
+  <User id="719">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>06-Oct-12 8:08:53 PM</Login>
+    <Logout>06-Oct-12 8:13:14 PM</Logout>
+  </User>
+  <User id="720">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>06-Oct-12 8:21:25 PM</Login>
+    <Logout>06-Oct-12 8:39:51 PM</Logout>
+  </User>
+  <User id="721">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>06-Oct-12 8:55:42 PM</Login>
+    <Logout>06-Oct-12 9:07:34 PM</Logout>
+  </User>
+  <User id="722">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>08-Oct-12 11:55:36 AM</Login>
+    <Logout>08-Oct-12 11:56:50 AM</Logout>
+  </User>
+  <User id="723">
+    <TenUser>hoan</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>10/8/2012 1:36:25 PM</Login>
+    <Logout>10/8/2012 1:38:28 PM</Logout>
+  </User>
+  <User id="724">
+    <TenUser>hoan</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>10/8/2012 1:45:52 PM</Login>
+    <Logout>10/8/2012 1:48:17 PM</Logout>
+  </User>
+  <User id="725">
+    <TenUser>hoan</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>10/9/2012 10:29:28 AM</Login>
+    <Logout>10/9/2012 10:31:15 AM</Logout>
+  </User>
+  <User id="726">
+    <TenUser>hoan</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>10/9/2012 2:12:54 PM</Login>
+    <Logout>10/9/2012 2:13:49 PM</Logout>
+  </User>
+  <User id="727">
+    <TenUser>hoan</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>10/10/2012 10:05:23 AM</Login>
+    <Logout>10/10/2012 10:07:23 AM</Logout>
+  </User>
+  <User id="728">
+    <TenUser>hoan</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>10/10/2012 10:16:19 AM</Login>
+    <Logout>10/10/2012 10:17:04 AM</Logout>
+  </User>
+</Users>

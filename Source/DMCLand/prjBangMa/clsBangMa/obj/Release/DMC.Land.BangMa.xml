@@ -1,0 +1,155 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.BangMa
+</name>
+</assembly>
+<members>
+<member name="M:DMC.Land.BangMa.clsBangMa.DeleteDoiTuongSuDungDat(System.Int32@)">
+	<summary>
+ Xóa ĐỐI TƯỢNG SỬ DỤNG ĐẤT ở bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.UpdateDoiTuongSuDungDat(System.Int32@)">
+	<summary>
+ Sửa ĐỐI TƯỢNG SỬ DỤNG ĐẤT Ở bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.InsertDoiTuongSuDungDat(System.Int32@)">
+	<summary>
+ Thêm ĐỐI TƯỢNG SỬ DỤNG ĐẤT Ở bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.SelectDoiTuongSuDungDat(System.Data.DataTable@)">
+	<summary>
+ Truy vấn ĐỐI TƯỢNG SỬ DỤNG ĐẤT
+ </summary>
+	<param name="dtResults"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.DeleteNghiaVuTaiChinh(System.Int32@)">
+	<summary>
+ Xóa NGHĨA VỤ TÀI CHÍNH sử dụng đất vào bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.UpdateNghiaVuTaiChinh(System.Int32@)">
+	<summary>
+ Sửa NGHĨA VỤ TÀI CHÍNH sử dụng đất vào bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.InsertNghiaVuTaiChinh(System.Int32@)">
+	<summary>
+ Thêm NGHĨA VỤ TÀI CHÍNH sử dụng đất vào bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.SelectNghiaVuTaiChinh(System.Data.DataTable@)">
+	<summary>
+ Truy vấn TỪ ĐIỂN NGHĨA VỤ TÀI CHÍNH
+ </summary>
+	<param name="dtResults"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.DeleteNguonGocSuDung(System.Int32@)">
+	<summary>
+ Xóa NGUỒN GỐC sử dụng đất vào bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.UpdateNguonGocSuDung(System.Int32@)">
+	<summary>
+ Sửa NGUỒN GỐC sử dụng đất vào bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.InsertNguonGocSuDung(System.Int32@)">
+	<summary>
+ Thêm NGUỒN GỐC sử dụng đất vào bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.SelectNguonGocSuDung(System.Data.DataTable@)">
+	<summary>
+ Truy vấn TỪ ĐIỂN NGUỒN GỐC SỬ DỤNG ĐẤT
+ </summary>
+	<param name="dtResults"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.DeleteMucDichSuDung(System.Int32@)">
+	<summary>
+ Xóa mục đích sử dụng đất vào bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.UpdateMucDichSuDung(System.Int32@)">
+	<summary>
+ Sửa mục đích sử dụng đất vào bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.InsertMucDichSuDung(System.Int32@)">
+	<summary>
+ Thêm mục đích sử dụng đất vào bảng từ điển
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.DeleteTuDienLoaiHinhBienDong(System.Int32@)">
+	<summary>
+ Xóa Từ điển Loại hình biến động
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.UpdateTuDienLoaiHinhBienDong(System.Int32@)">
+	<summary>
+ Sửa Từ điển loại hình biến động
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.BangMa.clsBangMa.InsertTuDienLoaiHinhBienDong(System.Int32@)">
+	<summary>
+ Thêm Từ điển loại hình biến động
+ </summary>
+	<param name="intRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.BangMa.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.BangMa.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.BangMa.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DMC.Land.BangMa.ctrlMaCoQuanThucHien.ShowData">
+	<summary>
+ Hiển thị danh mục Mã cơ quan thực hiện đăng ký biến động
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,6 @@
+ToBanDo	String	50	
+ThuaDat	String	50	
+DienTich	Number		
+DiaChiThua	String	500	
+MucDichSuDung	String	300	
+ChuSuDung	String	400	

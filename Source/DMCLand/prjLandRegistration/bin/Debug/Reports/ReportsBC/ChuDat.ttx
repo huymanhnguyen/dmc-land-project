@@ -1,0 +1,9 @@
+Tinh	String	120	
+Huyen	String	120	
+Xa	String	120	
+MaTinh	String	10	
+MaHuyen	String	10	
+MaXa	String	10	
+NhomMaChu	String	100	
+ChuDat	String	4000
+BienDongChoChuDat	String	10

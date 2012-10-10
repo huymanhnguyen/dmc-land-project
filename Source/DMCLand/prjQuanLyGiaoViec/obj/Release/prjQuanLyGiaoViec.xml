@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prjQuanLyGiaoViec
+</name>
+</assembly>
+<members>
+<member name="M:prjQuanLyGiaoViec.crtTimKiemHoSoThuaDat.UpdateHoSoCapGCNDaCoThongTinKhongGianThuaDat(System.String@,System.String,System.String,System.String,System.String)">
+	<summary>
+ Cập nhật Hồ sơ cấp GCN đã có thông tin không gian thửa đất
+ vào bảng tblHoSoCapGCN
+ </summary>
+	<remarks></remarks>
+</member><member name="P:prjQuanLyGiaoViec.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:prjQuanLyGiaoViec.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:prjQuanLyGiaoViec.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

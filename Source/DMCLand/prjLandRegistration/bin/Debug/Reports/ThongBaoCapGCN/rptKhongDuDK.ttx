@@ -1,0 +1,9 @@
+ChuSuDung	String	200	
+ToTrinh	String	20	
+NgayThamDinh	String	20	
+ThangThamDinh	String	20	
+NamThamDinh	String	20	
+NguoiThamDinh	String	200	
+YKienThamDinh	String	4000	
+ten	String	100	
+NgayTrinh	date

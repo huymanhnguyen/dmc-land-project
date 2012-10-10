@@ -1,0 +1,773 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.ThamDinh
+</name>
+</assembly>
+<members>
+<member name="M:DMC.Land.ThamDinh.clsThongTinCayLauNamDangKyCapGCN.SelectThongTinCayLauNamDangKyCapGCNByMaHoSoCapGCN">
+	<summary>
+ Danh sách CÂY LÂU NĂM đăng ký cấp GCN 
+ </summary>
+	<returns>Giá trị trả về là bảng danh sách nhà ở cấp GCN</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCayLauNamDangKyCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Danh sách thông tin Cây lâu năm đăng ký cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCongTrinhXayDungDeNghiCapGCN.InsertThongTinHangMucCongTrinhDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Thêm mới thông tin CÔNG TRÌNH XÂY DỰNG đề nghị cấp GCN theo Mã Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCongTrinhXayDungDeNghiCapGCN.UpdateThongTinHangMucCongTrinhDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin CÔNG TRÌNH XÂY DỰNG đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCongTrinhXayDungDeNghiCapGCN.DeleteThongTinHangMucCongTrinhDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin CÔNG TRÌNH XÂY DỰNG đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCongTrinhXayDungDeNghiCapGCN.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi phát biếu SQL
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục</param>
+	<param name="strRecords"></param>
+	<returns>Giá trị trả về là chuỗi lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCongTrinhXayDungDeNghiCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Thông tin CÔNG TRÌNH XÂY DỰNG đề nghị cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCanBoThamDinh.InsertThongTinCanBoThamDinhByMaHoSoCapGCN">
+	<summary>
+ Thêm thông tin Cán bộ thẩm định vào Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCanBoThamDinh.UpdateThongTinCanBoThamDinhByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin cán bộ thẩm định vào Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCanBoThamDinh.DeleteThongTinCanBoThamDinhByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin cán bộ thẩm định vào Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCanBoThamDinh.Execute(System.String,System.String@)">
+	<summary>
+ Phương thức thực thị Thục tục SQL Server
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục SQLServer</param>
+	<param name="strRecords"></param>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCanBoThamDinh.SelectThongTinCanBoThamDinhByMaHoSoCapGCN(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Thông tin cán bộ thẩm định theo Mã Hồ sơ cấp GCN
+ </summary>
+	<param name="dtRecords">Bảng kết quả truy vấn trả về</param>
+	<returns>Giá trị trả về là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCanBoThamDinh.GetData(System.String,System.Data.DataTable@)">
+	<summary>
+ Hàm thực thi truy vấn cơ sở dữ liệu
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục SQLServer</param>
+	<param name="dtRecords">Tên  bảng dữ liệu trả về của câu truy vấn</param>
+	<returns>Giá tri trả về là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCanBoThamDinh.SelectData(System.String,System.String[],System.String[],System.Data.DataTable@)">
+	<summary>
+ Lựa chọn Danh sách (Từ điển) trạng thái Thẩm định
+ Danh sách này sẽ hiển thị lên Combox trong phần 
+ chọn Kết quả trạng thái luôn chuyển hồ sơ (Kết quả thẩm định)
+ </summary>
+	<param name="dtRecords">Bảng danh sách trạng thái Thẩm định</param>
+	<returns>Kết quả trả về là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinSoCapGCN.ShowData">
+	<summary>
+ Hiển thị thông tin Sổ quản lý
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinChuDeNghiCapGCN.SelectChuDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Danh sách thông tin Chủ GCN đề nghị In GCN theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns>Kết quả trả về là Bảng danh sách chủ GCN đề nghị In GCN theo
+ Mã Hồ sơ cấp GCN cho trước</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinChuDeNghiCapGCN.DeleteChuDeNghiCapGCN">
+	<summary>
+ Xóa Chủ đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinChuDeNghiCapGCN.InsertChuDeNghiCapGCN">
+	<summary>
+ Thêm Chủ đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinChuDeNghiCapGCN.Execute(System.String,System.String@)">
+	<summary>
+ Cập nhật thông tin Chủ đề nghị cấp GCN
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục</param>
+	<param name="strRecords"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinChuDeNghiCapGCN.GetData(System.String,System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Thông tin Chủ đề nghị cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="T:DMC.Land.ThamDinh.clsThongTinChuDeNghiCapGCN">
+	<summary>
+ Lớp thông tin Chủ sử dụng đất và chủ sở hữu tài sản gắn liền với đất
+ đề nghị nghi tại mục I, trang 1 của GCN
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinSoCapGCN.UpdateThongTinSoCapGCNByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin sổ Cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinSoCapGCN.DeleteThongTinSoCapGCNByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin sổ cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinSoCapGCN.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi phát biếu SQL
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục</param>
+	<param name="strRecords"></param>
+	<returns>Giá trị trả về là chuỗi lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinSoCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn cơ sở dữ liệu
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinThuaDatDangKyCapGCN.SelectThongTinThuaDatDangKyCapGCNByMaHoSoCapGCN">
+	<summary>
+ Danh sách Thửa đất đăng ký cấp GCN 
+ </summary>
+	<returns>Giá trị trả về là bảng danh sách Thửa đất cấp GCN</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinThuaDatDangKyCapGCN.SelectThongTinThuaDatTongHopCapGCNByMaHoSoCapGCN">
+	<summary>
+ Danh sách Thửa đất đăng ký cấp GCN 
+ </summary>
+	<returns>Giá trị trả về là bảng danh sách Thửa đất cấp GCN</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinThuaDatDangKyCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Danh sách thông tin Thửa đất đăng ký cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinThuaDatDangKyCapGCN.GetDataTongHOP(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Danh sách thông tin Thửa đất đăng ký cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinCayLauNamDeNghiCapGCN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột của Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinCayLauNamDeNghiCapGCN.FormatGridContruction(System.Windows.Forms.DataGridView)">
+	<summary>
+ Định dạng dữ liệu hiển thị trên Grid
+ </summary>
+	<param name="grdvw">Tên Grid cần định dạng</param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinCayLauNamDeNghiCapGCN.ThemThongTinCayLauNamDeNghiCapGCN(System.Windows.Forms.DataGridView,System.Int32)">
+	<summary>
+ Thêm thông tin Cây lâu năm đề nghị cấp GCN 
+ </summary>
+	<param name="grdvw"></param>
+	<param name="intRowIndex"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinCayLauNamDeNghiCapGCN.HienThiDanhSachCayLauNam">
+	<summary>
+ Hiển thị Danh sách CÂY LÂU NĂM đăng ký cấp GCN lên Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsGhiChuNoiDungChuDeNghiCapGCN.InsertGhiChuNoiDungChuDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Thêm mới thông tin Chủ (Sử dụng, Sở hữu) đề nghị cấp GCN theo Mã Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsGhiChuNoiDungChuDeNghiCapGCN.UpdateGhiChuNoiDungChuDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin Chủ (Sử dụng, sở hữu) đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsGhiChuNoiDungChuDeNghiCapGCN.DeleteGhiChuNoiDungChuDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin Chủ (sử dụng, sở hữu) đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsGhiChuNoiDungChuDeNghiCapGCN.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi phát biếu SQL
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục</param>
+	<param name="strRecords"></param>
+	<returns>Giá trị trả về là chuỗi lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsGhiChuNoiDungChuDeNghiCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Thông tin Chủ (sử dụng, sở hữu) đề nghị cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="T:DMC.Land.ThamDinh.clsGhiChuNoiDungChuDeNghiCapGCN">
+	<summary>
+ Lớp cập nhật thông tin Chủ sử dụng và Chủ sở hữu tài sản
+ đề nghị cấp GCN
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinRungCayDeNghiCapGCN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột của Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinRungCayDeNghiCapGCN.FormatGridContruction(System.Windows.Forms.DataGridView)">
+	<summary>
+ Định dạng dữ liệu hiển thị trên Grid
+ </summary>
+	<param name="grdvw">Tên Grid cần định dạng</param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinRungCayDeNghiCapGCN.ThemThongTinRungCayDeNghiCapGCN(System.Windows.Forms.DataGridView,System.Int32)">
+	<summary>
+ Thêm thông tin RỪNG CÂY đề nghị cấp GCN 
+ </summary>
+	<param name="grdvw"></param>
+	<param name="intRowIndex"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinRungCayDeNghiCapGCN.HienThiDanhSachRungCay">
+	<summary>
+ Hiển thị Danh sách RỪNG CÂY đăng ký cấp GCN lên Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinRungCayDangKyCapGCN.SelectThongTinRungCayDangKyCapGCNByMaHoSoCapGCN">
+	<summary>
+ Danh sách RỪNG CÂY đăng ký cấp GCN 
+ </summary>
+	<returns>Giá trị trả về là bảng danh sách nhà ở cấp GCN</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinRungCayDangKyCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Danh sách thông tin RỪNG CÂY đăng ký cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinPhapLyKhac.InsertThamDinhByMaHoSoCapGCN">
+	<summary>
+ Thêm thông tin Thẩm định vào hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinPhapLyKhac.UpdateThamDinhByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin Thẩm định theo Mã Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinPhapLyKhac.DeleteThamDinhByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin Thẩm định theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinChuDeNghiCapGCN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột của Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinChuDeNghiCapGCN.FormatGridContruction(System.Windows.Forms.DataGridView)">
+	<summary>
+ Định dạng dữ liệu hiển thị trên Grid
+ </summary>
+	<param name="grdvw">Tên Grid cần định dạng</param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinChuDeNghiCapGCN.addSelectedColumn(System.Data.DataTable@,System.String,System.String)">
+	<summary>
+ Thêm cột chọn vào  bảng
+ </summary>
+	<param name="workTable">Bảng cần thêm cột Chọn</param>
+	<param name="strColumnName">Tên cột chọn</param>
+	<param name="strCapture">Tiêu đề cột</param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinChuDeNghiCapGCN.ThemThongTinChuDeNghiCapGCN(System.Windows.Forms.DataGridView,System.Int32)">
+	<summary>
+ Thêm thông tin Chủ đề nghị cấp GCN 
+ </summary>
+	<param name="grdvw"></param>
+	<param name="intRowIndex"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinChuDeNghiCapGCN.HienThiDanhSachChuDeNghiCapGCN">
+	<summary>
+ Hiển thị thông tin Chủ đề nghị cấp GCN lên Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinChuDeNghiCapGCN.HienThiChuHoSoDangKyCapGCNGDCN">
+	<summary>
+ Hiển thị thông tin Chủ sử dụng đất trong lên Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinChuDeNghiCapGCN.HienThiChuHoSoDangKyCapGCNCQNN">
+	<summary>
+ Hiển thị thông tin Chủ sở hữu NHÀ Ở trong lên Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinChuDeNghiCapGCN.HienThiChuHoSoDangKyCapGCNTCDN">
+	<summary>
+ Hiển thị thông tin Chủ sở hữu NHÀ Ở trong lên Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinChuDeNghiCapGCN.XoaThongTinChuDeNghiCapGCN">
+	<summary>
+ Xóa thông tin Chủ để nghị cấp GCN
+ Ở đây ta chỉ xóa thông tin Chủ đề nghị cấp GCN
+ trong bảng trung gian
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinChuDeNghiCapGCN.ThemChuDangKyVaoChuDeNghiCapGCN(System.Data.DataTable)">
+	<summary>
+ Thêm thông tin Chủ đăng ký cấp GCN vào thông tin 
+ Chủ Đề nghị In, cấp GCN
+ </summary>
+	<param name="dtChuDangKy">Danh sách Chủ kê khai đăng ký đề nghị In, Cấp GCN</param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinNhaODeNghiCapGCN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột của Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinNhaODeNghiCapGCN.FormatGridContruction(System.Windows.Forms.DataGridView)">
+	<summary>
+ Định dạng dữ liệu hiển thị trên Grid
+ </summary>
+	<param name="grdvw">Tên Grid cần định dạng</param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinNhaODeNghiCapGCN.ThemThongTinNhaODeNghiCapGCN(System.Windows.Forms.DataGridView,System.Int32)">
+	<summary>
+ Thêm thông tin Nhà ở (căn hộ) đề nghị cấp GCN 
+ </summary>
+	<param name="grdvw"></param>
+	<param name="intRowIndex"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinNhaODeNghiCapGCN.HienThiDanhSachNhaO">
+	<summary>
+ Hiển thị Danh sách Nhà ở đăng ký cấp GCN lên Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinCongTrinhXayDungDeNghiCapGCN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột của Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinCongTrinhXayDungDeNghiCapGCN.FormatGridContruction(System.Windows.Forms.DataGridView)">
+	<summary>
+ Định dạng dữ liệu hiển thị trên Grid
+ </summary>
+	<param name="grdvw">Tên Grid cần định dạng</param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinCongTrinhXayDungDeNghiCapGCN.ThemThongTinCongTrinhXayDungDeNghiCapGCN(System.Windows.Forms.DataGridView,System.Int32)">
+	<summary>
+ Thêm thông tin Công trình xây dựng đề nghị cấp GCN 
+ </summary>
+	<param name="grdvw"></param>
+	<param name="intRowIndex"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinCongTrinhXayDungDeNghiCapGCN.HienThiDanhSachCongTrinhXayDung">
+	<summary>
+ Hiển thị Danh sách Công trình xây dựng đăng ký cấp GCN lên Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinThuaDatDeNghiCapGCN.InsertThongTinThuaDatDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Thêm thông tin Thẩm định vào hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinThuaDatDeNghiCapGCN.UpdateThongTinThuaDatDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin Thẩm định theo Mã Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinThuaDatDeNghiCapGCN.DeleteThongTinThuaDatDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin Thẩm định theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinNhaODangKyCapGCN.SelectThongTinNhaODangKyCapGCNByMaHoSoCapGCN">
+	<summary>
+ Danh sách NHÀ Ở đăng ký cấp GCN 
+ </summary>
+	<returns>Giá trị trả về là bảng danh sách nhà ở cấp GCN</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinNhaODangKyCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Danh sách thông tin Nhà ở đăng ký cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCongTrinhXayDungDangKyCapGCN.SelectThongTinHangMucCongTrinhDangKyCapGCNByMaHoSoCapGCN">
+	<summary>
+ Danh sách CÔNG TRÌNH XÂY DỰNG KHÔNG PHẢI LÀ NHÀ Ở đăng ký cấp GCN 
+ </summary>
+	<returns>Giá trị trả về là bảng danh sách nhà ở cấp GCN</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCongTrinhXayDungDangKyCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Danh sách thông tin CÔNG TRÌNH XÂY DỰNG đăng ký cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCayLauNamDeNghiCapGCN.InsertThongTinCayLauNamDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Thêm mới thông tin CÂY LÂU NĂM đề nghị cấp GCN theo Mã Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCayLauNamDeNghiCapGCN.UpdateThongTinCayLauNamDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin CÂY LÂU NĂM đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCayLauNamDeNghiCapGCN.DeleteThongTinCayLauNamDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin CÂY LÂU NĂM đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCayLauNamDeNghiCapGCN.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi phát biếu SQL
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục</param>
+	<param name="strRecords"></param>
+	<returns>Giá trị trả về là chuỗi lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinCayLauNamDeNghiCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Thông tin CÂY LÂU NĂM đề nghị cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinChuDangKyCapGCN.SelectChuHoSoDangKyCapGCNGDCNByMaHoSoCapGCN">
+	<summary>
+ Danh sách thông tin Chủ sở hữu công trình xây dựng đề nghị đăng ký cấp GCN theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinChuDangKyCapGCN.SelectChuHoSoDangKyCapGCNCQNNByMaHoSoCapGCN">
+	<summary>
+ Danh sách thông tin Chủ sở hữu nhà đề nghị đăng ký cấp GCN theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinChuDangKyCapGCN.SelectChuHoSoDangKyCapGCNTCDNByMaHoSoCapGCN">
+	<summary>
+ Danh sách thông tin Chủ sử dụng đề nghị đăng ký cấp GCN theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns>Kết quả trả về là Bảng danh sách chủ sử dụng đăng ký cấp GCN theo
+ Mã Hồ sơ cấp GCN cho trước</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinChuDangKyCapGCN.GetData(System.String,System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Thông tin Chủ Hồ sơ cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinCanBoThamDinh.FormatGridContruction(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Định dạng lại cấu trúc Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinCanBoThamDinh.ShowData">
+	<summary>
+ Hiển thị thông tin cán bộ thẩm định
+ </summary>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.ThamDinh.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.ThamDinh.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.ThamDinh.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DMC.Land.ThamDinh.clsPheDuyet.InsertThongTinPheDuyetByMaHoSoCapGCN">
+	<summary>
+ Thêm mới thông tin Phê duyệt theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsPheDuyet.UpdateThongTinPheDuyetByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin Phê duyệt theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsPheDuyet.DeleteThongTinPheDuyetByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin Phê duyệt theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về là thông báo lỗi (nếu có)</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsPheDuyet.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi thủ tục SQLServer
+ </summary>
+	<param name="strStoreProcedureName"></param>
+	<param name="records"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThamDinh.ShowData">
+	<summary>
+ Hiển thị thông tin Phê duyệt
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThamDinh.TrangThaiCapNhat(System.Boolean)">
+	<summary>
+ Phương thức thiết lập trạng thái cập nhật/không cập nhật cho các điều khiển
+ </summary>
+	<param name="blnCapNhat">Trạng thái cập nhật/không cập nhật</param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThamDinh.TrangThaiBanDau">
+	<summary>
+ Thiết lập trạng thái ban đầu cho các điều khiển
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThamDinh.TrangThaiChucNang(System.Boolean,System.Boolean)">
+	<summary>
+ Thiết lập trạng thái chức năng cho các Nút chức năng
+ </summary>
+	<param name="blnStartEdited"></param>
+	<param name="blnStartDeleted"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinRungCayDeNghiCapGCN.InsertThongTinRungCayDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Thêm mới thông tin RỪNG CÂY đề nghị cấp GCN theo Mã Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinRungCayDeNghiCapGCN.UpdateThongTinRungCayDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin RỪNG CÂY đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinRungCayDeNghiCapGCN.DeleteThongTinRungCayDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin RỪNG CÂY đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinRungCayDeNghiCapGCN.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi phát biếu SQL
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục</param>
+	<param name="strRecords"></param>
+	<returns>Giá trị trả về là chuỗi lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinRungCayDeNghiCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Thông tin RỪNG CÂY đề nghị cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinThuaDatDeNghiCapGCN.HideAllColumns(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Ẩn tất cả các cột của Grid
+ </summary>
+	<param name="grdvw"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinThuaDatDeNghiCapGCN.FormatGridContruction(System.Windows.Forms.DataGridView)">
+	<summary>
+ Định dạng dữ liệu hiển thị trên Grid
+ </summary>
+	<param name="grdvw">Tên Grid cần định dạng</param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinThuaDatDeNghiCapGCN.ThemThongTinThuaDatDeNghiCapGCN(System.Windows.Forms.DataGridView,System.Int32)">
+	<summary>
+ Thêm thông tin Thửa đất đề nghị cấp GCN 
+ </summary>
+	<param name="grdvw"></param>
+	<param name="intRowIndex"></param>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinThuaDatDeNghiCapGCN.HienThiDanhSachThuaDat">
+	<summary>
+ Hiển thị Danh sách Thửa đất đăng ký cấp GCN lên Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinThuaDatDeNghiCapGCN.ThongTinThuaDatTongHop">
+	<summary>
+ Hiển thị Danh sách Thửa đất đăng ký cấp GCN lên Grid
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinGCN.InsertThongTinGCNByMaHoSoCapGCN">
+	<summary>
+ Thêm mới thông tin GCN theo Mã Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinGCN.UpdateThongTinGCNByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinGCN.DeleteThongTinGCNByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinGCN.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi phát biếu SQL
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục</param>
+	<param name="strRecords"></param>
+	<returns>Giá trị trả về là chuỗi lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn cơ sở dữ liệu
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinKyGCN.InsertThongTinKyGCNByMaHoSoCapGCN">
+	<summary>
+ Thêm mới thông tin ký GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinKyGCN.UpdateThongTinKyGCNByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin ký GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinKyGCN.DeleteThongTinKyGCNByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin sổ quản lý
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinKyGCN.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi phát biếu SQL
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục</param>
+	<param name="strRecords"></param>
+	<returns>Giá trị trả về là chuỗi lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinKyGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn cơ sở dữ liệu
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinNhaODeNghiCapGCN.InsertThongTinNhaODeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Thêm mới thông tin Nhà ở đề nghị cấp GCN theo Mã Hồ sơ cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinNhaODeNghiCapGCN.UpdateThongTinNhaODeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Cập nhật thông tin Nhà ở đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinNhaODeNghiCapGCN.DeleteThongTinNhaODeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Xóa thông tin Nhà ở đề nghị cấp GCN
+ </summary>
+	<returns>Giá trị trả về kiểu String là thông  báo lối nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinNhaODeNghiCapGCN.Execute(System.String,System.String@)">
+	<summary>
+ Hàm thực thi phát biếu SQL
+ </summary>
+	<param name="strStoreProcedureName">Tên thủ tục</param>
+	<param name="strRecords"></param>
+	<returns>Giá trị trả về là chuỗi lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.clsThongTinNhaODeNghiCapGCN.GetData(System.Data.DataTable@)">
+	<summary>
+ Phương thức truy vấn Thông tin Nhà ở đề nghị cấp GCN
+ </summary>
+	<param name="dtResults">Bảng dữ liệu trả về từ câu truy vấn</param>
+	<returns>Giá trị trả về kiểu String là thông báo lỗi nếu có</returns>
+	<remarks></remarks>
+</member><member name="M:DMC.Land.ThamDinh.ctrlThongTinKyGCN.ShowData">
+	<summary>
+ Hiển thị thông tin ký GCN
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

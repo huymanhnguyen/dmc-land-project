@@ -1,0 +1,13 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\bin\Debug\DMC.Interface.OutlookBar.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\bin\Debug\DMC.Interface.OutlookBar.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\bin\Debug\DMC.Interface.OutlookBar.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\bin\Debug\nl-BE\DMC.Interface.OutlookBar.resources.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Release\DMC.Interface.OutlookBar.frmNavigationPaneOptions.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Release\DMC.Interface.OutlookBar.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Release\DMC.Interface.OutlookBar.frmNavigationPaneOptions.nl-BE.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Release\prjOutlookBar.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Release\nl-BE\DMC.Interface.OutlookBar.resources.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Release\DMC.Interface.OutlookBar.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Release\DMC.Interface.OutlookBar.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Release\DMC.Interface.OutlookBar.pdb

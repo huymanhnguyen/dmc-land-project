@@ -1,0 +1,41 @@
+TenPhuong	String	200	
+TenPhuongHoa	String	200	
+NgayHeThong	String	200	
+HoTenCSD	String	500	
+DiaChiNha	String	300	
+DiaChiDat	String	300	
+SoThua	String	20	
+ToBanDo	String	20	
+TongDienTich	String	20	
+SuDungChung	String	20	
+SuDungRieng	String	20	
+NguonGocDienTich	String	200	
+DienTichTheoGiayTo	String	20	
+DanhGioiMocTheoGiayTo	String	300	
+DienTichKhongTheoGiayTo	String	20	
+DanhGioiDungLamDatOOnDinh	BLOB		
+DienTichLamDatOKhongOnDinh	String	20	
+NgayDienTichOKhongOnDinh	String	100	
+DanhGioiDienTichLamDatOKhongOnDinh	String	300	
+TaiSanKhac	String	300	
+TranhChapKhieuKien	String	300	
+QuyHoach	String	300	
+PhamViBaoVeHaTang	String	300	
+TongDienTichThucCap	String	20	
+TongDienTichRieng	String	20	
+TongDienTichChung	String	20	
+TongDienTichChung	String	20	
+TongDienTichKhongCap	String	20	
+TongHopDienTichKhongCap	String	20	
+TongHopDienTichThucCap	String	20	
+DienTichDatO	String	20	
+DienTichDatSanVuon	String	20	
+DanhGioiMocDatO	String	300	
+LyDoKhongCap	String	200	
+BanDo	Byte		
+BanDoTmp	Memo	
+TheoGiayTo	String	3000	
+KhongTheoGiayTo	String	3000	
+GiayToKhac	String	3000
+DeNghiCapDat	String	3000	
+DeNghiCapTaiSan	String	3000

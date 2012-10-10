@@ -1,0 +1,10 @@
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjDongBoHoaCSDL\bin\Release\prjDongBoHoaCSDL.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjDongBoHoaCSDL\bin\Release\prjDongBoHoaCSDL.pdb
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjDongBoHoaCSDL\bin\Release\prjDongBoHoaCSDL.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjDongBoHoaCSDL\obj\Release\ResolveAssemblyReference.cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjDongBoHoaCSDL\obj\Release\prjDongBoHoaCSDL.Resources.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjDongBoHoaCSDL\obj\Release\prjDongBoHoaCSDL.UserControl1.resources
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjDongBoHoaCSDL\obj\Release\prjDongBoHoaCSDL.vbproj.GenerateResource.Cache
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjDongBoHoaCSDL\obj\Release\prjDongBoHoaCSDL.dll
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjDongBoHoaCSDL\obj\Release\prjDongBoHoaCSDL.xml
+E:\DMCLand_201011\source20101105\20101022_DMCLand\DMCLandHoangMai\20102812_DMCLand\prjDongBoHoaCSDL\obj\Release\prjDongBoHoaCSDL.pdb

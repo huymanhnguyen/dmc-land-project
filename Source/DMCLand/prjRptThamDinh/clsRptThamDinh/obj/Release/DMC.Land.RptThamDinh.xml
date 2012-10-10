@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DMC.Land.RptThamDinh
+</name>
+</assembly>
+<members>
+<member name="M:DMC.Land.RptThamDinh.clsRptPhieuThamDinh.SelectChuDeNghiCapGCNByMaHoSoCapGCN">
+	<summary>
+ Danh sách thông tin Chủ GCN đề nghị In GCN theo Mã hồ sơ cấp GCN
+ </summary>
+	<returns>Kết quả trả về là Bảng danh sách chủ GCN đề nghị In GCN theo
+ Mã Hồ sơ cấp GCN cho trước</returns>
+	<remarks></remarks>
+</member><member name="P:DMC.Land.RptThamDinh.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DMC.Land.RptThamDinh.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DMC.Land.RptThamDinh.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DMC.Land.RptThamDinh.ctrlRptPhieuThamDinh.ThongTinChuDeNghiCapGCN">
+	<summary>
+ Thông tin Chủ đề nghị cấp GCN
+ </summary>
+	<returns>Kết quả trả về kiểu chuỗi thông tin các Chủ in ra Phiếu thẩm định</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

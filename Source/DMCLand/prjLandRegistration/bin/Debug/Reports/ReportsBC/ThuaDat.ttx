@@ -1,0 +1,13 @@
+			
+NgayThangVaoSo	String	20	
+NhomMaChu	String	20
+SoTTTDat	String	20	
+SoTTToBanDo	String	20	
+DienTichRieng	String	10	
+DienTichChung	String	10	
+MucDichSuDung	String	10	
+ThoiHanSuDung	String	100	
+NguonGocSD	String	10	
+SoPhatHanhGCN	String	20	
+SoVaoSoCapGCN	String	20	
+BienDong	String	10	
