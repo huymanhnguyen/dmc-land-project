@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-
+// test change code 
 namespace DMC.Barcode
 {
     interface IBarcode
