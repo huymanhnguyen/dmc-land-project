@@ -218,3 +218,13 @@ E:\DMCLand\new\20102812_DMCLand_4\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\
 E:\DMCLand\new\20102812_DMCLand_4\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\prjTuDienCanBoNghiepVu.csproj.GenerateResource.Cache
 E:\DMCLand\new\20102812_DMCLand_4\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\DMC.Land.TuDienCanBoNghiepVu.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\DMC.Land.TuDienCanBoNghiepVu.pdb
+E:\dmc_land_project\Source\DMCLand\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\bin\Debug\DMC.Land.TuDienCanBoNghiepVu.dll
+E:\dmc_land_project\Source\DMCLand\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\bin\Debug\DMC.Land.TuDienCanBoNghiepVu.pdb
+E:\dmc_land_project\Source\DMCLand\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\DMC.Land.TuDienCanBoNghiepVu.ctrlTuDienNguoiKyGCN.resources
+E:\dmc_land_project\Source\DMCLand\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\DMC.Land.TuDienCanBoNghiepVu.ctrlTuDienNguoiPheDuyet.resources
+E:\dmc_land_project\Source\DMCLand\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\DMC.Land.TuDienCanBoNghiepVu.ctrlTuDienNguoiThamDinh.resources
+E:\dmc_land_project\Source\DMCLand\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\DMC.Land.TuDienCanBoNhiepVu.ctrlTuDienNguoiXetDuyet.resources
+E:\dmc_land_project\Source\DMCLand\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\prjTuDienCanBoNghiepVu.csproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\DMC.Land.TuDienCanBoNghiepVu.dll
+E:\dmc_land_project\Source\DMCLand\prjTuDienNguoiXetDuyet\clsTuDienNguoiXetDuyet\obj\Debug\DMC.Land.TuDienCanBoNghiepVu.pdb

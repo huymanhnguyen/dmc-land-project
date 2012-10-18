@@ -167,3 +167,10 @@ E:\DMCLand\new\20102812_DMCLand_4\prjThietLapThongTinGCN\obj\Debug\prjThietLapTh
 E:\DMCLand\new\20102812_DMCLand_4\prjThietLapThongTinGCN\obj\Debug\prjThietLapThongTinGCN.csproj.GenerateResource.Cache
 E:\DMCLand\new\20102812_DMCLand_4\prjThietLapThongTinGCN\obj\Debug\DMC.Land.ThietLapThongTinGCN.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjThietLapThongTinGCN\obj\Debug\DMC.Land.ThietLapThongTinGCN.pdb
+E:\dmc_land_project\Source\DMCLand\prjThietLapThongTinGCN\bin\Debug\DMC.Land.ThietLapThongTinGCN.dll
+E:\dmc_land_project\Source\DMCLand\prjThietLapThongTinGCN\bin\Debug\DMC.Land.ThietLapThongTinGCN.pdb
+E:\dmc_land_project\Source\DMCLand\prjThietLapThongTinGCN\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjThietLapThongTinGCN\obj\Debug\prjThietLapThongTinGCN.ctrlTuDienTieuDeKyGCN.resources
+E:\dmc_land_project\Source\DMCLand\prjThietLapThongTinGCN\obj\Debug\prjThietLapThongTinGCN.csproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjThietLapThongTinGCN\obj\Debug\DMC.Land.ThietLapThongTinGCN.dll
+E:\dmc_land_project\Source\DMCLand\prjThietLapThongTinGCN\obj\Debug\DMC.Land.ThietLapThongTinGCN.pdb

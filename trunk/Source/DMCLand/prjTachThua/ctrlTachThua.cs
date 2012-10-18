@@ -393,6 +393,15 @@ namespace TachThua
             get { return strConnection; }
             set { strConnection = value; }
         }
+        public bool outNghiepVuHS = false;
+        public bool NghiepVuHS
+        {
+            get { return outNghiepVuHS; }
+            set
+            {
+                outNghiepVuHS = value;
+            }
+        }
         /* Khai báo Mã đơn vị hành chính */
         private string strMaDonViHanhChinh = "";
         public string MaDonViHanhChinh
@@ -402,6 +411,7 @@ namespace TachThua
         }
         /* Khai báo Mã thửa đất */
         private string strMaThuaDat = "";
+        private string strMaThuaDatTam = "0";
         public string MaThuaDat
         {
             get { return strMaThuaDat; }
@@ -413,17 +423,58 @@ namespace TachThua
                     strMaThuaDat = value;
             }
         }
+        public string MaThuaDatTam
+        {
+            get { return strMaThuaDatTam; }
+            set
+            {
+                if (value == "")
+                    strMaThuaDatTam = "0";
+                else
+                    strMaThuaDatTam = value;
+            }
+        }
+        private string strDienTich = "";
+        private string strDienTichTam = "";
+        public string DienTich
+        {
+            get { return strDienTich; }
+            set { strDienTich = value; }
+        }
+        public string DienTichTam
+        {
+            get { return strDienTichTam; }
+            set { strDienTichTam = value; }
+        }
+        private string strDiaChiDat = "";
+        public string DiaChiDat
+        {
+            get { return strDiaChiDat; }
+            set { strDiaChiDat = value; }
+        }
         private string strToBanDo = "";
+        private string strToBanDoTam = "";
         public string ToBanDo
         {
             get { return strToBanDo; }
             set { strToBanDo = value; }
         }
+        public string ToBanDoTam
+        {
+            get { return strToBanDoTam; }
+            set { strToBanDoTam = value; }
+        }
         private string strSoThua = "";
+        private string strSoThuaTam = "";
         public string SoThua
         {
             get { return strSoThua; }
             set { strSoThua = value; }
+        }
+        public string SoThuaTam
+        {
+            get { return strSoThuaTam; }
+            set { strSoThuaTam = value; }
         }
         /* Khai báo biến kiểu bool xác nhận bản đồ tổng thể đã được hiển thị */
         private bool boolMapShowed = false;
@@ -449,6 +500,7 @@ namespace TachThua
         public static double ChuViDo = 0;
         public static double DienTichDo = 0;
          public bool TrangThaiPhucHoi = true;
+         public bool TrangThaiSelect = false ;
         private string OldKey;
         private string MyCurso;
         private string LayerName = "Thua_Dat";
@@ -463,7 +515,7 @@ namespace TachThua
         }
         private bool DiChuyenDinhThua = false;
         private int intUndo = 0;
-        private bool EditThuaDat=false ;
+        public  bool EditThuaDat = false ;
         private CompositeStyle CopyStyle = null;
         private DPoint MousePointEnd;
         private int SizeMapWidth = 0;
@@ -771,7 +823,7 @@ namespace TachThua
         {
             /* Đặt tên cho bản đồ */
             mapControl1.Map.Name = "Bản đồ địa chính";
-            mapControl1.Map.Zoom = new MapInfo.Geometry.Distance(1500, DistanceUnit.Meter);
+            mapControl1.Map.Zoom = new MapInfo.Geometry.Distance(1000, DistanceUnit.Meter);
             /*******************************************************************************************/
             //MapInfo.Mapping.VisibleRange visRange = new MapInfo.Mapping.VisibleRange(0, true, 10, false , MapInfo.Geometry.DistanceUnit.Meter);
             //FIX ZOOM 
@@ -993,7 +1045,8 @@ namespace TachThua
             /* Nếu click chuột trái thì nhận ID thửa đất nếu có */
             else if (e.Button == MouseButtons.Left)
             {
-
+                if (TrangThaiSelect = false)
+                    return;
             }
         }
 
@@ -1181,59 +1234,84 @@ namespace TachThua
         }
 
         private void toolSave_Click(object sender, EventArgs e)
+
         {
-            /* Khai báo biến kết thúc hành động thực hiện */
-            bool boolEnd = true;
-            /* Xác nhận hành động NẮN CHỈNH THỬA ĐẤT */
-            if (DMC.Land.TachThua.CommonLand.stringAction == "Edit")
+            if ((EditThuaDat == true) && (strMaThuaDatTam == strMaThuaDat))
             {
-                /* Xác nhận nắn chỉnh thửa đất */
-                DMC.GIS.Common.LandEditing landEditing = new DMC.GIS.Common.LandEditing();
-                /* Truyền chuỗi kết nối cơ sở dữ liệu */
-                landEditing.Connection = strConnection;
-                landEditing.MaDonViHanhChinh = strMaDonViHanhChinh;
-                landEditing.TenBangDat = strTenBangDat;
-                boolEnd = landEditing.ApplyEditing(mapControl1.Map, "Đất", ref DMC.Land.TachThua.CommonLand.featureEdit, LayerName);
+                /* Khai báo biến kết thúc hành động thực hiện */
+                bool boolEnd = true;
+                /* Xác nhận hành động NẮN CHỈNH THỬA ĐẤT */
+                if (DMC.Land.TachThua.CommonLand.stringAction == "Edit")
+                {
+                    /* Xác nhận nắn chỉnh thửa đất */
+                    DMC.GIS.Common.LandEditing landEditing = new DMC.GIS.Common.LandEditing();
+                    /* Truyền chuỗi kết nối cơ sở dữ liệu */
+                    landEditing.Connection = strConnection;
+                    landEditing.MaDonViHanhChinh = strMaDonViHanhChinh;
+                    landEditing.TenBangDat = strTenBangDat;
+                    boolEnd = landEditing.ApplyEditing(mapControl1.Map, "Đất", ref DMC.Land.TachThua.CommonLand.featureEdit, LayerName);
+                }
+                /* Xác nhận hành động GHÉP THỬA */
+                else if (DMC.Land.TachThua.CommonLand.stringAction == "Combine")
+                {
+                    /* Xác nhận GHÉP */
+                    DMC.GIS.Common.CombineLand combineLand = new DMC.GIS.Common.CombineLand();
+                    /* Truyền chuỗi kết nối cơ sở dữ liệu */
+                    combineLand.Connection = strConnection;
+                    combineLand.MaDonViHanhChinh = strMaDonViHanhChinh;
+                    combineLand.TenBangDat = strTenBangDat;
+                    boolEnd = combineLand.ApplyCombine(mapControl1.Map, "Đất", DMC.Land.TachThua.CommonLand.featuresCombine, LayerName);
+                }
+                /* Xác nhận hành động TÁCH THỬA */
+                else if (DMC.Land.TachThua.CommonLand.stringAction == "Split")
+                {
+                    /* Xác nhận TÁCH */
+                    DMC.GIS.Common.SplitLand splitLand = new DMC.GIS.Common.SplitLand();
+                    /* Truyền chuỗi kết nối cơ sở dữ liệu */
+                    splitLand.Connection = strConnection;
+                    splitLand.MaDonViHanhChinh = strMaDonViHanhChinh;
+                    splitLand.TenBangDat = strTenBangDat;
+                    boolEnd = splitLand.ApplySplit(mapControl1.Map, "Đất", ref DMC.Land.TachThua.CommonLand.featureSplit, LayerName);
+                }
+                else if (DMC.Land.TachThua.CommonLand.stringAction == "AddNew")
+                {
+                    /* Xác nhận THÊM MỚI */
+                    DMC.GIS.Common.AddNew addNew = new DMC.GIS.Common.AddNew();
+                    /* Truyền mã đơn vị hành chính cho trường hợp thêm mới thửa đất lên bản đồ thửa đất */
+                    addNew.MaDonViHanhChinh = Convert.ToInt32(strMaDonViHanhChinh);
+                    boolEnd = addNew.ApplyAddNew(mapControl1.Map, "Đất", LayerName);
+
+                }
+                /* Nếu kết thúc hành động  thực hiện */
+                if (boolEnd == true)
+                {
+                    /* Đóng lớp thửa đất */
+                    MapInfo.Engine.Session.Current.Catalog.CloseTable(LayerName);
+                    /* Xác nhận lại hành động */
+                    DMC.Land.TachThua.CommonLand.stringAction = "";
+                }
+                string kq = "";
+                // update trạng thái của thửa đất đang tồn tại trước
+                DMC.Land.TachThua.clsHoSoCapGCN cls = new DMC.Land.TachThua.clsHoSoCapGCN();
+                cls.Connection = strConnection;
+                cls.ToBanDo = strToBanDo;
+                cls.SoThua = strSoThua;
+                cls.MaThuaDat = strMaThuaDat;
+                cls.MaDonViHanhChinh = strMaDonViHanhChinh;
+                cls.Updatethuadatdangthaotac(ref kq);
+                EditThuaDat = false;
+                toolPrepareSplit.Enabled = false ;
+                toolPrepareCombine.Enabled = false ;
+                toolPrepareEdit.Enabled = false ;
+                return;
+
             }
-            /* Xác nhận hành động GHÉP THỬA */
-            else if (DMC.Land.TachThua.CommonLand.stringAction == "Combine")
+            else
             {
-                /* Xác nhận GHÉP */
-                DMC.GIS.Common.CombineLand combineLand = new DMC.GIS.Common.CombineLand();
-                /* Truyền chuỗi kết nối cơ sở dữ liệu */
-                combineLand.Connection = strConnection;
-                combineLand.MaDonViHanhChinh = strMaDonViHanhChinh ;
-                combineLand.TenBangDat = strTenBangDat;
-                boolEnd = combineLand.ApplyCombine(mapControl1.Map, "Đất", DMC.Land.TachThua.CommonLand.featuresCombine, LayerName);
+                MessageBox.Show("Kiểm tra thửa đất có đang thao tác bởi người dùng khác trước khi lưu !");
+                return;
             }
-            /* Xác nhận hành động TÁCH THỬA */
-            else if (DMC.Land.TachThua.CommonLand.stringAction == "Split")
-            {
-                /* Xác nhận TÁCH */
-                DMC.GIS.Common.SplitLand splitLand = new DMC.GIS.Common.SplitLand();
-                /* Truyền chuỗi kết nối cơ sở dữ liệu */
-                splitLand.Connection = strConnection;
-                splitLand.MaDonViHanhChinh = strMaDonViHanhChinh;
-                splitLand.TenBangDat = strTenBangDat;
-                boolEnd = splitLand.ApplySplit(mapControl1.Map, "Đất", ref DMC.Land.TachThua.CommonLand.featureSplit, LayerName);
-            }
-            else if (DMC.Land.TachThua.CommonLand.stringAction == "AddNew")
-            {
-                /* Xác nhận THÊM MỚI */
-                DMC.GIS.Common.AddNew addNew = new DMC.GIS.Common.AddNew();
-                /* Truyền mã đơn vị hành chính cho trường hợp thêm mới thửa đất lên bản đồ thửa đất */
-                addNew.MaDonViHanhChinh = Convert.ToInt32(strMaDonViHanhChinh);
-                boolEnd = addNew.ApplyAddNew(mapControl1.Map, "Đất", LayerName);
-            }
-            /* Nếu kết thúc hành động  thực hiện */
-            if (boolEnd == true)
-            {
-                /* Đóng lớp thửa đất */
-                MapInfo.Engine.Session.Current.Catalog.CloseTable(LayerName);
-                /* Xác nhận lại hành động */
-                DMC.Land.TachThua.CommonLand.stringAction = "";
-            }
-            return;
+            
         }
 
         private void toolEditingMode_Click(object sender, EventArgs e)
@@ -1648,6 +1726,7 @@ namespace TachThua
                 strToBanDo = feature["ToBanDo"].ToString();
                 strMaThuaDat = feature["SW_MEMBER"].ToString();
                 ChonHoSoTuThuaDat(sender, e);
+                
             }
            
         }
@@ -1657,7 +1736,7 @@ namespace TachThua
 
         private void mapControl1_MouseClick(object sender, MouseEventArgs e)
         {
-            
+
             /* Xóa dữ liệu trên Form */
             this.TrangThaiBanDau();
             /* Chắc chắn rằng người dùng click chuột trái */
@@ -1665,6 +1744,7 @@ namespace TachThua
             {
                 return;
             }
+            
             try
             {
                 /* Hiển thị thông tin thửa đất */
@@ -1681,6 +1761,20 @@ namespace TachThua
                 this.txtToBanDo.Text = feature["ToBanDo"].ToString();
                 this.strMaThuaDat = feature["SW_MEMBER"].ToString();
                 LoadThongTin(feature["ToBanDo"].ToString(), feature["SoThua"].ToString(), strMaThuaDat);
+                if ((strMaThuaDatTam == strMaThuaDat) && (strMaThuaDatTam != "0"))
+                {
+                    
+                    toolPrepareSplit.Enabled = true;
+                    toolPrepareCombine.Enabled = true;
+                    toolPrepareEdit.Enabled = true;
+                }
+                else
+                {
+                    toolPrepareSplit.Enabled = false;
+                    toolPrepareCombine.Enabled = false;
+                    toolPrepareEdit.Enabled = false;
+                    
+                }
             }
             catch (Exception ex)
             {
@@ -1986,6 +2080,7 @@ namespace TachThua
         #endregion
 
 
+       
 
         private void grdDSHoSo_CellMouseClick(object sender, DataGridViewCellMouseEventArgs e)
         {
@@ -1994,6 +2089,7 @@ namespace TachThua
             cls.MaHoSoCapGCN = grdDSHoSo.Rows[e.RowIndex].Cells[0].Value.ToString();
             DataTable dt = new DataTable();
             dt = cls.SelThongTinHoSoByMaHoSoCapGCN();
+            
             if (dt.Columns.Count > 0)
             {
                 grdvwHoSo.Columns.Clear();
@@ -2015,7 +2111,7 @@ namespace TachThua
             try
             {
                 picWait.Visible = false;
-
+                //picWait.Enabled = true;
                 /* Tìm thửa đất trên bản đồ với Số hiệu thửa */
                 /* Khai báo lớp Tìm kiếm */
                 string strSoThua = "";
@@ -2055,9 +2151,10 @@ namespace TachThua
                 System.Windows.Forms.MessageBox.Show(this, "Lỗi tìm thửa đất trên bản đồ: " + System.Environment.NewLine + ex.Message, "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
+        
         private void grdvw_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
         {
+
             try
             {
                 /* Không active chức năng khi click chuột phải */
@@ -2076,12 +2173,12 @@ namespace TachThua
             {
                 System.Windows.Forms.MessageBox.Show(this, "Lỗi hiển thị thửa đất được chọn trên bản đồ: " + System.Environment.NewLine + ex.Message, "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-
         }
 
         private void toolXoaThuaDat_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Có chắc chắn xoá thửa đất đang chọn không?",
+            if (
+                MessageBox.Show("Có chắc chắn xoá thửa đất đang chọn không?",
                     "DMCLand",
                     MessageBoxButtons.YesNo,
                     MessageBoxIcon.Warning) == DialogResult.Yes)
@@ -4473,8 +4570,153 @@ namespace TachThua
             frm.ShowDialog();
         }
 
-       
+        private void toolStriptKiemTra_Click(object sender, EventArgs e)
+        {
+            /*-------------------------------------------------------------------------------------------------------------*/
+            /* kiểm tra xem thửa đất có đang được thao tac */
+            
+            try
+            {
+                if (strMaThuaDat == "0")
+                {
+                    MessageBox.Show("Chọn một thửa đất để thao tác !", "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    return;
+                }
+                else
+                {
+                        
+                        DMC.GIS.Common.FeatureInfo featureInfo = new DMC.GIS.Common.FeatureInfo();
+                        MapInfo.Data.Feature feature = featureInfo.GetSelectedLandInfo(mapControl1.Map, "Đất");
+                        strDienTich = feature["DienTichTuNhien"].ToString();
+                        strSoThua = feature["SoThua"].ToString();
+                        strToBanDo = feature["ToBanDo"].ToString();
+                        strMaThuaDat = feature["SW_MEMBER"].ToString();
+                        if ((strMaThuaDatTam == strMaThuaDat))
+                        {
+                            MessageBox.Show("bạn đang thao tác trên thửa đất!", "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            return;
 
+                        
+                        }
+                        else if (strMaThuaDatTam == "0")
+                        {
+                           // MessageBox.Show("to bản đồ" + strToBanDo + "  ,  " + strToBanDoTam + "sothua" + strSoThua + "  ,  " + strSoThuaTam + "ma thua dat" + strMaThuaDat + "  ,  " + strMaThuaDatTam + "mã đơn vị hành chính" + strMaDonViHanhChinh);
+
+                            DMC.Land.TachThua.clsHoSoCapGCN cls = new DMC.Land.TachThua.clsHoSoCapGCN();
+                            cls.Connection = strConnection;
+                            DataTable dt = new DataTable();
+                            string[] paras = { "@MaThuaDat", "@ToBanDo", "@SoThua", "@MaDonViHanhChinh" };
+                            string[] values = { strMaThuaDat, strToBanDo, strSoThua, strMaDonViHanhChinh };
+                            dt = cls.Gettable("spSelectThuaDatDangThaoTac", paras, values);
+                            // nếu kết quả trả về thửa đất đang đc thao tác:
+                            if (dt.Rows.Count > 0)
+                            {
+
+                                MessageBox.Show("Thửa đất đang được thao tác,tìm thửa đất khác để thao tác !", "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                return;
+                            }
+                            else
+                            {
+
+                                if (MessageBox.Show("Tiến hành thao tác trên thửa đất?", "DMCLand", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
+                                {
+
+                                    string kq1 = "";
+                                    EditThuaDat = true;
+                                    toolPrepareSplit.Enabled = true;
+                                    toolPrepareCombine.Enabled = true;
+                                    toolPrepareEdit.Enabled = true;
+                                    DMC.Land.TachThua.clsHoSoCapGCN cls1 = new DMC.Land.TachThua.clsHoSoCapGCN();
+                                    cls1.Connection = strConnection;
+                                    cls1.ToBanDo = strToBanDo;
+                                    cls1.SoThua = strSoThua;
+                                    cls1.MaThuaDat = strMaThuaDat;
+                                    cls1.DienTich = strDienTich;
+                                    cls1.MaDonViHanhChinh = strMaDonViHanhChinh;
+                                    cls1.InsThuaDatDangThaoTac(ref kq1);
+                                    strMaThuaDatTam = strMaThuaDat;
+                                    strSoThuaTam = strSoThua;
+                                    strToBanDoTam = strToBanDo;
+                                    strDienTichTam = strDienTich;
+                                }
+                                else
+                                    return;
+                            }
+                        }
+                        else if ((strMaThuaDatTam != strMaThuaDat) && (strMaThuaDatTam != "0"))
+                        {
+                            
+                            
+                            /*----------------------------------------------------------------------------------------*/
+                            DMC.Land.TachThua.clsHoSoCapGCN cls = new DMC.Land.TachThua.clsHoSoCapGCN();
+                            cls.Connection = strConnection;
+                            DataTable dt = new DataTable();
+                            string[] paras = { "@MaThuaDat", "@ToBanDo", "@SoThua", "@MaDonViHanhChinh" };
+                            string[] values = { strMaThuaDat, strToBanDo, strSoThua, strMaDonViHanhChinh };
+                            dt = cls.Gettable("spSelectThuaDatDangThaoTac", paras, values);
+                            // nếu kết quả trả về thửa đất đang đc thao tác:
+                            if (dt.Rows.Count > 0)
+                            {
+
+                                MessageBox.Show("Thửa đất đang được thao tác,tìm thửa đất khác để thao tác !", "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                                return;
+                            }
+                            else
+                            {
+
+                                if (MessageBox.Show("Tiến hành thao tác trên thửa đất?", "DMCLand", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
+                                {
+
+                                    string kq1 = "";
+                                    EditThuaDat = true;
+                                    toolPrepareSplit.Enabled = true;
+                                    toolPrepareCombine.Enabled = true;
+                                    toolPrepareEdit.Enabled = true;
+                                    try
+                                    {
+                                        string kq = "";
+                                        // update trạng thái của thửa đất đang tồn tại trước
+                                        DMC.Land.TachThua.clsHoSoCapGCN cls2 = new DMC.Land.TachThua.clsHoSoCapGCN();
+                                        cls2.Connection = strConnection;
+                                        cls2.MaThuaDat = strMaThuaDatTam;
+                                        cls2.SoThua = strSoThuaTam;
+                                        cls2.ToBanDo = strToBanDoTam;
+                                        cls2.DienTich = strDienTichTam;
+                                        cls2.MaDonViHanhChinh = strMaDonViHanhChinh;
+                                        cls2.Updatethuadatdangthaotac(ref kq);
+                                    }
+                                    catch (Exception ex)
+                                    {
+                                        System.Windows.Forms.MessageBox.Show(this, "Lỗi update: " + System.Environment.NewLine + ex.Message, "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                    }
+                                   
+                                    DMC.Land.TachThua.clsHoSoCapGCN cls1 = new DMC.Land.TachThua.clsHoSoCapGCN();
+                                    cls1.Connection = strConnection;
+                                    cls1.ToBanDo = strToBanDo;
+                                    cls1.SoThua = strSoThua;
+                                    cls1.MaThuaDat = strMaThuaDat;
+                                    cls1.DienTich = strDienTich;
+                                    cls1.MaDonViHanhChinh = strMaDonViHanhChinh;
+                                    // MessageBox.Show("to bản đồ" + strToBanDo+ "sothua" +strSoThua + "ma thua dat"+ strMaThuaDat +"mã đơn vị hành chính"+ strMaDonViHanhChinh );
+                                    cls1.InsThuaDatDangThaoTac(ref kq1);
+                                    strMaThuaDatTam = strMaThuaDat;
+                                    strSoThuaTam = strSoThua;
+                                    strToBanDoTam = strToBanDo;
+                                    strDienTichTam = strDienTich;
+                                }
+                                else
+                                    return;
+                            }
+                    }
+
+                }
+
+            }
+            catch (Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show(this, "Lỗi: " + System.Environment.NewLine + ex.Message, "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }          
 
     }
 }

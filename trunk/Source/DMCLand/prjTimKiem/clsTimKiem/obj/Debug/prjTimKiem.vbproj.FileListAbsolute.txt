@@ -347,3 +347,16 @@ E:\DMCLand\new\20102812_DMCLand_4\prjTimKiem\clsTimKiem\obj\Debug\prjTimKiem.vbp
 E:\DMCLand\new\20102812_DMCLand_4\prjTimKiem\clsTimKiem\obj\Debug\DMC.Land.TimKiem.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjTimKiem\clsTimKiem\obj\Debug\DMC.Land.TimKiem.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjTimKiem\clsTimKiem\obj\Debug\DMC.Land.TimKiem.pdb
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\bin\Debug\DMC.Land.TimKiem.dll.config
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\bin\Debug\DMC.Land.TimKiem.dll
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\bin\Debug\DMC.Land.TimKiem.pdb
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\bin\Debug\DMC.Land.TimKiem.xml
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\obj\Debug\DMC.Land.TimKiem.crtTimKiemHoSoThuaDat.resources
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\obj\Debug\DMC.Land.TimKiem.ctrlTimKiem.resources
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\obj\Debug\DMC.Land.TimKiem.frmHinhDangThua.resources
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\obj\Debug\DMC.Land.TimKiem.Resources.resources
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\obj\Debug\prjTimKiem.vbproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\obj\Debug\DMC.Land.TimKiem.dll
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\obj\Debug\DMC.Land.TimKiem.xml
+E:\dmc_land_project\Source\DMCLand\prjTimKiem\clsTimKiem\obj\Debug\DMC.Land.TimKiem.pdb

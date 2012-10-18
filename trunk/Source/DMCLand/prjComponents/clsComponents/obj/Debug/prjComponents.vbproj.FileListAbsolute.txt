@@ -97,3 +97,12 @@ E:\DMCLand\new\20102812_DMCLand_4\prjComponents\clsComponents\obj\Debug\prjCompo
 E:\DMCLand\new\20102812_DMCLand_4\prjComponents\clsComponents\obj\Debug\DMC.Components.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjComponents\clsComponents\obj\Debug\DMC.Components.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjComponents\clsComponents\obj\Debug\DMC.Components.pdb
+E:\dmc_land_project\Source\DMCLand\prjComponents\clsComponents\bin\Debug\DMC.Components.dll
+E:\dmc_land_project\Source\DMCLand\prjComponents\clsComponents\bin\Debug\DMC.Components.pdb
+E:\dmc_land_project\Source\DMCLand\prjComponents\clsComponents\bin\Debug\DMC.Components.xml
+E:\dmc_land_project\Source\DMCLand\prjComponents\clsComponents\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjComponents\clsComponents\obj\Debug\DMC.Components.Resources.resources
+E:\dmc_land_project\Source\DMCLand\prjComponents\clsComponents\obj\Debug\prjComponents.vbproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjComponents\clsComponents\obj\Debug\DMC.Components.dll
+E:\dmc_land_project\Source\DMCLand\prjComponents\clsComponents\obj\Debug\DMC.Components.xml
+E:\dmc_land_project\Source\DMCLand\prjComponents\clsComponents\obj\Debug\DMC.Components.pdb

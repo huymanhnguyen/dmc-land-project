@@ -38,3 +38,13 @@ E:\DMCLand\new\20102812_DMCLand_4\prjUpdateHeThong\obj\Debug\prjUpdateHeThong.vb
 E:\DMCLand\new\20102812_DMCLand_4\prjUpdateHeThong\obj\Debug\prjUpdateHeThong.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjUpdateHeThong\obj\Debug\prjUpdateHeThong.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjUpdateHeThong\obj\Debug\prjUpdateHeThong.pdb
+E:\dmc_land_project\Source\DMCLand\prjUpdateHeThong\bin\Debug\prjUpdateHeThong.dll
+E:\dmc_land_project\Source\DMCLand\prjUpdateHeThong\bin\Debug\prjUpdateHeThong.pdb
+E:\dmc_land_project\Source\DMCLand\prjUpdateHeThong\bin\Debug\prjUpdateHeThong.xml
+E:\dmc_land_project\Source\DMCLand\prjUpdateHeThong\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjUpdateHeThong\obj\Debug\prjUpdateHeThong.ctrUpdateHeThong.resources
+E:\dmc_land_project\Source\DMCLand\prjUpdateHeThong\obj\Debug\prjUpdateHeThong.Resources.resources
+E:\dmc_land_project\Source\DMCLand\prjUpdateHeThong\obj\Debug\prjUpdateHeThong.vbproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjUpdateHeThong\obj\Debug\prjUpdateHeThong.dll
+E:\dmc_land_project\Source\DMCLand\prjUpdateHeThong\obj\Debug\prjUpdateHeThong.xml
+E:\dmc_land_project\Source\DMCLand\prjUpdateHeThong\obj\Debug\prjUpdateHeThong.pdb

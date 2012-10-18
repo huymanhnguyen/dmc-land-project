@@ -78,6 +78,7 @@ Public Class ctrlThongTinChuDeNghiCapGCN
                 .Connection = strConnection
                 .MaHoSoCapGCN = strMaHoSoCapGCN
             End With
+           ' MsgBox(" Mã HS Chủ đề nghị cấp GCN" & vbNewLine & strMaHoSoCapGCN, MsgBoxStyle.Information, "DMCLand")
             'Khởi tạo trạng thái ban đầu
             TrangThaiBanDau()
             'Truy vấn thông tin
@@ -731,6 +732,8 @@ Public Class ctrlThongTinChuDeNghiCapGCN
         Dim ChuDeNghiCapGCN As New clsThongTinChuDeNghiCapGCN
         ChuDeNghiCapGCN.Connection = strConnection
         ChuDeNghiCapGCN.XML = strXML
+        ''Thêm MHSCGCN
+        'ChuDeNghiCapGCN.MaHoSoCapGCN = strMaHoSoCapGCN
         ChuDeNghiCapGCN.InsertChuDeNghiCapGCN()
         Me.ShowData()
     End Sub

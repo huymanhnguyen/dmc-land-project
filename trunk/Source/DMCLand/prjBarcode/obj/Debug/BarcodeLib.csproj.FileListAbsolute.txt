@@ -150,3 +150,10 @@ E:\DMCLand\new\20102812_DMCLand_4\prjBarcode\obj\Debug\DMC.Barcode.ctrlEncodeEAN
 E:\DMCLand\new\20102812_DMCLand_4\prjBarcode\obj\Debug\BarcodeLib.csproj.GenerateResource.Cache
 E:\DMCLand\new\20102812_DMCLand_4\prjBarcode\obj\Debug\DMC.Barcode.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjBarcode\obj\Debug\DMC.Barcode.pdb
+E:\dmc_land_project\Source\DMCLand\prjBarcode\bin\Debug\DMC.Barcode.dll
+E:\dmc_land_project\Source\DMCLand\prjBarcode\bin\Debug\DMC.Barcode.pdb
+E:\dmc_land_project\Source\DMCLand\prjBarcode\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjBarcode\obj\Debug\DMC.Barcode.ctrlEncodeEAN13.resources
+E:\dmc_land_project\Source\DMCLand\prjBarcode\obj\Debug\BarcodeLib.csproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjBarcode\obj\Debug\DMC.Barcode.dll
+E:\dmc_land_project\Source\DMCLand\prjBarcode\obj\Debug\DMC.Barcode.pdb

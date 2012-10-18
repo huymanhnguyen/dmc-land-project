@@ -1,4 +1,5 @@
-﻿Public Class frmBanDoTongThe
+﻿Imports System.Data.SqlClient
+Public Class frmBanDoTongThe
 
     Private Sub frmBanDoTongThe_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         'Thiết lập chế độ hiện thị lớn nhất
@@ -18,7 +19,7 @@
         Dim dt As New DataTable
         Dim dtMaThuaDat As New DataTable
         cls.SelectMaHoSoCapGCN(dt)
-        cls.SelectMaThuaDatInBanDo(dtMaThuaDat) 
+        cls.SelectMaThuaDatInBanDo(dtMaThuaDat)
         If (dt.Rows.Count > 0) Then
             If dt.Rows(0).Item("MaThuaDat").ToString = "" Then
                 MessageBox.Show("Kiểm tra dữ liệu hồ sơ " & dt.Rows(0).Item("MaHoSoCapGCN").ToString)
@@ -74,16 +75,51 @@
                 frmMain.HienThiNghiepVu()
                 frm.BringToFront()
             End With
-        End If 
+        End If
     End Sub
     Private Sub frmBanDoTongThe_FormClosing(ByVal sender As Object, ByVal e As FormClosingEventArgs) Handles MyBase.FormClosing
-        Dim dlg As DialogResult = MessageBox.Show("Bạn có muốn thoát khỏi chức năng tách ghép không?", "Warning", MessageBoxButtons.YesNo)
-        If dlg = DialogResult.Yes Then
-            e.Cancel = False            '  Me.CtrlTachThua.SaveData()
-            Me.CtrlTachThua.FormClosing()
-        Else
-            e.Cancel = True
-        End If
+        'Dim dlg As DialogResult = MessageBox.Show("Bạn có muốn thoát khỏi chức năng tách ghép không?", "Warning", MessageBoxButtons.YesNo)
+        'If dlg = DialogResult.Yes Then
+        '    e.Cancel = False            '  Me.CtrlTachThua.SaveData()
+        '    Me.CtrlTachThua.FormClosing()
+        'Else
+        '    e.Cancel = True
+        'End If
+        Try
+            Dim dlg As DialogResult = MessageBox.Show("Bạn có muốn thoát khỏi chức năng tách ghép không?", "Warning", MessageBoxButtons.YesNo)
+            If dlg = DialogResult.Yes Then
+                If CtrlTachThua.EditThuadat = True Then
+                    Dim con As String = GetConnection(bolKetNoiCSDL)
+                    Dim connection As New SqlConnection(con)
+                    Dim Cmd As New SqlCommand("spUpdateThuaDatDangThaoTac", connection)
+                    Cmd.CommandType = CommandType.StoredProcedure
 
+                    Dim Para As New SqlParameter
+                    Para = Cmd.Parameters.Add("ToBanDo", SqlDbType.NVarChar, 20)
+                    Para.Value = CtrlTachThua.ToBanDoTam
+                    Para = Cmd.Parameters.Add("SoThua", SqlDbType.NVarChar, 20)
+                    Para.Value = CtrlTachThua.SoThuaTam
+                    Para = Cmd.Parameters.Add("MaThuaDat", SqlDbType.Int)
+                    Para.Value = CtrlTachThua.MaThuaDatTam
+                    Para = Cmd.Parameters.Add("InOut", SqlDbType.Int)
+                    Para.Value = 0
+                    Para = Cmd.Parameters.Add("MaDonViHanhChinh", SqlDbType.Int)
+                    Para.Value = Integer.Parse(CtrlTachThua.MaDonViHanhChinh)
+                    connection.Open()
+                    Cmd.ExecuteNonQuery()
+                    connection.Close()
+                    e.Cancel = False
+                    Me.CtrlTachThua.FormClosing()
+                Else
+                    e.Cancel = False
+                    Me.CtrlTachThua.FormClosing()
+                End If
+            Else : e.Cancel = True
+            End If
+        Catch ex As Exception
+            MessageBox.Show(ex.ToString)
+        End Try
     End Sub
+
+    
 End Class

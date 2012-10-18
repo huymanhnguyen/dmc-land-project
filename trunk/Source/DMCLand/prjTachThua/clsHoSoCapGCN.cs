@@ -23,6 +23,7 @@ namespace DMC.Land.TachThua
         private string strToBanDo = "";
         private string strSoThua = "";
         private string strDienTich = "0";
+        private string strDiaChiDat = "";
         private string strTrangThai = "0";
         private string strMaDonViHanhChinh = null;
         private string strLuaChon = "";
@@ -71,6 +72,10 @@ namespace DMC.Land.TachThua
         {
             set { strDienTich = value; }
         }
+        public string DiaChiDat
+        {
+            set { strDiaChiDat = value; }
+        }
 
         /* Khai báo thuộc tính nhận Mã hồ sơ cấp GCN */
         public string MaHoSoCapGCN
@@ -116,7 +121,69 @@ namespace DMC.Land.TachThua
             }
             return dtResults;
         }
-
+        public void Updatethuadatdangthaotac(ref string strRecord)
+        {
+            try
+            {
+                /* Khai báo đối tượng clsDatabase */
+                clsDatabase Database = new clsDatabase();
+                /* Nhận chuỗi kết nối Database */
+                Database.Connection = strConnection;
+                /* Nếu kết nỗi thành công */
+                if (Database.OpenConnection())
+                {
+                    /* khai báo mảng giá trị */
+                    string[] strpara = { "@MaThuaDat", "@ToBanDo", "@SoThua","@MaDonViHanhChinh", "@InOut" };
+                    string[] strValues = { strMaThuaDat, strToBanDo, strSoThua,strMaDonViHanhChinh, "0" };
+                    /* Kiểm tra tính hợp lệ của dữ liệu trước khi thực thi câu lệnh SQL */
+                    if (strpara.Length != strValues.Length)
+                    {
+                        System.Windows.Forms.MessageBox.Show("Dữ liệu truyền vào chưa hợp lệ", "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
+                    //string kq = "";
+                    Database.ExecuteSP("spUpdateThuaDatDangThaoTac", strpara, strValues, ref strRecord);
+                    Database.CloseConnection();
+                    strError = "";
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show("Lỗi update trạng thái thửa đất đang thao tác: " + System.Environment.NewLine + ex.Message, "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+        public void InsThuaDatDangThaoTac(ref string strRecord)
+        {
+            try
+            {
+                /* Khai báo đối tượng clsDatabase */
+                clsDatabase Database = new clsDatabase();
+                /* Nhận chuỗi kết nối Database */
+                Database.Connection = strConnection;
+                
+                /* Nếu kết nỗi thành công */
+                if (Database.OpenConnection())
+                {
+                    /* khai báo mảng giá trị */
+                    string[] strpara = { "@MaThuaDat", "@ToBanDo", "@SoThua", "@DienTich","@MaDonViHanhChinh", "@InOut" };
+                    string[] strValues = { strMaThuaDat, strToBanDo, strSoThua, strDienTich, strMaDonViHanhChinh, "1" };
+                    /* Kiểm tra tính hợp lệ của dữ liệu trước khi thực thi câu lệnh SQL */
+                    if (strpara.Length != strValues.Length)
+                    {
+                        System.Windows.Forms.MessageBox.Show("Dữ liệu truyền vào chưa hợp lệ", "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
+                    string kq = "";
+                    Database.ExecuteSP("spInsertThuaDatDangThaoTac", strpara, strValues, ref strRecord);
+                    Database.CloseConnection();
+                    strError = "";
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show("Lỗi thêm vào danh sách thửa đất đang thao tác: " + System.Environment.NewLine + ex.Message, "DMCLand", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
         public DataTable SelThongTinHoSoByToBanDoSoThua()
         {
             DataTable dt = new DataTable();
@@ -126,6 +193,15 @@ namespace DMC.Land.TachThua
             return dt;    
 
           }
+        public DataTable SelThongTinThuaDat()
+        {
+            DataTable dt = new DataTable();
+            string[] paras = { "@IsCoBanDo", "MaDonViHanhChinh", "@ToBanDo", "@SoThua", "@DiaChiThua" };
+            string[] values = { "1", strMaDonViHanhChinh,strToBanDo,strSoThua,  strDiaChiDat };
+            dt = Gettable("spSelectThongTinThuaDat", paras, values);
+            return dt;
+
+        }
         public DataTable SelThongTinHoSoByMaHoSoCapGCN()
         {
             DataTable dt = new DataTable();

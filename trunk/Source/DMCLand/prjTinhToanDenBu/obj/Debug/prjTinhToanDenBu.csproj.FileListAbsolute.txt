@@ -285,3 +285,14 @@ E:\DMCLand\new\20102812_DMCLand_4\prjTinhToanDenBu\obj\Debug\DMC.Land.TinhToanDe
 E:\DMCLand\new\20102812_DMCLand_4\prjTinhToanDenBu\obj\Debug\prjTinhToanDenBu.csproj.GenerateResource.Cache
 E:\DMCLand\new\20102812_DMCLand_4\prjTinhToanDenBu\obj\Debug\DMC.Land.TinhToanDenBu.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjTinhToanDenBu\obj\Debug\DMC.Land.TinhToanDenBu.pdb
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\bin\Debug\DMC.Land.TinhToanDenBu.dll
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\bin\Debug\DMC.Land.TinhToanDenBu.pdb
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\obj\Debug\prjTinhToanDenBu.csproj.ResolveComReference.cache
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\obj\Debug\DMC.Land.TinhToanDenBu.ctrlTinhToanDenBu.resources
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\obj\Debug\DMC.Land.TinhToanDenBu.frmChiTietDenBu.resources
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\obj\Debug\DMC.Land.TinhToanDenBu.frmTinhToanDenBu.resources
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\obj\Debug\DMC.Land.TinhToanDenBu.Properties.Resources.resources
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\obj\Debug\prjTinhToanDenBu.csproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\obj\Debug\DMC.Land.TinhToanDenBu.dll
+E:\dmc_land_project\Source\DMCLand\prjTinhToanDenBu\obj\Debug\DMC.Land.TinhToanDenBu.pdb

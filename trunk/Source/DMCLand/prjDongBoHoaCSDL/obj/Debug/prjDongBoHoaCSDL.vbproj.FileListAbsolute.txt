@@ -28,3 +28,13 @@ E:\DMCLand\new\20102812_DMCLand_4\prjDongBoHoaCSDL\obj\Debug\prjDongBoHoaCSDL.vb
 E:\DMCLand\new\20102812_DMCLand_4\prjDongBoHoaCSDL\obj\Debug\prjDongBoHoaCSDL.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjDongBoHoaCSDL\obj\Debug\prjDongBoHoaCSDL.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjDongBoHoaCSDL\obj\Debug\prjDongBoHoaCSDL.pdb
+E:\dmc_land_project\Source\DMCLand\prjDongBoHoaCSDL\bin\Debug\prjDongBoHoaCSDL.dll
+E:\dmc_land_project\Source\DMCLand\prjDongBoHoaCSDL\bin\Debug\prjDongBoHoaCSDL.pdb
+E:\dmc_land_project\Source\DMCLand\prjDongBoHoaCSDL\bin\Debug\prjDongBoHoaCSDL.xml
+E:\dmc_land_project\Source\DMCLand\prjDongBoHoaCSDL\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjDongBoHoaCSDL\obj\Debug\prjDongBoHoaCSDL.Resources.resources
+E:\dmc_land_project\Source\DMCLand\prjDongBoHoaCSDL\obj\Debug\prjDongBoHoaCSDL.UserControl1.resources
+E:\dmc_land_project\Source\DMCLand\prjDongBoHoaCSDL\obj\Debug\prjDongBoHoaCSDL.vbproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjDongBoHoaCSDL\obj\Debug\prjDongBoHoaCSDL.dll
+E:\dmc_land_project\Source\DMCLand\prjDongBoHoaCSDL\obj\Debug\prjDongBoHoaCSDL.xml
+E:\dmc_land_project\Source\DMCLand\prjDongBoHoaCSDL\obj\Debug\prjDongBoHoaCSDL.pdb

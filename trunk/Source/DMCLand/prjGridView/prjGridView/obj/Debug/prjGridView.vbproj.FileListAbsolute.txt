@@ -151,3 +151,12 @@ E:\DMCLand\new\20102812_DMCLand_4\prjGridView\prjGridView\obj\Debug\prjGridView.
 E:\DMCLand\new\20102812_DMCLand_4\prjGridView\prjGridView\obj\Debug\DMC.Interface.GridView.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjGridView\prjGridView\obj\Debug\DMC.Interface.GridView.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjGridView\prjGridView\obj\Debug\DMC.Interface.GridView.pdb
+E:\dmc_land_project\Source\DMCLand\prjGridView\prjGridView\bin\Debug\DMC.Interface.GridView.dll
+E:\dmc_land_project\Source\DMCLand\prjGridView\prjGridView\bin\Debug\DMC.Interface.GridView.pdb
+E:\dmc_land_project\Source\DMCLand\prjGridView\prjGridView\bin\Debug\DMC.Interface.GridView.xml
+E:\dmc_land_project\Source\DMCLand\prjGridView\prjGridView\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjGridView\prjGridView\obj\Debug\DMC.Interface.GridView.Resources.resources
+E:\dmc_land_project\Source\DMCLand\prjGridView\prjGridView\obj\Debug\prjGridView.vbproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjGridView\prjGridView\obj\Debug\DMC.Interface.GridView.dll
+E:\dmc_land_project\Source\DMCLand\prjGridView\prjGridView\obj\Debug\DMC.Interface.GridView.xml
+E:\dmc_land_project\Source\DMCLand\prjGridView\prjGridView\obj\Debug\DMC.Interface.GridView.pdb
