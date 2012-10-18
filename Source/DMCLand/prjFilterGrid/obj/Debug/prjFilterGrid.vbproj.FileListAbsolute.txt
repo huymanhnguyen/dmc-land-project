@@ -128,3 +128,13 @@ E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.G
 E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\prjFilterGrid.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\prjFilterGrid.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjFilterGrid\obj\Debug\prjFilterGrid.pdb
+E:\dmc_land_project\Source\DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.dll
+E:\dmc_land_project\Source\DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.pdb
+E:\dmc_land_project\Source\DMCLand\prjFilterGrid\bin\Debug\prjFilterGrid.xml
+E:\dmc_land_project\Source\DMCLand\prjFilterGrid\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.Resources.resources
+E:\dmc_land_project\Source\DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.ctrFilterGrid.resources
+E:\dmc_land_project\Source\DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.vbproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.dll
+E:\dmc_land_project\Source\DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.xml
+E:\dmc_land_project\Source\DMCLand\prjFilterGrid\obj\Debug\prjFilterGrid.pdb

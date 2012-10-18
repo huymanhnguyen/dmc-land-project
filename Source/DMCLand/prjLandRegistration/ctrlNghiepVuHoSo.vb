@@ -2286,5 +2286,5 @@ Public Class ctrlNghiepVuHoSo
     End Sub
 
     
-   
+  
 End Class

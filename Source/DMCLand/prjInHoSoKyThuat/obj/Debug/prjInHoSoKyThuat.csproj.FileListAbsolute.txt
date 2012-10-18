@@ -128,3 +128,10 @@ E:\DMCLand\new\20102812_DMCLand_4\prjInHoSoKyThuat\obj\Debug\prjInHoSoKyThuat.Ct
 E:\DMCLand\new\20102812_DMCLand_4\prjInHoSoKyThuat\obj\Debug\prjInHoSoKyThuat.csproj.GenerateResource.Cache
 E:\DMCLand\new\20102812_DMCLand_4\prjInHoSoKyThuat\obj\Debug\DMC.Land.RptHoSoKyThuat.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjInHoSoKyThuat\obj\Debug\DMC.Land.RptHoSoKyThuat.pdb
+E:\dmc_land_project\Source\DMCLand\prjInHoSoKyThuat\bin\Debug\DMC.Land.RptHoSoKyThuat.dll
+E:\dmc_land_project\Source\DMCLand\prjInHoSoKyThuat\bin\Debug\DMC.Land.RptHoSoKyThuat.pdb
+E:\dmc_land_project\Source\DMCLand\prjInHoSoKyThuat\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjInHoSoKyThuat\obj\Debug\prjInHoSoKyThuat.CtrInHoSoKyThuat.resources
+E:\dmc_land_project\Source\DMCLand\prjInHoSoKyThuat\obj\Debug\prjInHoSoKyThuat.csproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjInHoSoKyThuat\obj\Debug\DMC.Land.RptHoSoKyThuat.dll
+E:\dmc_land_project\Source\DMCLand\prjInHoSoKyThuat\obj\Debug\DMC.Land.RptHoSoKyThuat.pdb

@@ -32,6 +32,8 @@ Partial Class frmBanDoTongThe
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CtrlTachThua.BackColor = System.Drawing.Color.Lavender
         Me.CtrlTachThua.Connection = ""
+        Me.CtrlTachThua.DiaChiDat = ""
+        Me.CtrlTachThua.DienTich = ""
         Me.CtrlTachThua.Location = New System.Drawing.Point(1, -1)
         Me.CtrlTachThua.MaDonViHanhChinh = ""
         Me.CtrlTachThua.MaHoSoCapGCN = ""

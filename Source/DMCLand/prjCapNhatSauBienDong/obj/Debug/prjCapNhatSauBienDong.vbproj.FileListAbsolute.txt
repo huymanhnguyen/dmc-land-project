@@ -118,3 +118,13 @@ E:\DMCLand\new\20102812_DMCLand_4\prjCapNhatSauBienDong\obj\Debug\prjCapNhatSauB
 E:\DMCLand\new\20102812_DMCLand_4\prjCapNhatSauBienDong\obj\Debug\prjCapNhatSauBienDong.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjCapNhatSauBienDong\obj\Debug\prjCapNhatSauBienDong.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjCapNhatSauBienDong\obj\Debug\prjCapNhatSauBienDong.pdb
+E:\dmc_land_project\Source\DMCLand\prjCapNhatSauBienDong\bin\Debug\prjCapNhatSauBienDong.dll
+E:\dmc_land_project\Source\DMCLand\prjCapNhatSauBienDong\bin\Debug\prjCapNhatSauBienDong.pdb
+E:\dmc_land_project\Source\DMCLand\prjCapNhatSauBienDong\bin\Debug\prjCapNhatSauBienDong.xml
+E:\dmc_land_project\Source\DMCLand\prjCapNhatSauBienDong\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjCapNhatSauBienDong\obj\Debug\prjCapNhatSauBienDong.Resources.resources
+E:\dmc_land_project\Source\DMCLand\prjCapNhatSauBienDong\obj\Debug\prjCapNhatSauBienDong.ctrCapNhanSauBienDong.resources
+E:\dmc_land_project\Source\DMCLand\prjCapNhatSauBienDong\obj\Debug\prjCapNhatSauBienDong.vbproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjCapNhatSauBienDong\obj\Debug\prjCapNhatSauBienDong.dll
+E:\dmc_land_project\Source\DMCLand\prjCapNhatSauBienDong\obj\Debug\prjCapNhatSauBienDong.xml
+E:\dmc_land_project\Source\DMCLand\prjCapNhatSauBienDong\obj\Debug\prjCapNhatSauBienDong.pdb

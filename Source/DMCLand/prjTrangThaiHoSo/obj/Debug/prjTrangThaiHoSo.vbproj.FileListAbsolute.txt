@@ -180,3 +180,16 @@ E:\DMCLand\new\20102812_DMCLand_4\prjTrangThaiHoSo\obj\Debug\prjTrangThaiHoSo.vb
 E:\DMCLand\new\20102812_DMCLand_4\prjTrangThaiHoSo\obj\Debug\prjTrangThaiHoSo.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjTrangThaiHoSo\obj\Debug\prjTrangThaiHoSo.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjTrangThaiHoSo\obj\Debug\prjTrangThaiHoSo.pdb
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\bin\Debug\prjTrangThaiHoSo.dll
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\bin\Debug\prjTrangThaiHoSo.pdb
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\bin\Debug\prjTrangThaiHoSo.xml
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\bin\Debug\DMC.Database.dll
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\bin\Debug\DMC.Database.pdb
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\bin\Debug\DMC.Database.xml
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\obj\Debug\prjTrangThaiHoSo.ctrTrangThaiHoSo.resources
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\obj\Debug\prjTrangThaiHoSo.Resources.resources
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\obj\Debug\prjTrangThaiHoSo.vbproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\obj\Debug\prjTrangThaiHoSo.dll
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\obj\Debug\prjTrangThaiHoSo.xml
+E:\dmc_land_project\Source\DMCLand\prjTrangThaiHoSo\obj\Debug\prjTrangThaiHoSo.pdb

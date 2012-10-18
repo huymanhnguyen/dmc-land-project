@@ -250,3 +250,15 @@ E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vb
 E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
 E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
 E:\DMCLand\new\20102812_DMCLand_4\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.dll
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.pdb
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\bin\Debug\PrjBaoCaoTongHop.xml
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.CtrTongHop.resources
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmInBaoCao.resources
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.frmXemThongTin.resources
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.Resources.resources
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.vbproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.dll
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.xml
+E:\dmc_land_project\Source\DMCLand\PrjBaoCaoTongHop\obj\Debug\PrjBaoCaoTongHop.pdb

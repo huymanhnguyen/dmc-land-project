@@ -631,3 +631,13 @@ E:\DMCLand\new\20102812_DMCLand_4\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debu
 E:\DMCLand\new\20102812_DMCLand_4\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debug\DMC.Land.XetDuyetCapCoSo.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debug\DMC.Land.XetDuyetCapCoSo.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debug\DMC.Land.XetDuyetCapCoSo.pdb
+E:\dmc_land_project\Source\DMCLand\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debug\ResolveAssemblyReference.cache
+E:\dmc_land_project\Source\DMCLand\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debug\DMC.Land.XetDuyetCapCoSo.ctrlXetDuyetCapCoSo.resources
+E:\dmc_land_project\Source\DMCLand\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debug\DMC.Land.XetDuyetCapCoSo.Resources.resources
+E:\dmc_land_project\Source\DMCLand\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debug\prjXetDuyetCapCoSo.vbproj.GenerateResource.Cache
+E:\dmc_land_project\Source\DMCLand\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\bin\Debug\DMC.Land.XetDuyetCapCoSo.dll
+E:\dmc_land_project\Source\DMCLand\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\bin\Debug\DMC.Land.XetDuyetCapCoSo.pdb
+E:\dmc_land_project\Source\DMCLand\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\bin\Debug\DMC.Land.XetDuyetCapCoSo.xml
+E:\dmc_land_project\Source\DMCLand\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debug\DMC.Land.XetDuyetCapCoSo.dll
+E:\dmc_land_project\Source\DMCLand\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debug\DMC.Land.XetDuyetCapCoSo.xml
+E:\dmc_land_project\Source\DMCLand\prjXetDuyetCapCoSo\clsXetDuyetCapCoSo\obj\Debug\DMC.Land.XetDuyetCapCoSo.pdb
