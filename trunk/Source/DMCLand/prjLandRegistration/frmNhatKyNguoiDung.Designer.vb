@@ -82,7 +82,7 @@ Partial Class frmNhatKyNguoiDung
         Me.grdDanhSachCongViec.ReadOnly = True
         Me.grdDanhSachCongViec.RowHeadersWidth = 25
         Me.grdDanhSachCongViec.Size = New System.Drawing.Size(843, 330)
-        Me.grdDanhSachCongViec.TabIndex = 70
+        Me.grdDanhSachCongViec.TabIndex = 0
         '
         'cmdTim
         '
@@ -90,7 +90,7 @@ Partial Class frmNhatKyNguoiDung
         Me.cmdTim.Location = New System.Drawing.Point(684, 426)
         Me.cmdTim.Name = "cmdTim"
         Me.cmdTim.Size = New System.Drawing.Size(75, 21)
-        Me.cmdTim.TabIndex = 72
+        Me.cmdTim.TabIndex = 9
         Me.cmdTim.Text = "Tìm"
         Me.cmdTim.UseVisualStyleBackColor = True
         '
@@ -100,7 +100,7 @@ Partial Class frmNhatKyNguoiDung
         Me.cmdThoat.Location = New System.Drawing.Point(765, 426)
         Me.cmdThoat.Name = "cmdThoat"
         Me.cmdThoat.Size = New System.Drawing.Size(75, 21)
-        Me.cmdThoat.TabIndex = 73
+        Me.cmdThoat.TabIndex = 10
         Me.cmdThoat.Text = "Thoát"
         Me.cmdThoat.UseVisualStyleBackColor = True
         '
@@ -111,7 +111,7 @@ Partial Class frmNhatKyNguoiDung
         Me.dtpNgay.Location = New System.Drawing.Point(535, 426)
         Me.dtpNgay.Name = "dtpNgay"
         Me.dtpNgay.Size = New System.Drawing.Size(143, 20)
-        Me.dtpNgay.TabIndex = 74
+        Me.dtpNgay.TabIndex = 8
         '
         'Label2
         '
@@ -120,7 +120,7 @@ Partial Class frmNhatKyNguoiDung
         Me.Label2.Location = New System.Drawing.Point(455, 430)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(74, 13)
-        Me.Label2.TabIndex = 75
+        Me.Label2.TabIndex = 7
         Me.Label2.Text = "Ngày làm việc"
         '
         'Label3
@@ -130,7 +130,7 @@ Partial Class frmNhatKyNguoiDung
         Me.Label3.Location = New System.Drawing.Point(9, 429)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(62, 13)
-        Me.Label3.TabIndex = 76
+        Me.Label3.TabIndex = 1
         Me.Label3.Text = "Người dùng"
         '
         'txtNguoiDung
@@ -139,7 +139,7 @@ Partial Class frmNhatKyNguoiDung
         Me.txtNguoiDung.Location = New System.Drawing.Point(77, 426)
         Me.txtNguoiDung.Name = "txtNguoiDung"
         Me.txtNguoiDung.Size = New System.Drawing.Size(95, 20)
-        Me.txtNguoiDung.TabIndex = 77
+        Me.txtNguoiDung.TabIndex = 2
         '
         'txtSoHieuThua
         '
@@ -147,7 +147,7 @@ Partial Class frmNhatKyNguoiDung
         Me.txtSoHieuThua.Location = New System.Drawing.Point(358, 428)
         Me.txtSoHieuThua.Name = "txtSoHieuThua"
         Me.txtSoHieuThua.Size = New System.Drawing.Size(91, 20)
-        Me.txtSoHieuThua.TabIndex = 81
+        Me.txtSoHieuThua.TabIndex = 6
         '
         'txtToBanDo
         '
@@ -155,7 +155,7 @@ Partial Class frmNhatKyNguoiDung
         Me.txtToBanDo.Location = New System.Drawing.Point(235, 428)
         Me.txtToBanDo.Name = "txtToBanDo"
         Me.txtToBanDo.Size = New System.Drawing.Size(75, 20)
-        Me.txtToBanDo.TabIndex = 80
+        Me.txtToBanDo.TabIndex = 4
         '
         'Label4
         '
@@ -164,7 +164,7 @@ Partial Class frmNhatKyNguoiDung
         Me.Label4.Location = New System.Drawing.Point(316, 430)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(47, 13)
-        Me.Label4.TabIndex = 79
+        Me.Label4.TabIndex = 5
         Me.Label4.Text = "Số thửa:"
         '
         'lable2
@@ -174,7 +174,7 @@ Partial Class frmNhatKyNguoiDung
         Me.lable2.Location = New System.Drawing.Point(178, 431)
         Me.lable2.Name = "lable2"
         Me.lable2.Size = New System.Drawing.Size(60, 13)
-        Me.lable2.TabIndex = 78
+        Me.lable2.TabIndex = 3
         Me.lable2.Text = "Tờ bản đồ:"
         '
         'CtrFilterGrid1
@@ -209,6 +209,7 @@ Partial Class frmNhatKyNguoiDung
         Me.Controls.Add(Me.CtrFilterGrid1)
         Me.Controls.Add(Me.grdDanhSachCongViec)
         Me.Controls.Add(Me.Label1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmNhatKyNguoiDung"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "NHAT KY NGUOI DUNG"

@@ -97,12 +97,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjToTrinhQuyetDinh\obj\Debug\prjToTrinhQuyetD
 E:\DMCLand\new\20102812_DMCLand_4\prjToTrinhQuyetDinh\obj\Debug\prjToTrinhQuyetDinh.csproj.GenerateResource.Cache
 E:\DMCLand\new\20102812_DMCLand_4\prjToTrinhQuyetDinh\obj\Debug\DMC.Land.ToTrinhQuyetDinh.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjToTrinhQuyetDinh\obj\Debug\DMC.Land.ToTrinhQuyetDinh.pdb
-E:\dmc_land_project\Source\DMCLand\prjToTrinhQuyetDinh\bin\Debug\DMC.Land.ToTrinhQuyetDinh.dll
-E:\dmc_land_project\Source\DMCLand\prjToTrinhQuyetDinh\bin\Debug\DMC.Land.ToTrinhQuyetDinh.pdb
-E:\dmc_land_project\Source\DMCLand\prjToTrinhQuyetDinh\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjToTrinhQuyetDinh\obj\Debug\prjToTrinhQuyetDinh.ctrToTrinhQuyetDinh.resources
-E:\dmc_land_project\Source\DMCLand\prjToTrinhQuyetDinh\obj\Debug\prjToTrinhQuyetDinh.frmQuyetDinh.resources
-E:\dmc_land_project\Source\DMCLand\prjToTrinhQuyetDinh\obj\Debug\prjToTrinhQuyetDinh.frmToTrinh.resources
-E:\dmc_land_project\Source\DMCLand\prjToTrinhQuyetDinh\obj\Debug\prjToTrinhQuyetDinh.csproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjToTrinhQuyetDinh\obj\Debug\DMC.Land.ToTrinhQuyetDinh.dll
-E:\dmc_land_project\Source\DMCLand\prjToTrinhQuyetDinh\obj\Debug\DMC.Land.ToTrinhQuyetDinh.pdb

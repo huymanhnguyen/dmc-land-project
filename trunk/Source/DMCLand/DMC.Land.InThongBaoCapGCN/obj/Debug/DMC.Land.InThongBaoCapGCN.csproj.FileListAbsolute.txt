@@ -126,12 +126,3 @@ E:\DMCLand\new\20102812_DMCLand_4\DMC.Land.InThongBaoCapGCN\obj\Debug\DMC.Land.I
 E:\DMCLand\new\20102812_DMCLand_4\DMC.Land.InThongBaoCapGCN\obj\Debug\DMC.Land.InThongBaoCapGCN.csproj.GenerateResource.Cache
 E:\DMCLand\new\20102812_DMCLand_4\DMC.Land.InThongBaoCapGCN\obj\Debug\DMC.Land.InThongBaoCapGCN.dll
 E:\DMCLand\new\20102812_DMCLand_4\DMC.Land.InThongBaoCapGCN\obj\Debug\DMC.Land.InThongBaoCapGCN.pdb
-E:\dmc_land_project\Source\DMCLand\DMC.Land.InThongBaoCapGCN\bin\Debug\DMC.Land.InThongBaoCapGCN.dll
-E:\dmc_land_project\Source\DMCLand\DMC.Land.InThongBaoCapGCN\bin\Debug\DMC.Land.InThongBaoCapGCN.pdb
-E:\dmc_land_project\Source\DMCLand\DMC.Land.InThongBaoCapGCN\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\DMC.Land.InThongBaoCapGCN\obj\Debug\DMC.Land.InThongBaoCapGCN.ctrInThongBaoCapGCN.resources
-E:\dmc_land_project\Source\DMCLand\DMC.Land.InThongBaoCapGCN\obj\Debug\DMC.Land.InThongBaoCapGCN.CtrKhongDuDKCapGCN.resources
-E:\dmc_land_project\Source\DMCLand\DMC.Land.InThongBaoCapGCN\obj\Debug\DMC.Land.InThongBaoCapGCN.Properties.Resources.resources
-E:\dmc_land_project\Source\DMCLand\DMC.Land.InThongBaoCapGCN\obj\Debug\DMC.Land.InThongBaoCapGCN.csproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\DMC.Land.InThongBaoCapGCN\obj\Debug\DMC.Land.InThongBaoCapGCN.dll
-E:\dmc_land_project\Source\DMCLand\DMC.Land.InThongBaoCapGCN\obj\Debug\DMC.Land.InThongBaoCapGCN.pdb

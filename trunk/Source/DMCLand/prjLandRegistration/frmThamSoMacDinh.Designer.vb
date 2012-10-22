@@ -41,6 +41,7 @@ Partial Class frmThamSoMacDinh
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(596, 411)
         Me.Controls.Add(Me.CtrThamSoMacDinh1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmThamSoMacDinh"
         Me.Text = "THAM SO MAC DINH"
         Me.ResumeLayout(False)

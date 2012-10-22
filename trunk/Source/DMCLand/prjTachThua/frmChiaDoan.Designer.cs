@@ -43,7 +43,7 @@
             this.btnOk.Location = new System.Drawing.Point(33, 85);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(79, 29);
-            this.btnOk.TabIndex = 0;
+            this.btnOk.TabIndex = 2;
             this.btnOk.Text = "Xác nhận";
             this.btnOk.UseVisualStyleBackColor = true;
             this.btnOk.Click += new System.EventHandler(this.btnOk_Click);
@@ -69,7 +69,7 @@
             this.numDoDaiDoanDau.Location = new System.Drawing.Point(6, 49);
             this.numDoDaiDoanDau.Name = "numDoDaiDoanDau";
             this.numDoDaiDoanDau.Size = new System.Drawing.Size(114, 24);
-            this.numDoDaiDoanDau.TabIndex = 3;
+            this.numDoDaiDoanDau.TabIndex = 0;
             this.numDoDaiDoanDau.ValueChanged += new System.EventHandler(this.numDoDaiDoanDau_ValueChanged);
             // 
             // lblTongDoDai
@@ -97,7 +97,7 @@
             this.btnCancel.Location = new System.Drawing.Point(178, 85);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(79, 29);
-            this.btnCancel.TabIndex = 2;
+            this.btnCancel.TabIndex = 3;
             this.btnCancel.Text = "Thoát";
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
@@ -110,6 +110,7 @@
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnOk);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmChiaDoan";

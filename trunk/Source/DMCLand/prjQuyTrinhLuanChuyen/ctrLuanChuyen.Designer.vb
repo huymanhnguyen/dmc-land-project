@@ -70,7 +70,7 @@ Partial Class ctrLuanChuyen
         Me.cmdPhongTNMT.Location = New System.Drawing.Point(330, 149)
         Me.cmdPhongTNMT.Name = "cmdPhongTNMT"
         Me.cmdPhongTNMT.Size = New System.Drawing.Size(127, 44)
-        Me.cmdPhongTNMT.TabIndex = 3
+        Me.cmdPhongTNMT.TabIndex = 4
         Me.cmdPhongTNMT.Text = "Phòng tài nguyên môi trường"
         Me.cmdPhongTNMT.UseVisualStyleBackColor = True
         '
@@ -81,7 +81,7 @@ Partial Class ctrLuanChuyen
         Me.cmdUB.Location = New System.Drawing.Point(150, 149)
         Me.cmdUB.Name = "cmdUB"
         Me.cmdUB.Size = New System.Drawing.Size(127, 44)
-        Me.cmdUB.TabIndex = 4
+        Me.cmdUB.TabIndex = 3
         Me.cmdUB.Text = "Ủy ban quận"
         Me.cmdUB.UseVisualStyleBackColor = True
         '

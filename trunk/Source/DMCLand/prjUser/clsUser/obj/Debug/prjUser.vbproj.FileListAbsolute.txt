@@ -97,12 +97,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjUser\clsUser\obj\Debug\prjUser.vbproj.Gener
 E:\DMCLand\new\20102812_DMCLand_4\prjUser\clsUser\obj\Debug\DMC.Land.User.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjUser\clsUser\obj\Debug\DMC.Land.User.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjUser\clsUser\obj\Debug\DMC.Land.User.pdb
-E:\dmc_land_project\Source\DMCLand\prjUser\clsUser\bin\Debug\DMC.Land.User.dll
-E:\dmc_land_project\Source\DMCLand\prjUser\clsUser\bin\Debug\DMC.Land.User.pdb
-E:\dmc_land_project\Source\DMCLand\prjUser\clsUser\bin\Debug\DMC.Land.User.xml
-E:\dmc_land_project\Source\DMCLand\prjUser\clsUser\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjUser\clsUser\obj\Debug\DMC.Land.User.Resources.resources
-E:\dmc_land_project\Source\DMCLand\prjUser\clsUser\obj\Debug\prjUser.vbproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjUser\clsUser\obj\Debug\DMC.Land.User.dll
-E:\dmc_land_project\Source\DMCLand\prjUser\clsUser\obj\Debug\DMC.Land.User.xml
-E:\dmc_land_project\Source\DMCLand\prjUser\clsUser\obj\Debug\DMC.Land.User.pdb

@@ -61,7 +61,7 @@
             this.crystalReportViewer1.Name = "crystalReportViewer1";
             this.crystalReportViewer1.SelectionFormula = "";
             this.crystalReportViewer1.Size = new System.Drawing.Size(906, 514);
-            this.crystalReportViewer1.TabIndex = 0;
+            this.crystalReportViewer1.TabIndex = 5;
             this.crystalReportViewer1.ViewTimeSelectionFormula = "";
             // 
             // DD
@@ -70,7 +70,7 @@
             this.DD.Location = new System.Drawing.Point(13, 19);
             this.DD.Name = "DD";
             this.DD.Size = new System.Drawing.Size(84, 13);
-            this.DD.TabIndex = 2;
+            this.DD.TabIndex = 0;
             this.DD.Text = "Địa chỉ nơi nhận";
             // 
             // txtDiaChiNoiNhan
@@ -85,7 +85,7 @@
             this.cmdHienThi.Location = new System.Drawing.Point(400, 39);
             this.cmdHienThi.Name = "cmdHienThi";
             this.cmdHienThi.Size = new System.Drawing.Size(105, 23);
-            this.cmdHienThi.TabIndex = 3;
+            this.cmdHienThi.TabIndex = 4;
             this.cmdHienThi.Text = "Hiển thị thông báo";
             this.cmdHienThi.UseVisualStyleBackColor = true;
             this.cmdHienThi.Click += new System.EventHandler(this.cmdHienThi_Click);
@@ -95,7 +95,7 @@
             this.txtNguoiKy.Location = new System.Drawing.Point(103, 41);
             this.txtNguoiKy.Name = "txtNguoiKy";
             this.txtNguoiKy.Size = new System.Drawing.Size(272, 20);
-            this.txtNguoiKy.TabIndex = 2;
+            this.txtNguoiKy.TabIndex = 3;
             this.txtNguoiKy.TextChanged += new System.EventHandler(this.txtNguoiKy_TextChanged);
             // 
             // label2
@@ -104,7 +104,7 @@
             this.label2.Location = new System.Drawing.Point(13, 44);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(82, 13);
-            this.label2.TabIndex = 6;
+            this.label2.TabIndex = 2;
             this.label2.Text = "Họ tên người ký";
             // 
             // ctrInThongBaoCapGCN

@@ -27,11 +27,15 @@ Partial Class frmLichGiaoViec
         '
         'CtrQuanLyGiaoViec1
         '
+        Me.CtrQuanLyGiaoViec1.BackColor = System.Drawing.Color.Lavender
+        Me.CtrQuanLyGiaoViec1.Conection = ""
         Me.CtrQuanLyGiaoViec1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.CtrQuanLyGiaoViec1.Location = New System.Drawing.Point(0, 0)
+        Me.CtrQuanLyGiaoViec1.MaDonViHanhChinh = "0"
         Me.CtrQuanLyGiaoViec1.Name = "CtrQuanLyGiaoViec1"
         Me.CtrQuanLyGiaoViec1.Size = New System.Drawing.Size(731, 496)
         Me.CtrQuanLyGiaoViec1.TabIndex = 0
+        Me.CtrQuanLyGiaoViec1.UserName = ""
         '
         'frmLichGiaoViec
         '
@@ -39,6 +43,7 @@ Partial Class frmLichGiaoViec
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(731, 496)
         Me.Controls.Add(Me.CtrQuanLyGiaoViec1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmLichGiaoViec"
         Me.Text = "frmLichGiaoViec"
         Me.ResumeLayout(False)

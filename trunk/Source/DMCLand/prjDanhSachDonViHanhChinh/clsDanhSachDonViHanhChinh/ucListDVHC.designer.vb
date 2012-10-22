@@ -54,7 +54,7 @@ Partial Class ucListDVHC
         Me.btnOK.Location = New System.Drawing.Point(182, 210)
         Me.btnOK.Name = "btnOK"
         Me.btnOK.Size = New System.Drawing.Size(65, 22)
-        Me.btnOK.TabIndex = 2
+        Me.btnOK.TabIndex = 1
         Me.btnOK.Text = "Xác nhận"
         Me.btnOK.UseVisualStyleBackColor = True
         '

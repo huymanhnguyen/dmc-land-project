@@ -36,7 +36,7 @@ Partial Class frmLichSuMucDichSuDung
         Me.btnThoat.Location = New System.Drawing.Point(68, 177)
         Me.btnThoat.Name = "btnThoat"
         Me.btnThoat.Size = New System.Drawing.Size(55, 21)
-        Me.btnThoat.TabIndex = 11
+        Me.btnThoat.TabIndex = 3
         Me.btnThoat.Text = "Thoát"
         Me.btnThoat.UseVisualStyleBackColor = True
         '
@@ -46,7 +46,7 @@ Partial Class frmLichSuMucDichSuDung
         Me.btnTroGiup.Location = New System.Drawing.Point(473, 177)
         Me.btnTroGiup.Name = "btnTroGiup"
         Me.btnTroGiup.Size = New System.Drawing.Size(55, 21)
-        Me.btnTroGiup.TabIndex = 10
+        Me.btnTroGiup.TabIndex = 4
         Me.btnTroGiup.Text = "Trợ giúp"
         Me.btnTroGiup.UseVisualStyleBackColor = True
         '
@@ -55,7 +55,7 @@ Partial Class frmLichSuMucDichSuDung
         Me.btnGhi.Location = New System.Drawing.Point(7, 177)
         Me.btnGhi.Name = "btnGhi"
         Me.btnGhi.Size = New System.Drawing.Size(55, 21)
-        Me.btnGhi.TabIndex = 9
+        Me.btnGhi.TabIndex = 2
         Me.btnGhi.Text = "Ghi"
         Me.btnGhi.UseVisualStyleBackColor = True
         '
@@ -88,7 +88,7 @@ Partial Class frmLichSuMucDichSuDung
         Me.grdvw.ReadOnly = True
         Me.grdvw.RowHeadersWidth = 25
         Me.grdvw.Size = New System.Drawing.Size(524, 173)
-        Me.grdvw.TabIndex = 8
+        Me.grdvw.TabIndex = 1
         '
         'frmLichSuMucDichSuDung
         '

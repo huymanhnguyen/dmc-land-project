@@ -162,7 +162,7 @@
             this.cmdChiTiet.Location = new System.Drawing.Point(6, 161);
             this.cmdChiTiet.Name = "cmdChiTiet";
             this.cmdChiTiet.Size = new System.Drawing.Size(173, 24);
-            this.cmdChiTiet.TabIndex = 7;
+            this.cmdChiTiet.TabIndex = 5;
             this.cmdChiTiet.Text = "Hiển thị chi tiết";
             this.cmdChiTiet.UseVisualStyleBackColor = true;
             this.cmdChiTiet.Click += new System.EventHandler(this.cmdChiTiet_Click);
@@ -172,7 +172,7 @@
             this.cmdTinh.Location = new System.Drawing.Point(6, 135);
             this.cmdTinh.Name = "cmdTinh";
             this.cmdTinh.Size = new System.Drawing.Size(173, 24);
-            this.cmdTinh.TabIndex = 6;
+            this.cmdTinh.TabIndex = 4;
             this.cmdTinh.Text = "Tính";
             this.cmdTinh.UseVisualStyleBackColor = true;
             this.cmdTinh.Click += new System.EventHandler(this.cmdTinh_Click);
@@ -183,7 +183,7 @@
             this.txtTongGiaTriTien.Location = new System.Drawing.Point(3, 109);
             this.txtTongGiaTriTien.Name = "txtTongGiaTriTien";
             this.txtTongGiaTriTien.Size = new System.Drawing.Size(177, 20);
-            this.txtTongGiaTriTien.TabIndex = 5;
+            this.txtTongGiaTriTien.TabIndex = 3;
             this.txtTongGiaTriTien.Text = "0";
             this.txtTongGiaTriTien.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -201,7 +201,7 @@
             this.txtGiaTriTienTrenM2.Location = new System.Drawing.Point(3, 70);
             this.txtGiaTriTienTrenM2.Name = "txtGiaTriTienTrenM2";
             this.txtGiaTriTienTrenM2.Size = new System.Drawing.Size(177, 20);
-            this.txtGiaTriTienTrenM2.TabIndex = 3;
+            this.txtGiaTriTienTrenM2.TabIndex = 2;
             this.txtGiaTriTienTrenM2.Text = "0";
             this.txtGiaTriTienTrenM2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -342,7 +342,7 @@
             this.mapControl1.Location = new System.Drawing.Point(0, 0);
             this.mapControl1.Name = "mapControl1";
             this.mapControl1.Size = new System.Drawing.Size(500, 516);
-            this.mapControl1.TabIndex = 0;
+            this.mapControl1.TabIndex = 6;
             this.mapControl1.Tools.LeftButtonTool = null;
             this.mapControl1.Tools.MiddleButtonTool = null;
             this.mapControl1.Tools.RightButtonTool = null;
@@ -364,7 +364,7 @@
             this.toolStripHienThiBanDo.Image = global::DMC.Land.TinhToanDenBu.Properties.Resources.LopBanDo;
             this.toolStripHienThiBanDo.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripHienThiBanDo.Name = "toolStripHienThiBanDo";
-            this.toolStripHienThiBanDo.Size = new System.Drawing.Size(99, 22);
+            this.toolStripHienThiBanDo.Size = new System.Drawing.Size(109, 22);
             this.toolStripHienThiBanDo.Text = "Hiển thị bản đồ";
             this.toolStripHienThiBanDo.Click += new System.EventHandler(this.toolStripHienThiBanDo_Click);
             // 
@@ -373,7 +373,7 @@
             this.toolStripButtonTinhToanDenBu.Image = global::DMC.Land.TinhToanDenBu.Properties.Resources.thm_individual;
             this.toolStripButtonTinhToanDenBu.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonTinhToanDenBu.Name = "toolStripButtonTinhToanDenBu";
-            this.toolStripButtonTinhToanDenBu.Size = new System.Drawing.Size(150, 22);
+            this.toolStripButtonTinhToanDenBu.Size = new System.Drawing.Size(164, 22);
             this.toolStripButtonTinhToanDenBu.Text = "Lấy phần diện tích đền bù";
             this.toolStripButtonTinhToanDenBu.Click += new System.EventHandler(this.toolStripButtonTinhToanDenBu_Click);
             // 
@@ -382,7 +382,7 @@
             this.toolStripTinhDienTich.Image = global::DMC.Land.TinhToanDenBu.Properties.Resources.Buff;
             this.toolStripTinhDienTich.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripTinhDienTich.Name = "toolStripTinhDienTich";
-            this.toolStripTinhDienTich.Size = new System.Drawing.Size(153, 22);
+            this.toolStripTinhDienTich.Size = new System.Drawing.Size(170, 22);
             this.toolStripTinhDienTich.Text = "Tính diện tích phần đền bù";
             this.toolStripTinhDienTich.Click += new System.EventHandler(this.toolStripTinhDienTich_Click);
             // 

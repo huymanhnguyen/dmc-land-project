@@ -45,7 +45,7 @@
             this.btnXacNhan.Location = new System.Drawing.Point(12, 78);
             this.btnXacNhan.Name = "btnXacNhan";
             this.btnXacNhan.Size = new System.Drawing.Size(73, 21);
-            this.btnXacNhan.TabIndex = 0;
+            this.btnXacNhan.TabIndex = 4;
             this.btnXacNhan.Text = "Xác nhận";
             this.btnXacNhan.UseVisualStyleBackColor = true;
             this.btnXacNhan.Click += new System.EventHandler(this.btnXacNhan_Click);
@@ -55,7 +55,7 @@
             this.btnThoat.Location = new System.Drawing.Point(160, 78);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(73, 21);
-            this.btnThoat.TabIndex = 1;
+            this.btnThoat.TabIndex = 5;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
@@ -80,7 +80,7 @@
             this.rdbtnCustomized.Location = new System.Drawing.Point(138, 18);
             this.rdbtnCustomized.Name = "rdbtnCustomized";
             this.rdbtnCustomized.Size = new System.Drawing.Size(70, 17);
-            this.rdbtnCustomized.TabIndex = 4;
+            this.rdbtnCustomized.TabIndex = 3;
             this.rdbtnCustomized.TabStop = true;
             this.rdbtnCustomized.Text = "Tùy chọn";
             this.rdbtnCustomized.UseVisualStyleBackColor = true;
@@ -92,7 +92,7 @@
             this.rdbtnDefault.Location = new System.Drawing.Point(11, 18);
             this.rdbtnDefault.Name = "rdbtnDefault";
             this.rdbtnDefault.Size = new System.Drawing.Size(70, 17);
-            this.rdbtnDefault.TabIndex = 3;
+            this.rdbtnDefault.TabIndex = 2;
             this.rdbtnDefault.TabStop = true;
             this.rdbtnDefault.Text = "Mặc định";
             this.rdbtnDefault.UseVisualStyleBackColor = true;
@@ -132,6 +132,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.btnXacNhan);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmExtendLandPlot";

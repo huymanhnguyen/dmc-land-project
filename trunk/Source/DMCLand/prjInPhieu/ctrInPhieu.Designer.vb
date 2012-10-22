@@ -88,7 +88,7 @@ Partial Class ctrInPhieu
         Me.grdChonIn.ReadOnly = True
         Me.grdChonIn.RowHeadersWidth = 25
         Me.grdChonIn.Size = New System.Drawing.Size(778, 162)
-        Me.grdChonIn.TabIndex = 5
+        Me.grdChonIn.TabIndex = 7
         '
         'GroupBox2
         '
@@ -108,17 +108,21 @@ Partial Class ctrInPhieu
                     Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.CrtTimKiemHoSoThuaDat1.BackColor = System.Drawing.Color.Lavender
+        Me.CrtTimKiemHoSoThuaDat1.CanhBaoTranhChap = ""
+        Me.CrtTimKiemHoSoThuaDat1.ChuChuyenNhuong = Nothing
         Me.CrtTimKiemHoSoThuaDat1.ChuSuDung = ""
         Me.CrtTimKiemHoSoThuaDat1.DiaChiThua = ""
         Me.CrtTimKiemHoSoThuaDat1.DienTich = ""
         Me.CrtTimKiemHoSoThuaDat1.Location = New System.Drawing.Point(3, 16)
+        Me.CrtTimKiemHoSoThuaDat1.MaDonViHanhChinh = ""
         Me.CrtTimKiemHoSoThuaDat1.NamCapGCN = ""
         Me.CrtTimKiemHoSoThuaDat1.Name = "CrtTimKiemHoSoThuaDat1"
         Me.CrtTimKiemHoSoThuaDat1.NgayLapToTrinh = ""
         Me.CrtTimKiemHoSoThuaDat1.Size = New System.Drawing.Size(784, 264)
         Me.CrtTimKiemHoSoThuaDat1.SoDinhDanh = ""
         Me.CrtTimKiemHoSoThuaDat1.SoThua = ""
-        Me.CrtTimKiemHoSoThuaDat1.TabIndex = 3
+        Me.CrtTimKiemHoSoThuaDat1.TabIndex = 4
+        Me.CrtTimKiemHoSoThuaDat1.TenBangBanDo = Nothing
         Me.CrtTimKiemHoSoThuaDat1.ToBanDo = ""
         '
         'GroupBox1
@@ -138,7 +142,7 @@ Partial Class ctrInPhieu
         Me.cmdChapNhan.Location = New System.Drawing.Point(694, 13)
         Me.cmdChapNhan.Name = "cmdChapNhan"
         Me.cmdChapNhan.Size = New System.Drawing.Size(89, 22)
-        Me.cmdChapNhan.TabIndex = 6
+        Me.cmdChapNhan.TabIndex = 8
         Me.cmdChapNhan.Text = "Lưu"
         Me.cmdChapNhan.UseVisualStyleBackColor = True
         '
@@ -150,7 +154,7 @@ Partial Class ctrInPhieu
         Me.cboBoChon.Location = New System.Drawing.Point(377, 351)
         Me.cboBoChon.Name = "cboBoChon"
         Me.cboBoChon.Size = New System.Drawing.Size(48, 33)
-        Me.cboBoChon.TabIndex = 4
+        Me.cboBoChon.TabIndex = 6
         Me.cboBoChon.UseVisualStyleBackColor = True
         '
         'cboChon
@@ -161,7 +165,7 @@ Partial Class ctrInPhieu
         Me.cboChon.Location = New System.Drawing.Point(323, 351)
         Me.cboChon.Name = "cboChon"
         Me.cboChon.Size = New System.Drawing.Size(48, 33)
-        Me.cboChon.TabIndex = 3
+        Me.cboChon.TabIndex = 5
         Me.cboChon.UseVisualStyleBackColor = True
         '
         'GroupBox4
@@ -185,7 +189,7 @@ Partial Class ctrInPhieu
         Me.Label2.Location = New System.Drawing.Point(233, 23)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(55, 13)
-        Me.Label2.TabIndex = 3
+        Me.Label2.TabIndex = 2
         Me.Label2.Text = "Ngày trình"
         '
         'dtpNgayTrinhDiaChinh
@@ -194,7 +198,7 @@ Partial Class ctrInPhieu
         Me.dtpNgayTrinhDiaChinh.Location = New System.Drawing.Point(312, 19)
         Me.dtpNgayTrinhDiaChinh.Name = "dtpNgayTrinhDiaChinh"
         Me.dtpNgayTrinhDiaChinh.Size = New System.Drawing.Size(139, 20)
-        Me.dtpNgayTrinhDiaChinh.TabIndex = 2
+        Me.dtpNgayTrinhDiaChinh.TabIndex = 3
         '
         'txtToTrinhSo
         '

@@ -253,7 +253,7 @@
             this.radBanDoQuan.Location = new System.Drawing.Point(84, 9);
             this.radBanDoQuan.Name = "radBanDoQuan";
             this.radBanDoQuan.Size = new System.Drawing.Size(87, 17);
-            this.radBanDoQuan.TabIndex = 7;
+            this.radBanDoQuan.TabIndex = 0;
             this.radBanDoQuan.Text = "Bản đồ quận";
             this.radBanDoQuan.UseVisualStyleBackColor = true;
             this.radBanDoQuan.CheckedChanged += new System.EventHandler(this.radBanDoQuan_CheckedChanged);
@@ -265,7 +265,7 @@
             this.radBanDoPhuong.Location = new System.Drawing.Point(187, 9);
             this.radBanDoPhuong.Name = "radBanDoPhuong";
             this.radBanDoPhuong.Size = new System.Drawing.Size(99, 17);
-            this.radBanDoPhuong.TabIndex = 8;
+            this.radBanDoPhuong.TabIndex = 1;
             this.radBanDoPhuong.TabStop = true;
             this.radBanDoPhuong.Text = "Bản đồ phường";
             this.radBanDoPhuong.UseVisualStyleBackColor = true;
@@ -277,14 +277,14 @@
             this.cboLoaiBanDo.Location = new System.Drawing.Point(84, 32);
             this.cboLoaiBanDo.Name = "cboLoaiBanDo";
             this.cboLoaiBanDo.Size = new System.Drawing.Size(201, 21);
-            this.cboLoaiBanDo.TabIndex = 9;
+            this.cboLoaiBanDo.TabIndex = 2;
             // 
             // cmdLuu
             // 
             this.cmdLuu.Location = new System.Drawing.Point(297, 32);
             this.cmdLuu.Name = "cmdLuu";
-            this.cmdLuu.Size = new System.Drawing.Size(65, 20);
-            this.cmdLuu.TabIndex = 10;
+            this.cmdLuu.Size = new System.Drawing.Size(65, 24);
+            this.cmdLuu.TabIndex = 3;
             this.cmdLuu.Text = "Lưu";
             this.cmdLuu.UseVisualStyleBackColor = true;
             this.cmdLuu.Click += new System.EventHandler(this.cmdLuu_Click);
@@ -293,8 +293,8 @@
             // 
             this.cmdHienTHi.Location = new System.Drawing.Point(368, 33);
             this.cmdHienTHi.Name = "cmdHienTHi";
-            this.cmdHienTHi.Size = new System.Drawing.Size(65, 20);
-            this.cmdHienTHi.TabIndex = 11;
+            this.cmdHienTHi.Size = new System.Drawing.Size(65, 23);
+            this.cmdHienTHi.TabIndex = 4;
             this.cmdHienTHi.Text = "Hiển thị";
             this.cmdHienTHi.UseVisualStyleBackColor = true;
             this.cmdHienTHi.Click += new System.EventHandler(this.cmdHienTHi_Click);
@@ -303,8 +303,8 @@
             // 
             this.cmdXoaBanDo.Location = new System.Drawing.Point(439, 32);
             this.cmdXoaBanDo.Name = "cmdXoaBanDo";
-            this.cmdXoaBanDo.Size = new System.Drawing.Size(66, 19);
-            this.cmdXoaBanDo.TabIndex = 12;
+            this.cmdXoaBanDo.Size = new System.Drawing.Size(66, 24);
+            this.cmdXoaBanDo.TabIndex = 5;
             this.cmdXoaBanDo.Text = "Xóa";
             this.cmdXoaBanDo.UseVisualStyleBackColor = true;
             this.cmdXoaBanDo.Click += new System.EventHandler(this.cmdXoaBanDo_Click);

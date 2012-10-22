@@ -22,8 +22,8 @@ Partial Class ctrlMaCoQuanThucHien
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.grdvwBangMaCoQuanThucHien = New DMC.[Interface].GridView.ctrlGridView
         Me.txtBangMaKyHieu = New System.Windows.Forms.TextBox
         Me.Label1 = New System.Windows.Forms.Label
@@ -42,23 +42,23 @@ Partial Class ctrlMaCoQuanThucHien
         Me.grdvwBangMaCoQuanThucHien.AllowUserToAddRows = False
         Me.grdvwBangMaCoQuanThucHien.AllowUserToDeleteRows = False
         Me.grdvwBangMaCoQuanThucHien.BackgroundColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.grdvwBangMaCoQuanThucHien.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.grdvwBangMaCoQuanThucHien.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.grdvwBangMaCoQuanThucHien.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.grdvwBangMaCoQuanThucHien.DefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.grdvwBangMaCoQuanThucHien.DefaultCellStyle = DataGridViewCellStyle2
         Me.grdvwBangMaCoQuanThucHien.Location = New System.Drawing.Point(0, 0)
         Me.grdvwBangMaCoQuanThucHien.MultiSelect = False
         Me.grdvwBangMaCoQuanThucHien.Name = "grdvwBangMaCoQuanThucHien"
@@ -91,7 +91,7 @@ Partial Class ctrlMaCoQuanThucHien
         Me.btnHuyLenh.Location = New System.Drawing.Point(246, 296)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 55
+        Me.btnHuyLenh.TabIndex = 5
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -100,7 +100,7 @@ Partial Class ctrlMaCoQuanThucHien
         Me.btnSua.Location = New System.Drawing.Point(66, 296)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 52
+        Me.btnSua.TabIndex = 2
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -109,7 +109,7 @@ Partial Class ctrlMaCoQuanThucHien
         Me.btnGhi.Location = New System.Drawing.Point(184, 296)
         Me.btnGhi.Name = "btnGhi"
         Me.btnGhi.Size = New System.Drawing.Size(58, 21)
-        Me.btnGhi.TabIndex = 54
+        Me.btnGhi.TabIndex = 4
         Me.btnGhi.Text = "Ghi"
         Me.btnGhi.UseVisualStyleBackColor = True
         '
@@ -118,7 +118,7 @@ Partial Class ctrlMaCoQuanThucHien
         Me.btnXoa.Location = New System.Drawing.Point(126, 296)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 53
+        Me.btnXoa.TabIndex = 3
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -127,7 +127,7 @@ Partial Class ctrlMaCoQuanThucHien
         Me.btnThem.Location = New System.Drawing.Point(6, 296)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(58, 21)
-        Me.btnThem.TabIndex = 51
+        Me.btnThem.TabIndex = 1
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '

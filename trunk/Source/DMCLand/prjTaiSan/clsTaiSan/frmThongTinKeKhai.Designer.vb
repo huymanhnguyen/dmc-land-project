@@ -74,7 +74,7 @@ Partial Class frmThongTinKeKhai
         Me.btnTroGiup.Location = New System.Drawing.Point(665, 239)
         Me.btnTroGiup.Name = "btnTroGiup"
         Me.btnTroGiup.Size = New System.Drawing.Size(58, 21)
-        Me.btnTroGiup.TabIndex = 33
+        Me.btnTroGiup.TabIndex = 32
         Me.btnTroGiup.Text = "Trợ giúp"
         Me.btnTroGiup.UseVisualStyleBackColor = True
         '
@@ -83,7 +83,7 @@ Partial Class frmThongTinKeKhai
         Me.btnHuyLenh.Location = New System.Drawing.Point(66, 239)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 32
+        Me.btnHuyLenh.TabIndex = 31
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -92,7 +92,7 @@ Partial Class frmThongTinKeKhai
         Me.btnCapNhat.Location = New System.Drawing.Point(3, 239)
         Me.btnCapNhat.Name = "btnCapNhat"
         Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
-        Me.btnCapNhat.TabIndex = 31
+        Me.btnCapNhat.TabIndex = 30
         Me.btnCapNhat.Text = "Cập nhật"
         Me.btnCapNhat.UseVisualStyleBackColor = True
         '
@@ -144,7 +144,7 @@ Partial Class frmThongTinKeKhai
         Me.txtThoiHanSoHuu.Location = New System.Drawing.Point(115, 181)
         Me.txtThoiHanSoHuu.Name = "txtThoiHanSoHuu"
         Me.txtThoiHanSoHuu.Size = New System.Drawing.Size(604, 20)
-        Me.txtThoiHanSoHuu.TabIndex = 65
+        Me.txtThoiHanSoHuu.TabIndex = 27
         '
         'numNamHoanThanhXayDung
         '
@@ -153,7 +153,7 @@ Partial Class frmThongTinKeKhai
         Me.numNamHoanThanhXayDung.Minimum = New Decimal(New Integer() {1800, 0, 0, 0})
         Me.numNamHoanThanhXayDung.Name = "numNamHoanThanhXayDung"
         Me.numNamHoanThanhXayDung.Size = New System.Drawing.Size(51, 20)
-        Me.numNamHoanThanhXayDung.TabIndex = 64
+        Me.numNamHoanThanhXayDung.TabIndex = 7
         Me.numNamHoanThanhXayDung.Value = New Decimal(New Integer() {2000, 0, 0, 0})
         '
         'Label24
@@ -162,7 +162,7 @@ Partial Class frmThongTinKeKhai
         Me.Label24.Location = New System.Drawing.Point(546, 16)
         Me.Label24.Name = "Label24"
         Me.Label24.Size = New System.Drawing.Size(104, 13)
-        Me.Label24.TabIndex = 63
+        Me.Label24.TabIndex = 6
         Me.Label24.Text = "Năm hoàn thành XD"
         '
         'dtpNgayCapPhepXayDung
@@ -170,7 +170,7 @@ Partial Class frmThongTinKeKhai
         Me.dtpNgayCapPhepXayDung.Location = New System.Drawing.Point(115, 128)
         Me.dtpNgayCapPhepXayDung.Name = "dtpNgayCapPhepXayDung"
         Me.dtpNgayCapPhepXayDung.Size = New System.Drawing.Size(90, 20)
-        Me.dtpNgayCapPhepXayDung.TabIndex = 62
+        Me.dtpNgayCapPhepXayDung.TabIndex = 21
         '
         'Label5
         '
@@ -178,7 +178,7 @@ Partial Class frmThongTinKeKhai
         Me.Label5.Location = New System.Drawing.Point(5, 131)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(98, 13)
-        Me.Label5.TabIndex = 61
+        Me.Label5.TabIndex = 20
         Me.Label5.Text = "Ngày cấp phép XD"
         '
         'numSoTang
@@ -187,7 +187,7 @@ Partial Class frmThongTinKeKhai
         Me.numSoTang.Maximum = New Decimal(New Integer() {1000000, 0, 0, 0})
         Me.numSoTang.Name = "numSoTang"
         Me.numSoTang.Size = New System.Drawing.Size(90, 20)
-        Me.numSoTang.TabIndex = 60
+        Me.numSoTang.TabIndex = 9
         '
         'numDienTichSanPhu
         '
@@ -196,7 +196,7 @@ Partial Class frmThongTinKeKhai
         Me.numDienTichSanPhu.Maximum = New Decimal(New Integer() {1000000, 0, 0, 0})
         Me.numDienTichSanPhu.Name = "numDienTichSanPhu"
         Me.numDienTichSanPhu.Size = New System.Drawing.Size(89, 20)
-        Me.numDienTichSanPhu.TabIndex = 59
+        Me.numDienTichSanPhu.TabIndex = 17
         '
         'numDienTichXayDung
         '
@@ -205,7 +205,7 @@ Partial Class frmThongTinKeKhai
         Me.numDienTichXayDung.Maximum = New Decimal(New Integer() {1000000, 0, 0, 0})
         Me.numDienTichXayDung.Name = "numDienTichXayDung"
         Me.numDienTichXayDung.Size = New System.Drawing.Size(89, 20)
-        Me.numDienTichXayDung.TabIndex = 57
+        Me.numDienTichXayDung.TabIndex = 13
         '
         'Label23
         '
@@ -236,7 +236,7 @@ Partial Class frmThongTinKeKhai
         Me.numDienTichSanXayDung.Maximum = New Decimal(New Integer() {1000000, 0, 0, 0})
         Me.numDienTichSanXayDung.Name = "numDienTichSanXayDung"
         Me.numDienTichSanXayDung.Size = New System.Drawing.Size(90, 20)
-        Me.numDienTichSanXayDung.TabIndex = 54
+        Me.numDienTichSanXayDung.TabIndex = 15
         '
         'txtThongTinViPham
         '
@@ -245,7 +245,7 @@ Partial Class frmThongTinKeKhai
         Me.txtThongTinViPham.Location = New System.Drawing.Point(115, 155)
         Me.txtThongTinViPham.Name = "txtThongTinViPham"
         Me.txtThongTinViPham.Size = New System.Drawing.Size(605, 20)
-        Me.txtThongTinViPham.TabIndex = 51
+        Me.txtThongTinViPham.TabIndex = 25
         '
         'Label20
         '
@@ -253,7 +253,7 @@ Partial Class frmThongTinKeKhai
         Me.Label20.Location = New System.Drawing.Point(10, 155)
         Me.Label20.Name = "Label20"
         Me.Label20.Size = New System.Drawing.Size(92, 13)
-        Me.Label20.TabIndex = 52
+        Me.Label20.TabIndex = 24
         Me.Label20.Text = "Thông tin vi phạm"
         Me.Label20.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
@@ -265,7 +265,7 @@ Partial Class frmThongTinKeKhai
         Me.txtCoQuanCapGPXD.Multiline = True
         Me.txtCoQuanCapGPXD.Name = "txtCoQuanCapGPXD"
         Me.txtCoQuanCapGPXD.Size = New System.Drawing.Size(379, 20)
-        Me.txtCoQuanCapGPXD.TabIndex = 49
+        Me.txtCoQuanCapGPXD.TabIndex = 23
         '
         'Label19
         '
@@ -273,7 +273,7 @@ Partial Class frmThongTinKeKhai
         Me.Label19.Location = New System.Drawing.Point(238, 132)
         Me.Label19.Name = "Label19"
         Me.Label19.Size = New System.Drawing.Size(101, 13)
-        Me.Label19.TabIndex = 50
+        Me.Label19.TabIndex = 22
         Me.Label19.Text = "Cơ quan cấp GPXD"
         '
         'txtSoGPXD
@@ -281,7 +281,7 @@ Partial Class frmThongTinKeKhai
         Me.txtSoGPXD.Location = New System.Drawing.Point(341, 96)
         Me.txtSoGPXD.Name = "txtSoGPXD"
         Me.txtSoGPXD.Size = New System.Drawing.Size(89, 20)
-        Me.txtSoGPXD.TabIndex = 47
+        Me.txtSoGPXD.TabIndex = 19
         '
         'Label18
         '
@@ -289,7 +289,7 @@ Partial Class frmThongTinKeKhai
         Me.Label18.Location = New System.Drawing.Point(239, 99)
         Me.Label18.Name = "Label18"
         Me.Label18.Size = New System.Drawing.Size(87, 13)
-        Me.Label18.TabIndex = 48
+        Me.Label18.TabIndex = 18
         Me.Label18.Text = "Số giấy phép XD"
         '
         'Label17
@@ -298,7 +298,7 @@ Partial Class frmThongTinKeKhai
         Me.Label17.Location = New System.Drawing.Point(14, 99)
         Me.Label17.Name = "Label17"
         Me.Label17.Size = New System.Drawing.Size(92, 13)
-        Me.Label17.TabIndex = 46
+        Me.Label17.TabIndex = 16
         Me.Label17.Text = "Diện tích sàn phụ"
         '
         'Label14
@@ -307,7 +307,7 @@ Partial Class frmThongTinKeKhai
         Me.Label14.Location = New System.Drawing.Point(18, 184)
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(84, 13)
-        Me.Label14.TabIndex = 40
+        Me.Label14.TabIndex = 26
         Me.Label14.Text = "Thời hạn sở hữu"
         '
         'numNamXayDung
@@ -317,7 +317,7 @@ Partial Class frmThongTinKeKhai
         Me.numNamXayDung.Minimum = New Decimal(New Integer() {1800, 0, 0, 0})
         Me.numNamXayDung.Name = "numNamXayDung"
         Me.numNamXayDung.Size = New System.Drawing.Size(52, 20)
-        Me.numNamXayDung.TabIndex = 38
+        Me.numNamXayDung.TabIndex = 5
         Me.numNamXayDung.Value = New Decimal(New Integer() {2000, 0, 0, 0})
         '
         'Label13
@@ -326,7 +326,7 @@ Partial Class frmThongTinKeKhai
         Me.Label13.Location = New System.Drawing.Point(431, 15)
         Me.Label13.Name = "Label13"
         Me.Label13.Size = New System.Drawing.Size(47, 13)
-        Me.Label13.TabIndex = 37
+        Me.Label13.TabIndex = 4
         Me.Label13.Text = "Năm XD"
         '
         'Label12
@@ -335,7 +335,7 @@ Partial Class frmThongTinKeKhai
         Me.Label12.Location = New System.Drawing.Point(58, 16)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(48, 13)
-        Me.Label12.TabIndex = 35
+        Me.Label12.TabIndex = 0
         Me.Label12.Text = "Loại nhà"
         '
         'cmbLoaiNha
@@ -345,7 +345,7 @@ Partial Class frmThongTinKeKhai
         Me.cmbLoaiNha.Location = New System.Drawing.Point(115, 12)
         Me.cmbLoaiNha.Name = "cmbLoaiNha"
         Me.cmbLoaiNha.Size = New System.Drawing.Size(90, 21)
-        Me.cmbLoaiNha.TabIndex = 34
+        Me.cmbLoaiNha.TabIndex = 1
         '
         'cmbCapHangNha
         '
@@ -354,7 +354,7 @@ Partial Class frmThongTinKeKhai
         Me.cmbCapHangNha.Location = New System.Drawing.Point(341, 12)
         Me.cmbCapHangNha.Name = "cmbCapHangNha"
         Me.cmbCapHangNha.Size = New System.Drawing.Size(82, 21)
-        Me.cmbCapHangNha.TabIndex = 33
+        Me.cmbCapHangNha.TabIndex = 3
         '
         'Label3
         '
@@ -375,14 +375,14 @@ Partial Class frmThongTinKeKhai
         Me.txtDiaChiNha.Multiline = True
         Me.txtDiaChiNha.Name = "txtDiaChiNha"
         Me.txtDiaChiNha.Size = New System.Drawing.Size(605, 20)
-        Me.txtDiaChiNha.TabIndex = 7
+        Me.txtDiaChiNha.TabIndex = 29
         '
         'txtKetCauNha
         '
         Me.txtKetCauNha.Location = New System.Drawing.Point(341, 42)
         Me.txtKetCauNha.Name = "txtKetCauNha"
         Me.txtKetCauNha.Size = New System.Drawing.Size(369, 20)
-        Me.txtKetCauNha.TabIndex = 2
+        Me.txtKetCauNha.TabIndex = 11
         '
         'Label11
         '
@@ -390,7 +390,7 @@ Partial Class frmThongTinKeKhai
         Me.Label11.Location = New System.Drawing.Point(235, 45)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(65, 13)
-        Me.Label11.TabIndex = 30
+        Me.Label11.TabIndex = 10
         Me.Label11.Text = "Kết cấu nhà"
         '
         'Label10
@@ -399,7 +399,7 @@ Partial Class frmThongTinKeKhai
         Me.Label10.Location = New System.Drawing.Point(41, 213)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(61, 13)
-        Me.Label10.TabIndex = 29
+        Me.Label10.TabIndex = 28
         Me.Label10.Text = "Địa chỉ nhà"
         '
         'Label9
@@ -407,7 +407,7 @@ Partial Class frmThongTinKeKhai
         Me.Label9.Location = New System.Drawing.Point(5, 65)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(109, 27)
-        Me.Label9.TabIndex = 28
+        Me.Label9.TabIndex = 12
         Me.Label9.Text = "Diện tích chiếm đất (DTXD)"
         Me.Label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -416,7 +416,7 @@ Partial Class frmThongTinKeKhai
         Me.Label7.Location = New System.Drawing.Point(227, 64)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(91, 31)
-        Me.Label7.TabIndex = 23
+        Me.Label7.TabIndex = 14
         Me.Label7.Text = "Diện tích sàn XD (Công suất)"
         Me.Label7.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
@@ -426,7 +426,7 @@ Partial Class frmThongTinKeKhai
         Me.Label2.Location = New System.Drawing.Point(58, 45)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(44, 13)
-        Me.Label2.TabIndex = 16
+        Me.Label2.TabIndex = 8
         Me.Label2.Text = "Số tầng"
         '
         'Label1
@@ -435,7 +435,7 @@ Partial Class frmThongTinKeKhai
         Me.Label1.Location = New System.Drawing.Point(237, 16)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(80, 13)
-        Me.Label1.TabIndex = 14
+        Me.Label1.TabIndex = 2
         Me.Label1.Text = "Cấp (hạng) nhà"
         '
         'frmThongTinKeKhai
@@ -448,6 +448,7 @@ Partial Class frmThongTinKeKhai
         Me.Controls.Add(Me.btnHuyLenh)
         Me.Controls.Add(Me.btnCapNhat)
         Me.Controls.Add(Me.GroupBox1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmThongTinKeKhai"
         Me.Text = "Nha o (Can ho)"
         Me.GroupBox1.ResumeLayout(False)

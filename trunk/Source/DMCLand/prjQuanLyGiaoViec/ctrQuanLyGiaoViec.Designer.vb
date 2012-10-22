@@ -28,8 +28,10 @@ Partial Class ctrQuanLyGiaoViec
         Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.Label1 = New System.Windows.Forms.Label
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
+        Me.cmdCongViecDaLapLich = New System.Windows.Forms.Button
         Me.Label8 = New System.Windows.Forms.Label
         Me.GroupBox4 = New System.Windows.Forms.GroupBox
+        Me.grdDanhSachHoSo = New DMC.[Interface].GridView.ctrlGridView
         Me.cboTuDienLuanChuyenHoSo = New System.Windows.Forms.ComboBox
         Me.GroupBox2 = New System.Windows.Forms.GroupBox
         Me.cmdSoNgayQUanLy = New System.Windows.Forms.Button
@@ -46,15 +48,13 @@ Partial Class ctrQuanLyGiaoViec
         Me.dtpTuNgay = New System.Windows.Forms.DateTimePicker
         Me.Button1 = New System.Windows.Forms.Button
         Me.GroupBox3 = New System.Windows.Forms.GroupBox
-        Me.cmdCongViecDaLapLich = New System.Windows.Forms.Button
-        Me.grdDanhSachHoSo = New DMC.[Interface].GridView.ctrlGridView
         Me.grdDanhSachCongViec = New DMC.[Interface].GridView.ctrlGridView
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox4.SuspendLayout()
+        CType(Me.grdDanhSachHoSo, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox2.SuspendLayout()
         CType(Me.NumNgayCanhBao, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox3.SuspendLayout()
-        CType(Me.grdDanhSachHoSo, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.grdDanhSachCongViec, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -85,13 +85,22 @@ Partial Class ctrQuanLyGiaoViec
         Me.GroupBox1.TabIndex = 1
         Me.GroupBox1.TabStop = False
         '
+        'cmdCongViecDaLapLich
+        '
+        Me.cmdCongViecDaLapLich.Location = New System.Drawing.Point(479, 14)
+        Me.cmdCongViecDaLapLich.Name = "cmdCongViecDaLapLich"
+        Me.cmdCongViecDaLapLich.Size = New System.Drawing.Size(138, 21)
+        Me.cmdCongViecDaLapLich.TabIndex = 3
+        Me.cmdCongViecDaLapLich.Text = "Công việc đã giao"
+        Me.cmdCongViecDaLapLich.UseVisualStyleBackColor = True
+        '
         'Label8
         '
         Me.Label8.AutoSize = True
         Me.Label8.Location = New System.Drawing.Point(5, 15)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(93, 13)
-        Me.Label8.TabIndex = 84
+        Me.Label8.TabIndex = 0
         Me.Label8.Text = "Loại hồ sơ quản lý"
         '
         'GroupBox4
@@ -106,172 +115,6 @@ Partial Class ctrQuanLyGiaoViec
         Me.GroupBox4.TabIndex = 5
         Me.GroupBox4.TabStop = False
         Me.GroupBox4.Text = "Danh sách hồ sơ "
-        '
-        'cboTuDienLuanChuyenHoSo
-        '
-        Me.cboTuDienLuanChuyenHoSo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cboTuDienLuanChuyenHoSo.FormattingEnabled = True
-        Me.cboTuDienLuanChuyenHoSo.Location = New System.Drawing.Point(104, 12)
-        Me.cboTuDienLuanChuyenHoSo.Name = "cboTuDienLuanChuyenHoSo"
-        Me.cboTuDienLuanChuyenHoSo.Size = New System.Drawing.Size(249, 21)
-        Me.cboTuDienLuanChuyenHoSo.TabIndex = 83
-        '
-        'GroupBox2
-        '
-        Me.GroupBox2.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox2.Controls.Add(Me.cmdSoNgayQUanLy)
-        Me.GroupBox2.Controls.Add(Me.Label10)
-        Me.GroupBox2.Controls.Add(Me.NumNgayCanhBao)
-        Me.GroupBox2.Controls.Add(Me.Label9)
-        Me.GroupBox2.Controls.Add(Me.cmdTongHop)
-        Me.GroupBox2.Controls.Add(Me.btnThem)
-        Me.GroupBox2.Controls.Add(Me.btnHuyLenh)
-        Me.GroupBox2.Controls.Add(Me.btnCapNhat)
-        Me.GroupBox2.Controls.Add(Me.Label6)
-        Me.GroupBox2.Controls.Add(Me.Label5)
-        Me.GroupBox2.Controls.Add(Me.txtCanBo)
-        Me.GroupBox2.Controls.Add(Me.dtpTuNgay)
-        Me.GroupBox2.Location = New System.Drawing.Point(9, 320)
-        Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(233, 237)
-        Me.GroupBox2.TabIndex = 2
-        Me.GroupBox2.TabStop = False
-        '
-        'cmdSoNgayQUanLy
-        '
-        Me.cmdSoNgayQUanLy.Location = New System.Drawing.Point(95, 19)
-        Me.cmdSoNgayQUanLy.Name = "cmdSoNgayQUanLy"
-        Me.cmdSoNgayQUanLy.Size = New System.Drawing.Size(125, 23)
-        Me.cmdSoNgayQUanLy.TabIndex = 32
-        Me.cmdSoNgayQUanLy.Text = "<< Ngày quản lý >>"
-        Me.cmdSoNgayQUanLy.UseVisualStyleBackColor = True
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(195, 102)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(30, 13)
-        Me.Label10.TabIndex = 31
-        Me.Label10.Text = "ngày"
-        '
-        'NumNgayCanhBao
-        '
-        Me.NumNgayCanhBao.Location = New System.Drawing.Point(95, 100)
-        Me.NumNgayCanhBao.Maximum = New Decimal(New Integer() {1000, 0, 0, 0})
-        Me.NumNgayCanhBao.Name = "NumNgayCanhBao"
-        Me.NumNgayCanhBao.Size = New System.Drawing.Size(79, 20)
-        Me.NumNgayCanhBao.TabIndex = 30
-        Me.NumNgayCanhBao.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.NumNgayCanhBao.Value = New Decimal(New Integer() {1, 0, 0, 0})
-        '
-        'Label9
-        '
-        Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(9, 102)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(80, 13)
-        Me.Label9.TabIndex = 29
-        Me.Label9.Text = "Cảnh báo trước"
-        '
-        'cmdTongHop
-        '
-        Me.cmdTongHop.Location = New System.Drawing.Point(95, 126)
-        Me.cmdTongHop.Name = "cmdTongHop"
-        Me.cmdTongHop.Size = New System.Drawing.Size(103, 21)
-        Me.cmdTongHop.TabIndex = 28
-        Me.cmdTongHop.Text = "Tổng hợp"
-        Me.cmdTongHop.UseVisualStyleBackColor = True
-        '
-        'btnThem
-        '
-        Me.btnThem.Location = New System.Drawing.Point(12, 208)
-        Me.btnThem.Name = "btnThem"
-        Me.btnThem.Size = New System.Drawing.Size(58, 21)
-        Me.btnThem.TabIndex = 21
-        Me.btnThem.Text = "Thêm"
-        Me.btnThem.UseVisualStyleBackColor = True
-        '
-        'btnHuyLenh
-        '
-        Me.btnHuyLenh.Location = New System.Drawing.Point(138, 208)
-        Me.btnHuyLenh.Name = "btnHuyLenh"
-        Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 25
-        Me.btnHuyLenh.Text = "Hủy lệnh"
-        Me.btnHuyLenh.UseVisualStyleBackColor = True
-        '
-        'btnCapNhat
-        '
-        Me.btnCapNhat.Location = New System.Drawing.Point(74, 208)
-        Me.btnCapNhat.Name = "btnCapNhat"
-        Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
-        Me.btnCapNhat.TabIndex = 24
-        Me.btnCapNhat.Text = "Ghi"
-        Me.btnCapNhat.UseVisualStyleBackColor = True
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(43, 52)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(46, 13)
-        Me.Label6.TabIndex = 10
-        Me.Label6.Text = "Từ ngày"
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(48, 77)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(41, 13)
-        Me.Label5.TabIndex = 9
-        Me.Label5.Text = "Cán bộ"
-        '
-        'txtCanBo
-        '
-        Me.txtCanBo.Location = New System.Drawing.Point(95, 74)
-        Me.txtCanBo.Name = "txtCanBo"
-        Me.txtCanBo.Size = New System.Drawing.Size(108, 20)
-        Me.txtCanBo.TabIndex = 8
-        '
-        'dtpTuNgay
-        '
-        Me.dtpTuNgay.DropDownAlign = System.Windows.Forms.LeftRightAlignment.Right
-        Me.dtpTuNgay.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.dtpTuNgay.Location = New System.Drawing.Point(95, 48)
-        Me.dtpTuNgay.Name = "dtpTuNgay"
-        Me.dtpTuNgay.Size = New System.Drawing.Size(108, 20)
-        Me.dtpTuNgay.TabIndex = 2
-        '
-        'Button1
-        '
-        Me.Button1.Location = New System.Drawing.Point(359, 14)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(114, 21)
-        Me.Button1.TabIndex = 4
-        Me.Button1.Text = "Tìm kiếm hồ sơ"
-        Me.Button1.UseVisualStyleBackColor = True
-        '
-        'GroupBox3
-        '
-        Me.GroupBox3.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox3.Controls.Add(Me.grdDanhSachCongViec)
-        Me.GroupBox3.Location = New System.Drawing.Point(248, 320)
-        Me.GroupBox3.Name = "GroupBox3"
-        Me.GroupBox3.Size = New System.Drawing.Size(640, 237)
-        Me.GroupBox3.TabIndex = 3
-        Me.GroupBox3.TabStop = False
-        '
-        'cmdCongViecDaLapLich
-        '
-        Me.cmdCongViecDaLapLich.Location = New System.Drawing.Point(479, 14)
-        Me.cmdCongViecDaLapLich.Name = "cmdCongViecDaLapLich"
-        Me.cmdCongViecDaLapLich.Size = New System.Drawing.Size(138, 21)
-        Me.cmdCongViecDaLapLich.TabIndex = 85
-        Me.cmdCongViecDaLapLich.Text = "Công việc đã giao"
-        Me.cmdCongViecDaLapLich.UseVisualStyleBackColor = True
         '
         'grdDanhSachHoSo
         '
@@ -302,7 +145,164 @@ Partial Class ctrQuanLyGiaoViec
         Me.grdDanhSachHoSo.RowHeadersWidth = 25
         Me.grdDanhSachHoSo.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.grdDanhSachHoSo.Size = New System.Drawing.Size(873, 268)
-        Me.grdDanhSachHoSo.TabIndex = 0
+        Me.grdDanhSachHoSo.TabIndex = 4
+        '
+        'cboTuDienLuanChuyenHoSo
+        '
+        Me.cboTuDienLuanChuyenHoSo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cboTuDienLuanChuyenHoSo.FormattingEnabled = True
+        Me.cboTuDienLuanChuyenHoSo.Location = New System.Drawing.Point(104, 12)
+        Me.cboTuDienLuanChuyenHoSo.Name = "cboTuDienLuanChuyenHoSo"
+        Me.cboTuDienLuanChuyenHoSo.Size = New System.Drawing.Size(249, 21)
+        Me.cboTuDienLuanChuyenHoSo.TabIndex = 1
+        '
+        'GroupBox2
+        '
+        Me.GroupBox2.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox2.Controls.Add(Me.cmdSoNgayQUanLy)
+        Me.GroupBox2.Controls.Add(Me.Label10)
+        Me.GroupBox2.Controls.Add(Me.NumNgayCanhBao)
+        Me.GroupBox2.Controls.Add(Me.Label9)
+        Me.GroupBox2.Controls.Add(Me.cmdTongHop)
+        Me.GroupBox2.Controls.Add(Me.btnThem)
+        Me.GroupBox2.Controls.Add(Me.btnHuyLenh)
+        Me.GroupBox2.Controls.Add(Me.btnCapNhat)
+        Me.GroupBox2.Controls.Add(Me.Label6)
+        Me.GroupBox2.Controls.Add(Me.Label5)
+        Me.GroupBox2.Controls.Add(Me.txtCanBo)
+        Me.GroupBox2.Controls.Add(Me.dtpTuNgay)
+        Me.GroupBox2.Location = New System.Drawing.Point(9, 320)
+        Me.GroupBox2.Name = "GroupBox2"
+        Me.GroupBox2.Size = New System.Drawing.Size(233, 237)
+        Me.GroupBox2.TabIndex = 2
+        Me.GroupBox2.TabStop = False
+        '
+        'cmdSoNgayQUanLy
+        '
+        Me.cmdSoNgayQUanLy.Location = New System.Drawing.Point(95, 19)
+        Me.cmdSoNgayQUanLy.Name = "cmdSoNgayQUanLy"
+        Me.cmdSoNgayQUanLy.Size = New System.Drawing.Size(125, 23)
+        Me.cmdSoNgayQUanLy.TabIndex = 5
+        Me.cmdSoNgayQUanLy.Text = "<< Ngày quản lý >>"
+        Me.cmdSoNgayQUanLy.UseVisualStyleBackColor = True
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(195, 102)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(30, 13)
+        Me.Label10.TabIndex = 31
+        Me.Label10.Text = "ngày"
+        '
+        'NumNgayCanhBao
+        '
+        Me.NumNgayCanhBao.Location = New System.Drawing.Point(95, 100)
+        Me.NumNgayCanhBao.Maximum = New Decimal(New Integer() {1000, 0, 0, 0})
+        Me.NumNgayCanhBao.Name = "NumNgayCanhBao"
+        Me.NumNgayCanhBao.Size = New System.Drawing.Size(79, 20)
+        Me.NumNgayCanhBao.TabIndex = 11
+        Me.NumNgayCanhBao.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.NumNgayCanhBao.Value = New Decimal(New Integer() {1, 0, 0, 0})
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(9, 102)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(80, 13)
+        Me.Label9.TabIndex = 10
+        Me.Label9.Text = "Cảnh báo trước"
+        '
+        'cmdTongHop
+        '
+        Me.cmdTongHop.Location = New System.Drawing.Point(95, 126)
+        Me.cmdTongHop.Name = "cmdTongHop"
+        Me.cmdTongHop.Size = New System.Drawing.Size(103, 21)
+        Me.cmdTongHop.TabIndex = 12
+        Me.cmdTongHop.Text = "Tổng hợp"
+        Me.cmdTongHop.UseVisualStyleBackColor = True
+        '
+        'btnThem
+        '
+        Me.btnThem.Location = New System.Drawing.Point(12, 208)
+        Me.btnThem.Name = "btnThem"
+        Me.btnThem.Size = New System.Drawing.Size(58, 21)
+        Me.btnThem.TabIndex = 13
+        Me.btnThem.Text = "Thêm"
+        Me.btnThem.UseVisualStyleBackColor = True
+        '
+        'btnHuyLenh
+        '
+        Me.btnHuyLenh.Location = New System.Drawing.Point(138, 208)
+        Me.btnHuyLenh.Name = "btnHuyLenh"
+        Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
+        Me.btnHuyLenh.TabIndex = 15
+        Me.btnHuyLenh.Text = "Hủy lệnh"
+        Me.btnHuyLenh.UseVisualStyleBackColor = True
+        '
+        'btnCapNhat
+        '
+        Me.btnCapNhat.Location = New System.Drawing.Point(74, 208)
+        Me.btnCapNhat.Name = "btnCapNhat"
+        Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
+        Me.btnCapNhat.TabIndex = 14
+        Me.btnCapNhat.Text = "Ghi"
+        Me.btnCapNhat.UseVisualStyleBackColor = True
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Location = New System.Drawing.Point(43, 52)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(46, 13)
+        Me.Label6.TabIndex = 6
+        Me.Label6.Text = "Từ ngày"
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(48, 77)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(41, 13)
+        Me.Label5.TabIndex = 8
+        Me.Label5.Text = "Cán bộ"
+        '
+        'txtCanBo
+        '
+        Me.txtCanBo.Location = New System.Drawing.Point(95, 74)
+        Me.txtCanBo.Name = "txtCanBo"
+        Me.txtCanBo.Size = New System.Drawing.Size(108, 20)
+        Me.txtCanBo.TabIndex = 9
+        '
+        'dtpTuNgay
+        '
+        Me.dtpTuNgay.DropDownAlign = System.Windows.Forms.LeftRightAlignment.Right
+        Me.dtpTuNgay.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dtpTuNgay.Location = New System.Drawing.Point(95, 48)
+        Me.dtpTuNgay.Name = "dtpTuNgay"
+        Me.dtpTuNgay.Size = New System.Drawing.Size(108, 20)
+        Me.dtpTuNgay.TabIndex = 7
+        '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(359, 14)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(114, 21)
+        Me.Button1.TabIndex = 2
+        Me.Button1.Text = "Tìm kiếm hồ sơ"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'GroupBox3
+        '
+        Me.GroupBox3.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox3.Controls.Add(Me.grdDanhSachCongViec)
+        Me.GroupBox3.Location = New System.Drawing.Point(248, 320)
+        Me.GroupBox3.Name = "GroupBox3"
+        Me.GroupBox3.Size = New System.Drawing.Size(640, 237)
+        Me.GroupBox3.TabIndex = 3
+        Me.GroupBox3.TabStop = False
         '
         'grdDanhSachCongViec
         '
@@ -335,7 +335,7 @@ Partial Class ctrQuanLyGiaoViec
         Me.grdDanhSachCongViec.RowHeadersWidth = 25
         Me.grdDanhSachCongViec.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.grdDanhSachCongViec.Size = New System.Drawing.Size(634, 220)
-        Me.grdDanhSachCongViec.TabIndex = 1
+        Me.grdDanhSachCongViec.TabIndex = 16
         '
         'ctrQuanLyGiaoViec
         '
@@ -349,11 +349,11 @@ Partial Class ctrQuanLyGiaoViec
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
         Me.GroupBox4.ResumeLayout(False)
+        CType(Me.grdDanhSachHoSo, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox2.ResumeLayout(False)
         Me.GroupBox2.PerformLayout()
         CType(Me.NumNgayCanhBao, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox3.ResumeLayout(False)
-        CType(Me.grdDanhSachHoSo, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.grdDanhSachCongViec, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 

@@ -42,7 +42,7 @@ Partial Class ctrlTuDienNguonGoc
         Me.btnHuyLenh.Location = New System.Drawing.Point(243, 294)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(62, 21)
-        Me.btnHuyLenh.TabIndex = 53
+        Me.btnHuyLenh.TabIndex = 5
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -51,7 +51,7 @@ Partial Class ctrlTuDienNguonGoc
         Me.btnSua.Location = New System.Drawing.Point(63, 292)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 52
+        Me.btnSua.TabIndex = 2
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -91,7 +91,7 @@ Partial Class ctrlTuDienNguonGoc
         Me.btnCapNhat.Location = New System.Drawing.Point(181, 292)
         Me.btnCapNhat.Name = "btnCapNhat"
         Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
-        Me.btnCapNhat.TabIndex = 47
+        Me.btnCapNhat.TabIndex = 4
         Me.btnCapNhat.Text = "Cập nhật"
         Me.btnCapNhat.UseVisualStyleBackColor = True
         '
@@ -100,7 +100,7 @@ Partial Class ctrlTuDienNguonGoc
         Me.btnXoa.Location = New System.Drawing.Point(123, 292)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 48
+        Me.btnXoa.TabIndex = 3
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -109,7 +109,7 @@ Partial Class ctrlTuDienNguonGoc
         Me.btnThem.Location = New System.Drawing.Point(3, 292)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(58, 21)
-        Me.btnThem.TabIndex = 46
+        Me.btnThem.TabIndex = 1
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '

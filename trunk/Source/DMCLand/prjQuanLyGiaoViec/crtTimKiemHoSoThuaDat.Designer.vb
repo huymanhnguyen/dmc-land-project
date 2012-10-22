@@ -22,10 +22,10 @@ Partial Class crtTimKiemHoSoThuaDat
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.TabControl1 = New System.Windows.Forms.TabControl
         Me.TabPage4 = New System.Windows.Forms.TabPage
         Me.cmdTimChuSuDung = New System.Windows.Forms.Button
@@ -68,22 +68,22 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label9 = New System.Windows.Forms.Label
         Me.Label3 = New System.Windows.Forms.Label
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
+        Me.grdvwTimKiem = New DMC.[Interface].GridView.ctrlGridView
         Me.chkChonBanDo = New System.Windows.Forms.CheckBox
         Me.cmdChonHoSo = New System.Windows.Forms.Button
         Me.GroupBox3 = New System.Windows.Forms.GroupBox
+        Me.grdvwTacNghiep = New DMC.[Interface].GridView.ctrlGridView
         Me.cmdAdd = New System.Windows.Forms.Button
         Me.cmdRemove = New System.Windows.Forms.Button
-        Me.grdvwTacNghiep = New DMC.[Interface].GridView.ctrlGridView
-        Me.grdvwTimKiem = New DMC.[Interface].GridView.ctrlGridView
         Me.TabControl1.SuspendLayout()
         Me.TabPage4.SuspendLayout()
         Me.TabPage2.SuspendLayout()
         Me.TabPage3.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
+        CType(Me.grdvwTimKiem, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox3.SuspendLayout()
         CType(Me.grdvwTacNghiep, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.grdvwTimKiem, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'TabControl1
@@ -122,7 +122,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.cmdTimChuSuDung.Location = New System.Drawing.Point(69, 63)
         Me.cmdTimChuSuDung.Name = "cmdTimChuSuDung"
         Me.cmdTimChuSuDung.Size = New System.Drawing.Size(57, 23)
-        Me.cmdTimChuSuDung.TabIndex = 4
+        Me.cmdTimChuSuDung.TabIndex = 6
         Me.cmdTimChuSuDung.Text = "Tìm"
         Me.cmdTimChuSuDung.UseVisualStyleBackColor = True
         '
@@ -131,7 +131,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.cmdTimMoiChuSuDung.Location = New System.Drawing.Point(6, 63)
         Me.cmdTimMoiChuSuDung.Name = "cmdTimMoiChuSuDung"
         Me.cmdTimMoiChuSuDung.Size = New System.Drawing.Size(57, 23)
-        Me.cmdTimMoiChuSuDung.TabIndex = 3
+        Me.cmdTimMoiChuSuDung.TabIndex = 5
         Me.cmdTimMoiChuSuDung.Text = "Tìm mới"
         Me.cmdTimMoiChuSuDung.UseVisualStyleBackColor = True
         '
@@ -140,14 +140,14 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.txtDinhDanh.Location = New System.Drawing.Point(119, 34)
         Me.txtDinhDanh.Name = "txtDinhDanh"
         Me.txtDinhDanh.Size = New System.Drawing.Size(144, 20)
-        Me.txtDinhDanh.TabIndex = 2
+        Me.txtDinhDanh.TabIndex = 4
         '
         'txtTenChu
         '
         Me.txtTenChu.Location = New System.Drawing.Point(119, 9)
         Me.txtTenChu.Name = "txtTenChu"
         Me.txtTenChu.Size = New System.Drawing.Size(302, 20)
-        Me.txtTenChu.TabIndex = 1
+        Me.txtTenChu.TabIndex = 2
         '
         'Label7
         '
@@ -156,7 +156,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label7.Location = New System.Drawing.Point(6, 12)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(107, 13)
-        Me.Label7.TabIndex = 32
+        Me.Label7.TabIndex = 1
         Me.Label7.Text = "Tên chủ sử dụng đất"
         '
         'Label8
@@ -167,7 +167,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label8.Location = New System.Drawing.Point(6, 38)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(79, 12)
-        Me.Label8.TabIndex = 33
+        Me.Label8.TabIndex = 3
         Me.Label8.Text = "CMT (HC, GPKD)"
         '
         'TabPage2
@@ -184,7 +184,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.TabPage2.Location = New System.Drawing.Point(4, 22)
         Me.TabPage2.Name = "TabPage2"
         Me.TabPage2.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage2.Size = New System.Drawing.Size(920, 94)
+        Me.TabPage2.Size = New System.Drawing.Size(778, 94)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Tag = "2"
         Me.TabPage2.Text = "Thông tin thửa đất"
@@ -195,7 +195,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.cmdTimThua.Location = New System.Drawing.Point(69, 63)
         Me.cmdTimThua.Name = "cmdTimThua"
         Me.cmdTimThua.Size = New System.Drawing.Size(57, 23)
-        Me.cmdTimThua.TabIndex = 9
+        Me.cmdTimThua.TabIndex = 12
         Me.cmdTimThua.Text = "Tìm"
         Me.cmdTimThua.UseVisualStyleBackColor = True
         '
@@ -204,7 +204,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.cmdTimMoiThua.Location = New System.Drawing.Point(6, 63)
         Me.cmdTimMoiThua.Name = "cmdTimMoiThua"
         Me.cmdTimMoiThua.Size = New System.Drawing.Size(57, 23)
-        Me.cmdTimMoiThua.TabIndex = 8
+        Me.cmdTimMoiThua.TabIndex = 11
         Me.cmdTimMoiThua.Text = "Tìm mới"
         Me.cmdTimMoiThua.UseVisualStyleBackColor = True
         '
@@ -213,7 +213,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.txtDiaChiDat.Location = New System.Drawing.Point(74, 35)
         Me.txtDiaChiDat.Name = "txtDiaChiDat"
         Me.txtDiaChiDat.Size = New System.Drawing.Size(466, 20)
-        Me.txtDiaChiDat.TabIndex = 7
+        Me.txtDiaChiDat.TabIndex = 10
         '
         'Label6
         '
@@ -222,7 +222,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label6.Location = New System.Drawing.Point(6, 38)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(59, 13)
-        Me.Label6.TabIndex = 29
+        Me.Label6.TabIndex = 9
         Me.Label6.Text = "Địa chỉ đất"
         '
         'txtToBanDo
@@ -230,7 +230,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.txtToBanDo.Location = New System.Drawing.Point(74, 9)
         Me.txtToBanDo.Name = "txtToBanDo"
         Me.txtToBanDo.Size = New System.Drawing.Size(90, 20)
-        Me.txtToBanDo.TabIndex = 5
+        Me.txtToBanDo.TabIndex = 6
         '
         'Label1
         '
@@ -239,7 +239,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label1.Location = New System.Drawing.Point(6, 12)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(57, 13)
-        Me.Label1.TabIndex = 26
+        Me.Label1.TabIndex = 5
         Me.Label1.Text = "Tờ bản đồ"
         '
         'txtSoThua
@@ -247,7 +247,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.txtSoThua.Location = New System.Drawing.Point(230, 9)
         Me.txtSoThua.Name = "txtSoThua"
         Me.txtSoThua.Size = New System.Drawing.Size(85, 20)
-        Me.txtSoThua.TabIndex = 6
+        Me.txtSoThua.TabIndex = 8
         '
         'Label4
         '
@@ -256,7 +256,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label4.Location = New System.Drawing.Point(180, 12)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(44, 13)
-        Me.Label4.TabIndex = 27
+        Me.Label4.TabIndex = 7
         Me.Label4.Text = "Số thửa"
         '
         'TabPage3
@@ -272,7 +272,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.TabPage3.Controls.Add(Me.txtSoThuTuTiepNhan)
         Me.TabPage3.Location = New System.Drawing.Point(4, 22)
         Me.TabPage3.Name = "TabPage3"
-        Me.TabPage3.Size = New System.Drawing.Size(920, 94)
+        Me.TabPage3.Size = New System.Drawing.Size(778, 94)
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Tag = "3"
         Me.TabPage3.Text = "Thông tin hồ sơ"
@@ -283,7 +283,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.cmdTimHoSo.Location = New System.Drawing.Point(69, 63)
         Me.cmdTimHoSo.Name = "cmdTimHoSo"
         Me.cmdTimHoSo.Size = New System.Drawing.Size(57, 23)
-        Me.cmdTimHoSo.TabIndex = 14
+        Me.cmdTimHoSo.TabIndex = 18
         Me.cmdTimHoSo.Text = "Tìm"
         Me.cmdTimHoSo.UseVisualStyleBackColor = True
         '
@@ -292,7 +292,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.cmdTimMoiHoSo.Location = New System.Drawing.Point(6, 63)
         Me.cmdTimMoiHoSo.Name = "cmdTimMoiHoSo"
         Me.cmdTimMoiHoSo.Size = New System.Drawing.Size(57, 23)
-        Me.cmdTimMoiHoSo.TabIndex = 13
+        Me.cmdTimMoiHoSo.TabIndex = 17
         Me.cmdTimMoiHoSo.Text = "Tìm mới"
         Me.cmdTimMoiHoSo.UseVisualStyleBackColor = True
         '
@@ -301,7 +301,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.txtHoSoTiepNhanSo.Location = New System.Drawing.Point(108, 35)
         Me.txtHoSoTiepNhanSo.Name = "txtHoSoTiepNhanSo"
         Me.txtHoSoTiepNhanSo.Size = New System.Drawing.Size(123, 20)
-        Me.txtHoSoTiepNhanSo.TabIndex = 11
+        Me.txtHoSoTiepNhanSo.TabIndex = 14
         '
         'Label11
         '
@@ -310,7 +310,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label11.Location = New System.Drawing.Point(256, 38)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(97, 13)
-        Me.Label11.TabIndex = 34
+        Me.Label11.TabIndex = 15
         Me.Label11.Text = "Số thứ tự tiếp nhận"
         '
         'Label5
@@ -320,7 +320,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label5.Location = New System.Drawing.Point(6, 38)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(96, 13)
-        Me.Label5.TabIndex = 32
+        Me.Label5.TabIndex = 13
         Me.Label5.Text = "Hồ sơ tiếp nhận số"
         '
         'Label2
@@ -330,7 +330,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label2.Location = New System.Drawing.Point(6, 12)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(84, 13)
-        Me.Label2.TabIndex = 37
+        Me.Label2.TabIndex = 11
         Me.Label2.Text = "Trạng thái hồ sơ"
         '
         'cmbTrangThaiHoSo
@@ -340,14 +340,14 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.cmbTrangThaiHoSo.Location = New System.Drawing.Point(108, 9)
         Me.cmbTrangThaiHoSo.Name = "cmbTrangThaiHoSo"
         Me.cmbTrangThaiHoSo.Size = New System.Drawing.Size(123, 21)
-        Me.cmbTrangThaiHoSo.TabIndex = 10
+        Me.cmbTrangThaiHoSo.TabIndex = 12
         '
         'txtSoThuTuTiepNhan
         '
         Me.txtSoThuTuTiepNhan.Location = New System.Drawing.Point(359, 35)
         Me.txtSoThuTuTiepNhan.Name = "txtSoThuTuTiepNhan"
         Me.txtSoThuTuTiepNhan.Size = New System.Drawing.Size(96, 20)
-        Me.txtSoThuTuTiepNhan.TabIndex = 12
+        Me.txtSoThuTuTiepNhan.TabIndex = 16
         '
         'TabPage1
         '
@@ -369,7 +369,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.TabPage1.Location = New System.Drawing.Point(4, 22)
         Me.TabPage1.Name = "TabPage1"
         Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage1.Size = New System.Drawing.Size(920, 94)
+        Me.TabPage1.Size = New System.Drawing.Size(778, 94)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Tag = "4"
         Me.TabPage1.Text = "Thông tin cấp GCN"
@@ -380,7 +380,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.cmdTimGCN.Location = New System.Drawing.Point(69, 63)
         Me.cmdTimGCN.Name = "cmdTimGCN"
         Me.cmdTimGCN.Size = New System.Drawing.Size(57, 23)
-        Me.cmdTimGCN.TabIndex = 22
+        Me.cmdTimGCN.TabIndex = 29
         Me.cmdTimGCN.Text = "Tìm"
         Me.cmdTimGCN.UseVisualStyleBackColor = True
         '
@@ -389,7 +389,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.cmdTimMoiGCN.Location = New System.Drawing.Point(6, 63)
         Me.cmdTimMoiGCN.Name = "cmdTimMoiGCN"
         Me.cmdTimMoiGCN.Size = New System.Drawing.Size(57, 23)
-        Me.cmdTimMoiGCN.TabIndex = 21
+        Me.cmdTimMoiGCN.TabIndex = 28
         Me.cmdTimMoiGCN.Text = "Tìm mới"
         Me.cmdTimMoiGCN.UseVisualStyleBackColor = True
         '
@@ -400,7 +400,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label14.Location = New System.Drawing.Point(423, 38)
         Me.Label14.Name = "Label14"
         Me.Label14.Size = New System.Drawing.Size(76, 13)
-        Me.Label14.TabIndex = 51
+        Me.Label14.TabIndex = 27
         Me.Label14.Text = "Năm cấp GCN"
         '
         'txtToTrinh
@@ -408,14 +408,14 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.txtToTrinh.Location = New System.Drawing.Point(109, 35)
         Me.txtToTrinh.Name = "txtToTrinh"
         Me.txtToTrinh.Size = New System.Drawing.Size(107, 20)
-        Me.txtToTrinh.TabIndex = 18
+        Me.txtToTrinh.TabIndex = 24
         '
         'txtNamCapGCN
         '
         Me.txtNamCapGCN.Location = New System.Drawing.Point(523, 35)
         Me.txtNamCapGCN.Name = "txtNamCapGCN"
         Me.txtNamCapGCN.Size = New System.Drawing.Size(99, 20)
-        Me.txtNamCapGCN.TabIndex = 20
+        Me.txtNamCapGCN.TabIndex = 27
         '
         'Label12
         '
@@ -424,7 +424,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label12.Location = New System.Drawing.Point(6, 38)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(43, 13)
-        Me.Label12.TabIndex = 48
+        Me.Label12.TabIndex = 23
         Me.Label12.Text = "Tờ trình"
         '
         'txtNamTrinh
@@ -432,7 +432,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.txtNamTrinh.Location = New System.Drawing.Point(313, 35)
         Me.txtNamTrinh.Name = "txtNamTrinh"
         Me.txtNamTrinh.Size = New System.Drawing.Size(105, 20)
-        Me.txtNamTrinh.TabIndex = 19
+        Me.txtNamTrinh.TabIndex = 26
         '
         'Label13
         '
@@ -441,7 +441,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label13.Location = New System.Drawing.Point(229, 38)
         Me.Label13.Name = "Label13"
         Me.Label13.Size = New System.Drawing.Size(52, 13)
-        Me.Label13.TabIndex = 49
+        Me.Label13.TabIndex = 25
         Me.Label13.Text = "Năm trình"
         '
         'txtSoPhatHanhGCN
@@ -449,14 +449,14 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.txtSoPhatHanhGCN.Location = New System.Drawing.Point(109, 9)
         Me.txtSoPhatHanhGCN.Name = "txtSoPhatHanhGCN"
         Me.txtSoPhatHanhGCN.Size = New System.Drawing.Size(107, 20)
-        Me.txtSoPhatHanhGCN.TabIndex = 15
+        Me.txtSoPhatHanhGCN.TabIndex = 18
         '
         'txtSoQuyetDinhCapGCN
         '
         Me.txtSoQuyetDinhCapGCN.Location = New System.Drawing.Point(523, 9)
         Me.txtSoQuyetDinhCapGCN.Name = "txtSoQuyetDinhCapGCN"
         Me.txtSoQuyetDinhCapGCN.Size = New System.Drawing.Size(99, 20)
-        Me.txtSoQuyetDinhCapGCN.TabIndex = 17
+        Me.txtSoQuyetDinhCapGCN.TabIndex = 22
         '
         'Label10
         '
@@ -465,7 +465,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label10.Location = New System.Drawing.Point(6, 12)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(97, 13)
-        Me.Label10.TabIndex = 42
+        Me.Label10.TabIndex = 17
         Me.Label10.Text = "Số phát hành GCN"
         '
         'txtSoVaoSoGCN
@@ -473,7 +473,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.txtSoVaoSoGCN.Location = New System.Drawing.Point(313, 9)
         Me.txtSoVaoSoGCN.Name = "txtSoVaoSoGCN"
         Me.txtSoVaoSoGCN.Size = New System.Drawing.Size(105, 20)
-        Me.txtSoVaoSoGCN.TabIndex = 16
+        Me.txtSoVaoSoGCN.TabIndex = 20
         '
         'Label9
         '
@@ -482,7 +482,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label9.Location = New System.Drawing.Point(229, 12)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(81, 13)
-        Me.Label9.TabIndex = 43
+        Me.Label9.TabIndex = 19
         Me.Label9.Text = "Số vào sổ GCN"
         '
         'Label3
@@ -492,7 +492,7 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.Label3.Location = New System.Drawing.Point(424, 12)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(94, 13)
-        Me.Label3.TabIndex = 45
+        Me.Label3.TabIndex = 21
         Me.Label3.Text = "Số quyết định cấp"
         '
         'GroupBox1
@@ -506,91 +506,6 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.GroupBox1.TabIndex = 35
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Danh sách thửa tìm được"
-        '
-        'chkChonBanDo
-        '
-        Me.chkChonBanDo.AutoSize = True
-        Me.chkChonBanDo.Checked = True
-        Me.chkChonBanDo.CheckState = System.Windows.Forms.CheckState.Checked
-        Me.chkChonBanDo.Location = New System.Drawing.Point(7, 130)
-        Me.chkChonBanDo.Name = "chkChonBanDo"
-        Me.chkChonBanDo.Size = New System.Drawing.Size(150, 17)
-        Me.chkChonBanDo.TabIndex = 0
-        Me.chkChonBanDo.Text = "Đã có bản đồ hành chính"
-        Me.chkChonBanDo.UseVisualStyleBackColor = True
-        '
-        'cmdChonHoSo
-        '
-        Me.cmdChonHoSo.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.cmdChonHoSo.Location = New System.Drawing.Point(700, 358)
-        Me.cmdChonHoSo.Name = "cmdChonHoSo"
-        Me.cmdChonHoSo.Size = New System.Drawing.Size(79, 22)
-        Me.cmdChonHoSo.TabIndex = 36
-        Me.cmdChonHoSo.Text = "Chọn hồ sơ"
-        Me.cmdChonHoSo.UseVisualStyleBackColor = True
-        '
-        'GroupBox3
-        '
-        Me.GroupBox3.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox3.Controls.Add(Me.grdvwTacNghiep)
-        Me.GroupBox3.Location = New System.Drawing.Point(2, 387)
-        Me.GroupBox3.Name = "GroupBox3"
-        Me.GroupBox3.Size = New System.Drawing.Size(778, 183)
-        Me.GroupBox3.TabIndex = 37
-        Me.GroupBox3.TabStop = False
-        Me.GroupBox3.Text = "Thửa chọn để giao việc"
-        '
-        'cmdAdd
-        '
-        Me.cmdAdd.Image = Global.prjQuanLyGiaoViec.My.Resources.Resources.bullet_arrow_bottom
-        Me.cmdAdd.Location = New System.Drawing.Point(4, 358)
-        Me.cmdAdd.Name = "cmdAdd"
-        Me.cmdAdd.Size = New System.Drawing.Size(38, 23)
-        Me.cmdAdd.TabIndex = 38
-        Me.cmdAdd.UseVisualStyleBackColor = True
-        '
-        'cmdRemove
-        '
-        Me.cmdRemove.Image = Global.prjQuanLyGiaoViec.My.Resources.Resources.bullet_arrow_top
-        Me.cmdRemove.Location = New System.Drawing.Point(45, 358)
-        Me.cmdRemove.Name = "cmdRemove"
-        Me.cmdRemove.Size = New System.Drawing.Size(41, 23)
-        Me.cmdRemove.TabIndex = 39
-        Me.cmdRemove.UseVisualStyleBackColor = True
-        '
-        'grdvwTacNghiep
-        '
-        Me.grdvwTacNghiep.AllowUserToAddRows = False
-        Me.grdvwTacNghiep.AllowUserToDeleteRows = False
-        Me.grdvwTacNghiep.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.grdvwTacNghiep.BackgroundColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.grdvwTacNghiep.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
-        Me.grdvwTacNghiep.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.grdvwTacNghiep.DefaultCellStyle = DataGridViewCellStyle4
-        Me.grdvwTacNghiep.Location = New System.Drawing.Point(6, 19)
-        Me.grdvwTacNghiep.Name = "grdvwTacNghiep"
-        Me.grdvwTacNghiep.ReadOnly = True
-        Me.grdvwTacNghiep.RowHeadersVisible = False
-        Me.grdvwTacNghiep.RowHeadersWidth = 25
-        Me.grdvwTacNghiep.Size = New System.Drawing.Size(772, 158)
-        Me.grdvwTacNghiep.TabIndex = 24
         '
         'grdvwTimKiem
         '
@@ -623,7 +538,92 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.grdvwTimKiem.RowHeadersVisible = False
         Me.grdvwTimKiem.RowHeadersWidth = 25
         Me.grdvwTimKiem.Size = New System.Drawing.Size(774, 174)
-        Me.grdvwTimKiem.TabIndex = 23
+        Me.grdvwTimKiem.TabIndex = 31
+        '
+        'chkChonBanDo
+        '
+        Me.chkChonBanDo.AutoSize = True
+        Me.chkChonBanDo.Checked = True
+        Me.chkChonBanDo.CheckState = System.Windows.Forms.CheckState.Checked
+        Me.chkChonBanDo.Location = New System.Drawing.Point(7, 130)
+        Me.chkChonBanDo.Name = "chkChonBanDo"
+        Me.chkChonBanDo.Size = New System.Drawing.Size(150, 17)
+        Me.chkChonBanDo.TabIndex = 30
+        Me.chkChonBanDo.Text = "Đã có bản đồ hành chính"
+        Me.chkChonBanDo.UseVisualStyleBackColor = True
+        '
+        'cmdChonHoSo
+        '
+        Me.cmdChonHoSo.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.cmdChonHoSo.Location = New System.Drawing.Point(700, 358)
+        Me.cmdChonHoSo.Name = "cmdChonHoSo"
+        Me.cmdChonHoSo.Size = New System.Drawing.Size(79, 22)
+        Me.cmdChonHoSo.TabIndex = 34
+        Me.cmdChonHoSo.Text = "Chọn hồ sơ"
+        Me.cmdChonHoSo.UseVisualStyleBackColor = True
+        '
+        'GroupBox3
+        '
+        Me.GroupBox3.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox3.Controls.Add(Me.grdvwTacNghiep)
+        Me.GroupBox3.Location = New System.Drawing.Point(2, 387)
+        Me.GroupBox3.Name = "GroupBox3"
+        Me.GroupBox3.Size = New System.Drawing.Size(778, 183)
+        Me.GroupBox3.TabIndex = 37
+        Me.GroupBox3.TabStop = False
+        Me.GroupBox3.Text = "Thửa chọn để giao việc"
+        '
+        'grdvwTacNghiep
+        '
+        Me.grdvwTacNghiep.AllowUserToAddRows = False
+        Me.grdvwTacNghiep.AllowUserToDeleteRows = False
+        Me.grdvwTacNghiep.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+                    Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.grdvwTacNghiep.BackgroundColor = System.Drawing.Color.WhiteSmoke
+        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.grdvwTacNghiep.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
+        Me.grdvwTacNghiep.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.grdvwTacNghiep.DefaultCellStyle = DataGridViewCellStyle4
+        Me.grdvwTacNghiep.Location = New System.Drawing.Point(6, 19)
+        Me.grdvwTacNghiep.Name = "grdvwTacNghiep"
+        Me.grdvwTacNghiep.ReadOnly = True
+        Me.grdvwTacNghiep.RowHeadersVisible = False
+        Me.grdvwTacNghiep.RowHeadersWidth = 25
+        Me.grdvwTacNghiep.Size = New System.Drawing.Size(772, 158)
+        Me.grdvwTacNghiep.TabIndex = 35
+        '
+        'cmdAdd
+        '
+        Me.cmdAdd.Image = Global.prjQuanLyGiaoViec.My.Resources.Resources.bullet_arrow_bottom
+        Me.cmdAdd.Location = New System.Drawing.Point(4, 358)
+        Me.cmdAdd.Name = "cmdAdd"
+        Me.cmdAdd.Size = New System.Drawing.Size(38, 23)
+        Me.cmdAdd.TabIndex = 32
+        Me.cmdAdd.UseVisualStyleBackColor = True
+        '
+        'cmdRemove
+        '
+        Me.cmdRemove.Image = Global.prjQuanLyGiaoViec.My.Resources.Resources.bullet_arrow_top
+        Me.cmdRemove.Location = New System.Drawing.Point(45, 358)
+        Me.cmdRemove.Name = "cmdRemove"
+        Me.cmdRemove.Size = New System.Drawing.Size(41, 23)
+        Me.cmdRemove.TabIndex = 33
+        Me.cmdRemove.UseVisualStyleBackColor = True
         '
         'crtTimKiemHoSoThuaDat
         '
@@ -649,9 +649,9 @@ Partial Class crtTimKiemHoSoThuaDat
         Me.TabPage1.ResumeLayout(False)
         Me.TabPage1.PerformLayout()
         Me.GroupBox1.ResumeLayout(False)
+        CType(Me.grdvwTimKiem, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox3.ResumeLayout(False)
         CType(Me.grdvwTacNghiep, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.grdvwTimKiem, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

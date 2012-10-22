@@ -180,16 +180,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjTongHopThongTinDatInBienBanXetDuyet\obj\Deb
 E:\DMCLand\new\20102812_DMCLand_4\prjTongHopThongTinDatInBienBanXetDuyet\obj\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjTongHopThongTinDatInBienBanXetDuyet\obj\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjTongHopThongTinDatInBienBanXetDuyet\obj\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.pdb
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\bin\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.dll
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\bin\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.pdb
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\bin\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.xml
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\bin\Debug\DMC.Database.dll
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\bin\Debug\DMC.Database.pdb
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\bin\Debug\DMC.Database.xml
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\obj\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.Resources.resources
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\obj\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.ctrTongHopDatInBienBanXetDuyet.resources
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\obj\Debug\prjTongHopThongTinDatInBienBanXetDuyet.vbproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\obj\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.dll
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\obj\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.xml
-E:\dmc_land_project\Source\DMCLand\prjTongHopThongTinDatInBienBanXetDuyet\obj\Debug\DMC.Land.TongHopThongTinDatInBienBanXetDuyet.pdb

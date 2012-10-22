@@ -127,7 +127,7 @@ Partial Class ctrTongHopDatInBienBanXetDuyet
         Me.btnThem.Location = New System.Drawing.Point(257, 14)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(64, 24)
-        Me.btnThem.TabIndex = 17
+        Me.btnThem.TabIndex = 7
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '
@@ -138,7 +138,7 @@ Partial Class ctrTongHopDatInBienBanXetDuyet
         Me.btnXoa.Location = New System.Drawing.Point(389, 14)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(64, 24)
-        Me.btnXoa.TabIndex = 19
+        Me.btnXoa.TabIndex = 9
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -148,7 +148,7 @@ Partial Class ctrTongHopDatInBienBanXetDuyet
         Me.btnHuyLenh.Location = New System.Drawing.Point(522, 14)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(64, 24)
-        Me.btnHuyLenh.TabIndex = 21
+        Me.btnHuyLenh.TabIndex = 11
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -158,7 +158,7 @@ Partial Class ctrTongHopDatInBienBanXetDuyet
         Me.btnSua.Location = New System.Drawing.Point(323, 14)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(64, 24)
-        Me.btnSua.TabIndex = 18
+        Me.btnSua.TabIndex = 8
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -168,7 +168,7 @@ Partial Class ctrTongHopDatInBienBanXetDuyet
         Me.btnCapNhat.Location = New System.Drawing.Point(455, 14)
         Me.btnCapNhat.Name = "btnCapNhat"
         Me.btnCapNhat.Size = New System.Drawing.Size(64, 24)
-        Me.btnCapNhat.TabIndex = 20
+        Me.btnCapNhat.TabIndex = 10
         Me.btnCapNhat.Text = "Ghi"
         Me.btnCapNhat.UseVisualStyleBackColor = True
         '

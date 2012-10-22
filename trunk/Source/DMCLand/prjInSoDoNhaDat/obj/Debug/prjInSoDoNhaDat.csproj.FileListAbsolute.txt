@@ -237,11 +237,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjInSoDoNhaDat\obj\Debug\DMC.Land.InSoDoNhaDa
 E:\DMCLand\new\20102812_DMCLand_4\prjInSoDoNhaDat\obj\Debug\prjInSoDoNhaDat.csproj.GenerateResource.Cache
 E:\DMCLand\new\20102812_DMCLand_4\prjInSoDoNhaDat\obj\Debug\DMC.Land.InSoDoNhaDat.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjInSoDoNhaDat\obj\Debug\DMC.Land.InSoDoNhaDat.pdb
-E:\dmc_land_project\Source\DMCLand\prjInSoDoNhaDat\bin\Debug\DMC.Land.InSoDoNhaDat.dll
-E:\dmc_land_project\Source\DMCLand\prjInSoDoNhaDat\bin\Debug\DMC.Land.InSoDoNhaDat.pdb
-E:\dmc_land_project\Source\DMCLand\prjInSoDoNhaDat\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjInSoDoNhaDat\obj\Debug\DMC.Land.InSoDoNhaDat.ctrlSoDoNhaDat.resources
-E:\dmc_land_project\Source\DMCLand\prjInSoDoNhaDat\obj\Debug\DMC.Land.InSoDoNhaDat.frmInSoDoNhaDat.resources
-E:\dmc_land_project\Source\DMCLand\prjInSoDoNhaDat\obj\Debug\prjInSoDoNhaDat.csproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjInSoDoNhaDat\obj\Debug\DMC.Land.InSoDoNhaDat.dll
-E:\dmc_land_project\Source\DMCLand\prjInSoDoNhaDat\obj\Debug\DMC.Land.InSoDoNhaDat.pdb

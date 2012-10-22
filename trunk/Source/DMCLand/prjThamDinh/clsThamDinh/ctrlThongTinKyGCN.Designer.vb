@@ -23,6 +23,7 @@ Partial Class ctrlThongTinKyGCN
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
+        Me.cmDiaDanh = New System.Windows.Forms.Button
         Me.btnTieuDeKyGCN = New System.Windows.Forms.Button
         Me.btnTuDienNguoiKyGCN = New System.Windows.Forms.Button
         Me.txtTieuDeKyGCN = New System.Windows.Forms.RichTextBox
@@ -38,7 +39,6 @@ Partial Class ctrlThongTinKyGCN
         Me.btnSua = New System.Windows.Forms.Button
         Me.btnGhi = New System.Windows.Forms.Button
         Me.GroupBox2 = New System.Windows.Forms.GroupBox
-        Me.cmDiaDanh = New System.Windows.Forms.Button
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
@@ -63,12 +63,22 @@ Partial Class ctrlThongTinKyGCN
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Thông tin ký cấp GCN"
         '
+        'cmDiaDanh
+        '
+        Me.cmDiaDanh.Location = New System.Drawing.Point(422, 12)
+        Me.cmDiaDanh.Name = "cmDiaDanh"
+        Me.cmDiaDanh.Size = New System.Drawing.Size(24, 21)
+        Me.cmDiaDanh.TabIndex = 1
+        Me.cmDiaDanh.Text = "..."
+        Me.cmDiaDanh.TextAlign = System.Drawing.ContentAlignment.TopLeft
+        Me.cmDiaDanh.UseVisualStyleBackColor = True
+        '
         'btnTieuDeKyGCN
         '
         Me.btnTieuDeKyGCN.Location = New System.Drawing.Point(127, 65)
         Me.btnTieuDeKyGCN.Name = "btnTieuDeKyGCN"
         Me.btnTieuDeKyGCN.Size = New System.Drawing.Size(24, 21)
-        Me.btnTieuDeKyGCN.TabIndex = 2
+        Me.btnTieuDeKyGCN.TabIndex = 3
         Me.btnTieuDeKyGCN.Text = "..."
         Me.btnTieuDeKyGCN.TextAlign = System.Drawing.ContentAlignment.TopLeft
         Me.btnTieuDeKyGCN.UseVisualStyleBackColor = True
@@ -78,7 +88,7 @@ Partial Class ctrlThongTinKyGCN
         Me.btnTuDienNguoiKyGCN.Location = New System.Drawing.Point(126, 92)
         Me.btnTuDienNguoiKyGCN.Name = "btnTuDienNguoiKyGCN"
         Me.btnTuDienNguoiKyGCN.Size = New System.Drawing.Size(24, 21)
-        Me.btnTuDienNguoiKyGCN.TabIndex = 4
+        Me.btnTuDienNguoiKyGCN.TabIndex = 5
         Me.btnTuDienNguoiKyGCN.Text = "..."
         Me.btnTuDienNguoiKyGCN.TextAlign = System.Drawing.ContentAlignment.TopLeft
         Me.btnTuDienNguoiKyGCN.UseVisualStyleBackColor = True
@@ -91,7 +101,7 @@ Partial Class ctrlThongTinKyGCN
         Me.txtTieuDeKyGCN.Location = New System.Drawing.Point(156, 42)
         Me.txtTieuDeKyGCN.Name = "txtTieuDeKyGCN"
         Me.txtTieuDeKyGCN.Size = New System.Drawing.Size(561, 43)
-        Me.txtTieuDeKyGCN.TabIndex = 3
+        Me.txtTieuDeKyGCN.TabIndex = 4
         Me.txtTieuDeKyGCN.Text = ""
         '
         'txtDiaDanhNoiCap
@@ -134,7 +144,7 @@ Partial Class ctrlThongTinKyGCN
         Me.dtpNgayKyGCN.Location = New System.Drawing.Point(556, 14)
         Me.dtpNgayKyGCN.Name = "dtpNgayKyGCN"
         Me.dtpNgayKyGCN.Size = New System.Drawing.Size(162, 20)
-        Me.dtpNgayKyGCN.TabIndex = 1
+        Me.dtpNgayKyGCN.TabIndex = 2
         '
         'Label1
         '
@@ -152,14 +162,14 @@ Partial Class ctrlThongTinKyGCN
         Me.txtNguoiKyGCN.Location = New System.Drawing.Point(156, 93)
         Me.txtNguoiKyGCN.Name = "txtNguoiKyGCN"
         Me.txtNguoiKyGCN.Size = New System.Drawing.Size(564, 20)
-        Me.txtNguoiKyGCN.TabIndex = 5
+        Me.txtNguoiKyGCN.TabIndex = 6
         '
         'btnHuyLenh
         '
         Me.btnHuyLenh.Location = New System.Drawing.Point(195, 11)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 9
+        Me.btnHuyLenh.TabIndex = 10
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -168,7 +178,7 @@ Partial Class ctrlThongTinKyGCN
         Me.btnXoa.Location = New System.Drawing.Point(70, 11)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 7
+        Me.btnXoa.TabIndex = 8
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -177,7 +187,7 @@ Partial Class ctrlThongTinKyGCN
         Me.btnSua.Location = New System.Drawing.Point(6, 11)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 6
+        Me.btnSua.TabIndex = 7
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -186,7 +196,7 @@ Partial Class ctrlThongTinKyGCN
         Me.btnGhi.Location = New System.Drawing.Point(131, 11)
         Me.btnGhi.Name = "btnGhi"
         Me.btnGhi.Size = New System.Drawing.Size(58, 21)
-        Me.btnGhi.TabIndex = 8
+        Me.btnGhi.TabIndex = 9
         Me.btnGhi.Text = "Ghi"
         Me.btnGhi.UseVisualStyleBackColor = True
         '
@@ -203,16 +213,6 @@ Partial Class ctrlThongTinKyGCN
         Me.GroupBox2.Size = New System.Drawing.Size(723, 38)
         Me.GroupBox2.TabIndex = 92
         Me.GroupBox2.TabStop = False
-        '
-        'cmDiaDanh
-        '
-        Me.cmDiaDanh.Location = New System.Drawing.Point(422, 12)
-        Me.cmDiaDanh.Name = "cmDiaDanh"
-        Me.cmDiaDanh.Size = New System.Drawing.Size(24, 21)
-        Me.cmDiaDanh.TabIndex = 81
-        Me.cmDiaDanh.Text = "..."
-        Me.cmDiaDanh.TextAlign = System.Drawing.ContentAlignment.TopLeft
-        Me.cmDiaDanh.UseVisualStyleBackColor = True
         '
         'ctrlThongTinKyGCN
         '

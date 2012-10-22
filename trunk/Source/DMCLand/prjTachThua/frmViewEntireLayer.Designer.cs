@@ -67,7 +67,7 @@
             this.cmbLayersName.Location = new System.Drawing.Point(6, 41);
             this.cmbLayersName.Name = "cmbLayersName";
             this.cmbLayersName.Size = new System.Drawing.Size(182, 26);
-            this.cmbLayersName.TabIndex = 6;
+            this.cmbLayersName.TabIndex = 0;
             // 
             // btnCancel
             // 
@@ -76,7 +76,7 @@
             this.btnCancel.Location = new System.Drawing.Point(114, 78);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(81, 24);
-            this.btnCancel.TabIndex = 7;
+            this.btnCancel.TabIndex = 2;
             this.btnCancel.Text = "Thoát";
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
@@ -87,7 +87,7 @@
             this.btnApply.Location = new System.Drawing.Point(12, 78);
             this.btnApply.Name = "btnApply";
             this.btnApply.Size = new System.Drawing.Size(81, 24);
-            this.btnApply.TabIndex = 6;
+            this.btnApply.TabIndex = 1;
             this.btnApply.Text = "Xác nhận";
             this.btnApply.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnApply.UseVisualStyleBackColor = true;
@@ -101,6 +101,7 @@
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnApply);
             this.Controls.Add(this.groupBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmViewEntireLayer";

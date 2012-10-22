@@ -232,7 +232,7 @@ Partial Class ctrlNghiepVuHoSo
         Me.outlookChucNang.OutlookBarLineColor = System.Drawing.Color.Empty
         Me.outlookChucNang.Renderer = DMC.[Interface].OutlookBar.Renderer.Outlook2007
         Me.outlookChucNang.Size = New System.Drawing.Size(227, 296)
-        Me.outlookChucNang.TabIndex = 10
+        Me.outlookChucNang.TabIndex = 2
         Me.outlookChucNang.Text = "Chuc Nang"
         '
         'lblHinhAnhThua
@@ -281,7 +281,7 @@ Partial Class ctrlNghiepVuHoSo
         Me.CtrlDangKyBienDong.Name = "CtrlDangKyBienDong"
         Me.CtrlDangKyBienDong.Nhom = ""
         Me.CtrlDangKyBienDong.Size = New System.Drawing.Size(819, 741)
-        Me.CtrlDangKyBienDong.TabIndex = 89
+        Me.CtrlDangKyBienDong.TabIndex = 8
         Me.CtrlDangKyBienDong.TenDonViHanhChinh = ""
         Me.CtrlDangKyBienDong.TenPhuong = ""
         '
@@ -296,7 +296,7 @@ Partial Class ctrlNghiepVuHoSo
         Me.CtrlHoSoKeKhai.MaHoSoCapGCN = ""
         Me.CtrlHoSoKeKhai.Name = "CtrlHoSoKeKhai"
         Me.CtrlHoSoKeKhai.Size = New System.Drawing.Size(746, 623)
-        Me.CtrlHoSoKeKhai.TabIndex = 88
+        Me.CtrlHoSoKeKhai.TabIndex = 3
         '
         'CtrlThongTinTiepNhanHoSo
         '
@@ -307,7 +307,7 @@ Partial Class ctrlNghiepVuHoSo
         Me.CtrlThongTinTiepNhanHoSo.MaKhoa = ""
         Me.CtrlThongTinTiepNhanHoSo.Name = "CtrlThongTinTiepNhanHoSo"
         Me.CtrlThongTinTiepNhanHoSo.Size = New System.Drawing.Size(737, 298)
-        Me.CtrlThongTinTiepNhanHoSo.TabIndex = 87
+        Me.CtrlThongTinTiepNhanHoSo.TabIndex = 2
         '
         'CtrlThongTinCapGCN
         '
@@ -315,7 +315,7 @@ Partial Class ctrlNghiepVuHoSo
         Me.CtrlThongTinCapGCN.Location = New System.Drawing.Point(2, 295)
         Me.CtrlThongTinCapGCN.Name = "CtrlThongTinCapGCN"
         Me.CtrlThongTinCapGCN.Size = New System.Drawing.Size(742, 387)
-        Me.CtrlThongTinCapGCN.TabIndex = 84
+        Me.CtrlThongTinCapGCN.TabIndex = 7
         Me.CtrlThongTinCapGCN.UserName = ""
         '
         'CtrlPheDuyet
@@ -329,7 +329,7 @@ Partial Class ctrlNghiepVuHoSo
         Me.CtrlPheDuyet.MaKhoa = ""
         Me.CtrlPheDuyet.Name = "CtrlPheDuyet"
         Me.CtrlPheDuyet.Size = New System.Drawing.Size(739, 181)
-        Me.CtrlPheDuyet.TabIndex = 83
+        Me.CtrlPheDuyet.TabIndex = 6
         '
         'CtrlThamDinh
         '
@@ -341,7 +341,7 @@ Partial Class ctrlNghiepVuHoSo
         Me.CtrlThamDinh.MaKhoa = ""
         Me.CtrlThamDinh.Name = "CtrlThamDinh"
         Me.CtrlThamDinh.Size = New System.Drawing.Size(746, 496)
-        Me.CtrlThamDinh.TabIndex = 82
+        Me.CtrlThamDinh.TabIndex = 5
         Me.CtrlThamDinh.UserName = ""
         '
         'CtrlXetDuyetCapCoSo
@@ -356,7 +356,7 @@ Partial Class ctrlNghiepVuHoSo
         Me.CtrlXetDuyetCapCoSo.MaHoSoCapGCN = ""
         Me.CtrlXetDuyetCapCoSo.Name = "CtrlXetDuyetCapCoSo"
         Me.CtrlXetDuyetCapCoSo.Size = New System.Drawing.Size(743, 466)
-        Me.CtrlXetDuyetCapCoSo.TabIndex = 81
+        Me.CtrlXetDuyetCapCoSo.TabIndex = 4
         '
         'ctrlNghiepVuHoSo
         '

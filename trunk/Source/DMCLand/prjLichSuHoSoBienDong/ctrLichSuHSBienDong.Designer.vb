@@ -53,7 +53,7 @@ Partial Class ctrLichSuHSBienDong
         Me.RTNoiDungBienDong.Name = "RTNoiDungBienDong"
         Me.RTNoiDungBienDong.ReadOnly = True
         Me.RTNoiDungBienDong.Size = New System.Drawing.Size(805, 239)
-        Me.RTNoiDungBienDong.TabIndex = 0
+        Me.RTNoiDungBienDong.TabIndex = 1
         Me.RTNoiDungBienDong.Text = ""
         '
         'GroupBox3
@@ -73,7 +73,7 @@ Partial Class ctrLichSuHSBienDong
         Me.cmdThoat.Location = New System.Drawing.Point(744, 12)
         Me.cmdThoat.Name = "cmdThoat"
         Me.cmdThoat.Size = New System.Drawing.Size(55, 23)
-        Me.cmdThoat.TabIndex = 0
+        Me.cmdThoat.TabIndex = 2
         Me.cmdThoat.Text = "Thoát"
         Me.cmdThoat.UseVisualStyleBackColor = True
         '

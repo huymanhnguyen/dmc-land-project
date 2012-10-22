@@ -37,20 +37,12 @@ Partial Class ctrlThongTinXetDuyet
         Me.Label1 = New System.Windows.Forms.Label
         Me.btnThem = New System.Windows.Forms.Button
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.txtYKienCanBoXetDuyet = New System.Windows.Forms.TextBox
-        Me.Label5 = New System.Windows.Forms.Label
         Me.Label4 = New System.Windows.Forms.Label
-        Me.txtLyDoKhongCap = New System.Windows.Forms.TextBox
-        Me.GroupBox5 = New System.Windows.Forms.GroupBox
-        Me.GroupBox6 = New System.Windows.Forms.GroupBox
-        Me.Label10 = New System.Windows.Forms.Label
-        Me.txtNoiDungTranhChapKhieuKien = New System.Windows.Forms.TextBox
-        Me.chkCanhBaoTranhChap = New System.Windows.Forms.CheckBox
-        Me.GroupBox2 = New System.Windows.Forms.GroupBox
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.txtPhamViBaoVeHaTang = New System.Windows.Forms.TextBox
+        Me.Label5 = New System.Windows.Forms.Label
+        Me.txtYKienCanBoXetDuyet = New System.Windows.Forms.TextBox
         Me.Label15 = New System.Windows.Forms.Label
         Me.Label16 = New System.Windows.Forms.Label
+        Me.txtLyDoKhongCap = New System.Windows.Forms.TextBox
         Me.numDienTichRieng = New System.Windows.Forms.NumericUpDown
         Me.numDienTichChung = New System.Windows.Forms.NumericUpDown
         Me.Label17 = New System.Windows.Forms.Label
@@ -64,15 +56,23 @@ Partial Class ctrlThongTinXetDuyet
         Me.Label9 = New System.Windows.Forms.Label
         Me.Label8 = New System.Windows.Forms.Label
         Me.Label11 = New System.Windows.Forms.Label
+        Me.GroupBox5 = New System.Windows.Forms.GroupBox
+        Me.GroupBox6 = New System.Windows.Forms.GroupBox
+        Me.Label10 = New System.Windows.Forms.Label
+        Me.txtNoiDungTranhChapKhieuKien = New System.Windows.Forms.TextBox
+        Me.chkCanhBaoTranhChap = New System.Windows.Forms.CheckBox
+        Me.GroupBox2 = New System.Windows.Forms.GroupBox
+        Me.Label6 = New System.Windows.Forms.Label
+        Me.txtPhamViBaoVeHaTang = New System.Windows.Forms.TextBox
         Me.GroupBox1.SuspendLayout()
-        Me.GroupBox5.SuspendLayout()
-        Me.GroupBox6.SuspendLayout()
-        Me.GroupBox2.SuspendLayout()
         CType(Me.numDienTichRieng, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.numDienTichChung, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.NumDatKhongCap, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.NumCapDatVuon, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.NumCapDatO, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox5.SuspendLayout()
+        Me.GroupBox6.SuspendLayout()
+        Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
         '
         'btnBienBanXetDuyet
@@ -80,7 +80,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.btnBienBanXetDuyet.Location = New System.Drawing.Point(303, 325)
         Me.btnBienBanXetDuyet.Name = "btnBienBanXetDuyet"
         Me.btnBienBanXetDuyet.Size = New System.Drawing.Size(103, 21)
-        Me.btnBienBanXetDuyet.TabIndex = 12
+        Me.btnBienBanXetDuyet.TabIndex = 19
         Me.btnBienBanXetDuyet.Text = "Biên bản xét duyệt"
         Me.btnBienBanXetDuyet.UseVisualStyleBackColor = True
         '
@@ -106,7 +106,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.btnSua.Location = New System.Drawing.Point(72, 325)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 8
+        Me.btnSua.TabIndex = 15
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -115,7 +115,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.btnHuyLenh.Location = New System.Drawing.Point(246, 325)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 11
+        Me.btnHuyLenh.TabIndex = 18
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -124,7 +124,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.btnXoa.Location = New System.Drawing.Point(130, 325)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 9
+        Me.btnXoa.TabIndex = 16
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -133,7 +133,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.btnCapNhat.Location = New System.Drawing.Point(188, 325)
         Me.btnCapNhat.Name = "btnCapNhat"
         Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
-        Me.btnCapNhat.TabIndex = 10
+        Me.btnCapNhat.TabIndex = 17
         Me.btnCapNhat.Text = "Ghi"
         Me.btnCapNhat.UseVisualStyleBackColor = True
         '
@@ -193,7 +193,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.btnThem.Location = New System.Drawing.Point(14, 325)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(58, 21)
-        Me.btnThem.TabIndex = 7
+        Me.btnThem.TabIndex = 14
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '
@@ -231,15 +231,14 @@ Partial Class ctrlThongTinXetDuyet
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Kết quả xét duyệt"
         '
-        'txtYKienCanBoXetDuyet
+        'Label4
         '
-        Me.txtYKienCanBoXetDuyet.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.txtYKienCanBoXetDuyet.Location = New System.Drawing.Point(112, 144)
-        Me.txtYKienCanBoXetDuyet.Multiline = True
-        Me.txtYKienCanBoXetDuyet.Name = "txtYKienCanBoXetDuyet"
-        Me.txtYKienCanBoXetDuyet.Size = New System.Drawing.Size(572, 22)
-        Me.txtYKienCanBoXetDuyet.TabIndex = 6
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(9, 147)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(83, 13)
+        Me.Label4.TabIndex = 65
+        Me.Label4.Text = "Ý kiến xét duyệt"
         '
         'Label5
         '
@@ -250,121 +249,15 @@ Partial Class ctrlThongTinXetDuyet
         Me.Label5.TabIndex = 65
         Me.Label5.Text = "Lý do không cấp"
         '
-        'Label4
+        'txtYKienCanBoXetDuyet
         '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(9, 147)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(83, 13)
-        Me.Label4.TabIndex = 65
-        Me.Label4.Text = "Ý kiến xét duyệt"
-        '
-        'txtLyDoKhongCap
-        '
-        Me.txtLyDoKhongCap.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+        Me.txtYKienCanBoXetDuyet.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.txtLyDoKhongCap.Location = New System.Drawing.Point(112, 116)
-        Me.txtLyDoKhongCap.Multiline = True
-        Me.txtLyDoKhongCap.Name = "txtLyDoKhongCap"
-        Me.txtLyDoKhongCap.Size = New System.Drawing.Size(572, 22)
-        Me.txtLyDoKhongCap.TabIndex = 6
-        '
-        'GroupBox5
-        '
-        Me.GroupBox5.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox5.Controls.Add(Me.Label1)
-        Me.GroupBox5.Controls.Add(Me.Label2)
-        Me.GroupBox5.Controls.Add(Me.dtpNgayTrinh)
-        Me.GroupBox5.Controls.Add(Me.txtToTrinh)
-        Me.GroupBox5.Location = New System.Drawing.Point(4, 2)
-        Me.GroupBox5.Name = "GroupBox5"
-        Me.GroupBox5.Size = New System.Drawing.Size(688, 37)
-        Me.GroupBox5.TabIndex = 78
-        Me.GroupBox5.TabStop = False
-        Me.GroupBox5.Text = "Thông tin tờ trình cấp cơ sở (Phường)"
-        '
-        'GroupBox6
-        '
-        Me.GroupBox6.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox6.BackColor = System.Drawing.Color.Lavender
-        Me.GroupBox6.Controls.Add(Me.Label10)
-        Me.GroupBox6.Controls.Add(Me.txtNoiDungTranhChapKhieuKien)
-        Me.GroupBox6.Controls.Add(Me.chkCanhBaoTranhChap)
-        Me.GroupBox6.ForeColor = System.Drawing.Color.Red
-        Me.GroupBox6.Location = New System.Drawing.Point(0, 221)
-        Me.GroupBox6.Name = "GroupBox6"
-        Me.GroupBox6.Size = New System.Drawing.Size(688, 38)
-        Me.GroupBox6.TabIndex = 79
-        Me.GroupBox6.TabStop = False
-        Me.GroupBox6.Text = "Tình trạng tranh chấp khiếu kiện"
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label10.Location = New System.Drawing.Point(204, 16)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(53, 13)
-        Me.Label10.TabIndex = 80
-        Me.Label10.Text = "Nội dung:"
-        '
-        'txtNoiDungTranhChapKhieuKien
-        '
-        Me.txtNoiDungTranhChapKhieuKien.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.txtNoiDungTranhChapKhieuKien.Location = New System.Drawing.Point(258, 12)
-        Me.txtNoiDungTranhChapKhieuKien.Multiline = True
-        Me.txtNoiDungTranhChapKhieuKien.Name = "txtNoiDungTranhChapKhieuKien"
-        Me.txtNoiDungTranhChapKhieuKien.Size = New System.Drawing.Size(426, 22)
-        Me.txtNoiDungTranhChapKhieuKien.TabIndex = 5
-        '
-        'chkCanhBaoTranhChap
-        '
-        Me.chkCanhBaoTranhChap.AutoSize = True
-        Me.chkCanhBaoTranhChap.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.chkCanhBaoTranhChap.Location = New System.Drawing.Point(8, 16)
-        Me.chkCanhBaoTranhChap.Name = "chkCanhBaoTranhChap"
-        Me.chkCanhBaoTranhChap.Size = New System.Drawing.Size(184, 17)
-        Me.chkCanhBaoTranhChap.TabIndex = 4
-        Me.chkCanhBaoTranhChap.Text = "Cảnh báo tranh chấp, khiếu kiện."
-        Me.chkCanhBaoTranhChap.UseVisualStyleBackColor = True
-        '
-        'GroupBox2
-        '
-        Me.GroupBox2.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GroupBox2.BackColor = System.Drawing.Color.Lavender
-        Me.GroupBox2.Controls.Add(Me.Label6)
-        Me.GroupBox2.Controls.Add(Me.txtPhamViBaoVeHaTang)
-        Me.GroupBox2.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.GroupBox2.Location = New System.Drawing.Point(3, 265)
-        Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(688, 54)
-        Me.GroupBox2.TabIndex = 81
-        Me.GroupBox2.TabStop = False
-        Me.GroupBox2.Text = "Phạm vi bảo vệ công trình hạ tầng"
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label6.Location = New System.Drawing.Point(5, 22)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(50, 13)
-        Me.Label6.TabIndex = 80
-        Me.Label6.Text = "Nội dung"
-        '
-        'txtPhamViBaoVeHaTang
-        '
-        Me.txtPhamViBaoVeHaTang.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.txtPhamViBaoVeHaTang.Location = New System.Drawing.Point(108, 19)
-        Me.txtPhamViBaoVeHaTang.Multiline = True
-        Me.txtPhamViBaoVeHaTang.Name = "txtPhamViBaoVeHaTang"
-        Me.txtPhamViBaoVeHaTang.Size = New System.Drawing.Size(576, 22)
-        Me.txtPhamViBaoVeHaTang.TabIndex = 5
+        Me.txtYKienCanBoXetDuyet.Location = New System.Drawing.Point(112, 144)
+        Me.txtYKienCanBoXetDuyet.Multiline = True
+        Me.txtYKienCanBoXetDuyet.Name = "txtYKienCanBoXetDuyet"
+        Me.txtYKienCanBoXetDuyet.Size = New System.Drawing.Size(572, 22)
+        Me.txtYKienCanBoXetDuyet.TabIndex = 10
         '
         'Label15
         '
@@ -384,6 +277,16 @@ Partial Class ctrlThongTinXetDuyet
         Me.Label16.TabIndex = 89
         Me.Label16.Text = "(m2)"
         '
+        'txtLyDoKhongCap
+        '
+        Me.txtLyDoKhongCap.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtLyDoKhongCap.Location = New System.Drawing.Point(112, 116)
+        Me.txtLyDoKhongCap.Multiline = True
+        Me.txtLyDoKhongCap.Name = "txtLyDoKhongCap"
+        Me.txtLyDoKhongCap.Size = New System.Drawing.Size(572, 22)
+        Me.txtLyDoKhongCap.TabIndex = 9
+        '
         'numDienTichRieng
         '
         Me.numDienTichRieng.Cursor = System.Windows.Forms.Cursors.Default
@@ -393,7 +296,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.numDienTichRieng.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.numDienTichRieng.Name = "numDienTichRieng"
         Me.numDienTichRieng.Size = New System.Drawing.Size(120, 20)
-        Me.numDienTichRieng.TabIndex = 88
+        Me.numDienTichRieng.TabIndex = 8
         Me.numDienTichRieng.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'numDienTichChung
@@ -405,7 +308,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.numDienTichChung.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.numDienTichChung.Name = "numDienTichChung"
         Me.numDienTichChung.Size = New System.Drawing.Size(120, 20)
-        Me.numDienTichChung.TabIndex = 87
+        Me.numDienTichChung.TabIndex = 7
         Me.numDienTichChung.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label17
@@ -462,7 +365,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.NumDatKhongCap.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumDatKhongCap.Name = "NumDatKhongCap"
         Me.NumDatKhongCap.Size = New System.Drawing.Size(120, 20)
-        Me.NumDatKhongCap.TabIndex = 81
+        Me.NumDatKhongCap.TabIndex = 6
         Me.NumDatKhongCap.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumCapDatVuon
@@ -474,7 +377,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.NumCapDatVuon.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumCapDatVuon.Name = "NumCapDatVuon"
         Me.NumCapDatVuon.Size = New System.Drawing.Size(120, 20)
-        Me.NumCapDatVuon.TabIndex = 80
+        Me.NumCapDatVuon.TabIndex = 5
         Me.NumCapDatVuon.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumCapDatO
@@ -486,7 +389,7 @@ Partial Class ctrlThongTinXetDuyet
         Me.NumCapDatO.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumCapDatO.Name = "NumCapDatO"
         Me.NumCapDatO.Size = New System.Drawing.Size(120, 20)
-        Me.NumCapDatO.TabIndex = 79
+        Me.NumCapDatO.TabIndex = 4
         Me.NumCapDatO.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label9
@@ -516,6 +419,103 @@ Partial Class ctrlThongTinXetDuyet
         Me.Label11.TabIndex = 76
         Me.Label11.Text = "Diện tích cấp đất ở"
         '
+        'GroupBox5
+        '
+        Me.GroupBox5.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox5.Controls.Add(Me.Label1)
+        Me.GroupBox5.Controls.Add(Me.Label2)
+        Me.GroupBox5.Controls.Add(Me.dtpNgayTrinh)
+        Me.GroupBox5.Controls.Add(Me.txtToTrinh)
+        Me.GroupBox5.Location = New System.Drawing.Point(4, 2)
+        Me.GroupBox5.Name = "GroupBox5"
+        Me.GroupBox5.Size = New System.Drawing.Size(688, 37)
+        Me.GroupBox5.TabIndex = 78
+        Me.GroupBox5.TabStop = False
+        Me.GroupBox5.Text = "Thông tin tờ trình cấp cơ sở (Phường)"
+        '
+        'GroupBox6
+        '
+        Me.GroupBox6.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox6.BackColor = System.Drawing.Color.Lavender
+        Me.GroupBox6.Controls.Add(Me.Label10)
+        Me.GroupBox6.Controls.Add(Me.txtNoiDungTranhChapKhieuKien)
+        Me.GroupBox6.Controls.Add(Me.chkCanhBaoTranhChap)
+        Me.GroupBox6.ForeColor = System.Drawing.Color.Red
+        Me.GroupBox6.Location = New System.Drawing.Point(0, 221)
+        Me.GroupBox6.Name = "GroupBox6"
+        Me.GroupBox6.Size = New System.Drawing.Size(688, 38)
+        Me.GroupBox6.TabIndex = 79
+        Me.GroupBox6.TabStop = False
+        Me.GroupBox6.Text = "Tình trạng tranh chấp khiếu kiện"
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Label10.Location = New System.Drawing.Point(204, 16)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(53, 13)
+        Me.Label10.TabIndex = 80
+        Me.Label10.Text = "Nội dung:"
+        '
+        'txtNoiDungTranhChapKhieuKien
+        '
+        Me.txtNoiDungTranhChapKhieuKien.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtNoiDungTranhChapKhieuKien.Location = New System.Drawing.Point(258, 12)
+        Me.txtNoiDungTranhChapKhieuKien.Multiline = True
+        Me.txtNoiDungTranhChapKhieuKien.Name = "txtNoiDungTranhChapKhieuKien"
+        Me.txtNoiDungTranhChapKhieuKien.Size = New System.Drawing.Size(426, 22)
+        Me.txtNoiDungTranhChapKhieuKien.TabIndex = 12
+        '
+        'chkCanhBaoTranhChap
+        '
+        Me.chkCanhBaoTranhChap.AutoSize = True
+        Me.chkCanhBaoTranhChap.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.chkCanhBaoTranhChap.Location = New System.Drawing.Point(8, 16)
+        Me.chkCanhBaoTranhChap.Name = "chkCanhBaoTranhChap"
+        Me.chkCanhBaoTranhChap.Size = New System.Drawing.Size(184, 17)
+        Me.chkCanhBaoTranhChap.TabIndex = 11
+        Me.chkCanhBaoTranhChap.Text = "Cảnh báo tranh chấp, khiếu kiện."
+        Me.chkCanhBaoTranhChap.UseVisualStyleBackColor = True
+        '
+        'GroupBox2
+        '
+        Me.GroupBox2.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox2.BackColor = System.Drawing.Color.Lavender
+        Me.GroupBox2.Controls.Add(Me.Label6)
+        Me.GroupBox2.Controls.Add(Me.txtPhamViBaoVeHaTang)
+        Me.GroupBox2.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.GroupBox2.Location = New System.Drawing.Point(3, 265)
+        Me.GroupBox2.Name = "GroupBox2"
+        Me.GroupBox2.Size = New System.Drawing.Size(688, 54)
+        Me.GroupBox2.TabIndex = 81
+        Me.GroupBox2.TabStop = False
+        Me.GroupBox2.Text = "Phạm vi bảo vệ công trình hạ tầng"
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.Label6.Location = New System.Drawing.Point(5, 22)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(50, 13)
+        Me.Label6.TabIndex = 80
+        Me.Label6.Text = "Nội dung"
+        '
+        'txtPhamViBaoVeHaTang
+        '
+        Me.txtPhamViBaoVeHaTang.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtPhamViBaoVeHaTang.Location = New System.Drawing.Point(108, 19)
+        Me.txtPhamViBaoVeHaTang.Multiline = True
+        Me.txtPhamViBaoVeHaTang.Name = "txtPhamViBaoVeHaTang"
+        Me.txtPhamViBaoVeHaTang.Size = New System.Drawing.Size(576, 22)
+        Me.txtPhamViBaoVeHaTang.TabIndex = 13
+        '
         'ctrlThongTinXetDuyet
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -536,17 +536,17 @@ Partial Class ctrlThongTinXetDuyet
         Me.Size = New System.Drawing.Size(696, 353)
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
+        CType(Me.numDienTichRieng, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.numDienTichChung, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.NumDatKhongCap, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.NumCapDatVuon, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.NumCapDatO, System.ComponentModel.ISupportInitialize).EndInit()
         Me.GroupBox5.ResumeLayout(False)
         Me.GroupBox5.PerformLayout()
         Me.GroupBox6.ResumeLayout(False)
         Me.GroupBox6.PerformLayout()
         Me.GroupBox2.ResumeLayout(False)
         Me.GroupBox2.PerformLayout()
-        CType(Me.numDienTichRieng, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.numDienTichChung, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.NumDatKhongCap, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.NumCapDatVuon, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.NumCapDatO, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub

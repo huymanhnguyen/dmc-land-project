@@ -40,6 +40,7 @@ Partial Class frmDanhSachDVHC
         Me.UcListDVHC1.Name = "UcListDVHC1"
         Me.UcListDVHC1.Size = New System.Drawing.Size(247, 232)
         Me.UcListDVHC1.TabIndex = 0
+        Me.UcListDVHC1.TrangThai = "0"
         '
         'frmDanhSachDVHC
         '
@@ -47,6 +48,8 @@ Partial Class frmDanhSachDVHC
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(246, 233)
         Me.Controls.Add(Me.UcListDVHC1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
+        Me.MaximizeBox = False
         Me.Name = "frmDanhSachDVHC"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Don vi hanh chinh"

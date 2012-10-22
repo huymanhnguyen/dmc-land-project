@@ -837,14 +837,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\De
 E:\DMCLand\new\20102812_DMCLand_4\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\DMC.Land.HoSoKeKhaiCapGCN.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\DMC.Land.HoSoKeKhaiCapGCN.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\DMC.Land.HoSoKeKhaiCapGCN.pdb
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\bin\Debug\DMC.Land.HoSoKeKhaiCapGCN.dll
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\bin\Debug\DMC.Land.HoSoKeKhaiCapGCN.pdb
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\bin\Debug\DMC.Land.HoSoKeKhaiCapGCN.xml
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\DMC.Land.HoSoKeKhaiCapGCN.ctrlHoSoKeKhai.resources
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\DMC.Land.HoSoKeKhaiCapGCN.ctrlTrangThaiHoSoCapGCN.resources
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\DMC.Land.HoSoKeKhaiCapGCN.Resources.resources
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\prjHoSoKeKhaiCapGCN.vbproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\DMC.Land.HoSoKeKhaiCapGCN.dll
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\DMC.Land.HoSoKeKhaiCapGCN.xml
-E:\dmc_land_project\Source\DMCLand\prjHoSoKeKhaiCapGCN\clsHoSoKeKhaiCapGCN\obj\Debug\DMC.Land.HoSoKeKhaiCapGCN.pdb

@@ -194,7 +194,7 @@ Partial Class ctrlThongTinSoDoNhaDat
         Me.chkHienThiAnhThua.Location = New System.Drawing.Point(6, 417)
         Me.chkHienThiAnhThua.Name = "chkHienThiAnhThua"
         Me.chkHienThiAnhThua.Size = New System.Drawing.Size(198, 17)
-        Me.chkHienThiAnhThua.TabIndex = 12
+        Me.chkHienThiAnhThua.TabIndex = 0
         Me.chkHienThiAnhThua.Text = "Hiển thị ảnh thửa đất lên mặt 3 GCN"
         Me.chkHienThiAnhThua.UseVisualStyleBackColor = True
         '

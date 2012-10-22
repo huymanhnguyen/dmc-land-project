@@ -44,6 +44,7 @@ Partial Class frmTaiKhoanNguoiDung
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(630, 370)
         Me.Controls.Add(Me.UcTaiKhoanNguoiDung1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmTaiKhoanNguoiDung"
         Me.Text = "frmTaiKhoanNguoiDung"
         Me.ResumeLayout(False)

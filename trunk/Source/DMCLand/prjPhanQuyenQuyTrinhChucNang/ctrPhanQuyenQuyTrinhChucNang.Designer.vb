@@ -91,7 +91,7 @@ Partial Class ctrPhanQuyenQuyTrinhChucNang
         Me.Label1.Location = New System.Drawing.Point(7, 21)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(77, 13)
-        Me.Label1.TabIndex = 5
+        Me.Label1.TabIndex = 0
         Me.Label1.Text = "Ngày cập nhật"
         '
         'dtpNgayCapNhat
@@ -100,7 +100,7 @@ Partial Class ctrPhanQuyenQuyTrinhChucNang
         Me.dtpNgayCapNhat.Location = New System.Drawing.Point(90, 19)
         Me.dtpNgayCapNhat.Name = "dtpNgayCapNhat"
         Me.dtpNgayCapNhat.Size = New System.Drawing.Size(128, 20)
-        Me.dtpNgayCapNhat.TabIndex = 4
+        Me.dtpNgayCapNhat.TabIndex = 1
         '
         'cmdThoat
         '
@@ -108,7 +108,7 @@ Partial Class ctrPhanQuyenQuyTrinhChucNang
         Me.cmdThoat.Location = New System.Drawing.Point(810, 19)
         Me.cmdThoat.Name = "cmdThoat"
         Me.cmdThoat.Size = New System.Drawing.Size(59, 22)
-        Me.cmdThoat.TabIndex = 2
+        Me.cmdThoat.TabIndex = 8
         Me.cmdThoat.Text = "Thoát"
         Me.cmdThoat.UseVisualStyleBackColor = True
         '
@@ -118,7 +118,7 @@ Partial Class ctrPhanQuyenQuyTrinhChucNang
         Me.dmcXoa.Location = New System.Drawing.Point(679, 20)
         Me.dmcXoa.Name = "dmcXoa"
         Me.dmcXoa.Size = New System.Drawing.Size(59, 22)
-        Me.dmcXoa.TabIndex = 1
+        Me.dmcXoa.TabIndex = 6
         Me.dmcXoa.Text = "Xóa"
         Me.dmcXoa.UseVisualStyleBackColor = True
         '
@@ -128,7 +128,7 @@ Partial Class ctrPhanQuyenQuyTrinhChucNang
         Me.cmdCapNhat.Location = New System.Drawing.Point(614, 20)
         Me.cmdCapNhat.Name = "cmdCapNhat"
         Me.cmdCapNhat.Size = New System.Drawing.Size(59, 22)
-        Me.cmdCapNhat.TabIndex = 0
+        Me.cmdCapNhat.TabIndex = 5
         Me.cmdCapNhat.Text = "Cập nhật"
         Me.cmdCapNhat.UseVisualStyleBackColor = True
         '
@@ -149,7 +149,7 @@ Partial Class ctrPhanQuyenQuyTrinhChucNang
         Me.chkCheckAll.Location = New System.Drawing.Point(9, 16)
         Me.chkCheckAll.Name = "chkCheckAll"
         Me.chkCheckAll.Size = New System.Drawing.Size(125, 17)
-        Me.chkCheckAll.TabIndex = 1
+        Me.chkCheckAll.TabIndex = 3
         Me.chkCheckAll.Text = "Chọn/bỏ chọn tất cả"
         Me.chkCheckAll.UseVisualStyleBackColor = True
         '
@@ -166,7 +166,7 @@ Partial Class ctrPhanQuyenQuyTrinhChucNang
         Me.grdChucNang.Name = "grdChucNang"
         Me.grdChucNang.ReadOnly = True
         Me.grdChucNang.Size = New System.Drawing.Size(557, 392)
-        Me.grdChucNang.TabIndex = 0
+        Me.grdChucNang.TabIndex = 4
         '
         'GroupBox3
         '
@@ -188,7 +188,7 @@ Partial Class ctrPhanQuyenQuyTrinhChucNang
         Me.grdNguoiDung.Name = "grdNguoiDung"
         Me.grdNguoiDung.ReadOnly = True
         Me.grdNguoiDung.Size = New System.Drawing.Size(298, 415)
-        Me.grdNguoiDung.TabIndex = 1
+        Me.grdNguoiDung.TabIndex = 2
         '
         'GroupBox4
         '

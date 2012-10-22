@@ -221,16 +221,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjChuSuDung\obj\Debug\prjChuSuDung.vbproj.Gen
 E:\DMCLand\new\20102812_DMCLand_4\prjChuSuDung\obj\Debug\prjChuSuDung.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjChuSuDung\obj\Debug\prjChuSuDung.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjChuSuDung\obj\Debug\prjChuSuDung.pdb
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\bin\Debug\prjChuSuDung.dll
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\bin\Debug\prjChuSuDung.pdb
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\bin\Debug\prjChuSuDung.xml
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\obj\Debug\prjChuSuDung.ctrlChuCQNN.resources
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\obj\Debug\prjChuSuDung.ctrlChuGDCN.resources
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\obj\Debug\prjChuSuDung.ctrlChuTCDN.resources
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\obj\Debug\prjChuSuDung.frmBangMa.resources
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\obj\Debug\prjChuSuDung.Resources.resources
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\obj\Debug\prjChuSuDung.vbproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\obj\Debug\prjChuSuDung.dll
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\obj\Debug\prjChuSuDung.xml
-E:\dmc_land_project\Source\DMCLand\prjChuSuDung\obj\Debug\prjChuSuDung.pdb

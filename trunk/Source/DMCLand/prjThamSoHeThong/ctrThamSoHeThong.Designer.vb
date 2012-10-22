@@ -22,20 +22,20 @@ Partial Class ctrThamSoHeThong
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.Label1 = New System.Windows.Forms.Label
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
+        Me.TextBox1 = New System.Windows.Forms.TextBox
+        Me.Label2 = New System.Windows.Forms.Label
         Me.btnThem = New System.Windows.Forms.Button
         Me.btnSua = New System.Windows.Forms.Button
         Me.btnHuyLenh = New System.Windows.Forms.Button
         Me.btnXoa = New System.Windows.Forms.Button
         Me.btnCapNhat = New System.Windows.Forms.Button
         Me.GroupBox2 = New System.Windows.Forms.GroupBox
-        Me.ColorDialog1 = New System.Windows.Forms.ColorDialog
         Me.ctrThongTin = New DMC.[Interface].GridView.ctrlGridView
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.TextBox1 = New System.Windows.Forms.TextBox
+        Me.ColorDialog1 = New System.Windows.Forms.ColorDialog
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         CType(Me.ctrThongTin, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -69,12 +69,28 @@ Partial Class ctrThamSoHeThong
         Me.GroupBox1.TabIndex = 78
         Me.GroupBox1.TabStop = False
         '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(64, 16)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(268, 20)
+        Me.TextBox1.TabIndex = 0
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(17, 16)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(39, 13)
+        Me.Label2.TabIndex = 67
+        Me.Label2.Text = "Label2"
+        '
         'btnThem
         '
         Me.btnThem.Location = New System.Drawing.Point(14, 73)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(58, 21)
-        Me.btnThem.TabIndex = 62
+        Me.btnThem.TabIndex = 1
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '
@@ -83,7 +99,7 @@ Partial Class ctrThamSoHeThong
         Me.btnSua.Location = New System.Drawing.Point(73, 73)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 63
+        Me.btnSua.TabIndex = 2
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -92,7 +108,7 @@ Partial Class ctrThamSoHeThong
         Me.btnHuyLenh.Location = New System.Drawing.Point(250, 73)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 66
+        Me.btnHuyLenh.TabIndex = 5
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -101,7 +117,7 @@ Partial Class ctrThamSoHeThong
         Me.btnXoa.Location = New System.Drawing.Point(132, 73)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 64
+        Me.btnXoa.TabIndex = 3
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -110,7 +126,7 @@ Partial Class ctrThamSoHeThong
         Me.btnCapNhat.Location = New System.Drawing.Point(191, 73)
         Me.btnCapNhat.Name = "btnCapNhat"
         Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
-        Me.btnCapNhat.TabIndex = 65
+        Me.btnCapNhat.TabIndex = 4
         Me.btnCapNhat.Text = "Ghi"
         Me.btnCapNhat.UseVisualStyleBackColor = True
         '
@@ -129,45 +145,29 @@ Partial Class ctrThamSoHeThong
         'ctrThongTin
         '
         Me.ctrThongTin.BackgroundColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.ctrThongTin.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.ctrThongTin.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.ctrThongTin.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.ctrThongTin.DefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.ctrThongTin.DefaultCellStyle = DataGridViewCellStyle2
         Me.ctrThongTin.Dock = System.Windows.Forms.DockStyle.Fill
         Me.ctrThongTin.Location = New System.Drawing.Point(3, 16)
         Me.ctrThongTin.Name = "ctrThongTin"
         Me.ctrThongTin.RowHeadersWidth = 25
         Me.ctrThongTin.Size = New System.Drawing.Size(798, 293)
-        Me.ctrThongTin.TabIndex = 0
-        '
-        'Label2
-        '
-        Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(17, 16)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(39, 13)
-        Me.Label2.TabIndex = 67
-        Me.Label2.Text = "Label2"
-        '
-        'TextBox1
-        '
-        Me.TextBox1.Location = New System.Drawing.Point(64, 16)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(268, 20)
-        Me.TextBox1.TabIndex = 68
+        Me.ctrThongTin.TabIndex = 6
         '
         'ctrThamSoHeThong
         '

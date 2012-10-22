@@ -141,16 +141,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjOutlookBar\OutlookBar v2 2005\obj\Debug\nl-
 E:\DMCLand\new\20102812_DMCLand_4\prjOutlookBar\OutlookBar v2 2005\obj\Debug\DMC.Interface.OutlookBar.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjOutlookBar\OutlookBar v2 2005\obj\Debug\DMC.Interface.OutlookBar.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjOutlookBar\OutlookBar v2 2005\obj\Debug\DMC.Interface.OutlookBar.pdb
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\bin\Debug\DMC.Interface.OutlookBar.dll
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\bin\Debug\DMC.Interface.OutlookBar.pdb
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\bin\Debug\DMC.Interface.OutlookBar.xml
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\bin\Debug\nl-BE\DMC.Interface.OutlookBar.resources.dll
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Debug\DMC.Interface.OutlookBar.frmNavigationPaneOptions.resources
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Debug\DMC.Interface.OutlookBar.Resources.resources
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Debug\DMC.Interface.OutlookBar.frmNavigationPaneOptions.nl-BE.resources
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Debug\prjOutlookBar.vbproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Debug\nl-BE\DMC.Interface.OutlookBar.resources.dll
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Debug\DMC.Interface.OutlookBar.dll
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Debug\DMC.Interface.OutlookBar.xml
-E:\dmc_land_project\Source\DMCLand\prjOutlookBar\OutlookBar v2 2005\obj\Debug\DMC.Interface.OutlookBar.pdb

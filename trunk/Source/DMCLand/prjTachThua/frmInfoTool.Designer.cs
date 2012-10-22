@@ -50,7 +50,7 @@
             this.btnApply.Location = new System.Drawing.Point(73, 175);
             this.btnApply.Name = "btnApply";
             this.btnApply.Size = new System.Drawing.Size(66, 23);
-            this.btnApply.TabIndex = 0;
+            this.btnApply.TabIndex = 5;
             this.btnApply.Text = "Áp dụng";
             this.btnApply.UseVisualStyleBackColor = true;
             // 
@@ -59,7 +59,7 @@
             this.btnOk.Location = new System.Drawing.Point(4, 175);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(66, 23);
-            this.btnOk.TabIndex = 1;
+            this.btnOk.TabIndex = 4;
             this.btnOk.Text = "Xác nhận";
             this.btnOk.UseVisualStyleBackColor = true;
             // 
@@ -69,7 +69,7 @@
             this.btnCancel.Location = new System.Drawing.Point(143, 175);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(66, 23);
-            this.btnCancel.TabIndex = 2;
+            this.btnCancel.TabIndex = 6;
             this.btnCancel.Text = "Thoát";
             this.btnCancel.UseVisualStyleBackColor = true;
             // 
@@ -102,7 +102,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(99, 24);
-            this.textBox1.TabIndex = 19;
+            this.textBox1.TabIndex = 3;
             // 
             // txtDienTich
             // 
@@ -111,7 +111,7 @@
             this.txtDienTich.Location = new System.Drawing.Point(102, 115);
             this.txtDienTich.Name = "txtDienTich";
             this.txtDienTich.Size = new System.Drawing.Size(99, 24);
-            this.txtDienTich.TabIndex = 18;
+            this.txtDienTich.TabIndex = 2;
             // 
             // txtSoHieuThua
             // 
@@ -120,7 +120,7 @@
             this.txtSoHieuThua.Location = new System.Drawing.Point(102, 81);
             this.txtSoHieuThua.Name = "txtSoHieuThua";
             this.txtSoHieuThua.Size = new System.Drawing.Size(99, 24);
-            this.txtSoHieuThua.TabIndex = 17;
+            this.txtSoHieuThua.TabIndex = 1;
             // 
             // txtToBanDo
             // 
@@ -129,7 +129,7 @@
             this.txtToBanDo.Location = new System.Drawing.Point(102, 47);
             this.txtToBanDo.Name = "txtToBanDo";
             this.txtToBanDo.Size = new System.Drawing.Size(99, 24);
-            this.txtToBanDo.TabIndex = 16;
+            this.txtToBanDo.TabIndex = 0;
             // 
             // lblProfileStatus
             // 
@@ -187,6 +187,7 @@
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.btnApply);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmInfoTool";

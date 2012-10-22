@@ -1212,7 +1212,7 @@
             this.txtSoThuaTimKiem.Location = new System.Drawing.Point(72, 32);
             this.txtSoThuaTimKiem.Name = "txtSoThuaTimKiem";
             this.txtSoThuaTimKiem.Size = new System.Drawing.Size(156, 20);
-            this.txtSoThuaTimKiem.TabIndex = 6;
+            this.txtSoThuaTimKiem.TabIndex = 10;
             // 
             // label2
             // 
@@ -1230,7 +1230,7 @@
             this.btnSearch.Location = new System.Drawing.Point(72, 58);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(81, 24);
-            this.btnSearch.TabIndex = 5;
+            this.btnSearch.TabIndex = 11;
             this.btnSearch.Text = "Tìm kiếm";
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);

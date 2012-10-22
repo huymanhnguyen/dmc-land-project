@@ -103,7 +103,7 @@
             this.btnOk.Location = new System.Drawing.Point(51, 137);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(89, 28);
-            this.btnOk.TabIndex = 2;
+            this.btnOk.TabIndex = 4;
             this.btnOk.Text = "Xác nhận";
             this.btnOk.UseVisualStyleBackColor = true;
             this.btnOk.Click += new System.EventHandler(this.btnOk_Click);
@@ -115,7 +115,7 @@
             this.btnCancel.Location = new System.Drawing.Point(173, 137);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(95, 28);
-            this.btnCancel.TabIndex = 3;
+            this.btnCancel.TabIndex = 5;
             this.btnCancel.Text = "Thoát";
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
@@ -128,6 +128,7 @@
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.groupEditingMode);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmEditingMode";

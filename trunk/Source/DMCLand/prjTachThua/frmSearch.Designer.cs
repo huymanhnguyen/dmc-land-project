@@ -54,7 +54,7 @@
             this.btnCancel.Location = new System.Drawing.Point(172, 123);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(84, 24);
-            this.btnCancel.TabIndex = 1;
+            this.btnCancel.TabIndex = 4;
             this.btnCancel.Text = "Thoát";
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
@@ -100,7 +100,7 @@
             this.txtValue.Location = new System.Drawing.Point(15, 91);
             this.txtValue.Name = "txtValue";
             this.txtValue.Size = new System.Drawing.Size(252, 24);
-            this.txtValue.TabIndex = 4;
+            this.txtValue.TabIndex = 3;
             // 
             // cmbColumnName
             // 
@@ -115,7 +115,7 @@
             this.cmbColumnName.Location = new System.Drawing.Point(14, 41);
             this.cmbColumnName.Name = "cmbColumnName";
             this.cmbColumnName.Size = new System.Drawing.Size(253, 26);
-            this.cmbColumnName.TabIndex = 3;
+            this.cmbColumnName.TabIndex = 2;
             // 
             // frmSearch
             // 
@@ -125,6 +125,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnSearch);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmSearch";

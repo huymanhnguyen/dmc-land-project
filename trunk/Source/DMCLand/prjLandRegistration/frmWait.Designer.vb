@@ -44,9 +44,9 @@ Partial Class frmWait
         Me.Label1.ForeColor = System.Drawing.SystemColors.ActiveCaption
         Me.Label1.Location = New System.Drawing.Point(18, 100)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(113, 13)
+        Me.Label1.Size = New System.Drawing.Size(84, 13)
         Me.Label1.TabIndex = 1
-        Me.Label1.Text = "Đợi chút nha (^_^)"
+        Me.Label1.Text = "Please wait..."
         '
         'frmWait
         '

@@ -22,8 +22,8 @@ Partial Class frmThongKeHoSoNhap
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
         Me.Label3 = New System.Windows.Forms.Label
         Me.txtDenSoPhatHanh = New System.Windows.Forms.TextBox
@@ -61,7 +61,7 @@ Partial Class frmThongKeHoSoNhap
         Me.Label3.Location = New System.Drawing.Point(118, 16)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(34, 13)
-        Me.Label3.TabIndex = 6
+        Me.Label3.TabIndex = 1
         Me.Label3.Text = "Từ số"
         '
         'txtDenSoPhatHanh
@@ -69,7 +69,7 @@ Partial Class frmThongKeHoSoNhap
         Me.txtDenSoPhatHanh.Location = New System.Drawing.Point(361, 13)
         Me.txtDenSoPhatHanh.Name = "txtDenSoPhatHanh"
         Me.txtDenSoPhatHanh.Size = New System.Drawing.Size(142, 20)
-        Me.txtDenSoPhatHanh.TabIndex = 5
+        Me.txtDenSoPhatHanh.TabIndex = 4
         '
         'Label2
         '
@@ -77,7 +77,7 @@ Partial Class frmThongKeHoSoNhap
         Me.Label2.Location = New System.Drawing.Point(316, 16)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(41, 13)
-        Me.Label2.TabIndex = 4
+        Me.Label2.TabIndex = 3
         Me.Label2.Text = "Đến số"
         '
         'txtTuSoPhatHanh
@@ -85,7 +85,7 @@ Partial Class frmThongKeHoSoNhap
         Me.txtTuSoPhatHanh.Location = New System.Drawing.Point(163, 13)
         Me.txtTuSoPhatHanh.Name = "txtTuSoPhatHanh"
         Me.txtTuSoPhatHanh.Size = New System.Drawing.Size(142, 20)
-        Me.txtTuSoPhatHanh.TabIndex = 3
+        Me.txtTuSoPhatHanh.TabIndex = 2
         '
         'Label1
         '
@@ -93,7 +93,7 @@ Partial Class frmThongKeHoSoNhap
         Me.Label1.Location = New System.Drawing.Point(12, 16)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(100, 13)
-        Me.Label1.TabIndex = 2
+        Me.Label1.TabIndex = 0
         Me.Label1.Text = "Số phát hàng GCN:"
         '
         'cmdXuatExcel
@@ -102,7 +102,7 @@ Partial Class frmThongKeHoSoNhap
         Me.cmdXuatExcel.Location = New System.Drawing.Point(725, 11)
         Me.cmdXuatExcel.Name = "cmdXuatExcel"
         Me.cmdXuatExcel.Size = New System.Drawing.Size(75, 23)
-        Me.cmdXuatExcel.TabIndex = 1
+        Me.cmdXuatExcel.TabIndex = 6
         Me.cmdXuatExcel.Text = "Xuất excel"
         Me.cmdXuatExcel.UseVisualStyleBackColor = True
         '
@@ -112,7 +112,7 @@ Partial Class frmThongKeHoSoNhap
         Me.cmdThongKe.Location = New System.Drawing.Point(644, 11)
         Me.cmdThongKe.Name = "cmdThongKe"
         Me.cmdThongKe.Size = New System.Drawing.Size(75, 23)
-        Me.cmdThongKe.TabIndex = 0
+        Me.cmdThongKe.TabIndex = 5
         Me.cmdThongKe.Text = "Thống kê"
         Me.cmdThongKe.UseVisualStyleBackColor = True
         '
@@ -131,30 +131,30 @@ Partial Class frmThongKeHoSoNhap
         Me.grdThongTin.AllowUserToAddRows = False
         Me.grdThongTin.AllowUserToDeleteRows = False
         Me.grdThongTin.BackgroundColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.grdThongTin.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.grdThongTin.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.grdThongTin.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.grdThongTin.DefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.grdThongTin.DefaultCellStyle = DataGridViewCellStyle2
         Me.grdThongTin.Dock = System.Windows.Forms.DockStyle.Fill
         Me.grdThongTin.Location = New System.Drawing.Point(3, 16)
         Me.grdThongTin.Name = "grdThongTin"
         Me.grdThongTin.ReadOnly = True
         Me.grdThongTin.RowHeadersWidth = 25
         Me.grdThongTin.Size = New System.Drawing.Size(800, 442)
-        Me.grdThongTin.TabIndex = 1
+        Me.grdThongTin.TabIndex = 7
         '
         'frmThongKeHoSoNhap
         '

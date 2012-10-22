@@ -95,7 +95,7 @@ Partial Class frmNguoiLap
         Me.cmdHuy.Location = New System.Drawing.Point(311, 71)
         Me.cmdHuy.Name = "cmdHuy"
         Me.cmdHuy.Size = New System.Drawing.Size(70, 23)
-        Me.cmdHuy.TabIndex = 10
+        Me.cmdHuy.TabIndex = 8
         Me.cmdHuy.Text = "Huỷ"
         Me.cmdHuy.UseVisualStyleBackColor = True
         '
@@ -104,7 +104,7 @@ Partial Class frmNguoiLap
         Me.cmdGhi.Location = New System.Drawing.Point(235, 71)
         Me.cmdGhi.Name = "cmdGhi"
         Me.cmdGhi.Size = New System.Drawing.Size(70, 23)
-        Me.cmdGhi.TabIndex = 9
+        Me.cmdGhi.TabIndex = 7
         Me.cmdGhi.Text = "Ghi"
         Me.cmdGhi.UseVisualStyleBackColor = True
         '
@@ -113,7 +113,7 @@ Partial Class frmNguoiLap
         Me.cmdXoa.Location = New System.Drawing.Point(159, 71)
         Me.cmdXoa.Name = "cmdXoa"
         Me.cmdXoa.Size = New System.Drawing.Size(70, 23)
-        Me.cmdXoa.TabIndex = 8
+        Me.cmdXoa.TabIndex = 6
         Me.cmdXoa.Text = "Xoá"
         Me.cmdXoa.UseVisualStyleBackColor = True
         '
@@ -122,7 +122,7 @@ Partial Class frmNguoiLap
         Me.cmdSua.Location = New System.Drawing.Point(83, 71)
         Me.cmdSua.Name = "cmdSua"
         Me.cmdSua.Size = New System.Drawing.Size(70, 23)
-        Me.cmdSua.TabIndex = 7
+        Me.cmdSua.TabIndex = 5
         Me.cmdSua.Text = "Sửa"
         Me.cmdSua.UseVisualStyleBackColor = True
         '
@@ -131,7 +131,7 @@ Partial Class frmNguoiLap
         Me.cmdThem.Location = New System.Drawing.Point(7, 71)
         Me.cmdThem.Name = "cmdThem"
         Me.cmdThem.Size = New System.Drawing.Size(70, 23)
-        Me.cmdThem.TabIndex = 6
+        Me.cmdThem.TabIndex = 4
         Me.cmdThem.Text = "Thêm"
         Me.cmdThem.UseVisualStyleBackColor = True
         '
@@ -140,7 +140,7 @@ Partial Class frmNguoiLap
         Me.txtChucVu.Location = New System.Drawing.Point(51, 45)
         Me.txtChucVu.Name = "txtChucVu"
         Me.txtChucVu.Size = New System.Drawing.Size(188, 20)
-        Me.txtChucVu.TabIndex = 5
+        Me.txtChucVu.TabIndex = 3
         '
         'cboGioiTinh
         '
@@ -149,14 +149,14 @@ Partial Class frmNguoiLap
         Me.cboGioiTinh.Location = New System.Drawing.Point(399, 21)
         Me.cboGioiTinh.Name = "cboGioiTinh"
         Me.cboGioiTinh.Size = New System.Drawing.Size(108, 21)
-        Me.cboGioiTinh.TabIndex = 4
+        Me.cboGioiTinh.TabIndex = 2
         '
         'txtHoTen
         '
         Me.txtHoTen.Location = New System.Drawing.Point(51, 19)
         Me.txtHoTen.Name = "txtHoTen"
         Me.txtHoTen.Size = New System.Drawing.Size(238, 20)
-        Me.txtHoTen.TabIndex = 3
+        Me.txtHoTen.TabIndex = 1
         '
         'Label3
         '

@@ -22,9 +22,10 @@ Partial Class ctrDieuChinh
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.GroupBox2 = New System.Windows.Forms.GroupBox
+        Me.LabTenLoaiHS = New System.Windows.Forms.Label
         Me.txtSTT = New System.Windows.Forms.TextBox
         Me.Label13 = New System.Windows.Forms.Label
         Me.txtCSD = New System.Windows.Forms.TextBox
@@ -57,7 +58,6 @@ Partial Class ctrDieuChinh
         Me.txtTenCongViec = New System.Windows.Forms.TextBox
         Me.GroupBox3 = New System.Windows.Forms.GroupBox
         Me.grdDanhSachCongViec = New DMC.[Interface].GridView.ctrlGridView
-        Me.LabTenLoaiHS = New System.Windows.Forms.Label
         Me.GroupBox2.SuspendLayout()
         CType(Me.NumNgayCanhBao, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.NumSoNgay, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -105,13 +105,23 @@ Partial Class ctrDieuChinh
         Me.GroupBox2.TabIndex = 4
         Me.GroupBox2.TabStop = False
         '
+        'LabTenLoaiHS
+        '
+        Me.LabTenLoaiHS.AutoSize = True
+        Me.LabTenLoaiHS.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.LabTenLoaiHS.Location = New System.Drawing.Point(95, 16)
+        Me.LabTenLoaiHS.Name = "LabTenLoaiHS"
+        Me.LabTenLoaiHS.Size = New System.Drawing.Size(19, 13)
+        Me.LabTenLoaiHS.TabIndex = 82
+        Me.LabTenLoaiHS.Text = "..."
+        '
         'txtSTT
         '
         Me.txtSTT.Location = New System.Drawing.Point(99, 100)
         Me.txtSTT.Name = "txtSTT"
         Me.txtSTT.ReadOnly = True
         Me.txtSTT.Size = New System.Drawing.Size(62, 20)
-        Me.txtSTT.TabIndex = 40
+        Me.txtSTT.TabIndex = 7
         '
         'Label13
         '
@@ -119,7 +129,7 @@ Partial Class ctrDieuChinh
         Me.Label13.Location = New System.Drawing.Point(67, 103)
         Me.Label13.Name = "Label13"
         Me.Label13.Size = New System.Drawing.Size(28, 13)
-        Me.Label13.TabIndex = 39
+        Me.Label13.TabIndex = 6
         Me.Label13.Text = "STT"
         '
         'txtCSD
@@ -128,7 +138,7 @@ Partial Class ctrDieuChinh
         Me.txtCSD.Name = "txtCSD"
         Me.txtCSD.ReadOnly = True
         Me.txtCSD.Size = New System.Drawing.Size(620, 20)
-        Me.txtCSD.TabIndex = 38
+        Me.txtCSD.TabIndex = 5
         '
         'Label12
         '
@@ -136,7 +146,7 @@ Partial Class ctrDieuChinh
         Me.Label12.Location = New System.Drawing.Point(23, 77)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(67, 13)
-        Me.Label12.TabIndex = 37
+        Me.Label12.TabIndex = 4
         Me.Label12.Text = "Chủ sử dụng"
         '
         'txtSoThua
@@ -145,7 +155,7 @@ Partial Class ctrDieuChinh
         Me.txtSoThua.Name = "txtSoThua"
         Me.txtSoThua.ReadOnly = True
         Me.txtSoThua.Size = New System.Drawing.Size(62, 20)
-        Me.txtSoThua.TabIndex = 36
+        Me.txtSoThua.TabIndex = 3
         '
         'Label11
         '
@@ -153,7 +163,7 @@ Partial Class ctrDieuChinh
         Me.Label11.Location = New System.Drawing.Point(185, 51)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(44, 13)
-        Me.Label11.TabIndex = 35
+        Me.Label11.TabIndex = 2
         Me.Label11.Text = "Số thửa"
         '
         'txtToBanDo
@@ -162,7 +172,7 @@ Partial Class ctrDieuChinh
         Me.txtToBanDo.Name = "txtToBanDo"
         Me.txtToBanDo.ReadOnly = True
         Me.txtToBanDo.Size = New System.Drawing.Size(62, 20)
-        Me.txtToBanDo.TabIndex = 34
+        Me.txtToBanDo.TabIndex = 1
         '
         'Label1
         '
@@ -170,7 +180,7 @@ Partial Class ctrDieuChinh
         Me.Label1.Location = New System.Drawing.Point(39, 51)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(57, 13)
-        Me.Label1.TabIndex = 33
+        Me.Label1.TabIndex = 0
         Me.Label1.Text = "Tờ bản đồ"
         '
         'Label10
@@ -188,7 +198,7 @@ Partial Class ctrDieuChinh
         Me.NumNgayCanhBao.Maximum = New Decimal(New Integer() {1000, 0, 0, 0})
         Me.NumNgayCanhBao.Name = "NumNgayCanhBao"
         Me.NumNgayCanhBao.Size = New System.Drawing.Size(79, 20)
-        Me.NumNgayCanhBao.TabIndex = 30
+        Me.NumNgayCanhBao.TabIndex = 23
         Me.NumNgayCanhBao.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         Me.NumNgayCanhBao.Value = New Decimal(New Integer() {1, 0, 0, 0})
         '
@@ -198,7 +208,7 @@ Partial Class ctrDieuChinh
         Me.Label9.Location = New System.Drawing.Point(15, 255)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(80, 13)
-        Me.Label9.TabIndex = 29
+        Me.Label9.TabIndex = 22
         Me.Label9.Text = "Cảnh báo trước"
         '
         'cmdTongHop
@@ -206,7 +216,7 @@ Partial Class ctrDieuChinh
         Me.cmdTongHop.Location = New System.Drawing.Point(7, 286)
         Me.cmdTongHop.Name = "cmdTongHop"
         Me.cmdTongHop.Size = New System.Drawing.Size(80, 21)
-        Me.cmdTongHop.TabIndex = 28
+        Me.cmdTongHop.TabIndex = 24
         Me.cmdTongHop.Text = "Tổng hợp"
         Me.cmdTongHop.UseVisualStyleBackColor = True
         '
@@ -216,7 +226,7 @@ Partial Class ctrDieuChinh
         Me.Label8.Location = New System.Drawing.Point(9, 232)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(86, 13)
-        Me.Label8.TabIndex = 27
+        Me.Label8.TabIndex = 20
         Me.Label8.Text = "Lý do điều chỉnh"
         '
         'txtLyDoDieuChinh
@@ -224,14 +234,14 @@ Partial Class ctrDieuChinh
         Me.txtLyDoDieuChinh.Location = New System.Drawing.Point(101, 229)
         Me.txtLyDoDieuChinh.Name = "txtLyDoDieuChinh"
         Me.txtLyDoDieuChinh.Size = New System.Drawing.Size(617, 20)
-        Me.txtLyDoDieuChinh.TabIndex = 26
+        Me.txtLyDoDieuChinh.TabIndex = 21
         '
         'btnSua
         '
         Me.btnSua.Location = New System.Drawing.Point(90, 286)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 22
+        Me.btnSua.TabIndex = 25
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -240,7 +250,7 @@ Partial Class ctrDieuChinh
         Me.btnHuyLenh.Location = New System.Drawing.Point(268, 286)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 25
+        Me.btnHuyLenh.TabIndex = 28
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -250,7 +260,7 @@ Partial Class ctrDieuChinh
         Me.btnXoa.Location = New System.Drawing.Point(149, 286)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 23
+        Me.btnXoa.TabIndex = 26
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -259,7 +269,7 @@ Partial Class ctrDieuChinh
         Me.btnCapNhat.Location = New System.Drawing.Point(208, 286)
         Me.btnCapNhat.Name = "btnCapNhat"
         Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
-        Me.btnCapNhat.TabIndex = 24
+        Me.btnCapNhat.TabIndex = 27
         Me.btnCapNhat.Text = "Ghi"
         Me.btnCapNhat.UseVisualStyleBackColor = True
         '
@@ -269,7 +279,7 @@ Partial Class ctrDieuChinh
         Me.NumSoNgay.Maximum = New Decimal(New Integer() {1000, 0, 0, 0})
         Me.NumSoNgay.Name = "NumSoNgay"
         Me.NumSoNgay.Size = New System.Drawing.Size(79, 20)
-        Me.NumSoNgay.TabIndex = 13
+        Me.NumSoNgay.TabIndex = 11
         Me.NumSoNgay.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         Me.NumSoNgay.Value = New Decimal(New Integer() {55, 0, 0, 0})
         '
@@ -280,7 +290,7 @@ Partial Class ctrDieuChinh
         Me.cboBoPhan.Location = New System.Drawing.Point(98, 202)
         Me.cboBoPhan.Name = "cboBoPhan"
         Me.cboBoPhan.Size = New System.Drawing.Size(108, 21)
-        Me.cboBoPhan.TabIndex = 12
+        Me.cboBoPhan.TabIndex = 17
         '
         'Label7
         '
@@ -288,7 +298,7 @@ Partial Class ctrDieuChinh
         Me.Label7.Location = New System.Drawing.Point(45, 205)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(47, 13)
-        Me.Label7.TabIndex = 11
+        Me.Label7.TabIndex = 16
         Me.Label7.Text = "Bộ phận"
         '
         'Label6
@@ -297,7 +307,7 @@ Partial Class ctrDieuChinh
         Me.Label6.Location = New System.Drawing.Point(44, 182)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(46, 13)
-        Me.Label6.TabIndex = 10
+        Me.Label6.TabIndex = 12
         Me.Label6.Text = "Từ ngày"
         '
         'Label5
@@ -306,7 +316,7 @@ Partial Class ctrDieuChinh
         Me.Label5.Location = New System.Drawing.Point(273, 205)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(41, 13)
-        Me.Label5.TabIndex = 9
+        Me.Label5.TabIndex = 18
         Me.Label5.Text = "Cán bộ"
         '
         'txtCanBo
@@ -314,7 +324,7 @@ Partial Class ctrDieuChinh
         Me.txtCanBo.Location = New System.Drawing.Point(332, 202)
         Me.txtCanBo.Name = "txtCanBo"
         Me.txtCanBo.Size = New System.Drawing.Size(108, 20)
-        Me.txtCanBo.TabIndex = 8
+        Me.txtCanBo.TabIndex = 19
         '
         'Label4
         '
@@ -322,7 +332,7 @@ Partial Class ctrDieuChinh
         Me.Label4.Location = New System.Drawing.Point(273, 180)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(53, 13)
-        Me.Label4.TabIndex = 7
+        Me.Label4.TabIndex = 14
         Me.Label4.Text = "Đến ngày"
         '
         'Label3
@@ -331,7 +341,7 @@ Partial Class ctrDieuChinh
         Me.Label3.Location = New System.Drawing.Point(47, 160)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(46, 13)
-        Me.Label3.TabIndex = 5
+        Me.Label3.TabIndex = 10
         Me.Label3.Text = "Số ngày"
         '
         'dtpDenNgay
@@ -341,7 +351,7 @@ Partial Class ctrDieuChinh
         Me.dtpDenNgay.Location = New System.Drawing.Point(332, 176)
         Me.dtpDenNgay.Name = "dtpDenNgay"
         Me.dtpDenNgay.Size = New System.Drawing.Size(108, 20)
-        Me.dtpDenNgay.TabIndex = 3
+        Me.dtpDenNgay.TabIndex = 15
         '
         'dtpTuNgay
         '
@@ -350,7 +360,7 @@ Partial Class ctrDieuChinh
         Me.dtpTuNgay.Location = New System.Drawing.Point(99, 178)
         Me.dtpTuNgay.Name = "dtpTuNgay"
         Me.dtpTuNgay.Size = New System.Drawing.Size(108, 20)
-        Me.dtpTuNgay.TabIndex = 2
+        Me.dtpTuNgay.TabIndex = 13
         '
         'Label2
         '
@@ -358,7 +368,7 @@ Partial Class ctrDieuChinh
         Me.Label2.Location = New System.Drawing.Point(38, 129)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(55, 13)
-        Me.Label2.TabIndex = 1
+        Me.Label2.TabIndex = 8
         Me.Label2.Text = "Công việc"
         '
         'txtTenCongViec
@@ -366,7 +376,7 @@ Partial Class ctrDieuChinh
         Me.txtTenCongViec.Location = New System.Drawing.Point(99, 126)
         Me.txtTenCongViec.Name = "txtTenCongViec"
         Me.txtTenCongViec.Size = New System.Drawing.Size(342, 20)
-        Me.txtTenCongViec.TabIndex = 0
+        Me.txtTenCongViec.TabIndex = 9
         '
         'GroupBox3
         '
@@ -388,40 +398,30 @@ Partial Class ctrDieuChinh
                     Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grdDanhSachCongViec.BackgroundColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.grdDanhSachCongViec.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.grdDanhSachCongViec.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.grdDanhSachCongViec.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.grdDanhSachCongViec.DefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.grdDanhSachCongViec.DefaultCellStyle = DataGridViewCellStyle2
         Me.grdDanhSachCongViec.Location = New System.Drawing.Point(3, 13)
         Me.grdDanhSachCongViec.Name = "grdDanhSachCongViec"
         Me.grdDanhSachCongViec.ReadOnly = True
         Me.grdDanhSachCongViec.RowHeadersWidth = 25
         Me.grdDanhSachCongViec.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.grdDanhSachCongViec.Size = New System.Drawing.Size(726, 197)
-        Me.grdDanhSachCongViec.TabIndex = 1
-        '
-        'LabTenLoaiHS
-        '
-        Me.LabTenLoaiHS.AutoSize = True
-        Me.LabTenLoaiHS.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LabTenLoaiHS.Location = New System.Drawing.Point(95, 16)
-        Me.LabTenLoaiHS.Name = "LabTenLoaiHS"
-        Me.LabTenLoaiHS.Size = New System.Drawing.Size(19, 13)
-        Me.LabTenLoaiHS.TabIndex = 82
-        Me.LabTenLoaiHS.Text = "..."
+        Me.grdDanhSachCongViec.TabIndex = 29
         '
         'ctrDieuChinh
         '

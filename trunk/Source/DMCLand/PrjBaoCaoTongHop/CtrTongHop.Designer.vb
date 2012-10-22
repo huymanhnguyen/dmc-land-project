@@ -66,7 +66,7 @@ Partial Class CtrTongHop
         Me.cmdIn.Location = New System.Drawing.Point(220, 94)
         Me.cmdIn.Name = "cmdIn"
         Me.cmdIn.Size = New System.Drawing.Size(73, 22)
-        Me.cmdIn.TabIndex = 13
+        Me.cmdIn.TabIndex = 5
         Me.cmdIn.Text = "In"
         Me.cmdIn.UseVisualStyleBackColor = True
         '
@@ -75,7 +75,7 @@ Partial Class CtrTongHop
         Me.cboXem.Location = New System.Drawing.Point(141, 94)
         Me.cboXem.Name = "cboXem"
         Me.cboXem.Size = New System.Drawing.Size(73, 22)
-        Me.cboXem.TabIndex = 12
+        Me.cboXem.TabIndex = 4
         Me.cboXem.Text = "Xem"
         Me.cboXem.UseVisualStyleBackColor = True
         '
@@ -86,7 +86,7 @@ Partial Class CtrTongHop
         Me.cboLoaiHoSo.Location = New System.Drawing.Point(141, 67)
         Me.cboLoaiHoSo.Name = "cboLoaiHoSo"
         Me.cboLoaiHoSo.Size = New System.Drawing.Size(220, 21)
-        Me.cboLoaiHoSo.TabIndex = 11
+        Me.cboLoaiHoSo.TabIndex = 3
         '
         'DateTimePicker3
         '
@@ -95,7 +95,7 @@ Partial Class CtrTongHop
         Me.DateTimePicker3.Location = New System.Drawing.Point(141, 41)
         Me.DateTimePicker3.Name = "DateTimePicker3"
         Me.DateTimePicker3.Size = New System.Drawing.Size(118, 20)
-        Me.DateTimePicker3.TabIndex = 9
+        Me.DateTimePicker3.TabIndex = 2
         '
         'Label3
         '
@@ -113,7 +113,7 @@ Partial Class CtrTongHop
         Me.DateTimePicker4.Location = New System.Drawing.Point(141, 15)
         Me.DateTimePicker4.Name = "DateTimePicker4"
         Me.DateTimePicker4.Size = New System.Drawing.Size(119, 20)
-        Me.DateTimePicker4.TabIndex = 7
+        Me.DateTimePicker4.TabIndex = 1
         '
         'Label4
         '

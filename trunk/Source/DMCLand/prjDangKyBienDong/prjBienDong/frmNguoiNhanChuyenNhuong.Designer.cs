@@ -51,7 +51,7 @@
             this.TabControl3.Name = "TabControl3";
             this.TabControl3.SelectedIndex = 0;
             this.TabControl3.Size = new System.Drawing.Size(918, 579);
-            this.TabControl3.TabIndex = 2;
+            this.TabControl3.TabIndex = 3;
             // 
             // tabGDCN
             // 
@@ -82,7 +82,7 @@
             this.tabCQNN.Location = new System.Drawing.Point(4, 22);
             this.tabCQNN.Name = "tabCQNN";
             this.tabCQNN.Padding = new System.Windows.Forms.Padding(3);
-            this.tabCQNN.Size = new System.Drawing.Size(862, 453);
+            this.tabCQNN.Size = new System.Drawing.Size(910, 553);
             this.tabCQNN.TabIndex = 1;
             this.tabCQNN.Text = "Cơ quan nhà nước, Cộng đồng dân cư";
             this.tabCQNN.UseVisualStyleBackColor = true;
@@ -93,8 +93,9 @@
             this.ctrlChuCQNN1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.ctrlChuCQNN1.Location = new System.Drawing.Point(3, 3);
             this.ctrlChuCQNN1.MaChu = "";
+            this.ctrlChuCQNN1.MaDonViHanhChinh = null;
             this.ctrlChuCQNN1.Name = "ctrlChuCQNN1";
-            this.ctrlChuCQNN1.Size = new System.Drawing.Size(856, 447);
+            this.ctrlChuCQNN1.Size = new System.Drawing.Size(904, 547);
             this.ctrlChuCQNN1.TabIndex = 0;
             this.ctrlChuCQNN1.TenPhuong = "";
             // 
@@ -103,7 +104,7 @@
             this.tabTCDN.Controls.Add(this.ctrlChuTCDN1);
             this.tabTCDN.Location = new System.Drawing.Point(4, 22);
             this.tabTCDN.Name = "tabTCDN";
-            this.tabTCDN.Size = new System.Drawing.Size(862, 453);
+            this.tabTCDN.Size = new System.Drawing.Size(910, 553);
             this.tabTCDN.TabIndex = 2;
             this.tabTCDN.Text = "Tổ chức, doanh nghiệp";
             this.tabTCDN.UseVisualStyleBackColor = true;
@@ -114,8 +115,9 @@
             this.ctrlChuTCDN1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.ctrlChuTCDN1.Location = new System.Drawing.Point(0, 0);
             this.ctrlChuTCDN1.MaChu = "";
+            this.ctrlChuTCDN1.MaDonViHanhChinh = null;
             this.ctrlChuTCDN1.Name = "ctrlChuTCDN1";
-            this.ctrlChuTCDN1.Size = new System.Drawing.Size(862, 453);
+            this.ctrlChuTCDN1.Size = new System.Drawing.Size(910, 553);
             this.ctrlChuTCDN1.TabIndex = 0;
             this.ctrlChuTCDN1.TenPhuong = "";
             // 

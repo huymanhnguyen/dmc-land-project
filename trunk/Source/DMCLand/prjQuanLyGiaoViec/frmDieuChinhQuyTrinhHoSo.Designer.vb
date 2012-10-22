@@ -34,10 +34,12 @@ Partial Class frmDieuChinhQuyTrinhHoSo
         Me.CtrDieuChinh1.HoSoCapGCN = ""
         Me.CtrDieuChinh1.Location = New System.Drawing.Point(0, 0)
         Me.CtrDieuChinh1.MaDonViHanhChinh = "0"
+        Me.CtrDieuChinh1.MaLoaiHS = Nothing
         Me.CtrDieuChinh1.Name = "CtrDieuChinh1"
         Me.CtrDieuChinh1.Size = New System.Drawing.Size(870, 544)
         Me.CtrDieuChinh1.SoThua = ""
         Me.CtrDieuChinh1.TabIndex = 0
+        Me.CtrDieuChinh1.TenLoaiHS = Nothing
         Me.CtrDieuChinh1.ToBanDo = ""
         Me.CtrDieuChinh1.UserName = ""
         '
@@ -47,6 +49,7 @@ Partial Class frmDieuChinhQuyTrinhHoSo
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(870, 544)
         Me.Controls.Add(Me.CtrDieuChinh1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmDieuChinhQuyTrinhHoSo"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "DIEU CHINH QUY TRINH QUAN LY NGHIEP VU"

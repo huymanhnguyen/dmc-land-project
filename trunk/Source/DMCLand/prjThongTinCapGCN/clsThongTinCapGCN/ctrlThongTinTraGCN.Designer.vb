@@ -27,6 +27,7 @@ Partial Class ctrlThongTinTraGCN
         Me.Label26 = New System.Windows.Forms.Label
         Me.dtpNgayTraGCN = New System.Windows.Forms.DateTimePicker
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
+        Me.chkKhoaSoGCN = New System.Windows.Forms.CheckBox
         Me.radChuaTraGCN = New System.Windows.Forms.RadioButton
         Me.radDaTraGCN = New System.Windows.Forms.RadioButton
         Me.radChuaXuLy = New System.Windows.Forms.RadioButton
@@ -36,7 +37,6 @@ Partial Class ctrlThongTinTraGCN
         Me.btnGhi = New System.Windows.Forms.Button
         Me.btnHuyLenh = New System.Windows.Forms.Button
         Me.GroupBox2 = New System.Windows.Forms.GroupBox
-        Me.chkKhoaSoGCN = New System.Windows.Forms.CheckBox
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
@@ -94,13 +94,23 @@ Partial Class ctrlThongTinTraGCN
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Thông tin Trả GCN"
         '
+        'chkKhoaSoGCN
+        '
+        Me.chkKhoaSoGCN.AutoSize = True
+        Me.chkKhoaSoGCN.Location = New System.Drawing.Point(91, 144)
+        Me.chkKhoaSoGCN.Name = "chkKhoaSoGCN"
+        Me.chkKhoaSoGCN.Size = New System.Drawing.Size(91, 17)
+        Me.chkKhoaSoGCN.TabIndex = 6
+        Me.chkKhoaSoGCN.Text = "Khóa sổ GCN"
+        Me.chkKhoaSoGCN.UseVisualStyleBackColor = True
+        '
         'radChuaTraGCN
         '
         Me.radChuaTraGCN.AutoSize = True
         Me.radChuaTraGCN.Location = New System.Drawing.Point(412, 45)
         Me.radChuaTraGCN.Name = "radChuaTraGCN"
         Me.radChuaTraGCN.Size = New System.Drawing.Size(91, 17)
-        Me.radChuaTraGCN.TabIndex = 46
+        Me.radChuaTraGCN.TabIndex = 4
         Me.radChuaTraGCN.Text = "Chưa trả GCN"
         Me.radChuaTraGCN.UseVisualStyleBackColor = True
         '
@@ -110,7 +120,7 @@ Partial Class ctrlThongTinTraGCN
         Me.radDaTraGCN.Location = New System.Drawing.Point(228, 45)
         Me.radDaTraGCN.Name = "radDaTraGCN"
         Me.radDaTraGCN.Size = New System.Drawing.Size(80, 17)
-        Me.radDaTraGCN.TabIndex = 45
+        Me.radDaTraGCN.TabIndex = 3
         Me.radDaTraGCN.Text = "Đã trả GCN"
         Me.radDaTraGCN.UseVisualStyleBackColor = True
         '
@@ -121,7 +131,7 @@ Partial Class ctrlThongTinTraGCN
         Me.radChuaXuLy.Location = New System.Drawing.Point(90, 45)
         Me.radChuaXuLy.Name = "radChuaXuLy"
         Me.radChuaXuLy.Size = New System.Drawing.Size(74, 17)
-        Me.radChuaXuLy.TabIndex = 44
+        Me.radChuaXuLy.TabIndex = 2
         Me.radChuaXuLy.TabStop = True
         Me.radChuaXuLy.Text = "Chưa xử lý"
         Me.radChuaXuLy.UseVisualStyleBackColor = True
@@ -141,14 +151,14 @@ Partial Class ctrlThongTinTraGCN
         Me.txtYKienTraGCN.Multiline = True
         Me.txtYKienTraGCN.Name = "txtYKienTraGCN"
         Me.txtYKienTraGCN.Size = New System.Drawing.Size(544, 70)
-        Me.txtYKienTraGCN.TabIndex = 42
+        Me.txtYKienTraGCN.TabIndex = 5
         '
         'btnSua
         '
         Me.btnSua.Location = New System.Drawing.Point(6, 14)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 2
+        Me.btnSua.TabIndex = 7
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -157,7 +167,7 @@ Partial Class ctrlThongTinTraGCN
         Me.btnGhi.Location = New System.Drawing.Point(70, 14)
         Me.btnGhi.Name = "btnGhi"
         Me.btnGhi.Size = New System.Drawing.Size(58, 21)
-        Me.btnGhi.TabIndex = 3
+        Me.btnGhi.TabIndex = 8
         Me.btnGhi.Text = "Ghi"
         Me.btnGhi.UseVisualStyleBackColor = True
         '
@@ -166,7 +176,7 @@ Partial Class ctrlThongTinTraGCN
         Me.btnHuyLenh.Location = New System.Drawing.Point(134, 14)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 4
+        Me.btnHuyLenh.TabIndex = 9
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -182,16 +192,6 @@ Partial Class ctrlThongTinTraGCN
         Me.GroupBox2.Size = New System.Drawing.Size(651, 41)
         Me.GroupBox2.TabIndex = 44
         Me.GroupBox2.TabStop = False
-        '
-        'chkKhoaSoGCN
-        '
-        Me.chkKhoaSoGCN.AutoSize = True
-        Me.chkKhoaSoGCN.Location = New System.Drawing.Point(91, 144)
-        Me.chkKhoaSoGCN.Name = "chkKhoaSoGCN"
-        Me.chkKhoaSoGCN.Size = New System.Drawing.Size(91, 17)
-        Me.chkKhoaSoGCN.TabIndex = 47
-        Me.chkKhoaSoGCN.Text = "Khóa sổ GCN"
-        Me.chkKhoaSoGCN.UseVisualStyleBackColor = True
         '
         'ctrlThongTinTraGCN
         '

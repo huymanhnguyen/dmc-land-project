@@ -377,17 +377,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debu
 E:\DMCLand\new\20102812_DMCLand_4\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.pdb
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\bin\Debug\DMC.Land.HoiDongXetDuyet.dll
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\bin\Debug\DMC.Land.HoiDongXetDuyet.pdb
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\bin\Debug\DMC.Land.HoiDongXetDuyet.xml
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.ctrlHoiDongXetDuyet.resources
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.ctrlTrangThaiHSXetDuyet.resources
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.frmReportQuyetDinhThanhLapHDXD.resources
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.frmTuDienHDXD.resources
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.frmTuDienNguoiXetDuyet.resources
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.Resources.resources
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\prjHoiDongXetDuyet.vbproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.dll
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.xml
-E:\dmc_land_project\Source\DMCLand\prjHoiDongXetDuyet\clsHoiDongXetDuyet\obj\Debug\DMC.Land.HoiDongXetDuyet.pdb

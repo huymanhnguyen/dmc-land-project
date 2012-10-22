@@ -31,6 +31,7 @@ Partial Class frmLichSuBienDong
         Me.CtrLichSuHSBienDong1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.CtrLichSuHSBienDong1.Location = New System.Drawing.Point(0, 0)
         Me.CtrLichSuHSBienDong1.MaDangKyBienDong = ""
+        Me.CtrLichSuHSBienDong1.MaDonViHanhChinh = Nothing
         Me.CtrLichSuHSBienDong1.MaHoSoCapGCN = ""
         Me.CtrLichSuHSBienDong1.MaThuaDat = ""
         Me.CtrLichSuHSBienDong1.MyError = ""
@@ -44,6 +45,7 @@ Partial Class frmLichSuBienDong
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(790, 624)
         Me.Controls.Add(Me.CtrLichSuHSBienDong1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmLichSuBienDong"
         Me.Text = "frmLichSuBienDong"
         Me.ResumeLayout(False)

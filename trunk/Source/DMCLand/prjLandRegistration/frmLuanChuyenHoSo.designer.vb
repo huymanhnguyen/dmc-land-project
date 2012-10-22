@@ -44,6 +44,7 @@ Partial Class frmLuanChuyenHoSo
         Me.BackColor = System.Drawing.Color.Lavender
         Me.ClientSize = New System.Drawing.Size(1009, 583)
         Me.Controls.Add(Me.CtrLuanChuyen1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.IsMdiContainer = True
         Me.Name = "frmLuanChuyenHoSo"
         Me.Text = "frmLuanChuyenHoSo"
