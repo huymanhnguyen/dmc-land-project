@@ -180,13 +180,3 @@ E:\DMCLand\new\20102812_DMCLand_4\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\prjIn
 E:\DMCLand\new\20102812_DMCLand_4\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\DMC.Land.BienBanXetDuyetCapGCN.dll
 E:\DMCLand\new\20102812_DMCLand_4\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\DMC.Land.BienBanXetDuyetCapGCN.xml
 E:\DMCLand\new\20102812_DMCLand_4\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\DMC.Land.BienBanXetDuyetCapGCN.pdb
-E:\dmc_land_project\Source\DMCLand\DMC.Land.BienBanXetDuyetCapGCN\bin\Debug\DMC.Land.BienBanXetDuyetCapGCN.dll
-E:\dmc_land_project\Source\DMCLand\DMC.Land.BienBanXetDuyetCapGCN\bin\Debug\DMC.Land.BienBanXetDuyetCapGCN.pdb
-E:\dmc_land_project\Source\DMCLand\DMC.Land.BienBanXetDuyetCapGCN\bin\Debug\DMC.Land.BienBanXetDuyetCapGCN.xml
-E:\dmc_land_project\Source\DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\DMC.Land.BienBanXetDuyetCapGCN.Resources.resources
-E:\dmc_land_project\Source\DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\DMC.Land.BienBanXetDuyetCapGCN.ctrBienBanXetDuyetCapGCN.resources
-E:\dmc_land_project\Source\DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\prjInBienBanXetDuyetCapGCN.vbproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\DMC.Land.BienBanXetDuyetCapGCN.dll
-E:\dmc_land_project\Source\DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\DMC.Land.BienBanXetDuyetCapGCN.xml
-E:\dmc_land_project\Source\DMCLand\DMC.Land.BienBanXetDuyetCapGCN\obj\Debug\DMC.Land.BienBanXetDuyetCapGCN.pdb

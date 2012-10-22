@@ -25,10 +25,10 @@ Partial Class frmXemThongTin
         Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.GroupBox2 = New System.Windows.Forms.GroupBox
+        Me.DataGridView1 = New DMC.[Interface].GridView.ctrlGridView
         Me.Label1 = New System.Windows.Forms.Label
         Me.txtTongHoSo = New System.Windows.Forms.TextBox
         Me.Label2 = New System.Windows.Forms.Label
-        Me.DataGridView1 = New DMC.[Interface].GridView.ctrlGridView
         Me.GroupBox2.SuspendLayout()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -43,40 +43,6 @@ Partial Class frmXemThongTin
         Me.GroupBox2.Size = New System.Drawing.Size(736, 443)
         Me.GroupBox2.TabIndex = 8
         Me.GroupBox2.TabStop = False
-        '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(6, 16)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(64, 13)
-        Me.Label1.TabIndex = 1
-        Me.Label1.Text = "Tổng hồ sơ:"
-        '
-        'txtTongHoSo
-        '
-        Me.txtTongHoSo.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.txtTongHoSo.BackColor = System.Drawing.SystemColors.Info
-        Me.txtTongHoSo.Enabled = False
-        Me.txtTongHoSo.ForeColor = System.Drawing.SystemColors.Info
-        Me.txtTongHoSo.Location = New System.Drawing.Point(76, 13)
-        Me.txtTongHoSo.Name = "txtTongHoSo"
-        Me.txtTongHoSo.Size = New System.Drawing.Size(229, 20)
-        Me.txtTongHoSo.TabIndex = 2
-        '
-        'Label2
-        '
-        Me.Label2.BackColor = System.Drawing.SystemColors.InactiveCaption
-        Me.Label2.Dock = System.Windows.Forms.DockStyle.Top
-        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(0, 0)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(739, 21)
-        Me.Label2.TabIndex = 9
-        Me.Label2.Text = "XEM THÔNG TIN TRƯỚC KHI IN BÁO CÁO"
-        Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'DataGridView1
         '
@@ -109,7 +75,41 @@ Partial Class frmXemThongTin
         Me.DataGridView1.RowHeadersWidth = 25
         Me.DataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.DataGridView1.Size = New System.Drawing.Size(730, 396)
-        Me.DataGridView1.TabIndex = 3
+        Me.DataGridView1.TabIndex = 2
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(6, 16)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(64, 13)
+        Me.Label1.TabIndex = 1
+        Me.Label1.Text = "Tổng hồ sơ:"
+        '
+        'txtTongHoSo
+        '
+        Me.txtTongHoSo.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+                    Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtTongHoSo.BackColor = System.Drawing.SystemColors.Info
+        Me.txtTongHoSo.Enabled = False
+        Me.txtTongHoSo.ForeColor = System.Drawing.SystemColors.Info
+        Me.txtTongHoSo.Location = New System.Drawing.Point(76, 13)
+        Me.txtTongHoSo.Name = "txtTongHoSo"
+        Me.txtTongHoSo.Size = New System.Drawing.Size(229, 20)
+        Me.txtTongHoSo.TabIndex = 1
+        '
+        'Label2
+        '
+        Me.Label2.BackColor = System.Drawing.SystemColors.InactiveCaption
+        Me.Label2.Dock = System.Windows.Forms.DockStyle.Top
+        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.Location = New System.Drawing.Point(0, 0)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(739, 21)
+        Me.Label2.TabIndex = 9
+        Me.Label2.Text = "XEM THÔNG TIN TRƯỚC KHI IN BÁO CÁO"
+        Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'frmXemThongTin
         '

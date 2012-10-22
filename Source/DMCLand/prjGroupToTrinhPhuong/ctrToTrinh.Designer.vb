@@ -74,7 +74,7 @@ Partial Class ctrToTrinh
         Me.Label4.Location = New System.Drawing.Point(481, 43)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(55, 13)
-        Me.Label4.TabIndex = 26
+        Me.Label4.TabIndex = 6
         Me.Label4.Text = "Ngày trình"
         '
         'dtpNgayTrinhDiaChinh
@@ -84,7 +84,7 @@ Partial Class ctrToTrinh
         Me.dtpNgayTrinhDiaChinh.Location = New System.Drawing.Point(542, 39)
         Me.dtpNgayTrinhDiaChinh.Name = "dtpNgayTrinhDiaChinh"
         Me.dtpNgayTrinhDiaChinh.Size = New System.Drawing.Size(139, 20)
-        Me.dtpNgayTrinhDiaChinh.TabIndex = 25
+        Me.dtpNgayTrinhDiaChinh.TabIndex = 7
         '
         'txtDonViLapToTrinh
         '
@@ -92,7 +92,7 @@ Partial Class ctrToTrinh
         Me.txtDonViLapToTrinh.Location = New System.Drawing.Point(73, 42)
         Me.txtDonViLapToTrinh.Name = "txtDonViLapToTrinh"
         Me.txtDonViLapToTrinh.Size = New System.Drawing.Size(368, 20)
-        Me.txtDonViLapToTrinh.TabIndex = 24
+        Me.txtDonViLapToTrinh.TabIndex = 3
         '
         'Label3
         '
@@ -100,7 +100,7 @@ Partial Class ctrToTrinh
         Me.Label3.Location = New System.Drawing.Point(12, 45)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(55, 13)
-        Me.Label3.TabIndex = 23
+        Me.Label3.TabIndex = 2
         Me.Label3.Text = "Đơn vị lập"
         '
         'Label2
@@ -109,7 +109,7 @@ Partial Class ctrToTrinh
         Me.Label2.Location = New System.Drawing.Point(452, 22)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(84, 13)
-        Me.Label2.TabIndex = 22
+        Me.Label2.TabIndex = 4
         Me.Label2.Text = "Ngày lập tờ trình"
         '
         'dtpNgayLapTrinhDiaChinh
@@ -119,7 +119,7 @@ Partial Class ctrToTrinh
         Me.dtpNgayLapTrinhDiaChinh.Location = New System.Drawing.Point(542, 15)
         Me.dtpNgayLapTrinhDiaChinh.Name = "dtpNgayLapTrinhDiaChinh"
         Me.dtpNgayLapTrinhDiaChinh.Size = New System.Drawing.Size(139, 20)
-        Me.dtpNgayLapTrinhDiaChinh.TabIndex = 21
+        Me.dtpNgayLapTrinhDiaChinh.TabIndex = 5
         '
         'txtToTrinhSo
         '
@@ -127,7 +127,7 @@ Partial Class ctrToTrinh
         Me.txtToTrinhSo.Location = New System.Drawing.Point(73, 18)
         Me.txtToTrinhSo.Name = "txtToTrinhSo"
         Me.txtToTrinhSo.Size = New System.Drawing.Size(123, 20)
-        Me.txtToTrinhSo.TabIndex = 20
+        Me.txtToTrinhSo.TabIndex = 1
         '
         'Label1
         '
@@ -135,7 +135,7 @@ Partial Class ctrToTrinh
         Me.Label1.Location = New System.Drawing.Point(7, 21)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(60, 13)
-        Me.Label1.TabIndex = 19
+        Me.Label1.TabIndex = 0
         Me.Label1.Text = "Tờ trình số:"
         '
         'cmdTimToTrinh
@@ -144,7 +144,7 @@ Partial Class ctrToTrinh
         Me.cmdTimToTrinh.Location = New System.Drawing.Point(721, 23)
         Me.cmdTimToTrinh.Name = "cmdTimToTrinh"
         Me.cmdTimToTrinh.Size = New System.Drawing.Size(60, 22)
-        Me.cmdTimToTrinh.TabIndex = 10
+        Me.cmdTimToTrinh.TabIndex = 8
         Me.cmdTimToTrinh.Text = "Tìm"
         Me.cmdTimToTrinh.UseVisualStyleBackColor = True
         '
@@ -155,7 +155,7 @@ Partial Class ctrToTrinh
         Me.cboBoChon.Location = New System.Drawing.Point(383, 469)
         Me.cboBoChon.Name = "cboBoChon"
         Me.cboBoChon.Size = New System.Drawing.Size(55, 33)
-        Me.cboBoChon.TabIndex = 13
+        Me.cboBoChon.TabIndex = 11
         Me.cboBoChon.Text = "Bỏ chọn"
         Me.cboBoChon.UseVisualStyleBackColor = True
         '
@@ -166,7 +166,7 @@ Partial Class ctrToTrinh
         Me.cboChon.Location = New System.Drawing.Point(329, 469)
         Me.cboChon.Name = "cboChon"
         Me.cboChon.Size = New System.Drawing.Size(55, 33)
-        Me.cboChon.TabIndex = 12
+        Me.cboChon.TabIndex = 10
         Me.cboChon.Text = "Chọn"
         Me.cboChon.UseVisualStyleBackColor = True
         '
@@ -176,7 +176,7 @@ Partial Class ctrToTrinh
         Me.cmdChapNhan.Location = New System.Drawing.Point(724, 648)
         Me.cmdChapNhan.Name = "cmdChapNhan"
         Me.cmdChapNhan.Size = New System.Drawing.Size(60, 22)
-        Me.cmdChapNhan.TabIndex = 1
+        Me.cmdChapNhan.TabIndex = 13
         Me.cmdChapNhan.Text = "Ghi"
         Me.cmdChapNhan.UseVisualStyleBackColor = True
         '
@@ -220,7 +220,7 @@ Partial Class ctrToTrinh
         Me.grdChonIn.ReadOnly = True
         Me.grdChonIn.RowHeadersWidth = 25
         Me.grdChonIn.Size = New System.Drawing.Size(762, 122)
-        Me.grdChonIn.TabIndex = 0
+        Me.grdChonIn.TabIndex = 12
         '
         'GroupBox2
         '
@@ -237,17 +237,21 @@ Partial Class ctrToTrinh
         'CrtTimKiemHoSoThuaDat1
         '
         Me.CrtTimKiemHoSoThuaDat1.BackColor = System.Drawing.Color.Lavender
+        Me.CrtTimKiemHoSoThuaDat1.CanhBaoTranhChap = ""
+        Me.CrtTimKiemHoSoThuaDat1.ChuChuyenNhuong = Nothing
         Me.CrtTimKiemHoSoThuaDat1.ChuSuDung = ""
         Me.CrtTimKiemHoSoThuaDat1.DiaChiThua = ""
         Me.CrtTimKiemHoSoThuaDat1.DienTich = ""
         Me.CrtTimKiemHoSoThuaDat1.Location = New System.Drawing.Point(8, 21)
+        Me.CrtTimKiemHoSoThuaDat1.MaDonViHanhChinh = ""
         Me.CrtTimKiemHoSoThuaDat1.NamCapGCN = ""
         Me.CrtTimKiemHoSoThuaDat1.Name = "CrtTimKiemHoSoThuaDat1"
         Me.CrtTimKiemHoSoThuaDat1.NgayLapToTrinh = ""
         Me.CrtTimKiemHoSoThuaDat1.Size = New System.Drawing.Size(772, 369)
         Me.CrtTimKiemHoSoThuaDat1.SoDinhDanh = ""
         Me.CrtTimKiemHoSoThuaDat1.SoThua = ""
-        Me.CrtTimKiemHoSoThuaDat1.TabIndex = 0
+        Me.CrtTimKiemHoSoThuaDat1.TabIndex = 9
+        Me.CrtTimKiemHoSoThuaDat1.TenBangBanDo = Nothing
         Me.CrtTimKiemHoSoThuaDat1.ToBanDo = ""
         '
         'ctrToTrinh

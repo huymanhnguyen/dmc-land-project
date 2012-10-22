@@ -33,6 +33,7 @@ Partial Class frmLapDanhSachToTrinh
         Me.CtrToTrinh1.Location = New System.Drawing.Point(0, 0)
         Me.CtrToTrinh1.MaDVHC = ""
         Me.CtrToTrinh1.MaHoSoCapGCN = ""
+        Me.CtrToTrinh1.MaToTrinh = ""
         Me.CtrToTrinh1.Name = "CtrToTrinh1"
         Me.CtrToTrinh1.NgayTrinh = ""
         Me.CtrToTrinh1.Size = New System.Drawing.Size(800, 615)
@@ -45,6 +46,7 @@ Partial Class frmLapDanhSachToTrinh
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 615)
         Me.Controls.Add(Me.CtrToTrinh1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmLapDanhSachToTrinh"
         Me.ShowIcon = False
         Me.ShowInTaskbar = False

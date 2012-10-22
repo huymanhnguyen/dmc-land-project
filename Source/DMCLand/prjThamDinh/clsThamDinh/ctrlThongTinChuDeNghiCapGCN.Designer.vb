@@ -72,7 +72,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.btnTroGiup.Location = New System.Drawing.Point(695, 17)
         Me.btnTroGiup.Name = "btnTroGiup"
         Me.btnTroGiup.Size = New System.Drawing.Size(58, 21)
-        Me.btnTroGiup.TabIndex = 11
+        Me.btnTroGiup.TabIndex = 10
         Me.btnTroGiup.Text = "Trợ giúp"
         Me.btnTroGiup.UseVisualStyleBackColor = True
         '
@@ -82,7 +82,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.txtGhiChuNoiDungChuDeNghiCapGCN.Location = New System.Drawing.Point(4, 193)
         Me.txtGhiChuNoiDungChuDeNghiCapGCN.Name = "txtGhiChuNoiDungChuDeNghiCapGCN"
         Me.txtGhiChuNoiDungChuDeNghiCapGCN.Size = New System.Drawing.Size(753, 59)
-        Me.txtGhiChuNoiDungChuDeNghiCapGCN.TabIndex = 6
+        Me.txtGhiChuNoiDungChuDeNghiCapGCN.TabIndex = 5
         Me.txtGhiChuNoiDungChuDeNghiCapGCN.Text = ""
         '
         'btnHuyLenh
@@ -90,7 +90,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.btnHuyLenh.Location = New System.Drawing.Point(186, 17)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 10
+        Me.btnHuyLenh.TabIndex = 9
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -146,14 +146,14 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.grdvwChuDeNghiCapGCN.ReadOnly = True
         Me.grdvwChuDeNghiCapGCN.RowHeadersWidth = 25
         Me.grdvwChuDeNghiCapGCN.Size = New System.Drawing.Size(753, 150)
-        Me.grdvwChuDeNghiCapGCN.TabIndex = 5
+        Me.grdvwChuDeNghiCapGCN.TabIndex = 4
         '
         'btnXoa
         '
         Me.btnXoa.Location = New System.Drawing.Point(64, 17)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 8
+        Me.btnXoa.TabIndex = 7
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -162,7 +162,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.btnSua.Location = New System.Drawing.Point(3, 17)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 7
+        Me.btnSua.TabIndex = 6
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -171,7 +171,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.btnGhi.Location = New System.Drawing.Point(125, 17)
         Me.btnGhi.Name = "btnGhi"
         Me.btnGhi.Size = New System.Drawing.Size(58, 21)
-        Me.btnGhi.TabIndex = 9
+        Me.btnGhi.TabIndex = 8
         Me.btnGhi.Text = "Ghi"
         Me.btnGhi.UseVisualStyleBackColor = True
         '
@@ -184,7 +184,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
         Me.TabControl1.Size = New System.Drawing.Size(752, 207)
-        Me.TabControl1.TabIndex = 107
+        Me.TabControl1.TabIndex = 0
         '
         'tabGDCN
         '
@@ -206,7 +206,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.btnUpChu.Location = New System.Drawing.Point(67, 157)
         Me.btnUpChu.Name = "btnUpChu"
         Me.btnUpChu.Size = New System.Drawing.Size(58, 21)
-        Me.btnUpChu.TabIndex = 4
+        Me.btnUpChu.TabIndex = 3
         Me.btnUpChu.UseVisualStyleBackColor = True
         '
         'btnDownChuGDCN
@@ -215,7 +215,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.btnDownChuGDCN.Location = New System.Drawing.Point(3, 157)
         Me.btnDownChuGDCN.Name = "btnDownChuGDCN"
         Me.btnDownChuGDCN.Size = New System.Drawing.Size(58, 21)
-        Me.btnDownChuGDCN.TabIndex = 1
+        Me.btnDownChuGDCN.TabIndex = 2
         Me.btnDownChuGDCN.UseVisualStyleBackColor = True
         '
         'grdvwChuHoSoDangKyCapGCNGDCN
@@ -269,7 +269,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.btnUpChu2.Location = New System.Drawing.Point(70, 154)
         Me.btnUpChu2.Name = "btnUpChu2"
         Me.btnUpChu2.Size = New System.Drawing.Size(58, 21)
-        Me.btnUpChu2.TabIndex = 5
+        Me.btnUpChu2.TabIndex = 3
         Me.btnUpChu2.UseVisualStyleBackColor = True
         '
         'btnDownChuCQNN
@@ -310,7 +310,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.grdvwChuHoSoDangKyCapGCNCQNN.ReadOnly = True
         Me.grdvwChuHoSoDangKyCapGCNCQNN.RowHeadersWidth = 25
         Me.grdvwChuHoSoDangKyCapGCNCQNN.Size = New System.Drawing.Size(739, 145)
-        Me.grdvwChuHoSoDangKyCapGCNCQNN.TabIndex = 2
+        Me.grdvwChuHoSoDangKyCapGCNCQNN.TabIndex = 1
         '
         'tabTCDN
         '
@@ -372,7 +372,7 @@ Partial Class ctrlThongTinChuDeNghiCapGCN
         Me.grdvwChuHoSoDangKyCapGCNTCDN.ReadOnly = True
         Me.grdvwChuHoSoDangKyCapGCNTCDN.RowHeadersWidth = 25
         Me.grdvwChuHoSoDangKyCapGCNTCDN.Size = New System.Drawing.Size(740, 151)
-        Me.grdvwChuHoSoDangKyCapGCNTCDN.TabIndex = 3
+        Me.grdvwChuHoSoDangKyCapGCNTCDN.TabIndex = 1
         '
         'GroupBox2
         '

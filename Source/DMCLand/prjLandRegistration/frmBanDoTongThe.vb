@@ -88,7 +88,7 @@ Public Class frmBanDoTongThe
         Try
             Dim dlg As DialogResult = MessageBox.Show("Bạn có muốn thoát khỏi chức năng tách ghép không?", "Warning", MessageBoxButtons.YesNo)
             If dlg = DialogResult.Yes Then
-                If CtrlTachThua.EditThuadat = True Then
+                If CtrlTachThua.KiemTraThuaDat = True Then
                     Dim con As String = GetConnection(bolKetNoiCSDL)
                     Dim connection As New SqlConnection(con)
                     Dim Cmd As New SqlCommand("spUpdateThuaDatDangThaoTac", connection)

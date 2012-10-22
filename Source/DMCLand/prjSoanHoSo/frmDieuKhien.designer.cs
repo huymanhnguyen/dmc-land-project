@@ -41,9 +41,9 @@
             this.cmdXoaKichThuoc = new System.Windows.Forms.Button();
             this.cmdXoaNhan = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtSize = new System.Windows.Forms.NumericUpDown();
             this.radDuongBaoNgoai = new System.Windows.Forms.RadioButton();
             this.radDuongBaoTrong = new System.Windows.Forms.RadioButton();
-            this.txtSize = new System.Windows.Forms.NumericUpDown();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtSize)).BeginInit();
             this.SuspendLayout();
@@ -97,7 +97,7 @@
             this.cmdThoat.Location = new System.Drawing.Point(198, 88);
             this.cmdThoat.Name = "cmdThoat";
             this.cmdThoat.Size = new System.Drawing.Size(77, 23);
-            this.cmdThoat.TabIndex = 9;
+            this.cmdThoat.TabIndex = 10;
             this.cmdThoat.Text = "Thoát";
             this.cmdThoat.UseVisualStyleBackColor = true;
             this.cmdThoat.Click += new System.EventHandler(this.cmdThoat_Click);
@@ -108,7 +108,7 @@
             this.cmdThua.Location = new System.Drawing.Point(229, 0);
             this.cmdThua.Name = "cmdThua";
             this.cmdThua.Size = new System.Drawing.Size(50, 39);
-            this.cmdThua.TabIndex = 10;
+            this.cmdThua.TabIndex = 4;
             this.cmdThua.Text = "Tên thửa";
             this.cmdThua.UseVisualStyleBackColor = true;
             this.cmdThua.Click += new System.EventHandler(this.cmdThua_Click);
@@ -130,7 +130,7 @@
             this.cmdXoaTenThua.Location = new System.Drawing.Point(234, 43);
             this.cmdXoaTenThua.Name = "cmdXoaTenThua";
             this.cmdXoaTenThua.Size = new System.Drawing.Size(40, 39);
-            this.cmdXoaTenThua.TabIndex = 11;
+            this.cmdXoaTenThua.TabIndex = 9;
             this.cmdXoaTenThua.UseVisualStyleBackColor = true;
             this.cmdXoaTenThua.Click += new System.EventHandler(this.cmdXoaTenThua_Click);
             // 
@@ -195,6 +195,14 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Tuỳ chọn";
             // 
+            // txtSize
+            // 
+            this.txtSize.DecimalPlaces = 2;
+            this.txtSize.Location = new System.Drawing.Point(210, 19);
+            this.txtSize.Name = "txtSize";
+            this.txtSize.Size = new System.Drawing.Size(58, 20);
+            this.txtSize.TabIndex = 14;
+            // 
             // radDuongBaoNgoai
             // 
             this.radDuongBaoNgoai.AutoSize = true;
@@ -216,14 +224,6 @@
             this.radDuongBaoTrong.TabStop = true;
             this.radDuongBaoTrong.Text = "Đường bao trong";
             this.radDuongBaoTrong.UseVisualStyleBackColor = true;
-            // 
-            // txtSize
-            // 
-            this.txtSize.DecimalPlaces = 2;
-            this.txtSize.Location = new System.Drawing.Point(210, 19);
-            this.txtSize.Name = "txtSize";
-            this.txtSize.Size = new System.Drawing.Size(58, 20);
-            this.txtSize.TabIndex = 14;
             // 
             // frmDieuKhien
             // 

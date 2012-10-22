@@ -53,7 +53,7 @@ Partial Class ctrlChuTCDN
         Me.btnGhi.Location = New System.Drawing.Point(178, 313)
         Me.btnGhi.Name = "btnGhi"
         Me.btnGhi.Size = New System.Drawing.Size(58, 21)
-        Me.btnGhi.TabIndex = 18
+        Me.btnGhi.TabIndex = 16
         Me.btnGhi.Text = "Ghi"
         Me.btnGhi.UseVisualStyleBackColor = True
         '
@@ -62,7 +62,7 @@ Partial Class ctrlChuTCDN
         Me.btnXoa.Location = New System.Drawing.Point(120, 313)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(57, 21)
-        Me.btnXoa.TabIndex = 17
+        Me.btnXoa.TabIndex = 15
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -71,7 +71,7 @@ Partial Class ctrlChuTCDN
         Me.btnSua.Location = New System.Drawing.Point(62, 313)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(57, 21)
-        Me.btnSua.TabIndex = 16
+        Me.btnSua.TabIndex = 14
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -80,7 +80,7 @@ Partial Class ctrlChuTCDN
         Me.btnThem.Location = New System.Drawing.Point(4, 313)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(57, 21)
-        Me.btnThem.TabIndex = 15
+        Me.btnThem.TabIndex = 13
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '
@@ -138,7 +138,7 @@ Partial Class ctrlChuTCDN
         Me.grdvwChu.RowHeadersWidth = 25
         Me.grdvwChu.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.grdvwChu.Size = New System.Drawing.Size(662, 177)
-        Me.grdvwChu.TabIndex = 13
+        Me.grdvwChu.TabIndex = 18
         '
         'btnMaDoiTuong
         '
@@ -155,7 +155,7 @@ Partial Class ctrlChuTCDN
         Me.DTPNgayCap.Location = New System.Drawing.Point(292, 43)
         Me.DTPNgayCap.Name = "DTPNgayCap"
         Me.DTPNgayCap.Size = New System.Drawing.Size(104, 20)
-        Me.DTPNgayCap.TabIndex = 5
+        Me.DTPNgayCap.TabIndex = 8
         '
         'txtDiaChi
         '
@@ -164,7 +164,7 @@ Partial Class ctrlChuTCDN
         Me.txtDiaChi.Location = New System.Drawing.Point(120, 97)
         Me.txtDiaChi.Name = "txtDiaChi"
         Me.txtDiaChi.Size = New System.Drawing.Size(549, 20)
-        Me.txtDiaChi.TabIndex = 7
+        Me.txtDiaChi.TabIndex = 12
         Me.txtDiaChi.Text = "Phường Long Biên, Quận Long Biên, Tp Hà Nội"
         '
         'txtNoiCap
@@ -174,14 +174,14 @@ Partial Class ctrlChuTCDN
         Me.txtNoiCap.Location = New System.Drawing.Point(120, 70)
         Me.txtNoiCap.Name = "txtNoiCap"
         Me.txtNoiCap.Size = New System.Drawing.Size(549, 20)
-        Me.txtNoiCap.TabIndex = 6
+        Me.txtNoiCap.TabIndex = 10
         '
         'txtSoDinhDanh
         '
         Me.txtSoDinhDanh.Location = New System.Drawing.Point(120, 44)
         Me.txtSoDinhDanh.Name = "txtSoDinhDanh"
         Me.txtSoDinhDanh.Size = New System.Drawing.Size(110, 20)
-        Me.txtSoDinhDanh.TabIndex = 4
+        Me.txtSoDinhDanh.TabIndex = 6
         '
         'txtTen
         '
@@ -191,7 +191,7 @@ Partial Class ctrlChuTCDN
         Me.txtTen.Multiline = True
         Me.txtTen.Name = "txtTen"
         Me.txtTen.Size = New System.Drawing.Size(268, 20)
-        Me.txtTen.TabIndex = 3
+        Me.txtTen.TabIndex = 4
         '
         'txtMaDoiTuong
         '
@@ -206,7 +206,7 @@ Partial Class ctrlChuTCDN
         Me.Label1.Location = New System.Drawing.Point(6, 100)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(40, 13)
-        Me.Label1.TabIndex = 19
+        Me.Label1.TabIndex = 11
         Me.Label1.Text = "Địa chỉ"
         '
         'Label2
@@ -215,7 +215,7 @@ Partial Class ctrlChuTCDN
         Me.Label2.Location = New System.Drawing.Point(6, 73)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(44, 13)
-        Me.Label2.TabIndex = 16
+        Me.Label2.TabIndex = 9
         Me.Label2.Text = "Nơi cấp"
         '
         'Label3
@@ -224,7 +224,7 @@ Partial Class ctrlChuTCDN
         Me.Label3.Location = New System.Drawing.Point(237, 47)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(53, 13)
-        Me.Label3.TabIndex = 14
+        Me.Label3.TabIndex = 7
         Me.Label3.Text = "Ngày cấp"
         '
         'Label4
@@ -233,7 +233,7 @@ Partial Class ctrlChuTCDN
         Me.Label4.Location = New System.Drawing.Point(6, 47)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(111, 13)
-        Me.Label4.TabIndex = 12
+        Me.Label4.TabIndex = 5
         Me.Label4.Text = "Giấy phép đăng ký số"
         '
         'Label5
@@ -242,7 +242,7 @@ Partial Class ctrlChuTCDN
         Me.Label5.Location = New System.Drawing.Point(260, 17)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(26, 13)
-        Me.Label5.TabIndex = 11
+        Me.Label5.TabIndex = 3
         Me.Label5.Text = "Tên"
         '
         'Label6
@@ -251,7 +251,7 @@ Partial Class ctrlChuTCDN
         Me.Label6.Location = New System.Drawing.Point(6, 17)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(70, 13)
-        Me.Label6.TabIndex = 8
+        Me.Label6.TabIndex = 0
         Me.Label6.Text = "Mã đối tượng"
         '
         'btnHuyLenh
@@ -260,7 +260,7 @@ Partial Class ctrlChuTCDN
         Me.btnHuyLenh.Location = New System.Drawing.Point(238, 313)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(57, 21)
-        Me.btnHuyLenh.TabIndex = 19
+        Me.btnHuyLenh.TabIndex = 17
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '

@@ -58,7 +58,7 @@ Partial Class ctrUpdateHeThong
         Me.lstFile.Location = New System.Drawing.Point(6, 71)
         Me.lstFile.Name = "lstFile"
         Me.lstFile.Size = New System.Drawing.Size(469, 173)
-        Me.lstFile.TabIndex = 8
+        Me.lstFile.TabIndex = 4
         '
         'txtThuMucConVert
         '
@@ -67,14 +67,14 @@ Partial Class ctrUpdateHeThong
         Me.txtThuMucConVert.Name = "txtThuMucConVert"
         Me.txtThuMucConVert.ReadOnly = True
         Me.txtThuMucConVert.Size = New System.Drawing.Size(404, 20)
-        Me.txtThuMucConVert.TabIndex = 7
+        Me.txtThuMucConVert.TabIndex = 3
         '
         'cmdChonThuMuc
         '
         Me.cmdChonThuMuc.Location = New System.Drawing.Point(416, 43)
         Me.cmdChonThuMuc.Name = "cmdChonThuMuc"
         Me.cmdChonThuMuc.Size = New System.Drawing.Size(65, 23)
-        Me.cmdChonThuMuc.TabIndex = 6
+        Me.cmdChonThuMuc.TabIndex = 2
         Me.cmdChonThuMuc.Text = "<<..>>"
         Me.cmdChonThuMuc.UseVisualStyleBackColor = True
         '
@@ -83,7 +83,7 @@ Partial Class ctrUpdateHeThong
         Me.cmdThucThi.Location = New System.Drawing.Point(6, 260)
         Me.cmdThucThi.Name = "cmdThucThi"
         Me.cmdThucThi.Size = New System.Drawing.Size(123, 25)
-        Me.cmdThucThi.TabIndex = 1
+        Me.cmdThucThi.TabIndex = 5
         Me.cmdThucThi.Text = "Thực thi"
         Me.cmdThucThi.UseVisualStyleBackColor = True
         '

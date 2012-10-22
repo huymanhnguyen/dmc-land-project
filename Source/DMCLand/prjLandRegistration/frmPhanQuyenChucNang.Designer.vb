@@ -42,6 +42,7 @@ Partial Class frmPhanQuyenChucNang
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(804, 510)
         Me.Controls.Add(Me.CtrPhanQuyenQuyTrinhChucNang1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmPhanQuyenChucNang"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "frmPhanQuyenChucNang"

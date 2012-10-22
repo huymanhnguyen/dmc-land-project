@@ -5417,4 +5417,28 @@
     <Login>18-Oct-12 4:34:57 PM</Login>
     <Logout>18-Oct-12 4:41:09 PM</Logout>
   </User>
+  <User id="903">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>19-Oct-12 2:54:09 PM</Login>
+    <Logout>19-Oct-12 3:06:14 PM</Logout>
+  </User>
+  <User id="904">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>19-Oct-12 3:52:26 PM</Login>
+    <Logout>19-Oct-12 4:02:32 PM</Logout>
+  </User>
+  <User id="905">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>20-Oct-12 9:50:39 AM</Login>
+    <Logout>20-Oct-12 9:52:20 AM</Logout>
+  </User>
+  <User id="906">
+    <TenUser>quynh</TenUser>
+    <MaQuyen>1</MaQuyen>
+    <Login>22-Oct-12 9:37:51 AM</Login>
+    <Logout>22-Oct-12 9:50:30 AM</Logout>
+  </User>
 </Users>

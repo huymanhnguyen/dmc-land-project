@@ -37,7 +37,7 @@ Partial Class frmKhoiTaoDuLieuBanDoPhuong
         Me.cmdKhoiTao.Location = New System.Drawing.Point(478, 98)
         Me.cmdKhoiTao.Name = "cmdKhoiTao"
         Me.cmdKhoiTao.Size = New System.Drawing.Size(107, 26)
-        Me.cmdKhoiTao.TabIndex = 1
+        Me.cmdKhoiTao.TabIndex = 7
         Me.cmdKhoiTao.Text = "Khởi tạo dữ liệu"
         Me.cmdKhoiTao.UseVisualStyleBackColor = True
         '
@@ -47,7 +47,7 @@ Partial Class frmKhoiTaoDuLieuBanDoPhuong
         Me.Label1.Location = New System.Drawing.Point(269, 23)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(65, 13)
-        Me.Label1.TabIndex = 2
+        Me.Label1.TabIndex = 1
         Me.Label1.Text = "Tên phường"
         '
         'Label2
@@ -65,7 +65,7 @@ Partial Class frmKhoiTaoDuLieuBanDoPhuong
         Me.Label3.Location = New System.Drawing.Point(270, 75)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(96, 13)
-        Me.Label3.TabIndex = 4
+        Me.Label3.TabIndex = 5
         Me.Label3.Text = "Đơn vị hành chính"
         '
         'txttenPhuong
@@ -74,7 +74,7 @@ Partial Class frmKhoiTaoDuLieuBanDoPhuong
         Me.txttenPhuong.Name = "txttenPhuong"
         Me.txttenPhuong.ReadOnly = True
         Me.txttenPhuong.Size = New System.Drawing.Size(216, 20)
-        Me.txttenPhuong.TabIndex = 5
+        Me.txttenPhuong.TabIndex = 2
         '
         'txtTenTat
         '
@@ -82,7 +82,7 @@ Partial Class frmKhoiTaoDuLieuBanDoPhuong
         Me.txtTenTat.Name = "txtTenTat"
         Me.txtTenTat.ReadOnly = True
         Me.txtTenTat.Size = New System.Drawing.Size(216, 20)
-        Me.txtTenTat.TabIndex = 6
+        Me.txtTenTat.TabIndex = 4
         '
         'txtDonViHanhChinh
         '
@@ -90,7 +90,7 @@ Partial Class frmKhoiTaoDuLieuBanDoPhuong
         Me.txtDonViHanhChinh.Name = "txtDonViHanhChinh"
         Me.txtDonViHanhChinh.ReadOnly = True
         Me.txtDonViHanhChinh.Size = New System.Drawing.Size(216, 20)
-        Me.txtDonViHanhChinh.TabIndex = 7
+        Me.txtDonViHanhChinh.TabIndex = 6
         '
         'UcListDVHC1
         '
@@ -105,12 +105,12 @@ Partial Class frmKhoiTaoDuLieuBanDoPhuong
         Me.UcListDVHC1.Name = "UcListDVHC1"
         Me.UcListDVHC1.Size = New System.Drawing.Size(264, 330)
         Me.UcListDVHC1.TabIndex = 0
+        Me.UcListDVHC1.TrangThai = "0"
         '
         'frmKhoiTaoDuLieuBanDoPhuong
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.AutoSize = True
         Me.BackColor = System.Drawing.Color.Lavender
         Me.ClientSize = New System.Drawing.Size(597, 304)
         Me.Controls.Add(Me.txtDonViHanhChinh)
@@ -121,6 +121,8 @@ Partial Class frmKhoiTaoDuLieuBanDoPhuong
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.cmdKhoiTao)
         Me.Controls.Add(Me.UcListDVHC1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
+        Me.MaximizeBox = False
         Me.Name = "frmKhoiTaoDuLieuBanDoPhuong"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "KHOI TAO DU LIEU BAN DO PHUONG"

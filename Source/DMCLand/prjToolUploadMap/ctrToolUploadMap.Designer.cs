@@ -203,7 +203,7 @@
             this.toolStripHienThiBanDo.Image = global::prjToolUploadMap.Properties.Resources.LopBanDo;
             this.toolStripHienThiBanDo.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripHienThiBanDo.Name = "toolStripHienThiBanDo";
-            this.toolStripHienThiBanDo.Size = new System.Drawing.Size(99, 22);
+            this.toolStripHienThiBanDo.Size = new System.Drawing.Size(109, 22);
             this.toolStripHienThiBanDo.Text = "Hiển thị bản đồ";
             this.toolStripHienThiBanDo.Click += new System.EventHandler(this.toolStripHienThiBanDo_Click);
             // 
@@ -217,7 +217,7 @@
             this.toolStripLuu.Image = global::prjToolUploadMap.Properties.Resources.save;
             this.toolStripLuu.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripLuu.Name = "toolStripLuu";
-            this.toolStripLuu.Size = new System.Drawing.Size(94, 22);
+            this.toolStripLuu.Size = new System.Drawing.Size(100, 22);
             this.toolStripLuu.Text = "Lưu vào CSDL";
             this.toolStripLuu.Click += new System.EventHandler(this.toolStripLuu_Click);
             // 
@@ -231,7 +231,7 @@
             this.toolStripDongBanDo.Image = global::prjToolUploadMap.Properties.Resources.Lui;
             this.toolStripDongBanDo.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripDongBanDo.Name = "toolStripDongBanDo";
-            this.toolStripDongBanDo.Size = new System.Drawing.Size(89, 22);
+            this.toolStripDongBanDo.Size = new System.Drawing.Size(96, 22);
             this.toolStripDongBanDo.Text = "Đóng bản đồ";
             this.toolStripDongBanDo.Click += new System.EventHandler(this.toolStripDongBanDo_Click);
             // 
@@ -240,7 +240,7 @@
             this.inbaocaoquihoach.Image = ((System.Drawing.Image)(resources.GetObject("inbaocaoquihoach.Image")));
             this.inbaocaoquihoach.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.inbaocaoquihoach.Name = "inbaocaoquihoach";
-            this.inbaocaoquihoach.Size = new System.Drawing.Size(127, 22);
+            this.inbaocaoquihoach.Size = new System.Drawing.Size(138, 22);
             this.inbaocaoquihoach.Text = "In báo cáo qui hoạch";
             this.inbaocaoquihoach.Visible = false;
             // 
@@ -249,7 +249,7 @@
             this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
             this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(146, 22);
+            this.toolStripButton1.Size = new System.Drawing.Size(159, 22);
             this.toolStripButton1.Text = "Báo cáo dự án khu đô thị";
             this.toolStripButton1.Visible = false;
             // 
@@ -283,7 +283,7 @@
             this.cmdHienThi.Location = new System.Drawing.Point(1, 705);
             this.cmdHienThi.Name = "cmdHienThi";
             this.cmdHienThi.Size = new System.Drawing.Size(190, 27);
-            this.cmdHienThi.TabIndex = 3;
+            this.cmdHienThi.TabIndex = 10;
             this.cmdHienThi.Text = "Hiển thị";
             this.cmdHienThi.UseVisualStyleBackColor = true;
             this.cmdHienThi.Visible = false;
@@ -310,7 +310,7 @@
             this.lyrControl.ShowContextMenu = true;
             this.lyrControl.ShowMapNode = true;
             this.lyrControl.Size = new System.Drawing.Size(194, 735);
-            this.lyrControl.TabIndex = 2;
+            this.lyrControl.TabIndex = 8;
             this.lyrControl.Tools = null;
             this.lyrControl.UpdateWhenCollectionChanges = true;
             this.lyrControl.UpdateWhenMapViewChanges = true;
@@ -624,7 +624,7 @@
             this.mapControl1.Location = new System.Drawing.Point(0, 0);
             this.mapControl1.Name = "mapControl1";
             this.mapControl1.Size = new System.Drawing.Size(790, 735);
-            this.mapControl1.TabIndex = 0;
+            this.mapControl1.TabIndex = 9;
             this.mapControl1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.mapControl1_MouseMove);
             this.mapControl1.Tools.LeftButtonTool = null;
             this.mapControl1.Tools.MiddleButtonTool = null;
@@ -668,7 +668,7 @@
             this.txtTenDuAn.Location = new System.Drawing.Point(6, 37);
             this.txtTenDuAn.Name = "txtTenDuAn";
             this.txtTenDuAn.Size = new System.Drawing.Size(215, 20);
-            this.txtTenDuAn.TabIndex = 5;
+            this.txtTenDuAn.TabIndex = 1;
             // 
             // label4
             // 
@@ -684,7 +684,7 @@
             this.txtTyLe.Location = new System.Drawing.Point(6, 79);
             this.txtTyLe.Name = "txtTyLe";
             this.txtTyLe.Size = new System.Drawing.Size(215, 20);
-            this.txtTyLe.TabIndex = 17;
+            this.txtTyLe.TabIndex = 2;
             // 
             // btnHuyLenh
             // 
@@ -692,7 +692,7 @@
             this.btnHuyLenh.Location = new System.Drawing.Point(180, 110);
             this.btnHuyLenh.Name = "btnHuyLenh";
             this.btnHuyLenh.Size = new System.Drawing.Size(43, 22);
-            this.btnHuyLenh.TabIndex = 15;
+            this.btnHuyLenh.TabIndex = 7;
             this.btnHuyLenh.Text = "Hủy";
             this.btnHuyLenh.UseVisualStyleBackColor = true;
             this.btnHuyLenh.Click += new System.EventHandler(this.btnHuyLenh_Click);
@@ -702,7 +702,7 @@
             this.btnCapNhat.Location = new System.Drawing.Point(137, 110);
             this.btnCapNhat.Name = "btnCapNhat";
             this.btnCapNhat.Size = new System.Drawing.Size(40, 22);
-            this.btnCapNhat.TabIndex = 14;
+            this.btnCapNhat.TabIndex = 6;
             this.btnCapNhat.Text = "Ghi";
             this.btnCapNhat.UseVisualStyleBackColor = true;
             this.btnCapNhat.Click += new System.EventHandler(this.btnCapNhat_Click);
@@ -721,7 +721,7 @@
             this.btnXoa.Location = new System.Drawing.Point(92, 109);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(42, 24);
-            this.btnXoa.TabIndex = 13;
+            this.btnXoa.TabIndex = 5;
             this.btnXoa.Text = "Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
@@ -732,7 +732,7 @@
             this.btnThem.Location = new System.Drawing.Point(2, 108);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(42, 24);
-            this.btnThem.TabIndex = 11;
+            this.btnThem.TabIndex = 3;
             this.btnThem.Text = "Thêm";
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
@@ -742,7 +742,7 @@
             this.btnSua.Location = new System.Drawing.Point(46, 108);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(43, 24);
-            this.btnSua.TabIndex = 12;
+            this.btnSua.TabIndex = 4;
             this.btnSua.Text = "Sửa";
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
@@ -787,7 +787,7 @@
             this.grdDuAn.RowHeadersVisible = false;
             this.grdDuAn.RowHeadersWidth = 25;
             this.grdDuAn.Size = new System.Drawing.Size(230, 246);
-            this.grdDuAn.TabIndex = 7;
+            this.grdDuAn.TabIndex = 0;
             this.grdDuAn.CellMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.grdDuAn_CellMouseClick);
             // 
             // splitter1

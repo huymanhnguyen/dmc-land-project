@@ -32,24 +32,24 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.grdLSBienDong = new DMC.Interface.GridView.ctrlGridView();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.mapToolBar1 = new MapInfo.Windows.Controls.MapToolBar();
             this.mapToolBarButton1 = new MapInfo.Windows.Controls.MapToolBarButton();
             this.mapToolBarButton2 = new MapInfo.Windows.Controls.MapToolBarButton();
             this.mapToolBarButton3 = new MapInfo.Windows.Controls.MapToolBarButton();
             this.mapToolBarButton4 = new MapInfo.Windows.Controls.MapToolBarButton();
+            this.mapToolBarButton5 = new MapInfo.Windows.Controls.MapToolBarButton();
+            this.mapToolBarButton6 = new MapInfo.Windows.Controls.MapToolBarButton();
             this.mapControl1 = new MapInfo.Windows.Controls.MapControl();
             this.cmdPhucHoi = new System.Windows.Forms.Button();
             this.cmdHoSo = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.lyrControl = new MapInfo.Windows.Controls.LayerControl();
-            this.mapToolBarButton5 = new MapInfo.Windows.Controls.MapToolBarButton();
-            this.mapToolBarButton6 = new MapInfo.Windows.Controls.MapToolBarButton();
-            this.grdLSBienDong = new DMC.Interface.GridView.ctrlGridView();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.grdLSBienDong)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.grdLSBienDong)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -62,6 +62,40 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Lịch sử biến động";
+            // 
+            // grdLSBienDong
+            // 
+            this.grdLSBienDong.AllowUserToAddRows = false;
+            this.grdLSBienDong.AllowUserToDeleteRows = false;
+            this.grdLSBienDong.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+                        | System.Windows.Forms.AnchorStyles.Left)
+                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.grdLSBienDong.BackgroundColor = System.Drawing.Color.WhiteSmoke;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.grdLSBienDong.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            this.grdLSBienDong.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.grdLSBienDong.DefaultCellStyle = dataGridViewCellStyle2;
+            this.grdLSBienDong.Location = new System.Drawing.Point(6, 19);
+            this.grdLSBienDong.Name = "grdLSBienDong";
+            this.grdLSBienDong.ReadOnly = true;
+            this.grdLSBienDong.RowHeadersWidth = 25;
+            this.grdLSBienDong.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.grdLSBienDong.Size = new System.Drawing.Size(264, 169);
+            this.grdLSBienDong.TabIndex = 3;
+            this.grdLSBienDong.CellMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.grdLSBienDong_CellMouseClick);
             // 
             // groupBox2
             // 
@@ -118,6 +152,18 @@
             this.mapToolBarButton4.Name = "mapToolBarButton4";
             this.mapToolBarButton4.ToolTipText = "Pan";
             // 
+            // mapToolBarButton5
+            // 
+            this.mapToolBarButton5.ButtonType = MapInfo.Windows.Controls.MapToolButtonType.SelectPolygon;
+            this.mapToolBarButton5.Name = "mapToolBarButton5";
+            this.mapToolBarButton5.ToolTipText = "Polygon Select";
+            // 
+            // mapToolBarButton6
+            // 
+            this.mapToolBarButton6.ButtonType = MapInfo.Windows.Controls.MapToolButtonType.SelectRectangle;
+            this.mapToolBarButton6.Name = "mapToolBarButton6";
+            this.mapToolBarButton6.ToolTipText = "Marquee Select";
+            // 
             // mapControl1
             // 
             this.mapControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
@@ -139,7 +185,7 @@
             this.cmdPhucHoi.Location = new System.Drawing.Point(204, 539);
             this.cmdPhucHoi.Name = "cmdPhucHoi";
             this.cmdPhucHoi.Size = new System.Drawing.Size(75, 23);
-            this.cmdPhucHoi.TabIndex = 2;
+            this.cmdPhucHoi.TabIndex = 5;
             this.cmdPhucHoi.Text = "Phục hồi";
             this.cmdPhucHoi.UseVisualStyleBackColor = true;
             // 
@@ -149,7 +195,7 @@
             this.cmdHoSo.Location = new System.Drawing.Point(123, 539);
             this.cmdHoSo.Name = "cmdHoSo";
             this.cmdHoSo.Size = new System.Drawing.Size(75, 23);
-            this.cmdHoSo.TabIndex = 3;
+            this.cmdHoSo.TabIndex = 4;
             this.cmdHoSo.Text = "Hồ sơ";
             this.cmdHoSo.UseVisualStyleBackColor = true;
             this.cmdHoSo.Click += new System.EventHandler(this.cmdHoSo_Click);
@@ -194,52 +240,6 @@
             this.lyrControl.UpdateWhenMapViewChanges = true;
             this.lyrControl.UpdateWhenNameChanges = true;
             // 
-            // mapToolBarButton5
-            // 
-            this.mapToolBarButton5.ButtonType = MapInfo.Windows.Controls.MapToolButtonType.SelectPolygon;
-            this.mapToolBarButton5.Name = "mapToolBarButton5";
-            this.mapToolBarButton5.ToolTipText = "Polygon Select";
-            // 
-            // mapToolBarButton6
-            // 
-            this.mapToolBarButton6.ButtonType = MapInfo.Windows.Controls.MapToolButtonType.SelectRectangle;
-            this.mapToolBarButton6.Name = "mapToolBarButton6";
-            this.mapToolBarButton6.ToolTipText = "Marquee Select";
-            // 
-            // grdLSBienDong
-            // 
-            this.grdLSBienDong.AllowUserToAddRows = false;
-            this.grdLSBienDong.AllowUserToDeleteRows = false;
-            this.grdLSBienDong.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
-            this.grdLSBienDong.BackgroundColor = System.Drawing.Color.WhiteSmoke;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.grdLSBienDong.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
-            this.grdLSBienDong.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.grdLSBienDong.DefaultCellStyle = dataGridViewCellStyle2;
-            this.grdLSBienDong.Location = new System.Drawing.Point(6, 19);
-            this.grdLSBienDong.Name = "grdLSBienDong";
-            this.grdLSBienDong.ReadOnly = true;
-            this.grdLSBienDong.RowHeadersWidth = 25;
-            this.grdLSBienDong.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.grdLSBienDong.Size = new System.Drawing.Size(264, 169);
-            this.grdLSBienDong.TabIndex = 0;
-            this.grdLSBienDong.CellMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.grdLSBienDong_CellMouseClick);
-            // 
             // ctrLichSuBienDong
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -253,10 +253,10 @@
             this.Size = new System.Drawing.Size(955, 574);
             this.Load += new System.EventHandler(this.ctrLichSuBienDong_Load);
             this.groupBox1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.grdLSBienDong)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.groupBox3.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.grdLSBienDong)).EndInit();
             this.ResumeLayout(false);
 
         }

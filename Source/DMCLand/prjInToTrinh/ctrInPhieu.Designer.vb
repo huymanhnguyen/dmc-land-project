@@ -22,8 +22,8 @@ Partial Class ctrInToTrinh
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.GroupBox3 = New System.Windows.Forms.GroupBox
         Me.grdChonIn = New DMC.[Interface].GridView.ctrlGridView
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
@@ -63,29 +63,29 @@ Partial Class ctrInToTrinh
                     Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grdChonIn.BackgroundColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.grdChonIn.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.grdChonIn.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.grdChonIn.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.grdChonIn.DefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.grdChonIn.DefaultCellStyle = DataGridViewCellStyle2
         Me.grdChonIn.Location = New System.Drawing.Point(21, 16)
         Me.grdChonIn.Name = "grdChonIn"
         Me.grdChonIn.ReadOnly = True
         Me.grdChonIn.RowHeadersWidth = 25
         Me.grdChonIn.Size = New System.Drawing.Size(752, 162)
-        Me.grdChonIn.TabIndex = 4
+        Me.grdChonIn.TabIndex = 5
         '
         'GroupBox1
         '
@@ -105,7 +105,7 @@ Partial Class ctrInToTrinh
         Me.cmdInQuyetDinh.Location = New System.Drawing.Point(689, 10)
         Me.cmdInQuyetDinh.Name = "cmdInQuyetDinh"
         Me.cmdInQuyetDinh.Size = New System.Drawing.Size(89, 22)
-        Me.cmdInQuyetDinh.TabIndex = 6
+        Me.cmdInQuyetDinh.TabIndex = 7
         Me.cmdInQuyetDinh.Text = "In quyết định"
         Me.cmdInQuyetDinh.UseVisualStyleBackColor = True
         '
@@ -115,7 +115,7 @@ Partial Class ctrInToTrinh
         Me.cmdInHoSo.Location = New System.Drawing.Point(594, 10)
         Me.cmdInHoSo.Name = "cmdInHoSo"
         Me.cmdInHoSo.Size = New System.Drawing.Size(89, 22)
-        Me.cmdInHoSo.TabIndex = 5
+        Me.cmdInHoSo.TabIndex = 6
         Me.cmdInHoSo.Text = "In phiếu hồ sơ"
         Me.cmdInHoSo.UseVisualStyleBackColor = True
         '
@@ -140,7 +140,7 @@ Partial Class ctrInToTrinh
         Me.cmdTimHoSo.Location = New System.Drawing.Point(476, 18)
         Me.cmdTimHoSo.Name = "cmdTimHoSo"
         Me.cmdTimHoSo.Size = New System.Drawing.Size(115, 23)
-        Me.cmdTimHoSo.TabIndex = 3
+        Me.cmdTimHoSo.TabIndex = 4
         Me.cmdTimHoSo.Text = "Tìm kiếm hồ sơ"
         Me.cmdTimHoSo.UseVisualStyleBackColor = True
         '
@@ -150,7 +150,7 @@ Partial Class ctrInToTrinh
         Me.Label2.Location = New System.Drawing.Point(233, 23)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(55, 13)
-        Me.Label2.TabIndex = 3
+        Me.Label2.TabIndex = 2
         Me.Label2.Text = "Ngày trình"
         '
         'dtpNgayTrinhDiaChinh
@@ -158,7 +158,7 @@ Partial Class ctrInToTrinh
         Me.dtpNgayTrinhDiaChinh.Location = New System.Drawing.Point(312, 19)
         Me.dtpNgayTrinhDiaChinh.Name = "dtpNgayTrinhDiaChinh"
         Me.dtpNgayTrinhDiaChinh.Size = New System.Drawing.Size(139, 20)
-        Me.dtpNgayTrinhDiaChinh.TabIndex = 2
+        Me.dtpNgayTrinhDiaChinh.TabIndex = 3
         '
         'txtToTrinhSo
         '

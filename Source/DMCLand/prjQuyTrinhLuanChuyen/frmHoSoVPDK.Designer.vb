@@ -120,7 +120,7 @@ Partial Class frmHoSoVPDK
         Me.Label1.Location = New System.Drawing.Point(742, 44)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(69, 13)
-        Me.Label1.TabIndex = 53
+        Me.Label1.TabIndex = 4
         Me.Label1.Text = "Cán bộ thụ lý"
         '
         'txtCanBoThuLy
@@ -129,7 +129,7 @@ Partial Class frmHoSoVPDK
         Me.txtCanBoThuLy.Location = New System.Drawing.Point(743, 60)
         Me.txtCanBoThuLy.Name = "txtCanBoThuLy"
         Me.txtCanBoThuLy.Size = New System.Drawing.Size(211, 20)
-        Me.txtCanBoThuLy.TabIndex = 52
+        Me.txtCanBoThuLy.TabIndex = 5
         '
         'GroupBox18
         '
@@ -152,7 +152,7 @@ Partial Class frmHoSoVPDK
         Me.cmdBCVPNhan.Location = New System.Drawing.Point(8, 109)
         Me.cmdBCVPNhan.Name = "cmdBCVPNhan"
         Me.cmdBCVPNhan.Size = New System.Drawing.Size(216, 23)
-        Me.cmdBCVPNhan.TabIndex = 34
+        Me.cmdBCVPNhan.TabIndex = 19
         Me.cmdBCVPNhan.Text = "In báo cáo"
         Me.cmdBCVPNhan.UseVisualStyleBackColor = True
         Me.cmdBCVPNhan.Visible = False
@@ -165,7 +165,7 @@ Partial Class frmHoSoVPDK
         Me.chkDaTagridVpNhaDatNhanLai.Location = New System.Drawing.Point(11, 138)
         Me.chkDaTagridVpNhaDatNhanLai.Name = "chkDaTagridVpNhaDatNhanLai"
         Me.chkDaTagridVpNhaDatNhanLai.Size = New System.Drawing.Size(96, 17)
-        Me.chkDaTagridVpNhaDatNhanLai.TabIndex = 32
+        Me.chkDaTagridVpNhaDatNhanLai.TabIndex = 20
         Me.chkDaTagridVpNhaDatNhanLai.Text = "Chọn/Bỏ chọn"
         Me.chkDaTagridVpNhaDatNhanLai.UseVisualStyleBackColor = False
         '
@@ -189,7 +189,7 @@ Partial Class frmHoSoVPDK
         Me.Button5.Location = New System.Drawing.Point(8, 51)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(216, 23)
-        Me.Button5.TabIndex = 20
+        Me.Button5.TabIndex = 17
         Me.Button5.Text = "Hồ sơ đã trả"
         Me.Button5.UseVisualStyleBackColor = True
         '
@@ -200,7 +200,7 @@ Partial Class frmHoSoVPDK
         Me.Button8.Location = New System.Drawing.Point(8, 22)
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(216, 23)
-        Me.Button8.TabIndex = 19
+        Me.Button8.TabIndex = 16
         Me.Button8.Text = "Tìm và lấy hồ sơ trả về"
         Me.Button8.UseVisualStyleBackColor = True
         '
@@ -229,7 +229,7 @@ Partial Class frmHoSoVPDK
         Me.chkDuDieuKienVP.Location = New System.Drawing.Point(6, 13)
         Me.chkDuDieuKienVP.Name = "chkDuDieuKienVP"
         Me.chkDuDieuKienVP.Size = New System.Drawing.Size(128, 17)
-        Me.chkDuDieuKienVP.TabIndex = 41
+        Me.chkDuDieuKienVP.TabIndex = 6
         Me.chkDuDieuKienVP.Text = "Đủ ĐK/Không đủ ĐK"
         Me.chkDuDieuKienVP.UseVisualStyleBackColor = False
         '
@@ -241,7 +241,7 @@ Partial Class frmHoSoVPDK
         Me.Label3.Location = New System.Drawing.Point(5, 33)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(129, 13)
-        Me.Label3.TabIndex = 40
+        Me.Label3.TabIndex = 7
         Me.Label3.Text = "Lý do không đủ điều kiện"
         '
         'txtLyDoKHongDuDKVP
@@ -250,7 +250,7 @@ Partial Class frmHoSoVPDK
         Me.txtLyDoKHongDuDKVP.Location = New System.Drawing.Point(6, 52)
         Me.txtLyDoKHongDuDKVP.Name = "txtLyDoKHongDuDKVP"
         Me.txtLyDoKHongDuDKVP.Size = New System.Drawing.Size(219, 20)
-        Me.txtLyDoKHongDuDKVP.TabIndex = 39
+        Me.txtLyDoKHongDuDKVP.TabIndex = 8
         '
         'cmdCapNhatVP
         '
@@ -259,7 +259,7 @@ Partial Class frmHoSoVPDK
         Me.cmdCapNhatVP.Location = New System.Drawing.Point(5, 79)
         Me.cmdCapNhatVP.Name = "cmdCapNhatVP"
         Me.cmdCapNhatVP.Size = New System.Drawing.Size(219, 23)
-        Me.cmdCapNhatVP.TabIndex = 38
+        Me.cmdCapNhatVP.TabIndex = 9
         Me.cmdCapNhatVP.Text = "Cập nhật"
         Me.cmdCapNhatVP.UseVisualStyleBackColor = True
         '
@@ -270,7 +270,7 @@ Partial Class frmHoSoVPDK
         Me.cmdBCVPChuyen.Location = New System.Drawing.Point(5, 166)
         Me.cmdBCVPChuyen.Name = "cmdBCVPChuyen"
         Me.cmdBCVPChuyen.Size = New System.Drawing.Size(219, 23)
-        Me.cmdBCVPChuyen.TabIndex = 33
+        Me.cmdBCVPChuyen.TabIndex = 12
         Me.cmdBCVPChuyen.Text = "In báo cáo"
         Me.cmdBCVPChuyen.UseVisualStyleBackColor = True
         '
@@ -282,7 +282,7 @@ Partial Class frmHoSoVPDK
         Me.chkdatagridvpnhan.Location = New System.Drawing.Point(6, 195)
         Me.chkdatagridvpnhan.Name = "chkdatagridvpnhan"
         Me.chkdatagridvpnhan.Size = New System.Drawing.Size(96, 17)
-        Me.chkdatagridvpnhan.TabIndex = 31
+        Me.chkdatagridvpnhan.TabIndex = 13
         Me.chkdatagridvpnhan.Text = "Chọn/Bỏ chọn"
         Me.chkdatagridvpnhan.UseVisualStyleBackColor = False
         '
@@ -295,7 +295,7 @@ Partial Class frmHoSoVPDK
         Me.Button2.Location = New System.Drawing.Point(6, 137)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(219, 23)
-        Me.Button2.TabIndex = 15
+        Me.Button2.TabIndex = 11
         Me.Button2.Text = "Chuyển lên VP thẩm định"
         Me.Button2.UseVisualStyleBackColor = False
         '
@@ -306,7 +306,7 @@ Partial Class frmHoSoVPDK
         Me.Button3.Location = New System.Drawing.Point(5, 108)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(219, 23)
-        Me.Button3.TabIndex = 14
+        Me.Button3.TabIndex = 10
         Me.Button3.Text = "Tìm và lấy hồ sơ chuyển lên"
         Me.Button3.UseVisualStyleBackColor = True
         '
@@ -320,7 +320,7 @@ Partial Class frmHoSoVPDK
         Me.Label8.Location = New System.Drawing.Point(742, 6)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(86, 13)
-        Me.Label8.TabIndex = 49
+        Me.Label8.TabIndex = 2
         Me.Label8.Text = "Ngày báo cáo"
         '
         'dtpVanPhong
@@ -330,7 +330,7 @@ Partial Class frmHoSoVPDK
         Me.dtpVanPhong.Location = New System.Drawing.Point(745, 21)
         Me.dtpVanPhong.Name = "dtpVanPhong"
         Me.dtpVanPhong.Size = New System.Drawing.Size(209, 20)
-        Me.dtpVanPhong.TabIndex = 48
+        Me.dtpVanPhong.TabIndex = 3
         '
         'GroupBox7
         '
@@ -357,7 +357,7 @@ Partial Class frmHoSoVPDK
         Me.CtrFilterGridVpNhaDatTra.MyGrid = Nothing
         Me.CtrFilterGridVpNhaDatTra.Name = "CtrFilterGridVpNhaDatTra"
         Me.CtrFilterGridVpNhaDatTra.Size = New System.Drawing.Size(718, 57)
-        Me.CtrFilterGridVpNhaDatTra.TabIndex = 29
+        Me.CtrFilterGridVpNhaDatTra.TabIndex = 14
         '
         'DaTagridVpNhaDatNhanLai
         '
@@ -372,7 +372,7 @@ Partial Class frmHoSoVPDK
         Me.DaTagridVpNhaDatNhanLai.Name = "DaTagridVpNhaDatNhanLai"
         Me.DaTagridVpNhaDatNhanLai.ReadOnly = True
         Me.DaTagridVpNhaDatNhanLai.Size = New System.Drawing.Size(712, 129)
-        Me.DaTagridVpNhaDatNhanLai.TabIndex = 17
+        Me.DaTagridVpNhaDatNhanLai.TabIndex = 15
         '
         'GroupBox6
         '
@@ -399,7 +399,7 @@ Partial Class frmHoSoVPDK
         Me.CtrFilterGridVpNhaDatNhan.MyGrid = Nothing
         Me.CtrFilterGridVpNhaDatNhan.Name = "CtrFilterGridVpNhaDatNhan"
         Me.CtrFilterGridVpNhaDatNhan.Size = New System.Drawing.Size(719, 41)
-        Me.CtrFilterGridVpNhaDatNhan.TabIndex = 28
+        Me.CtrFilterGridVpNhaDatNhan.TabIndex = 0
         '
         'datagridvpnhan
         '
@@ -414,7 +414,7 @@ Partial Class frmHoSoVPDK
         Me.datagridvpnhan.Name = "datagridvpnhan"
         Me.datagridvpnhan.ReadOnly = True
         Me.datagridvpnhan.Size = New System.Drawing.Size(713, 224)
-        Me.datagridvpnhan.TabIndex = 17
+        Me.datagridvpnhan.TabIndex = 1
         '
         'TabPage2
         '
@@ -445,7 +445,7 @@ Partial Class frmHoSoVPDK
         Me.Button12.Location = New System.Drawing.Point(813, 19)
         Me.Button12.Name = "Button12"
         Me.Button12.Size = New System.Drawing.Size(155, 23)
-        Me.Button12.TabIndex = 26
+        Me.Button12.TabIndex = 2
         Me.Button12.Text = "Tìm và lấy hồ sơ"
         Me.Button12.UseVisualStyleBackColor = True
         '
@@ -473,7 +473,7 @@ Partial Class frmHoSoVPDK
         Me.CtrFilterGrid1.MyGrid = Nothing
         Me.CtrFilterGrid1.Name = "CtrFilterGrid1"
         Me.CtrFilterGrid1.Size = New System.Drawing.Size(798, 67)
-        Me.CtrFilterGrid1.TabIndex = 26
+        Me.CtrFilterGrid1.TabIndex = 0
         '
         'DataGridTheoDoi
         '
@@ -488,7 +488,7 @@ Partial Class frmHoSoVPDK
         Me.DataGridTheoDoi.Name = "DataGridTheoDoi"
         Me.DataGridTheoDoi.ReadOnly = True
         Me.DataGridTheoDoi.Size = New System.Drawing.Size(798, 421)
-        Me.DataGridTheoDoi.TabIndex = 0
+        Me.DataGridTheoDoi.TabIndex = 1
         '
         'frmHoSoVPDK
         '
@@ -497,6 +497,7 @@ Partial Class frmHoSoVPDK
         Me.BackColor = System.Drawing.Color.Lavender
         Me.ClientSize = New System.Drawing.Size(979, 548)
         Me.Controls.Add(Me.TabControl1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmHoSoVPDK"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "HO SO TAI VAN PHONG DANG KY DAT VA NHA"

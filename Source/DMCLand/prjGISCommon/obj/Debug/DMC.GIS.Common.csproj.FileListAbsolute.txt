@@ -253,9 +253,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjGISCommon\obj\Debug\ResolveAssemblyReferenc
 E:\DMCLand\new\20102812_DMCLand_4\prjGISCommon\obj\Debug\DMC.GIS.Common.csproj.ResolveComReference.cache
 E:\DMCLand\new\20102812_DMCLand_4\prjGISCommon\obj\Debug\DMC.GIS.Common.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjGISCommon\obj\Debug\DMC.GIS.Common.pdb
-E:\dmc_land_project\Source\DMCLand\prjGISCommon\bin\Debug\DMC.GIS.Common.dll
-E:\dmc_land_project\Source\DMCLand\prjGISCommon\bin\Debug\DMC.GIS.Common.pdb
-E:\dmc_land_project\Source\DMCLand\prjGISCommon\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjGISCommon\obj\Debug\DMC.GIS.Common.csproj.ResolveComReference.cache
-E:\dmc_land_project\Source\DMCLand\prjGISCommon\obj\Debug\DMC.GIS.Common.dll
-E:\dmc_land_project\Source\DMCLand\prjGISCommon\obj\Debug\DMC.GIS.Common.pdb

@@ -51,7 +51,7 @@ Partial Class ctrlTraCuu
         Me.btnSearch.Location = New System.Drawing.Point(524, 11)
         Me.btnSearch.Name = "btnSearch"
         Me.btnSearch.Size = New System.Drawing.Size(57, 24)
-        Me.btnSearch.TabIndex = 0
+        Me.btnSearch.TabIndex = 10
         Me.btnSearch.Text = "Tìm"
         Me.btnSearch.UseVisualStyleBackColor = True
         '
@@ -84,7 +84,7 @@ Partial Class ctrlTraCuu
         Me.DTPNgayCapCMT.Location = New System.Drawing.Point(111, 71)
         Me.DTPNgayCapCMT.Name = "DTPNgayCapCMT"
         Me.DTPNgayCapCMT.Size = New System.Drawing.Size(119, 20)
-        Me.DTPNgayCapCMT.TabIndex = 126
+        Me.DTPNgayCapCMT.TabIndex = 5
         '
         'txtNoiCapCMT
         '
@@ -93,7 +93,7 @@ Partial Class ctrlTraCuu
         Me.txtNoiCapCMT.Location = New System.Drawing.Point(111, 97)
         Me.txtNoiCapCMT.Name = "txtNoiCapCMT"
         Me.txtNoiCapCMT.Size = New System.Drawing.Size(326, 20)
-        Me.txtNoiCapCMT.TabIndex = 127
+        Me.txtNoiCapCMT.TabIndex = 7
         '
         'txtSoCMT
         '
@@ -102,7 +102,7 @@ Partial Class ctrlTraCuu
         Me.txtSoCMT.Location = New System.Drawing.Point(111, 45)
         Me.txtSoCMT.Name = "txtSoCMT"
         Me.txtSoCMT.Size = New System.Drawing.Size(162, 20)
-        Me.txtSoCMT.TabIndex = 125
+        Me.txtSoCMT.TabIndex = 3
         '
         'LabSoDinhDanh
         '
@@ -110,7 +110,7 @@ Partial Class ctrlTraCuu
         Me.LabSoDinhDanh.Location = New System.Drawing.Point(3, 48)
         Me.LabSoDinhDanh.Name = "LabSoDinhDanh"
         Me.LabSoDinhDanh.Size = New System.Drawing.Size(67, 13)
-        Me.LabSoDinhDanh.TabIndex = 130
+        Me.LabSoDinhDanh.TabIndex = 2
         Me.LabSoDinhDanh.Text = "Số CMT(HC)"
         '
         'LabNoiCapDinhDanh
@@ -119,7 +119,7 @@ Partial Class ctrlTraCuu
         Me.LabNoiCapDinhDanh.Location = New System.Drawing.Point(2, 100)
         Me.LabNoiCapDinhDanh.Name = "LabNoiCapDinhDanh"
         Me.LabNoiCapDinhDanh.Size = New System.Drawing.Size(94, 13)
-        Me.LabNoiCapDinhDanh.TabIndex = 129
+        Me.LabNoiCapDinhDanh.TabIndex = 6
         Me.LabNoiCapDinhDanh.Text = "Nơi cấp CMT (HC)"
         '
         'LabNgayCapDinhDanh
@@ -128,7 +128,7 @@ Partial Class ctrlTraCuu
         Me.LabNgayCapDinhDanh.Location = New System.Drawing.Point(2, 75)
         Me.LabNgayCapDinhDanh.Name = "LabNgayCapDinhDanh"
         Me.LabNgayCapDinhDanh.Size = New System.Drawing.Size(103, 13)
-        Me.LabNgayCapDinhDanh.TabIndex = 128
+        Me.LabNgayCapDinhDanh.TabIndex = 4
         Me.LabNgayCapDinhDanh.Text = "Ngày cấp CMT (HC)"
         '
         'txtDiaChi
@@ -138,7 +138,7 @@ Partial Class ctrlTraCuu
         Me.txtDiaChi.Location = New System.Drawing.Point(111, 123)
         Me.txtDiaChi.Name = "txtDiaChi"
         Me.txtDiaChi.Size = New System.Drawing.Size(375, 20)
-        Me.txtDiaChi.TabIndex = 5
+        Me.txtDiaChi.TabIndex = 9
         '
         'txtHoTen
         '
@@ -147,7 +147,7 @@ Partial Class ctrlTraCuu
         Me.txtHoTen.Location = New System.Drawing.Point(111, 19)
         Me.txtHoTen.Name = "txtHoTen"
         Me.txtHoTen.Size = New System.Drawing.Size(294, 20)
-        Me.txtHoTen.TabIndex = 2
+        Me.txtHoTen.TabIndex = 1
         '
         'Label2
         '
@@ -155,7 +155,7 @@ Partial Class ctrlTraCuu
         Me.Label2.Location = New System.Drawing.Point(3, 126)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(43, 13)
-        Me.Label2.TabIndex = 4
+        Me.Label2.TabIndex = 8
         Me.Label2.Text = "Địa chỉ:"
         '
         'Label1
@@ -197,7 +197,7 @@ Partial Class ctrlTraCuu
         Me.grdvw.ReadOnly = True
         Me.grdvw.RowHeadersWidth = 25
         Me.grdvw.Size = New System.Drawing.Size(598, 125)
-        Me.grdvw.TabIndex = 3
+        Me.grdvw.TabIndex = 12
         '
         'btnSave
         '
@@ -207,7 +207,7 @@ Partial Class ctrlTraCuu
         Me.btnSave.Location = New System.Drawing.Point(524, 41)
         Me.btnSave.Name = "btnSave"
         Me.btnSave.Size = New System.Drawing.Size(57, 22)
-        Me.btnSave.TabIndex = 4
+        Me.btnSave.TabIndex = 11
         Me.btnSave.Text = "Ghi"
         Me.btnSave.UseVisualStyleBackColor = True
         '

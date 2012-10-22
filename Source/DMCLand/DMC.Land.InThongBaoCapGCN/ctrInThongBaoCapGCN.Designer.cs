@@ -61,7 +61,7 @@
             this.crystalReportViewer1.Name = "crystalReportViewer1";
             this.crystalReportViewer1.SelectionFormula = "";
             this.crystalReportViewer1.Size = new System.Drawing.Size(906, 514);
-            this.crystalReportViewer1.TabIndex = 0;
+            this.crystalReportViewer1.TabIndex = 4;
             this.crystalReportViewer1.ViewTimeSelectionFormula = "";
             // 
             // DD
@@ -78,15 +78,16 @@
             this.txtDiaChiNoiNhan.Location = new System.Drawing.Point(103, 16);
             this.txtDiaChiNoiNhan.Name = "txtDiaChiNoiNhan";
             this.txtDiaChiNoiNhan.Size = new System.Drawing.Size(531, 20);
-            this.txtDiaChiNoiNhan.TabIndex = 3;
+            this.txtDiaChiNoiNhan.TabIndex = 1;
             // 
             // cmdHienThi
             // 
             this.cmdHienThi.Location = new System.Drawing.Point(400, 39);
             this.cmdHienThi.Name = "cmdHienThi";
             this.cmdHienThi.Size = new System.Drawing.Size(105, 23);
-            this.cmdHienThi.TabIndex = 5;
+            this.cmdHienThi.TabIndex = 3;
             this.cmdHienThi.Text = "Hiển thị thông báo";
+            this.cmdHienThi.UseCompatibleTextRendering = true;
             this.cmdHienThi.UseVisualStyleBackColor = true;
             this.cmdHienThi.Click += new System.EventHandler(this.cmdHienThi_Click);
             // 
@@ -95,7 +96,7 @@
             this.txtNguoiKy.Location = new System.Drawing.Point(103, 41);
             this.txtNguoiKy.Name = "txtNguoiKy";
             this.txtNguoiKy.Size = new System.Drawing.Size(272, 20);
-            this.txtNguoiKy.TabIndex = 7;
+            this.txtNguoiKy.TabIndex = 2;
             // 
             // label2
             // 

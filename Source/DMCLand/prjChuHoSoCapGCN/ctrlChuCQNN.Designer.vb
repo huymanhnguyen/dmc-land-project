@@ -82,7 +82,7 @@ Partial Class ctrlChuCQNN
         Me.chkDongSoHuu.Location = New System.Drawing.Point(617, 16)
         Me.chkDongSoHuu.Name = "chkDongSoHuu"
         Me.chkDongSoHuu.Size = New System.Drawing.Size(87, 17)
-        Me.chkDongSoHuu.TabIndex = 11
+        Me.chkDongSoHuu.TabIndex = 5
         Me.chkDongSoHuu.Text = "Đồng sở hữu"
         Me.chkDongSoHuu.UseVisualStyleBackColor = True
         '
@@ -116,7 +116,7 @@ Partial Class ctrlChuCQNN
         Me.grdvwChu.RowHeadersWidth = 25
         Me.grdvwChu.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.grdvwChu.Size = New System.Drawing.Size(715, 136)
-        Me.grdvwChu.TabIndex = 10
+        Me.grdvwChu.TabIndex = 12
         '
         'btnMaDoiTuong
         '
@@ -133,7 +133,7 @@ Partial Class ctrlChuCQNN
         Me.chkChuRungCay.Location = New System.Drawing.Point(507, 65)
         Me.chkChuRungCay.Name = "chkChuRungCay"
         Me.chkChuRungCay.Size = New System.Drawing.Size(94, 17)
-        Me.chkChuRungCay.TabIndex = 8
+        Me.chkChuRungCay.TabIndex = 10
         Me.chkChuRungCay.Text = "Chủ Rừng cây"
         Me.chkChuRungCay.UseVisualStyleBackColor = True
         '
@@ -143,7 +143,7 @@ Partial Class ctrlChuCQNN
         Me.chkChuCongTrinhXayDung.Location = New System.Drawing.Point(350, 65)
         Me.chkChuCongTrinhXayDung.Name = "chkChuCongTrinhXayDung"
         Me.chkChuCongTrinhXayDung.Size = New System.Drawing.Size(142, 17)
-        Me.chkChuCongTrinhXayDung.TabIndex = 7
+        Me.chkChuCongTrinhXayDung.TabIndex = 9
         Me.chkChuCongTrinhXayDung.Text = "Chủ Công trình xây dựng"
         Me.chkChuCongTrinhXayDung.UseVisualStyleBackColor = True
         '
@@ -153,7 +153,7 @@ Partial Class ctrlChuCQNN
         Me.chkChuNhaO.Location = New System.Drawing.Point(208, 65)
         Me.chkChuNhaO.Name = "chkChuNhaO"
         Me.chkChuNhaO.Size = New System.Drawing.Size(120, 17)
-        Me.chkChuNhaO.TabIndex = 6
+        Me.chkChuNhaO.TabIndex = 8
         Me.chkChuNhaO.Text = "Chủ Nhà ở (Căn hộ)"
         Me.chkChuNhaO.UseVisualStyleBackColor = True
         '
@@ -163,7 +163,7 @@ Partial Class ctrlChuCQNN
         Me.chkChuDat.Location = New System.Drawing.Point(124, 65)
         Me.chkChuDat.Name = "chkChuDat"
         Me.chkChuDat.Size = New System.Drawing.Size(65, 17)
-        Me.chkChuDat.TabIndex = 5
+        Me.chkChuDat.TabIndex = 7
         Me.chkChuDat.Text = "Chủ Đất"
         Me.chkChuDat.UseVisualStyleBackColor = True
         '
@@ -173,7 +173,7 @@ Partial Class ctrlChuCQNN
         Me.chkChuCayLauNam.Location = New System.Drawing.Point(617, 65)
         Me.chkChuCayLauNam.Name = "chkChuCayLauNam"
         Me.chkChuCayLauNam.Size = New System.Drawing.Size(106, 17)
-        Me.chkChuCayLauNam.TabIndex = 9
+        Me.chkChuCayLauNam.TabIndex = 11
         Me.chkChuCayLauNam.Text = "Chủ Cây lâu năm"
         Me.chkChuCayLauNam.UseVisualStyleBackColor = True
         '
@@ -185,7 +185,7 @@ Partial Class ctrlChuCQNN
         Me.txtDiaChi.Multiline = True
         Me.txtDiaChi.Name = "txtDiaChi"
         Me.txtDiaChi.Size = New System.Drawing.Size(630, 20)
-        Me.txtDiaChi.TabIndex = 4
+        Me.txtDiaChi.TabIndex = 6
         Me.txtDiaChi.Text = "Phường Long Biên, Quận Long Biên, Tp Hà Nội"
         '
         'txtTen
@@ -196,7 +196,7 @@ Partial Class ctrlChuCQNN
         Me.txtTen.Multiline = True
         Me.txtTen.Name = "txtTen"
         Me.txtTen.Size = New System.Drawing.Size(327, 20)
-        Me.txtTen.TabIndex = 3
+        Me.txtTen.TabIndex = 4
         '
         'txtMaDoiTuong
         '
@@ -211,7 +211,7 @@ Partial Class ctrlChuCQNN
         Me.Label1.Location = New System.Drawing.Point(6, 42)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(40, 13)
-        Me.Label1.TabIndex = 4
+        Me.Label1.TabIndex = 5
         Me.Label1.Text = "Địa chỉ"
         '
         'Label2
@@ -229,7 +229,7 @@ Partial Class ctrlChuCQNN
         Me.Label3.Location = New System.Drawing.Point(6, 16)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(70, 13)
-        Me.Label3.TabIndex = 2
+        Me.Label3.TabIndex = 0
         Me.Label3.Text = "Mã đối tượng"
         '
         'btnGhi
@@ -237,7 +237,7 @@ Partial Class ctrlChuCQNN
         Me.btnGhi.Location = New System.Drawing.Point(266, 11)
         Me.btnGhi.Name = "btnGhi"
         Me.btnGhi.Size = New System.Drawing.Size(64, 23)
-        Me.btnGhi.TabIndex = 15
+        Me.btnGhi.TabIndex = 17
         Me.btnGhi.Text = "Ghi"
         Me.btnGhi.UseVisualStyleBackColor = True
         '
@@ -246,7 +246,7 @@ Partial Class ctrlChuCQNN
         Me.btnXoa.Location = New System.Drawing.Point(200, 11)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(64, 23)
-        Me.btnXoa.TabIndex = 14
+        Me.btnXoa.TabIndex = 16
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -255,7 +255,7 @@ Partial Class ctrlChuCQNN
         Me.btnSua.Location = New System.Drawing.Point(134, 11)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(64, 23)
-        Me.btnSua.TabIndex = 13
+        Me.btnSua.TabIndex = 15
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -264,7 +264,7 @@ Partial Class ctrlChuCQNN
         Me.btnThem.Location = New System.Drawing.Point(68, 11)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(64, 23)
-        Me.btnThem.TabIndex = 12
+        Me.btnThem.TabIndex = 14
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '
@@ -273,7 +273,7 @@ Partial Class ctrlChuCQNN
         Me.btnTraCuu.Location = New System.Drawing.Point(2, 12)
         Me.btnTraCuu.Name = "btnTraCuu"
         Me.btnTraCuu.Size = New System.Drawing.Size(64, 23)
-        Me.btnTraCuu.TabIndex = 11
+        Me.btnTraCuu.TabIndex = 13
         Me.btnTraCuu.Text = "Tra cứu"
         Me.btnTraCuu.TextAlign = System.Drawing.ContentAlignment.TopCenter
         Me.btnTraCuu.UseVisualStyleBackColor = True
@@ -284,7 +284,7 @@ Partial Class ctrlChuCQNN
         Me.btnHuyLenh.Location = New System.Drawing.Point(332, 11)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(64, 23)
-        Me.btnHuyLenh.TabIndex = 16
+        Me.btnHuyLenh.TabIndex = 18
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '

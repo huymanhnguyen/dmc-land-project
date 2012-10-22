@@ -135,7 +135,7 @@
             this.cmdNoiNhanHoSo.Location = new System.Drawing.Point(688, 96);
             this.cmdNoiNhanHoSo.Name = "cmdNoiNhanHoSo";
             this.cmdNoiNhanHoSo.Size = new System.Drawing.Size(37, 22);
-            this.cmdNoiNhanHoSo.TabIndex = 150;
+            this.cmdNoiNhanHoSo.TabIndex = 6;
             this.cmdNoiNhanHoSo.Text = "...";
             this.cmdNoiNhanHoSo.UseVisualStyleBackColor = true;
             this.cmdNoiNhanHoSo.Click += new System.EventHandler(this.cmdNoiNhanHoSo_Click);
@@ -145,7 +145,7 @@
             this.cmdTraCuuCSD.Location = new System.Drawing.Point(395, 151);
             this.cmdTraCuuCSD.Name = "cmdTraCuuCSD";
             this.cmdTraCuuCSD.Size = new System.Drawing.Size(84, 21);
-            this.cmdTraCuuCSD.TabIndex = 148;
+            this.cmdTraCuuCSD.TabIndex = 10;
             this.cmdTraCuuCSD.Text = "Tra cứu";
             this.cmdTraCuuCSD.UseVisualStyleBackColor = true;
             this.cmdTraCuuCSD.Click += new System.EventHandler(this.cmdTraCuuCSD_Click);
@@ -165,7 +165,7 @@
             this.cboNguonCapHoSo.Location = new System.Drawing.Point(117, 46);
             this.cboNguonCapHoSo.Name = "cboNguonCapHoSo";
             this.cboNguonCapHoSo.Size = new System.Drawing.Size(337, 21);
-            this.cboNguonCapHoSo.TabIndex = 146;
+            this.cboNguonCapHoSo.TabIndex = 2;
             this.cboNguonCapHoSo.KeyDown += new System.Windows.Forms.KeyEventHandler(this.cboNguonCapHoSo_KeyDown);
             // 
             // cboDinhDanh
@@ -179,7 +179,7 @@
             this.cboDinhDanh.Location = new System.Drawing.Point(117, 203);
             this.cboDinhDanh.Name = "cboDinhDanh";
             this.cboDinhDanh.Size = new System.Drawing.Size(136, 21);
-            this.cboDinhDanh.TabIndex = 145;
+            this.cboDinhDanh.TabIndex = 13;
             this.cboDinhDanh.KeyDown += new System.Windows.Forms.KeyEventHandler(this.cboDinhDanh_KeyDown);
             // 
             // radChuSuDung
@@ -188,7 +188,7 @@
             this.radChuSuDung.Location = new System.Drawing.Point(265, 153);
             this.radChuSuDung.Name = "radChuSuDung";
             this.radChuSuDung.Size = new System.Drawing.Size(85, 17);
-            this.radChuSuDung.TabIndex = 121;
+            this.radChuSuDung.TabIndex = 9;
             this.radChuSuDung.Text = "Chủ sử dụng";
             this.radChuSuDung.UseVisualStyleBackColor = true;
             // 
@@ -199,7 +199,7 @@
             this.radNguoiDaiDien.Location = new System.Drawing.Point(117, 153);
             this.radNguoiDaiDien.Name = "radNguoiDaiDien";
             this.radNguoiDaiDien.Size = new System.Drawing.Size(94, 17);
-            this.radNguoiDaiDien.TabIndex = 120;
+            this.radNguoiDaiDien.TabIndex = 8;
             this.radNguoiDaiDien.TabStop = true;
             this.radNguoiDaiDien.Text = "Người đại diện";
             this.radNguoiDaiDien.UseVisualStyleBackColor = true;
@@ -218,7 +218,7 @@
             this.txtNoiCap.Location = new System.Drawing.Point(117, 228);
             this.txtNoiCap.Name = "txtNoiCap";
             this.txtNoiCap.Size = new System.Drawing.Size(351, 20);
-            this.txtNoiCap.TabIndex = 118;
+            this.txtNoiCap.TabIndex = 16;
             this.txtNoiCap.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtNoiCap_KeyDown);
             // 
             // label10
@@ -235,7 +235,7 @@
             this.dtpNgayCap.Location = new System.Drawing.Point(611, 202);
             this.dtpNgayCap.Name = "dtpNgayCap";
             this.dtpNgayCap.Size = new System.Drawing.Size(100, 20);
-            this.dtpNgayCap.TabIndex = 116;
+            this.dtpNgayCap.TabIndex = 15;
             this.dtpNgayCap.KeyDown += new System.Windows.Forms.KeyEventHandler(this.dtpNgayCap_KeyDown);
             // 
             // cmbQuanHe
@@ -250,7 +250,7 @@
             this.cmbQuanHe.Location = new System.Drawing.Point(611, 176);
             this.cmbQuanHe.Name = "cmbQuanHe";
             this.cmbQuanHe.Size = new System.Drawing.Size(100, 21);
-            this.cmbQuanHe.TabIndex = 114;
+            this.cmbQuanHe.TabIndex = 12;
             this.cmbQuanHe.KeyDown += new System.Windows.Forms.KeyEventHandler(this.cmbQuanHe_KeyDown);
             // 
             // Label21
@@ -268,7 +268,7 @@
             this.dtpThoiDiemVietDon.Location = new System.Drawing.Point(116, 280);
             this.dtpThoiDiemVietDon.Name = "dtpThoiDiemVietDon";
             this.dtpThoiDiemVietDon.Size = new System.Drawing.Size(100, 20);
-            this.dtpThoiDiemVietDon.TabIndex = 10;
+            this.dtpThoiDiemVietDon.TabIndex = 19;
             this.dtpThoiDiemVietDon.KeyDown += new System.Windows.Forms.KeyEventHandler(this.dtpThoiDiemVietDon_KeyDown);
             // 
             // label9
@@ -341,7 +341,7 @@
             this.txtNguoiVietDon.Location = new System.Drawing.Point(315, 280);
             this.txtNguoiVietDon.Name = "txtNguoiVietDon";
             this.txtNguoiVietDon.Size = new System.Drawing.Size(412, 20);
-            this.txtNguoiVietDon.TabIndex = 11;
+            this.txtNguoiVietDon.TabIndex = 20;
             this.txtNguoiVietDon.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtNguoiVietDon_KeyDown);
             // 
             // txtDiaChiNguoiDiKeKhai
@@ -351,7 +351,7 @@
             this.txtDiaChiNguoiDiKeKhai.Location = new System.Drawing.Point(116, 254);
             this.txtDiaChiNguoiDiKeKhai.Name = "txtDiaChiNguoiDiKeKhai";
             this.txtDiaChiNguoiDiKeKhai.Size = new System.Drawing.Size(611, 20);
-            this.txtDiaChiNguoiDiKeKhai.TabIndex = 9;
+            this.txtDiaChiNguoiDiKeKhai.TabIndex = 18;
             this.txtDiaChiNguoiDiKeKhai.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtDiaChiNguoiDiKeKhai_KeyDown);
             // 
             // txtSoDienThoaiNguoiDiKeKhai
@@ -359,7 +359,7 @@
             this.txtSoDienThoaiNguoiDiKeKhai.Location = new System.Drawing.Point(611, 224);
             this.txtSoDienThoaiNguoiDiKeKhai.Name = "txtSoDienThoaiNguoiDiKeKhai";
             this.txtSoDienThoaiNguoiDiKeKhai.Size = new System.Drawing.Size(100, 20);
-            this.txtSoDienThoaiNguoiDiKeKhai.TabIndex = 8;
+            this.txtSoDienThoaiNguoiDiKeKhai.TabIndex = 17;
             this.txtSoDienThoaiNguoiDiKeKhai.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtSoDienThoaiNguoiDiKeKhai_KeyDown);
             // 
             // txtCMTNguoiDiKeKhai
@@ -367,7 +367,7 @@
             this.txtCMTNguoiDiKeKhai.Location = new System.Drawing.Point(253, 204);
             this.txtCMTNguoiDiKeKhai.Name = "txtCMTNguoiDiKeKhai";
             this.txtCMTNguoiDiKeKhai.Size = new System.Drawing.Size(215, 20);
-            this.txtCMTNguoiDiKeKhai.TabIndex = 7;
+            this.txtCMTNguoiDiKeKhai.TabIndex = 14;
             this.txtCMTNguoiDiKeKhai.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtCMTNguoiDiKeKhai_KeyDown);
             // 
             // txtTenNguoiDiKeKhai
@@ -377,7 +377,7 @@
             this.txtTenNguoiDiKeKhai.Location = new System.Drawing.Point(116, 176);
             this.txtTenNguoiDiKeKhai.Name = "txtTenNguoiDiKeKhai";
             this.txtTenNguoiDiKeKhai.Size = new System.Drawing.Size(352, 20);
-            this.txtTenNguoiDiKeKhai.TabIndex = 6;
+            this.txtTenNguoiDiKeKhai.TabIndex = 11;
             this.txtTenNguoiDiKeKhai.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtTenNguoiDiKeKhai_KeyDown);
             // 
             // txtTenNguoiTiepNhan
@@ -387,7 +387,7 @@
             this.txtTenNguoiTiepNhan.Location = new System.Drawing.Point(116, 124);
             this.txtTenNguoiTiepNhan.Name = "txtTenNguoiTiepNhan";
             this.txtTenNguoiTiepNhan.Size = new System.Drawing.Size(611, 20);
-            this.txtTenNguoiTiepNhan.TabIndex = 5;
+            this.txtTenNguoiTiepNhan.TabIndex = 6;
             this.txtTenNguoiTiepNhan.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtTenNguoiTiepNhan_KeyDown);
             // 
             // txtThuTuTiepNhan
@@ -416,7 +416,7 @@
             this.txtNoiNhanHoSo.Location = new System.Drawing.Point(116, 98);
             this.txtNoiNhanHoSo.Name = "txtNoiNhanHoSo";
             this.txtNoiNhanHoSo.Size = new System.Drawing.Size(566, 20);
-            this.txtNoiNhanHoSo.TabIndex = 4;
+            this.txtNoiNhanHoSo.TabIndex = 5;
             this.txtNoiNhanHoSo.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtNoiNhanHoSo_KeyDown);
             // 
             // label2
@@ -442,7 +442,7 @@
             this.dtpNgayNhanDuHoSo.Location = new System.Drawing.Point(354, 73);
             this.dtpNgayNhanDuHoSo.Name = "dtpNgayNhanDuHoSo";
             this.dtpNgayNhanDuHoSo.Size = new System.Drawing.Size(100, 20);
-            this.dtpNgayNhanDuHoSo.TabIndex = 3;
+            this.dtpNgayNhanDuHoSo.TabIndex = 4;
             this.dtpNgayNhanDuHoSo.KeyDown += new System.Windows.Forms.KeyEventHandler(this.dtpNgayNhanDuHoSo_KeyDown);
             // 
             // Label13
@@ -468,7 +468,7 @@
             this.dtpThoiDiemTiepNhan.Location = new System.Drawing.Point(116, 73);
             this.dtpThoiDiemTiepNhan.Name = "dtpThoiDiemTiepNhan";
             this.dtpThoiDiemTiepNhan.Size = new System.Drawing.Size(100, 20);
-            this.dtpThoiDiemTiepNhan.TabIndex = 2;
+            this.dtpThoiDiemTiepNhan.TabIndex = 3;
             // 
             // Label11
             // 
@@ -484,7 +484,7 @@
             this.btnHuyLenh.Location = new System.Drawing.Point(283, 12);
             this.btnHuyLenh.Name = "btnHuyLenh";
             this.btnHuyLenh.Size = new System.Drawing.Size(64, 22);
-            this.btnHuyLenh.TabIndex = 16;
+            this.btnHuyLenh.TabIndex = 25;
             this.btnHuyLenh.Text = "Hủy lệnh";
             this.btnHuyLenh.UseVisualStyleBackColor = true;
             this.btnHuyLenh.Click += new System.EventHandler(this.btnHuyLenh_Click);
@@ -494,7 +494,7 @@
             this.btnCapNhat.Location = new System.Drawing.Point(213, 12);
             this.btnCapNhat.Name = "btnCapNhat";
             this.btnCapNhat.Size = new System.Drawing.Size(64, 22);
-            this.btnCapNhat.TabIndex = 15;
+            this.btnCapNhat.TabIndex = 24;
             this.btnCapNhat.Text = "Ghi";
             this.btnCapNhat.UseVisualStyleBackColor = true;
             this.btnCapNhat.Click += new System.EventHandler(this.btnCapNhat_Click);
@@ -504,7 +504,7 @@
             this.btnSua.Location = new System.Drawing.Point(84, 12);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(64, 22);
-            this.btnSua.TabIndex = 13;
+            this.btnSua.TabIndex = 22;
             this.btnSua.Text = "Sửa";
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
@@ -515,7 +515,7 @@
             this.btnXoa.Location = new System.Drawing.Point(150, 12);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(64, 22);
-            this.btnXoa.TabIndex = 14;
+            this.btnXoa.TabIndex = 23;
             this.btnXoa.Text = "Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
@@ -526,7 +526,7 @@
             this.btnTroGiup.Location = new System.Drawing.Point(637, 12);
             this.btnTroGiup.Name = "btnTroGiup";
             this.btnTroGiup.Size = new System.Drawing.Size(64, 22);
-            this.btnTroGiup.TabIndex = 17;
+            this.btnTroGiup.TabIndex = 26;
             this.btnTroGiup.Text = "Trợ giúp";
             this.btnTroGiup.UseVisualStyleBackColor = true;
             // 
@@ -548,7 +548,7 @@
             this.btnThem.Location = new System.Drawing.Point(14, 12);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(64, 22);
-            this.btnThem.TabIndex = 12;
+            this.btnThem.TabIndex = 21;
             this.btnThem.Text = "Thêm";
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
@@ -581,7 +581,7 @@
             this.ctrTrangThaiHoSo1.MaXacNhan = "0";
             this.ctrTrangThaiHoSo1.Name = "ctrTrangThaiHoSo1";
             this.ctrTrangThaiHoSo1.Size = new System.Drawing.Size(480, 40);
-            this.ctrTrangThaiHoSo1.TabIndex = 29;
+            this.ctrTrangThaiHoSo1.TabIndex = 27;
             // 
             // ctrlThongTinTiepNhanHoSo
             // 

@@ -79,7 +79,7 @@
             this.txtKhoangCach.Location = new System.Drawing.Point(91, 9);
             this.txtKhoangCach.Name = "txtKhoangCach";
             this.txtKhoangCach.Size = new System.Drawing.Size(123, 20);
-            this.txtKhoangCach.TabIndex = 14;
+            this.txtKhoangCach.TabIndex = 0;
             this.txtKhoangCach.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // radNghiemSognSong2
@@ -88,7 +88,7 @@
             this.radNghiemSognSong2.Location = new System.Drawing.Point(130, 35);
             this.radNghiemSognSong2.Name = "radNghiemSognSong2";
             this.radNghiemSognSong2.Size = new System.Drawing.Size(84, 17);
-            this.radNghiemSognSong2.TabIndex = 13;
+            this.radNghiemSognSong2.TabIndex = 2;
             this.radNghiemSognSong2.Text = "Đường thứ 2";
             this.radNghiemSognSong2.UseVisualStyleBackColor = true;
             // 
@@ -99,7 +99,7 @@
             this.radNghiemSognSong1.Location = new System.Drawing.Point(17, 35);
             this.radNghiemSognSong1.Name = "radNghiemSognSong1";
             this.radNghiemSognSong1.Size = new System.Drawing.Size(84, 17);
-            this.radNghiemSognSong1.TabIndex = 12;
+            this.radNghiemSognSong1.TabIndex = 1;
             this.radNghiemSognSong1.TabStop = true;
             this.radNghiemSognSong1.Text = "Đường thứ 1";
             this.radNghiemSognSong1.UseVisualStyleBackColor = true;
@@ -109,7 +109,7 @@
             this.cmdChapNhanKhoangCach.Location = new System.Drawing.Point(220, 9);
             this.cmdChapNhanKhoangCach.Name = "cmdChapNhanKhoangCach";
             this.cmdChapNhanKhoangCach.Size = new System.Drawing.Size(80, 25);
-            this.cmdChapNhanKhoangCach.TabIndex = 11;
+            this.cmdChapNhanKhoangCach.TabIndex = 3;
             this.cmdChapNhanKhoangCach.Text = "Chấp nhận";
             this.cmdChapNhanKhoangCach.UseVisualStyleBackColor = true;
             this.cmdChapNhanKhoangCach.Click += new System.EventHandler(this.cmdChapNhanKhoangCach_Click);

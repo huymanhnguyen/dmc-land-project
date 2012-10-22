@@ -35,6 +35,7 @@ Partial Class frmTimKiemHoSo
         Me.CrtTimKiemHoSoThuaDat1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.CrtTimKiemHoSoThuaDat1.Location = New System.Drawing.Point(0, 0)
         Me.CrtTimKiemHoSoThuaDat1.MaDonViHanhChinh = ""
+        Me.CrtTimKiemHoSoThuaDat1.MaLoaiHS = Nothing
         Me.CrtTimKiemHoSoThuaDat1.NamCapGCN = ""
         Me.CrtTimKiemHoSoThuaDat1.Name = "CrtTimKiemHoSoThuaDat1"
         Me.CrtTimKiemHoSoThuaDat1.NgayLapToTrinh = ""
@@ -50,6 +51,7 @@ Partial Class frmTimKiemHoSo
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(914, 572)
         Me.Controls.Add(Me.CrtTimKiemHoSoThuaDat1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmTimKiemHoSo"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "TIM KIEM HO SO"

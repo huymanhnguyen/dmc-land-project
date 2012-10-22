@@ -22,8 +22,8 @@ Partial Class ctrlChuCQNN
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.GroupThaoTac = New System.Windows.Forms.GroupBox
         Me.chbTonTai = New System.Windows.Forms.CheckBox
         Me.txtDiaChi = New System.Windows.Forms.TextBox
@@ -69,7 +69,7 @@ Partial Class ctrlChuCQNN
         Me.chbTonTai.Location = New System.Drawing.Point(124, 65)
         Me.chbTonTai.Name = "chbTonTai"
         Me.chbTonTai.Size = New System.Drawing.Size(77, 17)
-        Me.chbTonTai.TabIndex = 113
+        Me.chbTonTai.TabIndex = 7
         Me.chbTonTai.Text = "Còn tồn tại"
         Me.chbTonTai.UseVisualStyleBackColor = True
         '
@@ -81,7 +81,7 @@ Partial Class ctrlChuCQNN
         Me.txtDiaChi.Multiline = True
         Me.txtDiaChi.Name = "txtDiaChi"
         Me.txtDiaChi.Size = New System.Drawing.Size(598, 20)
-        Me.txtDiaChi.TabIndex = 4
+        Me.txtDiaChi.TabIndex = 6
         '
         'txtTen
         '
@@ -91,7 +91,7 @@ Partial Class ctrlChuCQNN
         Me.txtTen.Multiline = True
         Me.txtTen.Name = "txtTen"
         Me.txtTen.Size = New System.Drawing.Size(448, 20)
-        Me.txtTen.TabIndex = 3
+        Me.txtTen.TabIndex = 4
         '
         'txtMaDoiTuong
         '
@@ -106,7 +106,7 @@ Partial Class ctrlChuCQNN
         Me.Label1.Location = New System.Drawing.Point(6, 42)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(40, 13)
-        Me.Label1.TabIndex = 4
+        Me.Label1.TabIndex = 5
         Me.Label1.Text = "Địa chỉ"
         '
         'Label2
@@ -124,7 +124,7 @@ Partial Class ctrlChuCQNN
         Me.Label3.Location = New System.Drawing.Point(6, 16)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(70, 13)
-        Me.Label3.TabIndex = 2
+        Me.Label3.TabIndex = 1
         Me.Label3.Text = "Mã đối tượng"
         '
         'chbTimKiem
@@ -135,7 +135,7 @@ Partial Class ctrlChuCQNN
         Me.chbTimKiem.Location = New System.Drawing.Point(3, 105)
         Me.chbTimKiem.Name = "chbTimKiem"
         Me.chbTimKiem.Size = New System.Drawing.Size(174, 17)
-        Me.chbTimKiem.TabIndex = 120
+        Me.chbTimKiem.TabIndex = 8
         Me.chbTimKiem.Text = "Tìm kiếm thông tin chủ sử dụng"
         Me.chbTimKiem.UseVisualStyleBackColor = True
         '
@@ -144,7 +144,7 @@ Partial Class ctrlChuCQNN
         Me.btnGhi.Location = New System.Drawing.Point(597, 101)
         Me.btnGhi.Name = "btnGhi"
         Me.btnGhi.Size = New System.Drawing.Size(64, 23)
-        Me.btnGhi.TabIndex = 119
+        Me.btnGhi.TabIndex = 13
         Me.btnGhi.Text = "Ghi"
         Me.btnGhi.UseVisualStyleBackColor = True
         '
@@ -153,7 +153,7 @@ Partial Class ctrlChuCQNN
         Me.btnXoa.Location = New System.Drawing.Point(531, 101)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(64, 23)
-        Me.btnXoa.TabIndex = 118
+        Me.btnXoa.TabIndex = 12
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -162,7 +162,7 @@ Partial Class ctrlChuCQNN
         Me.btnSua.Location = New System.Drawing.Point(465, 101)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(64, 23)
-        Me.btnSua.TabIndex = 117
+        Me.btnSua.TabIndex = 11
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -171,7 +171,7 @@ Partial Class ctrlChuCQNN
         Me.btnThem.Location = New System.Drawing.Point(399, 101)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(64, 23)
-        Me.btnThem.TabIndex = 116
+        Me.btnThem.TabIndex = 10
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '
@@ -180,7 +180,7 @@ Partial Class ctrlChuCQNN
         Me.btnTraCuu.Location = New System.Drawing.Point(333, 102)
         Me.btnTraCuu.Name = "btnTraCuu"
         Me.btnTraCuu.Size = New System.Drawing.Size(64, 23)
-        Me.btnTraCuu.TabIndex = 115
+        Me.btnTraCuu.TabIndex = 9
         Me.btnTraCuu.Text = "Tra cứu"
         Me.btnTraCuu.TextAlign = System.Drawing.ContentAlignment.TopCenter
         Me.btnTraCuu.UseVisualStyleBackColor = True
@@ -191,7 +191,7 @@ Partial Class ctrlChuCQNN
         Me.btnHuyLenh.Location = New System.Drawing.Point(663, 101)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(64, 23)
-        Me.btnHuyLenh.TabIndex = 114
+        Me.btnHuyLenh.TabIndex = 14
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -202,30 +202,30 @@ Partial Class ctrlChuCQNN
         Me.grdvwChu.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grdvwChu.BackgroundColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.grdvwChu.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.grdvwChu.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.grdvwChu.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.grdvwChu.DefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.grdvwChu.DefaultCellStyle = DataGridViewCellStyle2
         Me.grdvwChu.Location = New System.Drawing.Point(3, 131)
         Me.grdvwChu.Name = "grdvwChu"
         Me.grdvwChu.ReadOnly = True
         Me.grdvwChu.RowHeadersWidth = 25
         Me.grdvwChu.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.grdvwChu.Size = New System.Drawing.Size(728, 185)
-        Me.grdvwChu.TabIndex = 113
+        Me.grdvwChu.TabIndex = 15
         '
         'ctrlChuCQNN
         '

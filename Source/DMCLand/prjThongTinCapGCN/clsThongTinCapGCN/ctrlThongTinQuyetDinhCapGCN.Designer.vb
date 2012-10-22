@@ -47,7 +47,7 @@ Partial Class ctrlThongTinQuyetDinhCapGCN
         Me.btnInQuyetDinhCapGCN.Location = New System.Drawing.Point(385, 16)
         Me.btnInQuyetDinhCapGCN.Name = "btnInQuyetDinhCapGCN"
         Me.btnInQuyetDinhCapGCN.Size = New System.Drawing.Size(125, 21)
-        Me.btnInQuyetDinhCapGCN.TabIndex = 9
+        Me.btnInQuyetDinhCapGCN.TabIndex = 10
         Me.btnInQuyetDinhCapGCN.Text = "In quyết định cấp GCN"
         Me.btnInQuyetDinhCapGCN.UseVisualStyleBackColor = True
         '
@@ -123,7 +123,7 @@ Partial Class ctrlThongTinQuyetDinhCapGCN
         Me.btnHuyLenh.Location = New System.Drawing.Point(321, 16)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 8
+        Me.btnHuyLenh.TabIndex = 9
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -132,7 +132,7 @@ Partial Class ctrlThongTinQuyetDinhCapGCN
         Me.btnSua.Location = New System.Drawing.Point(138, 16)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 5
+        Me.btnSua.TabIndex = 6
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -141,7 +141,7 @@ Partial Class ctrlThongTinQuyetDinhCapGCN
         Me.btnXoa.Location = New System.Drawing.Point(199, 16)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 6
+        Me.btnXoa.TabIndex = 7
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -150,7 +150,7 @@ Partial Class ctrlThongTinQuyetDinhCapGCN
         Me.btnGhi.Location = New System.Drawing.Point(260, 16)
         Me.btnGhi.Name = "btnGhi"
         Me.btnGhi.Size = New System.Drawing.Size(58, 21)
-        Me.btnGhi.TabIndex = 7
+        Me.btnGhi.TabIndex = 8
         Me.btnGhi.Text = "Ghi"
         Me.btnGhi.UseVisualStyleBackColor = True
         '
@@ -159,7 +159,7 @@ Partial Class ctrlThongTinQuyetDinhCapGCN
         Me.btnThem.Location = New System.Drawing.Point(77, 16)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(58, 21)
-        Me.btnThem.TabIndex = 4
+        Me.btnThem.TabIndex = 5
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '
@@ -168,7 +168,7 @@ Partial Class ctrlThongTinQuyetDinhCapGCN
         Me.btnTraCuu.Location = New System.Drawing.Point(16, 16)
         Me.btnTraCuu.Name = "btnTraCuu"
         Me.btnTraCuu.Size = New System.Drawing.Size(58, 21)
-        Me.btnTraCuu.TabIndex = 3
+        Me.btnTraCuu.TabIndex = 4
         Me.btnTraCuu.Text = "Tra cứu"
         Me.btnTraCuu.TextAlign = System.Drawing.ContentAlignment.TopCenter
         Me.btnTraCuu.UseVisualStyleBackColor = True
@@ -196,7 +196,7 @@ Partial Class ctrlThongTinQuyetDinhCapGCN
         Me.cmdCQQD.Location = New System.Drawing.Point(626, 50)
         Me.cmdCQQD.Name = "cmdCQQD"
         Me.cmdCQQD.Size = New System.Drawing.Size(34, 21)
-        Me.cmdCQQD.TabIndex = 95
+        Me.cmdCQQD.TabIndex = 3
         Me.cmdCQQD.Text = "..."
         Me.cmdCQQD.UseVisualStyleBackColor = True
         '

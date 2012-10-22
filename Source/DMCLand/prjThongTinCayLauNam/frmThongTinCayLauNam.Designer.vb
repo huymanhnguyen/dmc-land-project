@@ -41,7 +41,7 @@ Partial Class frmThongTinCayLauNam
         Me.btnTroGiup.Location = New System.Drawing.Point(657, 73)
         Me.btnTroGiup.Name = "btnTroGiup"
         Me.btnTroGiup.Size = New System.Drawing.Size(58, 21)
-        Me.btnTroGiup.TabIndex = 37
+        Me.btnTroGiup.TabIndex = 5
         Me.btnTroGiup.Text = "Trợ giúp"
         Me.btnTroGiup.UseVisualStyleBackColor = True
         '
@@ -50,7 +50,7 @@ Partial Class frmThongTinCayLauNam
         Me.btnHuyLenh.Location = New System.Drawing.Point(66, 73)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 36
+        Me.btnHuyLenh.TabIndex = 4
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -59,7 +59,7 @@ Partial Class frmThongTinCayLauNam
         Me.btnCapNhat.Location = New System.Drawing.Point(3, 73)
         Me.btnCapNhat.Name = "btnCapNhat"
         Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
-        Me.btnCapNhat.TabIndex = 35
+        Me.btnCapNhat.TabIndex = 3
         Me.btnCapNhat.Text = "Cập nhật"
         Me.btnCapNhat.UseVisualStyleBackColor = True
         '
@@ -83,7 +83,7 @@ Partial Class frmThongTinCayLauNam
         Me.txtLoaiCay.Location = New System.Drawing.Point(115, 42)
         Me.txtLoaiCay.Name = "txtLoaiCay"
         Me.txtLoaiCay.Size = New System.Drawing.Size(610, 20)
-        Me.txtLoaiCay.TabIndex = 65
+        Me.txtLoaiCay.TabIndex = 2
         '
         'numDienTich
         '
@@ -92,7 +92,7 @@ Partial Class frmThongTinCayLauNam
         Me.numDienTich.Maximum = New Decimal(New Integer() {1000000, 0, 0, 0})
         Me.numDienTich.Name = "numDienTich"
         Me.numDienTich.Size = New System.Drawing.Size(110, 20)
-        Me.numDienTich.TabIndex = 57
+        Me.numDienTich.TabIndex = 1
         '
         'Label12
         '

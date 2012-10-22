@@ -335,13 +335,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjInPhieu\obj\Debug\prjInPhieu.vbproj.Generat
 E:\DMCLand\new\20102812_DMCLand_4\prjInPhieu\obj\Debug\DMC.Land.InPhieu.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjInPhieu\obj\Debug\DMC.Land.InPhieu.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjInPhieu\obj\Debug\DMC.Land.InPhieu.pdb
-E:\dmc_land_project\Source\DMCLand\prjInPhieu\bin\Debug\DMC.Land.InPhieu.dll
-E:\dmc_land_project\Source\DMCLand\prjInPhieu\bin\Debug\DMC.Land.InPhieu.pdb
-E:\dmc_land_project\Source\DMCLand\prjInPhieu\bin\Debug\DMC.Land.InPhieu.xml
-E:\dmc_land_project\Source\DMCLand\prjInPhieu\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjInPhieu\obj\Debug\DMC.Land.InPhieu.Resources.resources
-E:\dmc_land_project\Source\DMCLand\prjInPhieu\obj\Debug\DMC.Land.InPhieu.ctrInPhieu.resources
-E:\dmc_land_project\Source\DMCLand\prjInPhieu\obj\Debug\prjInPhieu.vbproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjInPhieu\obj\Debug\DMC.Land.InPhieu.dll
-E:\dmc_land_project\Source\DMCLand\prjInPhieu\obj\Debug\DMC.Land.InPhieu.xml
-E:\dmc_land_project\Source\DMCLand\prjInPhieu\obj\Debug\DMC.Land.InPhieu.pdb

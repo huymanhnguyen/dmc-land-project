@@ -53,7 +53,7 @@
             this.txtBuff.MaxLength = 2;
             this.txtBuff.Name = "txtBuff";
             this.txtBuff.Size = new System.Drawing.Size(121, 20);
-            this.txtBuff.TabIndex = 1;
+            this.txtBuff.TabIndex = 0;
             this.txtBuff.Text = "0";
             this.txtBuff.TextChanged += new System.EventHandler(this.txtBuff_TextChanged);
             this.txtBuff.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtBuff_KeyDown);
@@ -74,7 +74,7 @@
             this.radKhung.Location = new System.Drawing.Point(7, 42);
             this.radKhung.Name = "radKhung";
             this.radKhung.Size = new System.Drawing.Size(166, 17);
-            this.radKhung.TabIndex = 1;
+            this.radKhung.TabIndex = 2;
             this.radKhung.Text = "Lấy buffer theo khung bản đồ";
             this.radKhung.UseVisualStyleBackColor = true;
             this.radKhung.CheckedChanged += new System.EventHandler(this.radKhung_CheckedChanged);
@@ -86,7 +86,7 @@
             this.radDuongBao.Location = new System.Drawing.Point(7, 19);
             this.radDuongBao.Name = "radDuongBao";
             this.radDuongBao.Size = new System.Drawing.Size(151, 17);
-            this.radDuongBao.TabIndex = 0;
+            this.radDuongBao.TabIndex = 1;
             this.radDuongBao.TabStop = true;
             this.radDuongBao.Text = "Lấy buffer theo đường bao";
             this.radDuongBao.UseVisualStyleBackColor = true;
@@ -111,6 +111,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.txtBuff);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmBuffer";

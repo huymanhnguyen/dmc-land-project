@@ -516,6 +516,7 @@ namespace TachThua
         private bool DiChuyenDinhThua = false;
         private int intUndo = 0;
         public  bool EditThuaDat = false ;
+        public bool KiemTraThuaDat = false;
         private CompositeStyle CopyStyle = null;
         private DPoint MousePointEnd;
         private int SizeMapWidth = 0;
@@ -1236,7 +1237,7 @@ namespace TachThua
         private void toolSave_Click(object sender, EventArgs e)
 
         {
-            if ((EditThuaDat == true) && (strMaThuaDatTam == strMaThuaDat))
+            if ((KiemTraThuaDat == true) && (strMaThuaDatTam == strMaThuaDat))
             {
                 /* Khai báo biến kết thúc hành động thực hiện */
                 bool boolEnd = true;
@@ -1299,7 +1300,7 @@ namespace TachThua
                 cls.MaThuaDat = strMaThuaDat;
                 cls.MaDonViHanhChinh = strMaDonViHanhChinh;
                 cls.Updatethuadatdangthaotac(ref kq);
-                EditThuaDat = false;
+                KiemTraThuaDat = false;
                 toolPrepareSplit.Enabled = false ;
                 toolPrepareCombine.Enabled = false ;
                 toolPrepareEdit.Enabled = false ;
@@ -1821,10 +1822,6 @@ namespace TachThua
                 this.btnHuyLenh.Enabled = !blnStartDeleted;
             }
         }
-
-
-
-
         #endregion
 
         private void btnHuyLenh_Click(object sender, EventArgs e)
@@ -4622,7 +4619,7 @@ namespace TachThua
                                 {
 
                                     string kq1 = "";
-                                    EditThuaDat = true;
+                                    KiemTraThuaDat = true;
                                     toolPrepareSplit.Enabled = true;
                                     toolPrepareCombine.Enabled = true;
                                     toolPrepareEdit.Enabled = true;
@@ -4668,7 +4665,7 @@ namespace TachThua
                                 {
 
                                     string kq1 = "";
-                                    EditThuaDat = true;
+                                    KiemTraThuaDat = true;
                                     toolPrepareSplit.Enabled = true;
                                     toolPrepareCombine.Enabled = true;
                                     toolPrepareEdit.Enabled = true;

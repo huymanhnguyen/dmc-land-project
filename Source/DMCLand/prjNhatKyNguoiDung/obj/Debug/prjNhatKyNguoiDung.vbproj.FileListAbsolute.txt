@@ -58,15 +58,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjNhatKyNguoiDung\obj\Debug\prjNhatKyNguoiDun
 E:\DMCLand\new\20102812_DMCLand_4\prjNhatKyNguoiDung\obj\Debug\prjNhatKyNguoiDung.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjNhatKyNguoiDung\obj\Debug\prjNhatKyNguoiDung.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjNhatKyNguoiDung\obj\Debug\prjNhatKyNguoiDung.pdb
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\bin\Debug\prjNhatKyNguoiDung.dll
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\bin\Debug\prjNhatKyNguoiDung.pdb
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\bin\Debug\prjNhatKyNguoiDung.xml
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\bin\Debug\DMC.Database.dll
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\bin\Debug\DMC.Database.pdb
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\bin\Debug\DMC.Database.xml
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\obj\Debug\prjNhatKyNguoiDung.Resources.resources
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\obj\Debug\prjNhatKyNguoiDung.vbproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\obj\Debug\prjNhatKyNguoiDung.dll
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\obj\Debug\prjNhatKyNguoiDung.xml
-E:\dmc_land_project\Source\DMCLand\prjNhatKyNguoiDung\obj\Debug\prjNhatKyNguoiDung.pdb

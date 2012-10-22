@@ -244,7 +244,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichDatNN.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichDatNN.Name = "NumYKDienTichDatNN"
         Me.NumYKDienTichDatNN.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichDatNN.TabIndex = 109
+        Me.NumYKDienTichDatNN.TabIndex = 37
         Me.NumYKDienTichDatNN.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label36
@@ -264,7 +264,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichHanhLang.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichHanhLang.Name = "NumYKDienTichHanhLang"
         Me.NumYKDienTichHanhLang.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichHanhLang.TabIndex = 107
+        Me.NumYKDienTichHanhLang.TabIndex = 38
         Me.NumYKDienTichHanhLang.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label28
@@ -284,7 +284,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichRieng.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichRieng.Name = "NumYKDienTichRieng"
         Me.NumYKDienTichRieng.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichRieng.TabIndex = 105
+        Me.NumYKDienTichRieng.TabIndex = 36
         Me.NumYKDienTichRieng.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumYKDienTichChung
@@ -295,7 +295,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichChung.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichChung.Name = "NumYKDienTichChung"
         Me.NumYKDienTichChung.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichChung.TabIndex = 104
+        Me.NumYKDienTichChung.TabIndex = 32
         Me.NumYKDienTichChung.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label20
@@ -324,7 +324,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichSuDungNha.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichSuDungNha.Name = "NumYKDienTichSuDungNha"
         Me.NumYKDienTichSuDungNha.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichSuDungNha.TabIndex = 101
+        Me.NumYKDienTichSuDungNha.TabIndex = 35
         Me.NumYKDienTichSuDungNha.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label26
@@ -341,7 +341,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.txtYKKetCau.Location = New System.Drawing.Point(105, 158)
         Me.txtYKKetCau.Name = "txtYKKetCau"
         Me.txtYKKetCau.Size = New System.Drawing.Size(406, 20)
-        Me.txtYKKetCau.TabIndex = 99
+        Me.txtYKKetCau.TabIndex = 39
         '
         'NumYKDienTichXD
         '
@@ -351,7 +351,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichXD.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichXD.Name = "NumYKDienTichXD"
         Me.NumYKDienTichXD.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichXD.TabIndex = 98
+        Me.NumYKDienTichXD.TabIndex = 31
         Me.NumYKDienTichXD.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label10
@@ -388,7 +388,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.txtYKLyDo.Multiline = True
         Me.txtYKLyDo.Name = "txtYKLyDo"
         Me.txtYKLyDo.Size = New System.Drawing.Size(229, 22)
-        Me.txtYKLyDo.TabIndex = 94
+        Me.txtYKLyDo.TabIndex = 34
         '
         'NumYKDienTichKhongDuDK
         '
@@ -398,7 +398,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichKhongDuDK.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichKhongDuDK.Name = "NumYKDienTichKhongDuDK"
         Me.NumYKDienTichKhongDuDK.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichKhongDuDK.TabIndex = 93
+        Me.NumYKDienTichKhongDuDK.TabIndex = 30
         Me.NumYKDienTichKhongDuDK.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label23
@@ -418,7 +418,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichVuonAo.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichVuonAo.Name = "NumYKDienTichVuonAo"
         Me.NumYKDienTichVuonAo.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichVuonAo.TabIndex = 91
+        Me.NumYKDienTichVuonAo.TabIndex = 33
         Me.NumYKDienTichVuonAo.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumYKDienTichDatO
@@ -429,7 +429,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichDatO.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichDatO.Name = "NumYKDienTichDatO"
         Me.NumYKDienTichDatO.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichDatO.TabIndex = 90
+        Me.NumYKDienTichDatO.TabIndex = 28
         Me.NumYKDienTichDatO.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label21
@@ -458,7 +458,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichNopTienSDD.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichNopTienSDD.Name = "NumYKDienTichNopTienSDD"
         Me.NumYKDienTichNopTienSDD.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichNopTienSDD.TabIndex = 86
+        Me.NumYKDienTichNopTienSDD.TabIndex = 29
         Me.NumYKDienTichNopTienSDD.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label19
@@ -478,7 +478,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumYKDienTichDuDK.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumYKDienTichDuDK.Name = "NumYKDienTichDuDK"
         Me.NumYKDienTichDuDK.Size = New System.Drawing.Size(62, 20)
-        Me.NumYKDienTichDuDK.TabIndex = 84
+        Me.NumYKDienTichDuDK.TabIndex = 27
         Me.NumYKDienTichDuDK.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label18
@@ -506,7 +506,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.txtYKQuyHoachThoiDiem.Multiline = True
         Me.txtYKQuyHoachThoiDiem.Name = "txtYKQuyHoachThoiDiem"
         Me.txtYKQuyHoachThoiDiem.Size = New System.Drawing.Size(351, 22)
-        Me.txtYKQuyHoachThoiDiem.TabIndex = 81
+        Me.txtYKQuyHoachThoiDiem.TabIndex = 26
         '
         'txtYKienCanBoXetDuyet
         '
@@ -516,7 +516,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.txtYKienCanBoXetDuyet.Location = New System.Drawing.Point(517, 14)
         Me.txtYKienCanBoXetDuyet.Name = "txtYKienCanBoXetDuyet"
         Me.txtYKienCanBoXetDuyet.Size = New System.Drawing.Size(461, 164)
-        Me.txtYKienCanBoXetDuyet.TabIndex = 66
+        Me.txtYKienCanBoXetDuyet.TabIndex = 40
         Me.txtYKienCanBoXetDuyet.Text = ""
         '
         'Label6
@@ -573,7 +573,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.txtQuyHoach.Multiline = True
         Me.txtQuyHoach.Name = "txtQuyHoach"
         Me.txtQuyHoach.Size = New System.Drawing.Size(313, 22)
-        Me.txtQuyHoach.TabIndex = 81
+        Me.txtQuyHoach.TabIndex = 7
         '
         'Label12
         '
@@ -618,7 +618,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.txtPhamViBaoVeHaTang.Multiline = True
         Me.txtPhamViBaoVeHaTang.Name = "txtPhamViBaoVeHaTang"
         Me.txtPhamViBaoVeHaTang.Size = New System.Drawing.Size(388, 22)
-        Me.txtPhamViBaoVeHaTang.TabIndex = 5
+        Me.txtPhamViBaoVeHaTang.TabIndex = 6
         '
         'btnThem
         '
@@ -626,7 +626,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.btnThem.Location = New System.Drawing.Point(9, 18)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(58, 21)
-        Me.btnThem.TabIndex = 82
+        Me.btnThem.TabIndex = 41
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '
@@ -635,7 +635,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.btnBienBanXetDuyet.Location = New System.Drawing.Point(298, 18)
         Me.btnBienBanXetDuyet.Name = "btnBienBanXetDuyet"
         Me.btnBienBanXetDuyet.Size = New System.Drawing.Size(103, 21)
-        Me.btnBienBanXetDuyet.TabIndex = 87
+        Me.btnBienBanXetDuyet.TabIndex = 46
         Me.btnBienBanXetDuyet.Text = "Biên bản xét duyệt"
         Me.btnBienBanXetDuyet.UseVisualStyleBackColor = True
         '
@@ -644,7 +644,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.btnSua.Location = New System.Drawing.Point(67, 18)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 83
+        Me.btnSua.TabIndex = 42
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -653,7 +653,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.btnHuyLenh.Location = New System.Drawing.Point(241, 18)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 86
+        Me.btnHuyLenh.TabIndex = 45
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -662,7 +662,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.btnXoa.Location = New System.Drawing.Point(125, 18)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 84
+        Me.btnXoa.TabIndex = 43
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -671,7 +671,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.btnCapNhat.Location = New System.Drawing.Point(183, 18)
         Me.btnCapNhat.Name = "btnCapNhat"
         Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
-        Me.btnCapNhat.TabIndex = 85
+        Me.btnCapNhat.TabIndex = 44
         Me.btnCapNhat.Text = "Ghi"
         Me.btnCapNhat.UseVisualStyleBackColor = True
         '
@@ -729,7 +729,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDTRiengDatNN.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDTRiengDatNN.Name = "NumHTDTRiengDatNN"
         Me.NumHTDTRiengDatNN.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDTRiengDatNN.TabIndex = 119
+        Me.NumHTDTRiengDatNN.TabIndex = 22
         Me.NumHTDTRiengDatNN.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumHTDTChungDatNN
@@ -740,7 +740,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDTChungDatNN.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDTChungDatNN.Name = "NumHTDTChungDatNN"
         Me.NumHTDTChungDatNN.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDTChungDatNN.TabIndex = 118
+        Me.NumHTDTChungDatNN.TabIndex = 18
         Me.NumHTDTChungDatNN.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label33
@@ -769,7 +769,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDienTichDatNN.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDienTichDatNN.Name = "NumHTDienTichDatNN"
         Me.NumHTDienTichDatNN.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDienTichDatNN.TabIndex = 115
+        Me.NumHTDienTichDatNN.TabIndex = 14
         Me.NumHTDienTichDatNN.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label35
@@ -789,7 +789,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDTRiengDatVuon.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDTRiengDatVuon.Name = "NumHTDTRiengDatVuon"
         Me.NumHTDTRiengDatVuon.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDTRiengDatVuon.TabIndex = 113
+        Me.NumHTDTRiengDatVuon.TabIndex = 21
         Me.NumHTDTRiengDatVuon.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumHTDTChungDatVuon
@@ -800,7 +800,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDTChungDatVuon.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDTChungDatVuon.Name = "NumHTDTChungDatVuon"
         Me.NumHTDTChungDatVuon.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDTChungDatVuon.TabIndex = 112
+        Me.NumHTDTChungDatVuon.TabIndex = 17
         Me.NumHTDTChungDatVuon.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label31
@@ -829,7 +829,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDTRiengDatO.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDTRiengDatO.Name = "NumHTDTRiengDatO"
         Me.NumHTDTRiengDatO.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDTRiengDatO.TabIndex = 109
+        Me.NumHTDTRiengDatO.TabIndex = 20
         Me.NumHTDTRiengDatO.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumHTDTChungDatO
@@ -840,7 +840,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDTChungDatO.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDTChungDatO.Name = "NumHTDTChungDatO"
         Me.NumHTDTChungDatO.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDTChungDatO.TabIndex = 108
+        Me.NumHTDTChungDatO.TabIndex = 16
         Me.NumHTDTChungDatO.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label29
@@ -866,7 +866,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.txtHTKetCau.Location = New System.Drawing.Point(280, 152)
         Me.txtHTKetCau.Name = "txtHTKetCau"
         Me.txtHTKetCau.Size = New System.Drawing.Size(229, 20)
-        Me.txtHTKetCau.TabIndex = 87
+        Me.txtHTKetCau.TabIndex = 24
         '
         'NumHTDienTichXD
         '
@@ -876,7 +876,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDienTichXD.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDienTichXD.Name = "NumHTDienTichXD"
         Me.NumHTDienTichXD.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDienTichXD.TabIndex = 85
+        Me.NumHTDienTichXD.TabIndex = 15
         Me.NumHTDienTichXD.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumHTDienTichSDNha
@@ -887,7 +887,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDienTichSDNha.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDienTichSDNha.Name = "NumHTDienTichSDNha"
         Me.NumHTDienTichSDNha.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDienTichSDNha.TabIndex = 84
+        Me.NumHTDienTichSDNha.TabIndex = 23
         Me.NumHTDienTichSDNha.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label14
@@ -931,7 +931,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.txtHTLyDoChenhLech.Location = New System.Drawing.Point(105, 37)
         Me.txtHTLyDoChenhLech.Name = "txtHTLyDoChenhLech"
         Me.txtHTLyDoChenhLech.Size = New System.Drawing.Size(404, 20)
-        Me.txtHTLyDoChenhLech.TabIndex = 79
+        Me.txtHTLyDoChenhLech.TabIndex = 11
         '
         'NumHTDienTichHanhLang
         '
@@ -941,7 +941,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDienTichHanhLang.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDienTichHanhLang.Name = "NumHTDienTichHanhLang"
         Me.NumHTDienTichHanhLang.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDienTichHanhLang.TabIndex = 78
+        Me.NumHTDienTichHanhLang.TabIndex = 19
         Me.NumHTDienTichHanhLang.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumHTDienTichDatVuon
@@ -952,7 +952,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDienTichDatVuon.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDienTichDatVuon.Name = "NumHTDienTichDatVuon"
         Me.NumHTDienTichDatVuon.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDienTichDatVuon.TabIndex = 77
+        Me.NumHTDienTichDatVuon.TabIndex = 13
         Me.NumHTDienTichDatVuon.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumHTDienTIchDatO
@@ -963,7 +963,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDienTIchDatO.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDienTIchDatO.Name = "NumHTDienTIchDatO"
         Me.NumHTDienTIchDatO.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDienTIchDatO.TabIndex = 76
+        Me.NumHTDienTIchDatO.TabIndex = 12
         Me.NumHTDienTIchDatO.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label4
@@ -1002,7 +1002,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDienTichChenhLech.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDienTichChenhLech.Name = "NumHTDienTichChenhLech"
         Me.NumHTDienTichChenhLech.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDienTichChenhLech.TabIndex = 72
+        Me.NumHTDienTichChenhLech.TabIndex = 10
         Me.NumHTDienTichChenhLech.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumHTDienTichBienBan
@@ -1013,7 +1013,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDienTichBienBan.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDienTichBienBan.Name = "NumHTDienTichBienBan"
         Me.NumHTDienTichBienBan.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDienTichBienBan.TabIndex = 71
+        Me.NumHTDienTichBienBan.TabIndex = 9
         Me.NumHTDienTichBienBan.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'NumHTDienTichBanDo
@@ -1024,7 +1024,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.NumHTDienTichBanDo.Maximum = New Decimal(New Integer() {100000, 0, 0, 0})
         Me.NumHTDienTichBanDo.Name = "NumHTDienTichBanDo"
         Me.NumHTDienTichBanDo.Size = New System.Drawing.Size(62, 20)
-        Me.NumHTDienTichBanDo.TabIndex = 70
+        Me.NumHTDienTichBanDo.TabIndex = 8
         Me.NumHTDienTichBanDo.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         '
         'Label9
@@ -1062,7 +1062,7 @@ Partial Class ctrThongTinHoSoXetDuyet
         Me.txtHienTrangSuDungNhaDat.Location = New System.Drawing.Point(516, 14)
         Me.txtHienTrangSuDungNhaDat.Name = "txtHienTrangSuDungNhaDat"
         Me.txtHienTrangSuDungNhaDat.Size = New System.Drawing.Size(461, 161)
-        Me.txtHienTrangSuDungNhaDat.TabIndex = 66
+        Me.txtHienTrangSuDungNhaDat.TabIndex = 25
         Me.txtHienTrangSuDungNhaDat.Text = ""
         '
         'GroupBox1

@@ -69,7 +69,7 @@ Partial Class ctrlKetNoi
         Me.btThoat.Location = New System.Drawing.Point(417, 182)
         Me.btThoat.Name = "btThoat"
         Me.btThoat.Size = New System.Drawing.Size(84, 29)
-        Me.btThoat.TabIndex = 4
+        Me.btThoat.TabIndex = 5
         Me.btThoat.Tag = "Thoát khỏi hệ thống"
         Me.btThoat.Text = "Thoát"
         Me.btThoat.UseVisualStyleBackColor = True
@@ -80,7 +80,7 @@ Partial Class ctrlKetNoi
         Me.bntCauHinh.Location = New System.Drawing.Point(241, 182)
         Me.bntCauHinh.Name = "bntCauHinh"
         Me.bntCauHinh.Size = New System.Drawing.Size(84, 29)
-        Me.bntCauHinh.TabIndex = 5
+        Me.bntCauHinh.TabIndex = 4
         Me.bntCauHinh.Tag = "Cấu hình kết nối máy chủ"
         Me.bntCauHinh.Text = "Cấu hình"
         Me.bntCauHinh.UseVisualStyleBackColor = True

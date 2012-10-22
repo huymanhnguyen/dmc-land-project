@@ -119,7 +119,7 @@ Partial Class frmTongHopChuSuDung
         Me.grdTongHopChiTiet.ReadOnly = True
         Me.grdTongHopChiTiet.RowHeadersWidth = 25
         Me.grdTongHopChiTiet.Size = New System.Drawing.Size(707, 205)
-        Me.grdTongHopChiTiet.TabIndex = 0
+        Me.grdTongHopChiTiet.TabIndex = 4
         '
         'frmTongHopChuSuDung
         '

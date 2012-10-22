@@ -81,7 +81,7 @@
             this.btnCancel.Location = new System.Drawing.Point(155, 77);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(82, 26);
-            this.btnCancel.TabIndex = 9;
+            this.btnCancel.TabIndex = 3;
             this.btnCancel.Text = "Thoát";
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
@@ -91,7 +91,7 @@
             this.btnOk.Location = new System.Drawing.Point(9, 77);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(82, 26);
-            this.btnOk.TabIndex = 8;
+            this.btnOk.TabIndex = 2;
             this.btnOk.Text = "Xác nhận";
             this.btnOk.UseVisualStyleBackColor = true;
             this.btnOk.Click += new System.EventHandler(this.btnOk_Click);
@@ -106,7 +106,7 @@
             0});
             this.numKhoangCachBatDinh.Name = "numKhoangCachBatDinh";
             this.numKhoangCachBatDinh.Size = new System.Drawing.Size(45, 24);
-            this.numKhoangCachBatDinh.TabIndex = 7;
+            this.numKhoangCachBatDinh.TabIndex = 1;
             this.numKhoangCachBatDinh.Value = new decimal(new int[] {
             5,
             0,
@@ -119,7 +119,7 @@
             this.chkSnapEnable.Location = new System.Drawing.Point(9, 19);
             this.chkSnapEnable.Name = "chkSnapEnable";
             this.chkSnapEnable.Size = new System.Drawing.Size(178, 22);
-            this.chkSnapEnable.TabIndex = 6;
+            this.chkSnapEnable.TabIndex = 0;
             this.chkSnapEnable.Text = "Bật/Tắt chế độ bắt dính";
             this.chkSnapEnable.UseVisualStyleBackColor = true;
             this.chkSnapEnable.CheckedChanged += new System.EventHandler(this.chkSnapEnable_CheckedChanged);
@@ -130,6 +130,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(267, 113);
             this.Controls.Add(this.groupSnapEnable);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmSnapPoints";

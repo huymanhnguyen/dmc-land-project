@@ -349,14 +349,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjGroupToTrinhPhuong\obj\Debug\prjGroupToTrin
 E:\DMCLand\new\20102812_DMCLand_4\prjGroupToTrinhPhuong\obj\Debug\DMC.Land.GroupToTrinhPhuong.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjGroupToTrinhPhuong\obj\Debug\DMC.Land.GroupToTrinhPhuong.xml
 E:\DMCLand\new\20102812_DMCLand_4\prjGroupToTrinhPhuong\obj\Debug\DMC.Land.GroupToTrinhPhuong.pdb
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\bin\Debug\DMC.Land.GroupToTrinhPhuong.dll
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\bin\Debug\DMC.Land.GroupToTrinhPhuong.pdb
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\bin\Debug\DMC.Land.GroupToTrinhPhuong.xml
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\obj\Debug\DMC.Land.GroupToTrinhPhuong.ctrToTrinh.resources
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\obj\Debug\DMC.Land.GroupToTrinhPhuong.frmTimToTrinh.resources
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\obj\Debug\DMC.Land.GroupToTrinhPhuong.Resources.resources
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\obj\Debug\prjGroupToTrinhPhuong.vbproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\obj\Debug\DMC.Land.GroupToTrinhPhuong.dll
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\obj\Debug\DMC.Land.GroupToTrinhPhuong.xml
-E:\dmc_land_project\Source\DMCLand\prjGroupToTrinhPhuong\obj\Debug\DMC.Land.GroupToTrinhPhuong.pdb

@@ -41,22 +41,22 @@ Partial Class frmHoSoUB
         Me.CtrFilterGridUBNhan = New prjFilterGrid.ctrFilterGrid
         Me.datagridUBThamDinh = New System.Windows.Forms.DataGridView
         Me.TabPage2 = New System.Windows.Forms.TabPage
+        Me.grdHoSoDaChuyen = New System.Windows.Forms.DataGridView
         Me.TabPage3 = New System.Windows.Forms.TabPage
         Me.Button12 = New System.Windows.Forms.Button
         Me.GroupBox15 = New System.Windows.Forms.GroupBox
         Me.CtrFilterGrid3 = New prjFilterGrid.ctrFilterGrid
         Me.DataGridTheoDoi = New System.Windows.Forms.DataGridView
-        Me.grdHoSoDaChuyen = New System.Windows.Forms.DataGridView
         Me.TabControl1.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox14.SuspendLayout()
         CType(Me.datagridUBThamDinh, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage2.SuspendLayout()
+        CType(Me.grdHoSoDaChuyen, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage3.SuspendLayout()
         Me.GroupBox15.SuspendLayout()
         CType(Me.DataGridTheoDoi, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.grdHoSoDaChuyen, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'TabControl1
@@ -95,7 +95,7 @@ Partial Class frmHoSoUB
         Me.Label3.Location = New System.Drawing.Point(734, 54)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(69, 13)
-        Me.Label3.TabIndex = 63
+        Me.Label3.TabIndex = 4
         Me.Label3.Text = "Cán bộ thụ lý"
         '
         'txtCanBoThuLy
@@ -104,7 +104,7 @@ Partial Class frmHoSoUB
         Me.txtCanBoThuLy.Location = New System.Drawing.Point(735, 70)
         Me.txtCanBoThuLy.Name = "txtCanBoThuLy"
         Me.txtCanBoThuLy.Size = New System.Drawing.Size(219, 20)
-        Me.txtCanBoThuLy.TabIndex = 62
+        Me.txtCanBoThuLy.TabIndex = 5
         '
         'GroupBox1
         '
@@ -131,7 +131,7 @@ Partial Class frmHoSoUB
         Me.chkDuDKUB.Location = New System.Drawing.Point(6, 19)
         Me.chkDuDKUB.Name = "chkDuDKUB"
         Me.chkDuDKUB.Size = New System.Drawing.Size(128, 17)
-        Me.chkDuDKUB.TabIndex = 53
+        Me.chkDuDKUB.TabIndex = 6
         Me.chkDuDKUB.Text = "Đủ ĐK/Không đủ ĐK"
         Me.chkDuDKUB.UseVisualStyleBackColor = False
         '
@@ -143,7 +143,7 @@ Partial Class frmHoSoUB
         Me.Label6.Location = New System.Drawing.Point(5, 39)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(129, 13)
-        Me.Label6.TabIndex = 52
+        Me.Label6.TabIndex = 7
         Me.Label6.Text = "Lý do không đủ điều kiện"
         '
         'txtLyDoKhongDuDieuKienUB
@@ -152,7 +152,7 @@ Partial Class frmHoSoUB
         Me.txtLyDoKhongDuDieuKienUB.Location = New System.Drawing.Point(6, 55)
         Me.txtLyDoKhongDuDieuKienUB.Name = "txtLyDoKhongDuDieuKienUB"
         Me.txtLyDoKhongDuDieuKienUB.Size = New System.Drawing.Size(218, 20)
-        Me.txtLyDoKhongDuDieuKienUB.TabIndex = 51
+        Me.txtLyDoKhongDuDieuKienUB.TabIndex = 8
         '
         'cmdCapNhatUB
         '
@@ -161,7 +161,7 @@ Partial Class frmHoSoUB
         Me.cmdCapNhatUB.Location = New System.Drawing.Point(5, 82)
         Me.cmdCapNhatUB.Name = "cmdCapNhatUB"
         Me.cmdCapNhatUB.Size = New System.Drawing.Size(218, 23)
-        Me.cmdCapNhatUB.TabIndex = 50
+        Me.cmdCapNhatUB.TabIndex = 9
         Me.cmdCapNhatUB.Text = "Cập nhật"
         Me.cmdCapNhatUB.UseVisualStyleBackColor = True
         '
@@ -172,7 +172,7 @@ Partial Class frmHoSoUB
         Me.cmdBCUBChuyen.Location = New System.Drawing.Point(5, 170)
         Me.cmdBCUBChuyen.Name = "cmdBCUBChuyen"
         Me.cmdBCUBChuyen.Size = New System.Drawing.Size(218, 23)
-        Me.cmdBCUBChuyen.TabIndex = 35
+        Me.cmdBCUBChuyen.TabIndex = 12
         Me.cmdBCUBChuyen.Text = "In báo cáo"
         Me.cmdBCUBChuyen.UseVisualStyleBackColor = True
         '
@@ -184,7 +184,7 @@ Partial Class frmHoSoUB
         Me.chkdatagridUBThamDinh.Location = New System.Drawing.Point(6, 199)
         Me.chkdatagridUBThamDinh.Name = "chkdatagridUBThamDinh"
         Me.chkdatagridUBThamDinh.Size = New System.Drawing.Size(96, 17)
-        Me.chkdatagridUBThamDinh.TabIndex = 32
+        Me.chkdatagridUBThamDinh.TabIndex = 13
         Me.chkdatagridUBThamDinh.Text = "Chọn/Bỏ chọn"
         Me.chkdatagridUBThamDinh.UseVisualStyleBackColor = False
         '
@@ -197,7 +197,7 @@ Partial Class frmHoSoUB
         Me.Button28.Location = New System.Drawing.Point(5, 140)
         Me.Button28.Name = "Button28"
         Me.Button28.Size = New System.Drawing.Size(218, 24)
-        Me.Button28.TabIndex = 15
+        Me.Button28.TabIndex = 11
         Me.Button28.Text = "Trả hồ sơ về phòng TNMT"
         Me.Button28.UseVisualStyleBackColor = False
         '
@@ -208,7 +208,7 @@ Partial Class frmHoSoUB
         Me.Button29.Location = New System.Drawing.Point(6, 111)
         Me.Button29.Name = "Button29"
         Me.Button29.Size = New System.Drawing.Size(218, 23)
-        Me.Button29.TabIndex = 14
+        Me.Button29.TabIndex = 10
         Me.Button29.Text = "Tìm và lấy hồ sơ chuyển lên"
         Me.Button29.UseVisualStyleBackColor = True
         '
@@ -222,7 +222,7 @@ Partial Class frmHoSoUB
         Me.Label11.Location = New System.Drawing.Point(738, 5)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(86, 13)
-        Me.Label11.TabIndex = 59
+        Me.Label11.TabIndex = 2
         Me.Label11.Text = "Ngày báo cáo"
         '
         'dtpUB
@@ -232,7 +232,7 @@ Partial Class frmHoSoUB
         Me.dtpUB.Location = New System.Drawing.Point(737, 21)
         Me.dtpUB.Name = "dtpUB"
         Me.dtpUB.Size = New System.Drawing.Size(217, 20)
-        Me.dtpUB.TabIndex = 58
+        Me.dtpUB.TabIndex = 3
         '
         'GroupBox14
         '
@@ -260,7 +260,7 @@ Partial Class frmHoSoUB
         Me.CtrFilterGridUBNhan.MyGrid = Nothing
         Me.CtrFilterGridUBNhan.Name = "CtrFilterGridUBNhan"
         Me.CtrFilterGridUBNhan.Size = New System.Drawing.Size(717, 60)
-        Me.CtrFilterGridUBNhan.TabIndex = 31
+        Me.CtrFilterGridUBNhan.TabIndex = 0
         '
         'datagridUBThamDinh
         '
@@ -275,7 +275,7 @@ Partial Class frmHoSoUB
         Me.datagridUBThamDinh.Name = "datagridUBThamDinh"
         Me.datagridUBThamDinh.ReadOnly = True
         Me.datagridUBThamDinh.Size = New System.Drawing.Size(716, 427)
-        Me.datagridUBThamDinh.TabIndex = 17
+        Me.datagridUBThamDinh.TabIndex = 1
         '
         'TabPage2
         '
@@ -287,6 +287,19 @@ Partial Class frmHoSoUB
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "DANH SÁCH HỒ SƠ CHUYỂN VỀ PHÒNG TNMT"
         Me.TabPage2.UseVisualStyleBackColor = True
+        '
+        'grdHoSoDaChuyen
+        '
+        Me.grdHoSoDaChuyen.AllowUserToAddRows = False
+        Me.grdHoSoDaChuyen.AllowUserToDeleteRows = False
+        Me.grdHoSoDaChuyen.BackgroundColor = System.Drawing.Color.Lavender
+        Me.grdHoSoDaChuyen.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.grdHoSoDaChuyen.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.grdHoSoDaChuyen.Location = New System.Drawing.Point(3, 3)
+        Me.grdHoSoDaChuyen.Name = "grdHoSoDaChuyen"
+        Me.grdHoSoDaChuyen.ReadOnly = True
+        Me.grdHoSoDaChuyen.Size = New System.Drawing.Size(965, 516)
+        Me.grdHoSoDaChuyen.TabIndex = 1
         '
         'TabPage3
         '
@@ -306,7 +319,7 @@ Partial Class frmHoSoUB
         Me.Button12.Location = New System.Drawing.Point(813, 19)
         Me.Button12.Name = "Button12"
         Me.Button12.Size = New System.Drawing.Size(155, 23)
-        Me.Button12.TabIndex = 28
+        Me.Button12.TabIndex = 2
         Me.Button12.Text = "Tìm và lấy hồ sơ"
         Me.Button12.UseVisualStyleBackColor = True
         '
@@ -334,7 +347,7 @@ Partial Class frmHoSoUB
         Me.CtrFilterGrid3.MyGrid = Nothing
         Me.CtrFilterGrid3.Name = "CtrFilterGrid3"
         Me.CtrFilterGrid3.Size = New System.Drawing.Size(798, 67)
-        Me.CtrFilterGrid3.TabIndex = 26
+        Me.CtrFilterGrid3.TabIndex = 0
         '
         'DataGridTheoDoi
         '
@@ -349,29 +362,17 @@ Partial Class frmHoSoUB
         Me.DataGridTheoDoi.Name = "DataGridTheoDoi"
         Me.DataGridTheoDoi.ReadOnly = True
         Me.DataGridTheoDoi.Size = New System.Drawing.Size(798, 421)
-        Me.DataGridTheoDoi.TabIndex = 0
+        Me.DataGridTheoDoi.TabIndex = 1
         '
-        'grdHoSoDaChuyen
-        '
-        Me.grdHoSoDaChuyen.AllowUserToAddRows = False
-        Me.grdHoSoDaChuyen.AllowUserToDeleteRows = False
-        Me.grdHoSoDaChuyen.BackgroundColor = System.Drawing.Color.Lavender
-        Me.grdHoSoDaChuyen.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.grdHoSoDaChuyen.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.grdHoSoDaChuyen.Location = New System.Drawing.Point(3, 3)
-        Me.grdHoSoDaChuyen.Name = "grdHoSoDaChuyen"
-        Me.grdHoSoDaChuyen.ReadOnly = True
-        Me.grdHoSoDaChuyen.Size = New System.Drawing.Size(965, 516)
-        Me.grdHoSoDaChuyen.TabIndex = 1
-        '
-        'frmDanhSachHoSoDaChuyenLenUBThamDinh
+        'frmHoSoUB
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Lavender
         Me.ClientSize = New System.Drawing.Size(979, 548)
         Me.Controls.Add(Me.TabControl1)
-        Me.Name = "frmDanhSachHoSoDaChuyenLenUBThamDinh"
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
+        Me.Name = "frmHoSoUB"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "HO SO CHUYEN LEN UY BAN THAM DINH"
         Me.TabControl1.ResumeLayout(False)
@@ -382,10 +383,10 @@ Partial Class frmHoSoUB
         Me.GroupBox14.ResumeLayout(False)
         CType(Me.datagridUBThamDinh, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage2.ResumeLayout(False)
+        CType(Me.grdHoSoDaChuyen, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage3.ResumeLayout(False)
         Me.GroupBox15.ResumeLayout(False)
         CType(Me.DataGridTheoDoi, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.grdHoSoDaChuyen, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub

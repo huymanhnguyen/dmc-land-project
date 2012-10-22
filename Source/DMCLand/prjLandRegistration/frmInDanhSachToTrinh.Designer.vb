@@ -44,6 +44,7 @@ Partial Class frmInDanhSachToTrinh
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(799, 297)
         Me.Controls.Add(Me.CtrInToTrinh1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmInDanhSachToTrinh"
         Me.ShowIcon = False
         Me.ShowInTaskbar = False

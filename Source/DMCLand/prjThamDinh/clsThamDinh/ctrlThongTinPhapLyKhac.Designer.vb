@@ -56,7 +56,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.btnHoSoKiThuat.Location = New System.Drawing.Point(329, 19)
         Me.btnHoSoKiThuat.Name = "btnHoSoKiThuat"
         Me.btnHoSoKiThuat.Size = New System.Drawing.Size(92, 21)
-        Me.btnHoSoKiThuat.TabIndex = 9
+        Me.btnHoSoKiThuat.TabIndex = 11
         Me.btnHoSoKiThuat.Text = "Hồ sơ kĩ thuật"
         Me.btnHoSoKiThuat.UseVisualStyleBackColor = True
         '
@@ -81,7 +81,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.txtSoSeri.Location = New System.Drawing.Point(141, 128)
         Me.txtSoSeri.Name = "txtSoSeri"
         Me.txtSoSeri.Size = New System.Drawing.Size(165, 20)
-        Me.txtSoSeri.TabIndex = 71
+        Me.txtSoSeri.TabIndex = 4
         '
         'Label2
         '
@@ -100,7 +100,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.txtGhiChuThamDinh.Multiline = True
         Me.txtGhiChuThamDinh.Name = "txtGhiChuThamDinh"
         Me.txtGhiChuThamDinh.Size = New System.Drawing.Size(594, 51)
-        Me.txtGhiChuThamDinh.TabIndex = 3
+        Me.txtGhiChuThamDinh.TabIndex = 5
         '
         'Label20
         '
@@ -131,7 +131,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.txtCacKhoanPhaiNop.Location = New System.Drawing.Point(137, 14)
         Me.txtCacKhoanPhaiNop.Name = "txtCacKhoanPhaiNop"
         Me.txtCacKhoanPhaiNop.Size = New System.Drawing.Size(599, 20)
-        Me.txtCacKhoanPhaiNop.TabIndex = 2
+        Me.txtCacKhoanPhaiNop.TabIndex = 3
         '
         'Label10
         '
@@ -164,7 +164,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.txtLyDo.Location = New System.Drawing.Point(138, 39)
         Me.txtLyDo.Name = "txtLyDo"
         Me.txtLyDo.Size = New System.Drawing.Size(593, 20)
-        Me.txtLyDo.TabIndex = 54
+        Me.txtLyDo.TabIndex = 2
         '
         'Label1
         '
@@ -217,7 +217,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.btnTroGiup.Location = New System.Drawing.Point(674, 19)
         Me.btnTroGiup.Name = "btnTroGiup"
         Me.btnTroGiup.Size = New System.Drawing.Size(58, 21)
-        Me.btnTroGiup.TabIndex = 10
+        Me.btnTroGiup.TabIndex = 12
         Me.btnTroGiup.Text = "Trợ giúp"
         Me.btnTroGiup.UseVisualStyleBackColor = True
         '
@@ -226,7 +226,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.btnPhieuThamDinh.Location = New System.Drawing.Point(234, 19)
         Me.btnPhieuThamDinh.Name = "btnPhieuThamDinh"
         Me.btnPhieuThamDinh.Size = New System.Drawing.Size(92, 21)
-        Me.btnPhieuThamDinh.TabIndex = 8
+        Me.btnPhieuThamDinh.TabIndex = 10
         Me.btnPhieuThamDinh.Text = "Phiếu thẩm định"
         Me.btnPhieuThamDinh.UseVisualStyleBackColor = True
         '
@@ -235,7 +235,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.btnHuyLenh.Location = New System.Drawing.Point(175, 19)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 7
+        Me.btnHuyLenh.TabIndex = 9
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -244,7 +244,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.btnCapNhat.Location = New System.Drawing.Point(117, 19)
         Me.btnCapNhat.Name = "btnCapNhat"
         Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
-        Me.btnCapNhat.TabIndex = 6
+        Me.btnCapNhat.TabIndex = 8
         Me.btnCapNhat.Text = "Ghi"
         Me.btnCapNhat.UseVisualStyleBackColor = True
         '
@@ -253,7 +253,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.btnXoa.Location = New System.Drawing.Point(59, 19)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 5
+        Me.btnXoa.TabIndex = 7
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -262,7 +262,7 @@ Partial Class ctrlThongTinPhapLyKhac
         Me.btnSua.Location = New System.Drawing.Point(1, 19)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 4
+        Me.btnSua.TabIndex = 6
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '

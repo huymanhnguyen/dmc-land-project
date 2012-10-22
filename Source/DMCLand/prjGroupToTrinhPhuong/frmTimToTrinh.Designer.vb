@@ -48,7 +48,7 @@ Partial Class frmTimToTrinh
         Me.Label2.Location = New System.Drawing.Point(456, 16)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(84, 13)
-        Me.Label2.TabIndex = 7
+        Me.Label2.TabIndex = 4
         Me.Label2.Text = "Ngày lập tờ trình"
         '
         'dtpNgayLapTrinhDiaChinh
@@ -57,14 +57,14 @@ Partial Class frmTimToTrinh
         Me.dtpNgayLapTrinhDiaChinh.Location = New System.Drawing.Point(546, 12)
         Me.dtpNgayLapTrinhDiaChinh.Name = "dtpNgayLapTrinhDiaChinh"
         Me.dtpNgayLapTrinhDiaChinh.Size = New System.Drawing.Size(139, 20)
-        Me.dtpNgayLapTrinhDiaChinh.TabIndex = 6
+        Me.dtpNgayLapTrinhDiaChinh.TabIndex = 5
         '
         'txtToTrinhSo
         '
         Me.txtToTrinhSo.Location = New System.Drawing.Point(77, 12)
         Me.txtToTrinhSo.Name = "txtToTrinhSo"
         Me.txtToTrinhSo.Size = New System.Drawing.Size(123, 20)
-        Me.txtToTrinhSo.TabIndex = 5
+        Me.txtToTrinhSo.TabIndex = 1
         '
         'Label1
         '
@@ -72,7 +72,7 @@ Partial Class frmTimToTrinh
         Me.Label1.Location = New System.Drawing.Point(11, 15)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(60, 13)
-        Me.Label1.TabIndex = 4
+        Me.Label1.TabIndex = 0
         Me.Label1.Text = "Tờ trình số:"
         '
         'GroupBox3
@@ -118,7 +118,7 @@ Partial Class frmTimToTrinh
         Me.grdToTrinh.ReadOnly = True
         Me.grdToTrinh.RowHeadersWidth = 25
         Me.grdToTrinh.Size = New System.Drawing.Size(660, 375)
-        Me.grdToTrinh.TabIndex = 0
+        Me.grdToTrinh.TabIndex = 12
         '
         'cmdGhi
         '
@@ -126,7 +126,7 @@ Partial Class frmTimToTrinh
         Me.cmdGhi.Location = New System.Drawing.Point(427, 72)
         Me.cmdGhi.Name = "cmdGhi"
         Me.cmdGhi.Size = New System.Drawing.Size(60, 22)
-        Me.cmdGhi.TabIndex = 16
+        Me.cmdGhi.TabIndex = 8
         Me.cmdGhi.Text = "Ghi"
         Me.cmdGhi.UseVisualStyleBackColor = True
         '
@@ -136,7 +136,7 @@ Partial Class frmTimToTrinh
         Me.cmdXoa.Location = New System.Drawing.Point(625, 72)
         Me.cmdXoa.Name = "cmdXoa"
         Me.cmdXoa.Size = New System.Drawing.Size(60, 22)
-        Me.cmdXoa.TabIndex = 15
+        Me.cmdXoa.TabIndex = 11
         Me.cmdXoa.Text = "Xoá"
         Me.cmdXoa.UseVisualStyleBackColor = True
         '
@@ -146,7 +146,7 @@ Partial Class frmTimToTrinh
         Me.cmdSua.Location = New System.Drawing.Point(559, 72)
         Me.cmdSua.Name = "cmdSua"
         Me.cmdSua.Size = New System.Drawing.Size(60, 22)
-        Me.cmdSua.TabIndex = 14
+        Me.cmdSua.TabIndex = 10
         Me.cmdSua.Text = "Sửa"
         Me.cmdSua.UseVisualStyleBackColor = True
         '
@@ -156,7 +156,7 @@ Partial Class frmTimToTrinh
         Me.cmdThem.Location = New System.Drawing.Point(493, 72)
         Me.cmdThem.Name = "cmdThem"
         Me.cmdThem.Size = New System.Drawing.Size(60, 22)
-        Me.cmdThem.TabIndex = 13
+        Me.cmdThem.TabIndex = 9
         Me.cmdThem.Text = "Thêm"
         Me.cmdThem.UseVisualStyleBackColor = True
         '
@@ -165,7 +165,7 @@ Partial Class frmTimToTrinh
         Me.txtDonViLapToTrinh.Location = New System.Drawing.Point(77, 42)
         Me.txtDonViLapToTrinh.Name = "txtDonViLapToTrinh"
         Me.txtDonViLapToTrinh.Size = New System.Drawing.Size(368, 20)
-        Me.txtDonViLapToTrinh.TabIndex = 12
+        Me.txtDonViLapToTrinh.TabIndex = 3
         '
         'Label3
         '
@@ -173,7 +173,7 @@ Partial Class frmTimToTrinh
         Me.Label3.Location = New System.Drawing.Point(16, 45)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(55, 13)
-        Me.Label3.TabIndex = 11
+        Me.Label3.TabIndex = 2
         Me.Label3.Text = "Đơn vị lập"
         '
         'Label4
@@ -182,7 +182,7 @@ Partial Class frmTimToTrinh
         Me.Label4.Location = New System.Drawing.Point(485, 43)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(55, 13)
-        Me.Label4.TabIndex = 18
+        Me.Label4.TabIndex = 6
         Me.Label4.Text = "Ngày trình"
         '
         'dtpNgayTrinhDiaChinh
@@ -191,7 +191,7 @@ Partial Class frmTimToTrinh
         Me.dtpNgayTrinhDiaChinh.Location = New System.Drawing.Point(546, 39)
         Me.dtpNgayTrinhDiaChinh.Name = "dtpNgayTrinhDiaChinh"
         Me.dtpNgayTrinhDiaChinh.Size = New System.Drawing.Size(139, 20)
-        Me.dtpNgayTrinhDiaChinh.TabIndex = 17
+        Me.dtpNgayTrinhDiaChinh.TabIndex = 7
         '
         'frmTimToTrinh
         '

@@ -118,13 +118,3 @@ E:\DMCLand\new\20102812_DMCLand_4\prjToolUploadMap\obj\Debug\prjToolUploadMap.Pr
 E:\DMCLand\new\20102812_DMCLand_4\prjToolUploadMap\obj\Debug\prjToolUploadMap.csproj.GenerateResource.Cache
 E:\DMCLand\new\20102812_DMCLand_4\prjToolUploadMap\obj\Debug\prjToolUploadMap.dll
 E:\DMCLand\new\20102812_DMCLand_4\prjToolUploadMap\obj\Debug\prjToolUploadMap.pdb
-E:\dmc_land_project\Source\DMCLand\prjToolUploadMap\bin\Debug\prjToolUploadMap.dll
-E:\dmc_land_project\Source\DMCLand\prjToolUploadMap\bin\Debug\prjToolUploadMap.pdb
-E:\dmc_land_project\Source\DMCLand\prjToolUploadMap\obj\Debug\ResolveAssemblyReference.cache
-E:\dmc_land_project\Source\DMCLand\prjToolUploadMap\obj\Debug\prjToolUploadMap.ctrToolUploadMap.resources
-E:\dmc_land_project\Source\DMCLand\prjToolUploadMap\obj\Debug\prjToolUploadMap.frmBaoCaoDuAnDoThi.resources
-E:\dmc_land_project\Source\DMCLand\prjToolUploadMap\obj\Debug\prjToolUploadMap.frmBaoCaoQuiHoach.resources
-E:\dmc_land_project\Source\DMCLand\prjToolUploadMap\obj\Debug\prjToolUploadMap.Properties.Resources.resources
-E:\dmc_land_project\Source\DMCLand\prjToolUploadMap\obj\Debug\prjToolUploadMap.csproj.GenerateResource.Cache
-E:\dmc_land_project\Source\DMCLand\prjToolUploadMap\obj\Debug\prjToolUploadMap.dll
-E:\dmc_land_project\Source\DMCLand\prjToolUploadMap\obj\Debug\prjToolUploadMap.pdb

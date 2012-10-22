@@ -22,10 +22,10 @@ Partial Class ctrlThongTinCanBoThamDinh
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.btnTroGiup = New System.Windows.Forms.Button
         Me.btnHuyLenh = New System.Windows.Forms.Button
         Me.btnSua = New System.Windows.Forms.Button
@@ -82,6 +82,11 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.TabControl1 = New System.Windows.Forms.TabControl
         Me.TabPage1 = New System.Windows.Forms.TabPage
         Me.TabPage2 = New System.Windows.Forms.TabPage
+        Me.Label25 = New System.Windows.Forms.Label
+        Me.txtLyDoKhongCapNhaO = New System.Windows.Forms.TextBox
+        Me.cmdHuyNha = New System.Windows.Forms.Button
+        Me.cmdGhiNha = New System.Windows.Forms.Button
+        Me.cmdSuaNha = New System.Windows.Forms.Button
         Me.cmdKetCauNha = New System.Windows.Forms.Button
         Me.txtSoTang = New System.Windows.Forms.TextBox
         Me.txtKetCauNha = New System.Windows.Forms.TextBox
@@ -97,11 +102,6 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.Label23 = New System.Windows.Forms.Label
         Me.Label24 = New System.Windows.Forms.Label
         Me.grdThamDinhNha = New DMC.[Interface].GridView.ctrlGridView
-        Me.cmdSuaNha = New System.Windows.Forms.Button
-        Me.cmdGhiNha = New System.Windows.Forms.Button
-        Me.cmdHuyNha = New System.Windows.Forms.Button
-        Me.Label25 = New System.Windows.Forms.Label
-        Me.txtLyDoKhongCapNhaO = New System.Windows.Forms.TextBox
         Me.GroupBox3.SuspendLayout()
         CType(Me.numDienTichChung, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.numDienTichRieng, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -127,7 +127,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.btnTroGiup.Location = New System.Drawing.Point(736, 16)
         Me.btnTroGiup.Name = "btnTroGiup"
         Me.btnTroGiup.Size = New System.Drawing.Size(58, 21)
-        Me.btnTroGiup.TabIndex = 10
+        Me.btnTroGiup.TabIndex = 12
         Me.btnTroGiup.Text = "Trợ giúp"
         Me.btnTroGiup.UseVisualStyleBackColor = True
         '
@@ -136,7 +136,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.btnHuyLenh.Location = New System.Drawing.Point(241, 16)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 9
+        Me.btnHuyLenh.TabIndex = 11
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -145,7 +145,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.btnSua.Location = New System.Drawing.Point(61, 16)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 6
+        Me.btnSua.TabIndex = 8
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -154,7 +154,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.btnXoa.Location = New System.Drawing.Point(121, 16)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 7
+        Me.btnXoa.TabIndex = 9
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -163,7 +163,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.btnCapNhat.Location = New System.Drawing.Point(181, 16)
         Me.btnCapNhat.Name = "btnCapNhat"
         Me.btnCapNhat.Size = New System.Drawing.Size(58, 21)
-        Me.btnCapNhat.TabIndex = 8
+        Me.btnCapNhat.TabIndex = 10
         Me.btnCapNhat.Text = "Ghi"
         Me.btnCapNhat.UseVisualStyleBackColor = True
         '
@@ -522,7 +522,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.cmdDVThamDinh.Location = New System.Drawing.Point(743, 12)
         Me.cmdDVThamDinh.Name = "cmdDVThamDinh"
         Me.cmdDVThamDinh.Size = New System.Drawing.Size(40, 21)
-        Me.cmdDVThamDinh.TabIndex = 94
+        Me.cmdDVThamDinh.TabIndex = 1
         Me.cmdDVThamDinh.Text = "..."
         Me.cmdDVThamDinh.UseVisualStyleBackColor = True
         '
@@ -531,7 +531,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.txtYKienDKND.Location = New System.Drawing.Point(66, 65)
         Me.txtYKienDKND.Name = "txtYKienDKND"
         Me.txtYKienDKND.Size = New System.Drawing.Size(717, 50)
-        Me.txtYKienDKND.TabIndex = 67
+        Me.txtYKienDKND.TabIndex = 4
         Me.txtYKienDKND.Text = ""
         '
         'txtDonViThamDinh
@@ -541,7 +541,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.txtDonViThamDinh.Location = New System.Drawing.Point(125, 13)
         Me.txtDonViThamDinh.Name = "txtDonViThamDinh"
         Me.txtDonViThamDinh.Size = New System.Drawing.Size(612, 20)
-        Me.txtDonViThamDinh.TabIndex = 66
+        Me.txtDonViThamDinh.TabIndex = 0
         Me.txtDonViThamDinh.Text = "Phòng đăng ký Đất và nhà"
         '
         'Label5
@@ -558,7 +558,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.btnTraCuu.Location = New System.Drawing.Point(66, 39)
         Me.btnTraCuu.Name = "btnTraCuu"
         Me.btnTraCuu.Size = New System.Drawing.Size(53, 21)
-        Me.btnTraCuu.TabIndex = 54
+        Me.btnTraCuu.TabIndex = 2
         Me.btnTraCuu.Text = "Tra cứu"
         Me.btnTraCuu.UseVisualStyleBackColor = True
         '
@@ -578,7 +578,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.cmbKetQuaDKND.Location = New System.Drawing.Point(66, 122)
         Me.cmbKetQuaDKND.Name = "cmbKetQuaDKND"
         Me.cmbKetQuaDKND.Size = New System.Drawing.Size(113, 21)
-        Me.cmbKetQuaDKND.TabIndex = 4
+        Me.cmbKetQuaDKND.TabIndex = 5
         '
         'Label1
         '
@@ -596,14 +596,14 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.txtHoTenCanBoDKND.Location = New System.Drawing.Point(125, 39)
         Me.txtHoTenCanBoDKND.Name = "txtHoTenCanBoDKND"
         Me.txtHoTenCanBoDKND.Size = New System.Drawing.Size(659, 20)
-        Me.txtHoTenCanBoDKND.TabIndex = 2
+        Me.txtHoTenCanBoDKND.TabIndex = 3
         '
         'DTPNgayThamDinhDKND
         '
         Me.DTPNgayThamDinhDKND.Location = New System.Drawing.Point(273, 121)
         Me.DTPNgayThamDinhDKND.Name = "DTPNgayThamDinhDKND"
         Me.DTPNgayThamDinhDKND.Size = New System.Drawing.Size(111, 20)
-        Me.DTPNgayThamDinhDKND.TabIndex = 5
+        Me.DTPNgayThamDinhDKND.TabIndex = 6
         '
         'Label4
         '
@@ -628,7 +628,7 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.btnThem.Location = New System.Drawing.Point(1, 16)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(58, 21)
-        Me.btnThem.TabIndex = 5
+        Me.btnThem.TabIndex = 7
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '
@@ -655,23 +655,23 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.grdvwDonViThamDinh.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grdvwDonViThamDinh.BackgroundColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.grdvwDonViThamDinh.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle5
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.grdvwDonViThamDinh.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.grdvwDonViThamDinh.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle6.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.grdvwDonViThamDinh.DefaultCellStyle = DataGridViewCellStyle6
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.grdvwDonViThamDinh.DefaultCellStyle = DataGridViewCellStyle2
         Me.grdvwDonViThamDinh.Location = New System.Drawing.Point(3, 388)
         Me.grdvwDonViThamDinh.Name = "grdvwDonViThamDinh"
         Me.grdvwDonViThamDinh.ReadOnly = True
@@ -731,6 +731,51 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.TabPage2.Size = New System.Drawing.Size(792, 203)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "Thông tin nhà"
+        '
+        'Label25
+        '
+        Me.Label25.AutoSize = True
+        Me.Label25.Location = New System.Drawing.Point(21, 84)
+        Me.Label25.Name = "Label25"
+        Me.Label25.Size = New System.Drawing.Size(87, 13)
+        Me.Label25.TabIndex = 118
+        Me.Label25.Text = "Lý do không cấp"
+        '
+        'txtLyDoKhongCapNhaO
+        '
+        Me.txtLyDoKhongCapNhaO.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtLyDoKhongCapNhaO.Location = New System.Drawing.Point(114, 81)
+        Me.txtLyDoKhongCapNhaO.Name = "txtLyDoKhongCapNhaO"
+        Me.txtLyDoKhongCapNhaO.Size = New System.Drawing.Size(662, 20)
+        Me.txtLyDoKhongCapNhaO.TabIndex = 117
+        '
+        'cmdHuyNha
+        '
+        Me.cmdHuyNha.Location = New System.Drawing.Point(718, 164)
+        Me.cmdHuyNha.Name = "cmdHuyNha"
+        Me.cmdHuyNha.Size = New System.Drawing.Size(58, 21)
+        Me.cmdHuyNha.TabIndex = 116
+        Me.cmdHuyNha.Text = "Hủy"
+        Me.cmdHuyNha.UseVisualStyleBackColor = True
+        '
+        'cmdGhiNha
+        '
+        Me.cmdGhiNha.Location = New System.Drawing.Point(718, 137)
+        Me.cmdGhiNha.Name = "cmdGhiNha"
+        Me.cmdGhiNha.Size = New System.Drawing.Size(58, 21)
+        Me.cmdGhiNha.TabIndex = 115
+        Me.cmdGhiNha.Text = "Ghi"
+        Me.cmdGhiNha.UseVisualStyleBackColor = True
+        '
+        'cmdSuaNha
+        '
+        Me.cmdSuaNha.Location = New System.Drawing.Point(718, 110)
+        Me.cmdSuaNha.Name = "cmdSuaNha"
+        Me.cmdSuaNha.Size = New System.Drawing.Size(58, 21)
+        Me.cmdSuaNha.TabIndex = 114
+        Me.cmdSuaNha.Text = "Sửa"
+        Me.cmdSuaNha.UseVisualStyleBackColor = True
         '
         'cmdKetCauNha
         '
@@ -863,74 +908,29 @@ Partial Class ctrlThongTinCanBoThamDinh
         Me.grdThamDinhNha.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.grdThamDinhNha.BackgroundColor = System.Drawing.Color.WhiteSmoke
-        DataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
-        DataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle7.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.grdThamDinhNha.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle7
+        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter
+        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.grdThamDinhNha.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
         Me.grdThamDinhNha.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle8.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle8.SelectionForeColor = System.Drawing.Color.Black
-        DataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.grdThamDinhNha.DefaultCellStyle = DataGridViewCellStyle8
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black
+        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.grdThamDinhNha.DefaultCellStyle = DataGridViewCellStyle4
         Me.grdThamDinhNha.Location = New System.Drawing.Point(3, 110)
         Me.grdThamDinhNha.Name = "grdThamDinhNha"
         Me.grdThamDinhNha.ReadOnly = True
         Me.grdThamDinhNha.RowHeadersWidth = 25
         Me.grdThamDinhNha.Size = New System.Drawing.Size(706, 87)
         Me.grdThamDinhNha.TabIndex = 94
-        '
-        'cmdSuaNha
-        '
-        Me.cmdSuaNha.Location = New System.Drawing.Point(718, 110)
-        Me.cmdSuaNha.Name = "cmdSuaNha"
-        Me.cmdSuaNha.Size = New System.Drawing.Size(58, 21)
-        Me.cmdSuaNha.TabIndex = 114
-        Me.cmdSuaNha.Text = "Sửa"
-        Me.cmdSuaNha.UseVisualStyleBackColor = True
-        '
-        'cmdGhiNha
-        '
-        Me.cmdGhiNha.Location = New System.Drawing.Point(718, 137)
-        Me.cmdGhiNha.Name = "cmdGhiNha"
-        Me.cmdGhiNha.Size = New System.Drawing.Size(58, 21)
-        Me.cmdGhiNha.TabIndex = 115
-        Me.cmdGhiNha.Text = "Ghi"
-        Me.cmdGhiNha.UseVisualStyleBackColor = True
-        '
-        'cmdHuyNha
-        '
-        Me.cmdHuyNha.Location = New System.Drawing.Point(718, 164)
-        Me.cmdHuyNha.Name = "cmdHuyNha"
-        Me.cmdHuyNha.Size = New System.Drawing.Size(58, 21)
-        Me.cmdHuyNha.TabIndex = 116
-        Me.cmdHuyNha.Text = "Hủy"
-        Me.cmdHuyNha.UseVisualStyleBackColor = True
-        '
-        'Label25
-        '
-        Me.Label25.AutoSize = True
-        Me.Label25.Location = New System.Drawing.Point(21, 84)
-        Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(87, 13)
-        Me.Label25.TabIndex = 118
-        Me.Label25.Text = "Lý do không cấp"
-        '
-        'txtLyDoKhongCapNhaO
-        '
-        Me.txtLyDoKhongCapNhaO.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.txtLyDoKhongCapNhaO.Location = New System.Drawing.Point(114, 81)
-        Me.txtLyDoKhongCapNhaO.Name = "txtLyDoKhongCapNhaO"
-        Me.txtLyDoKhongCapNhaO.Size = New System.Drawing.Size(662, 20)
-        Me.txtLyDoKhongCapNhaO.TabIndex = 117
         '
         'ctrlThongTinCanBoThamDinh
         '

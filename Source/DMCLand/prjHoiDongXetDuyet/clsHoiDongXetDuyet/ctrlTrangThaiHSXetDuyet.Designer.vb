@@ -34,7 +34,7 @@ Partial Class ctrlTrangThaiHSXetDuyet
         Me.btnhuylenh.Location = New System.Drawing.Point(270, 130)
         Me.btnhuylenh.Name = "btnhuylenh"
         Me.btnhuylenh.Size = New System.Drawing.Size(75, 23)
-        Me.btnhuylenh.TabIndex = 36
+        Me.btnhuylenh.TabIndex = 4
         Me.btnhuylenh.Text = "Hủy lệnh"
         Me.btnhuylenh.UseVisualStyleBackColor = True
         '
@@ -44,7 +44,7 @@ Partial Class ctrlTrangThaiHSXetDuyet
         Me.btnghi.Location = New System.Drawing.Point(270, 98)
         Me.btnghi.Name = "btnghi"
         Me.btnghi.Size = New System.Drawing.Size(75, 23)
-        Me.btnghi.TabIndex = 35
+        Me.btnghi.TabIndex = 3
         Me.btnghi.Text = "Ghi"
         Me.btnghi.UseVisualStyleBackColor = True
         '
@@ -53,7 +53,7 @@ Partial Class ctrlTrangThaiHSXetDuyet
         Me.btnsua.Location = New System.Drawing.Point(270, 63)
         Me.btnsua.Name = "btnsua"
         Me.btnsua.Size = New System.Drawing.Size(75, 23)
-        Me.btnsua.TabIndex = 34
+        Me.btnsua.TabIndex = 2
         Me.btnsua.Text = "Sửa"
         Me.btnsua.UseVisualStyleBackColor = True
         '
@@ -64,11 +64,11 @@ Partial Class ctrlTrangThaiHSXetDuyet
         Me.chkXacNhan.Location = New System.Drawing.Point(43, 97)
         Me.chkXacNhan.Name = "chkXacNhan"
         Me.chkXacNhan.Size = New System.Drawing.Size(137, 17)
-        Me.chkXacNhan.TabIndex = 33
+        Me.chkXacNhan.TabIndex = 1
         Me.chkXacNhan.Text = "Hoàn Thành Xác Nhận"
         Me.chkXacNhan.UseVisualStyleBackColor = True
         '
-        'ctrlTrangThaiXetDuyet
+        'ctrlTrangThaiHSXetDuyet
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -76,7 +76,7 @@ Partial Class ctrlTrangThaiHSXetDuyet
         Me.Controls.Add(Me.btnghi)
         Me.Controls.Add(Me.btnsua)
         Me.Controls.Add(Me.chkXacNhan)
-        Me.Name = "ctrlTrangThaiXetDuyet"
+        Me.Name = "ctrlTrangThaiHSXetDuyet"
         Me.Size = New System.Drawing.Size(475, 264)
         Me.ResumeLayout(False)
         Me.PerformLayout()

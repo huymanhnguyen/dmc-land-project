@@ -73,7 +73,7 @@
             this.cmdLuu.Location = new System.Drawing.Point(354, 337);
             this.cmdLuu.Name = "cmdLuu";
             this.cmdLuu.Size = new System.Drawing.Size(75, 23);
-            this.cmdLuu.TabIndex = 2;
+            this.cmdLuu.TabIndex = 1;
             this.cmdLuu.Text = "Lưu lại";
             this.cmdLuu.UseVisualStyleBackColor = true;
             this.cmdLuu.Click += new System.EventHandler(this.cmdLuu_Click);
@@ -84,7 +84,7 @@
             this.cmdThoat.Location = new System.Drawing.Point(435, 337);
             this.cmdThoat.Name = "cmdThoat";
             this.cmdThoat.Size = new System.Drawing.Size(75, 23);
-            this.cmdThoat.TabIndex = 3;
+            this.cmdThoat.TabIndex = 2;
             this.cmdThoat.Text = "Thoát";
             this.cmdThoat.UseVisualStyleBackColor = true;
             this.cmdThoat.Click += new System.EventHandler(this.cmdThoat_Click);
@@ -98,6 +98,7 @@
             this.Controls.Add(this.cmdThoat);
             this.Controls.Add(this.cmdLuu);
             this.Controls.Add(this.grdDanhSachToaDo);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frmChinhLyToaDo";
             this.Text = "CHINH LY TOA DO";
             this.Load += new System.EventHandler(this.frmChinhLyToaDo_Load);

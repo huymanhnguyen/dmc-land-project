@@ -58,7 +58,7 @@ Partial Class ctrCanhBaoQuyTrinhGiaoViec
         Me.cmdChiTietHoSo.Location = New System.Drawing.Point(111, 424)
         Me.cmdChiTietHoSo.Name = "cmdChiTietHoSo"
         Me.cmdChiTietHoSo.Size = New System.Drawing.Size(102, 29)
-        Me.cmdChiTietHoSo.TabIndex = 11
+        Me.cmdChiTietHoSo.TabIndex = 4
         Me.cmdChiTietHoSo.Text = "Nghiệp vụ hồ sơ"
         Me.cmdChiTietHoSo.UseVisualStyleBackColor = True
         '
@@ -68,7 +68,7 @@ Partial Class ctrCanhBaoQuyTrinhGiaoViec
         Me.Label8.Location = New System.Drawing.Point(12, 15)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(93, 13)
-        Me.Label8.TabIndex = 86
+        Me.Label8.TabIndex = 0
         Me.Label8.Text = "Loại hồ sơ quản lý"
         '
         'cboTuDienLuanChuyenHoSo
@@ -78,7 +78,7 @@ Partial Class ctrCanhBaoQuyTrinhGiaoViec
         Me.cboTuDienLuanChuyenHoSo.Location = New System.Drawing.Point(111, 12)
         Me.cboTuDienLuanChuyenHoSo.Name = "cboTuDienLuanChuyenHoSo"
         Me.cboTuDienLuanChuyenHoSo.Size = New System.Drawing.Size(249, 21)
-        Me.cboTuDienLuanChuyenHoSo.TabIndex = 85
+        Me.cboTuDienLuanChuyenHoSo.TabIndex = 1
         '
         'grdDanhMucHoSo
         '
@@ -93,7 +93,7 @@ Partial Class ctrCanhBaoQuyTrinhGiaoViec
         Me.grdDanhMucHoSo.ReadOnly = True
         Me.grdDanhMucHoSo.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.grdDanhMucHoSo.Size = New System.Drawing.Size(510, 360)
-        Me.grdDanhMucHoSo.TabIndex = 87
+        Me.grdDanhMucHoSo.TabIndex = 2
         '
         'ctrCanhBaoQuyTrinhGiaoViec
         '

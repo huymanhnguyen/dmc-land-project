@@ -35,12 +35,12 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.btnXoa = New System.Windows.Forms.Button
         Me.btnGhi = New System.Windows.Forms.Button
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
+        Me.cmdDonViLapToTrinh = New System.Windows.Forms.Button
         Me.Label2 = New System.Windows.Forms.Label
         Me.txtDieuKhoan = New System.Windows.Forms.TextBox
         Me.btnInToTrinhDiaChinh = New System.Windows.Forms.Button
         Me.btnThem = New System.Windows.Forms.Button
         Me.GroupBox2 = New System.Windows.Forms.GroupBox
-        Me.cmdDonViLapToTrinh = New System.Windows.Forms.Button
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
@@ -50,7 +50,7 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.dtpNgayTrinhDiaChinh.Location = New System.Drawing.Point(468, 49)
         Me.dtpNgayTrinhDiaChinh.Name = "dtpNgayTrinhDiaChinh"
         Me.dtpNgayTrinhDiaChinh.Size = New System.Drawing.Size(128, 20)
-        Me.dtpNgayTrinhDiaChinh.TabIndex = 3
+        Me.dtpNgayTrinhDiaChinh.TabIndex = 4
         '
         'Label16
         '
@@ -75,7 +75,7 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.txtSoToTrinhDiaChinh.Location = New System.Drawing.Point(70, 49)
         Me.txtSoToTrinhDiaChinh.Name = "txtSoToTrinhDiaChinh"
         Me.txtSoToTrinhDiaChinh.Size = New System.Drawing.Size(131, 20)
-        Me.txtSoToTrinhDiaChinh.TabIndex = 1
+        Me.txtSoToTrinhDiaChinh.TabIndex = 2
         '
         'txtDonViLapToTrinhDiaChinh
         '
@@ -100,7 +100,7 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.dtpNgayLapToTrinhDiaChinh.Location = New System.Drawing.Point(266, 49)
         Me.dtpNgayLapToTrinhDiaChinh.Name = "dtpNgayLapToTrinhDiaChinh"
         Me.dtpNgayLapToTrinhDiaChinh.Size = New System.Drawing.Size(121, 20)
-        Me.dtpNgayLapToTrinhDiaChinh.TabIndex = 2
+        Me.dtpNgayLapToTrinhDiaChinh.TabIndex = 3
         '
         'Label1
         '
@@ -116,7 +116,7 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.btnHuyLenh.Location = New System.Drawing.Point(255, 12)
         Me.btnHuyLenh.Name = "btnHuyLenh"
         Me.btnHuyLenh.Size = New System.Drawing.Size(58, 21)
-        Me.btnHuyLenh.TabIndex = 8
+        Me.btnHuyLenh.TabIndex = 10
         Me.btnHuyLenh.Text = "Hủy lệnh"
         Me.btnHuyLenh.UseVisualStyleBackColor = True
         '
@@ -125,7 +125,7 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.btnSua.Location = New System.Drawing.Point(72, 12)
         Me.btnSua.Name = "btnSua"
         Me.btnSua.Size = New System.Drawing.Size(58, 21)
-        Me.btnSua.TabIndex = 5
+        Me.btnSua.TabIndex = 7
         Me.btnSua.Text = "Sửa"
         Me.btnSua.UseVisualStyleBackColor = True
         '
@@ -134,7 +134,7 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.btnXoa.Location = New System.Drawing.Point(133, 12)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(58, 21)
-        Me.btnXoa.TabIndex = 6
+        Me.btnXoa.TabIndex = 8
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -143,7 +143,7 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.btnGhi.Location = New System.Drawing.Point(194, 12)
         Me.btnGhi.Name = "btnGhi"
         Me.btnGhi.Size = New System.Drawing.Size(58, 21)
-        Me.btnGhi.TabIndex = 7
+        Me.btnGhi.TabIndex = 9
         Me.btnGhi.Text = "Ghi"
         Me.btnGhi.UseVisualStyleBackColor = True
         '
@@ -169,6 +169,16 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Thông tin tờ Trình địa chính"
         '
+        'cmdDonViLapToTrinh
+        '
+        Me.cmdDonViLapToTrinh.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.cmdDonViLapToTrinh.Location = New System.Drawing.Point(613, 19)
+        Me.cmdDonViLapToTrinh.Name = "cmdDonViLapToTrinh"
+        Me.cmdDonViLapToTrinh.Size = New System.Drawing.Size(39, 21)
+        Me.cmdDonViLapToTrinh.TabIndex = 1
+        Me.cmdDonViLapToTrinh.Text = "..."
+        Me.cmdDonViLapToTrinh.UseVisualStyleBackColor = True
+        '
         'Label2
         '
         Me.Label2.AutoSize = True
@@ -183,14 +193,14 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.txtDieuKhoan.Location = New System.Drawing.Point(70, 75)
         Me.txtDieuKhoan.Name = "txtDieuKhoan"
         Me.txtDieuKhoan.Size = New System.Drawing.Size(131, 20)
-        Me.txtDieuKhoan.TabIndex = 94
+        Me.txtDieuKhoan.TabIndex = 5
         '
         'btnInToTrinhDiaChinh
         '
         Me.btnInToTrinhDiaChinh.Location = New System.Drawing.Point(319, 13)
         Me.btnInToTrinhDiaChinh.Name = "btnInToTrinhDiaChinh"
         Me.btnInToTrinhDiaChinh.Size = New System.Drawing.Size(109, 21)
-        Me.btnInToTrinhDiaChinh.TabIndex = 9
+        Me.btnInToTrinhDiaChinh.TabIndex = 11
         Me.btnInToTrinhDiaChinh.Text = "In tờ trình địa chính"
         Me.btnInToTrinhDiaChinh.UseVisualStyleBackColor = True
         '
@@ -199,7 +209,7 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.btnThem.Location = New System.Drawing.Point(12, 13)
         Me.btnThem.Name = "btnThem"
         Me.btnThem.Size = New System.Drawing.Size(58, 21)
-        Me.btnThem.TabIndex = 4
+        Me.btnThem.TabIndex = 6
         Me.btnThem.Text = "Thêm"
         Me.btnThem.UseVisualStyleBackColor = True
         '
@@ -218,16 +228,6 @@ Partial Class ctrlThongTinToTrinhDiaChinh
         Me.GroupBox2.Size = New System.Drawing.Size(663, 40)
         Me.GroupBox2.TabIndex = 99
         Me.GroupBox2.TabStop = False
-        '
-        'cmdDonViLapToTrinh
-        '
-        Me.cmdDonViLapToTrinh.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.cmdDonViLapToTrinh.Location = New System.Drawing.Point(613, 19)
-        Me.cmdDonViLapToTrinh.Name = "cmdDonViLapToTrinh"
-        Me.cmdDonViLapToTrinh.Size = New System.Drawing.Size(39, 21)
-        Me.cmdDonViLapToTrinh.TabIndex = 96
-        Me.cmdDonViLapToTrinh.Text = "..."
-        Me.cmdDonViLapToTrinh.UseVisualStyleBackColor = True
         '
         'ctrlThongTinToTrinhDiaChinh
         '

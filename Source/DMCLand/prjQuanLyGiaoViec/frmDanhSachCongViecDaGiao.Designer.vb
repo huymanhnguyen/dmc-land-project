@@ -24,12 +24,12 @@ Partial Class frmDanhSachCongViecDaGiao
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
+        Me.grdDanhMucHoSo = New System.Windows.Forms.DataGridView
         Me.Label8 = New System.Windows.Forms.Label
         Me.cboTuDienLuanChuyenHoSo = New System.Windows.Forms.ComboBox
         Me.cmdChiTietHoSo = New System.Windows.Forms.Button
         Me.cmdDieuChinh = New System.Windows.Forms.Button
         Me.GrGhiChu = New System.Windows.Forms.GroupBox
-        Me.grdDanhMucHoSo = New System.Windows.Forms.DataGridView
         Me.GroupBox1.SuspendLayout()
         CType(Me.grdDanhMucHoSo, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -60,55 +60,6 @@ Partial Class frmDanhSachCongViecDaGiao
         Me.GroupBox1.TabIndex = 1
         Me.GroupBox1.TabStop = False
         '
-        'Label8
-        '
-        Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(3, 22)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(93, 13)
-        Me.Label8.TabIndex = 86
-        Me.Label8.Text = "Loại hồ sơ quản lý"
-        '
-        'cboTuDienLuanChuyenHoSo
-        '
-        Me.cboTuDienLuanChuyenHoSo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cboTuDienLuanChuyenHoSo.FormattingEnabled = True
-        Me.cboTuDienLuanChuyenHoSo.Location = New System.Drawing.Point(102, 19)
-        Me.cboTuDienLuanChuyenHoSo.Name = "cboTuDienLuanChuyenHoSo"
-        Me.cboTuDienLuanChuyenHoSo.Size = New System.Drawing.Size(249, 21)
-        Me.cboTuDienLuanChuyenHoSo.TabIndex = 85
-        '
-        'cmdChiTietHoSo
-        '
-        Me.cmdChiTietHoSo.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.cmdChiTietHoSo.Location = New System.Drawing.Point(465, 18)
-        Me.cmdChiTietHoSo.Name = "cmdChiTietHoSo"
-        Me.cmdChiTietHoSo.Size = New System.Drawing.Size(102, 21)
-        Me.cmdChiTietHoSo.TabIndex = 15
-        Me.cmdChiTietHoSo.Text = "Nghiệp vụ hồ sơ"
-        Me.cmdChiTietHoSo.UseVisualStyleBackColor = True
-        '
-        'cmdDieuChinh
-        '
-        Me.cmdDieuChinh.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.cmdDieuChinh.Location = New System.Drawing.Point(357, 18)
-        Me.cmdDieuChinh.Name = "cmdDieuChinh"
-        Me.cmdDieuChinh.Size = New System.Drawing.Size(102, 21)
-        Me.cmdDieuChinh.TabIndex = 12
-        Me.cmdDieuChinh.Text = "Điều chỉnh"
-        Me.cmdDieuChinh.UseVisualStyleBackColor = True
-        '
-        'GrGhiChu
-        '
-        Me.GrGhiChu.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.GrGhiChu.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.GrGhiChu.Location = New System.Drawing.Point(756, 38)
-        Me.GrGhiChu.Name = "GrGhiChu"
-        Me.GrGhiChu.Size = New System.Drawing.Size(203, 444)
-        Me.GrGhiChu.TabIndex = 14
-        Me.GrGhiChu.TabStop = False
-        '
         'grdDanhMucHoSo
         '
         Me.grdDanhMucHoSo.AllowUserToAddRows = False
@@ -122,7 +73,56 @@ Partial Class frmDanhSachCongViecDaGiao
         Me.grdDanhMucHoSo.ReadOnly = True
         Me.grdDanhMucHoSo.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
         Me.grdDanhMucHoSo.Size = New System.Drawing.Size(744, 436)
-        Me.grdDanhMucHoSo.TabIndex = 88
+        Me.grdDanhMucHoSo.TabIndex = 4
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(3, 22)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(93, 13)
+        Me.Label8.TabIndex = 0
+        Me.Label8.Text = "Loại hồ sơ quản lý"
+        '
+        'cboTuDienLuanChuyenHoSo
+        '
+        Me.cboTuDienLuanChuyenHoSo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cboTuDienLuanChuyenHoSo.FormattingEnabled = True
+        Me.cboTuDienLuanChuyenHoSo.Location = New System.Drawing.Point(102, 19)
+        Me.cboTuDienLuanChuyenHoSo.Name = "cboTuDienLuanChuyenHoSo"
+        Me.cboTuDienLuanChuyenHoSo.Size = New System.Drawing.Size(249, 21)
+        Me.cboTuDienLuanChuyenHoSo.TabIndex = 1
+        '
+        'cmdChiTietHoSo
+        '
+        Me.cmdChiTietHoSo.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.cmdChiTietHoSo.Location = New System.Drawing.Point(465, 18)
+        Me.cmdChiTietHoSo.Name = "cmdChiTietHoSo"
+        Me.cmdChiTietHoSo.Size = New System.Drawing.Size(102, 21)
+        Me.cmdChiTietHoSo.TabIndex = 3
+        Me.cmdChiTietHoSo.Text = "Nghiệp vụ hồ sơ"
+        Me.cmdChiTietHoSo.UseVisualStyleBackColor = True
+        '
+        'cmdDieuChinh
+        '
+        Me.cmdDieuChinh.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.cmdDieuChinh.Location = New System.Drawing.Point(357, 18)
+        Me.cmdDieuChinh.Name = "cmdDieuChinh"
+        Me.cmdDieuChinh.Size = New System.Drawing.Size(102, 21)
+        Me.cmdDieuChinh.TabIndex = 2
+        Me.cmdDieuChinh.Text = "Điều chỉnh"
+        Me.cmdDieuChinh.UseVisualStyleBackColor = True
+        '
+        'GrGhiChu
+        '
+        Me.GrGhiChu.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GrGhiChu.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.GrGhiChu.Location = New System.Drawing.Point(756, 38)
+        Me.GrGhiChu.Name = "GrGhiChu"
+        Me.GrGhiChu.Size = New System.Drawing.Size(203, 444)
+        Me.GrGhiChu.TabIndex = 5
+        Me.GrGhiChu.TabStop = False
         '
         'frmDanhSachCongViecDaGiao
         '
@@ -132,6 +132,7 @@ Partial Class frmDanhSachCongViecDaGiao
         Me.ClientSize = New System.Drawing.Size(965, 513)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.Label1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "frmDanhSachCongViecDaGiao"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "DANH SACH HO SO DA DUOC GIAO"

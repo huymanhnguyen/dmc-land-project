@@ -56,7 +56,7 @@
             this.radioButtonTextOpaque.Location = new System.Drawing.Point(243, 103);
             this.radioButtonTextOpaque.Name = "radioButtonTextOpaque";
             this.radioButtonTextOpaque.Size = new System.Drawing.Size(72, 17);
-            this.radioButtonTextOpaque.TabIndex = 70;
+            this.radioButtonTextOpaque.TabIndex = 11;
             this.radioButtonTextOpaque.Text = "Hộp chứa";
             this.radioButtonTextOpaque.CheckedChanged += new System.EventHandler(this.radioButtonTextOpaque_CheckedChanged);
             // 
@@ -66,7 +66,7 @@
             this.radioButtonTextHalo.Location = new System.Drawing.Point(243, 79);
             this.radioButtonTextHalo.Name = "radioButtonTextHalo";
             this.radioButtonTextHalo.Size = new System.Drawing.Size(72, 17);
-            this.radioButtonTextHalo.TabIndex = 69;
+            this.radioButtonTextHalo.TabIndex = 10;
             this.radioButtonTextHalo.Text = "Viền sáng";
             this.radioButtonTextHalo.CheckedChanged += new System.EventHandler(this.radioButtonTextHalo_CheckedChanged);
             // 
@@ -77,7 +77,7 @@
             this.radioButtonTextNoBackground.Location = new System.Drawing.Point(243, 55);
             this.radioButtonTextNoBackground.Name = "radioButtonTextNoBackground";
             this.radioButtonTextNoBackground.Size = new System.Drawing.Size(100, 17);
-            this.radioButtonTextNoBackground.TabIndex = 68;
+            this.radioButtonTextNoBackground.TabIndex = 9;
             this.radioButtonTextNoBackground.TabStop = true;
             this.radioButtonTextNoBackground.Text = "Không màu nền";
             this.radioButtonTextNoBackground.CheckedChanged += new System.EventHandler(this.radioButtonTextNoBackground_CheckedChanged);
@@ -88,7 +88,7 @@
             this.comboBoxTextFontFamily.Location = new System.Drawing.Point(54, 30);
             this.comboBoxTextFontFamily.Name = "comboBoxTextFontFamily";
             this.comboBoxTextFontFamily.Size = new System.Drawing.Size(167, 21);
-            this.comboBoxTextFontFamily.TabIndex = 59;
+            this.comboBoxTextFontFamily.TabIndex = 0;
             this.comboBoxTextFontFamily.SelectedIndexChanged += new System.EventHandler(this.comboBoxTextFontFamily_SelectedIndexChanged);
             // 
             // label11
@@ -113,7 +113,7 @@
             this.numericUpDownTextSize.TabIndex = 55;
             this.numericUpDownTextSize.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.numericUpDownTextSize.Value = new decimal(new int[] {
-            10,
+            1,
             0,
             0,
             0});
@@ -133,7 +133,7 @@
             this.checkBoxTextBold.Location = new System.Drawing.Point(20, 67);
             this.checkBoxTextBold.Name = "checkBoxTextBold";
             this.checkBoxTextBold.Size = new System.Drawing.Size(72, 24);
-            this.checkBoxTextBold.TabIndex = 65;
+            this.checkBoxTextBold.TabIndex = 2;
             this.checkBoxTextBold.Text = "Đậm";
             this.checkBoxTextBold.CheckedChanged += new System.EventHandler(this.checkBoxTextBold_CheckedChanged);
             // 
@@ -142,7 +142,7 @@
             this.checkBoxTextItalic.Location = new System.Drawing.Point(20, 91);
             this.checkBoxTextItalic.Name = "checkBoxTextItalic";
             this.checkBoxTextItalic.Size = new System.Drawing.Size(72, 24);
-            this.checkBoxTextItalic.TabIndex = 64;
+            this.checkBoxTextItalic.TabIndex = 3;
             this.checkBoxTextItalic.Text = "Nghiêng";
             this.checkBoxTextItalic.CheckedChanged += new System.EventHandler(this.checkBoxTextItalic_CheckedChanged);
             // 
@@ -151,7 +151,7 @@
             this.checkBoxTextUnderline.Location = new System.Drawing.Point(20, 115);
             this.checkBoxTextUnderline.Name = "checkBoxTextUnderline";
             this.checkBoxTextUnderline.Size = new System.Drawing.Size(86, 24);
-            this.checkBoxTextUnderline.TabIndex = 63;
+            this.checkBoxTextUnderline.TabIndex = 4;
             this.checkBoxTextUnderline.Text = "Gạch chân";
             this.checkBoxTextUnderline.CheckedChanged += new System.EventHandler(this.checkBoxTextUnderline_CheckedChanged);
             // 
@@ -161,7 +161,7 @@
             this.checkBoxTextStrikeout.Location = new System.Drawing.Point(20, 139);
             this.checkBoxTextStrikeout.Name = "checkBoxTextStrikeout";
             this.checkBoxTextStrikeout.Size = new System.Drawing.Size(85, 17);
-            this.checkBoxTextStrikeout.TabIndex = 66;
+            this.checkBoxTextStrikeout.TabIndex = 5;
             this.checkBoxTextStrikeout.Text = "Gạch ngang";
             this.checkBoxTextStrikeout.CheckedChanged += new System.EventHandler(this.checkBoxTextStrikeout_CheckedChanged);
             // 
@@ -170,7 +170,7 @@
             this.checkBoxTextAllCaps.Location = new System.Drawing.Point(97, 55);
             this.checkBoxTextAllCaps.Name = "checkBoxTextAllCaps";
             this.checkBoxTextAllCaps.Size = new System.Drawing.Size(93, 24);
-            this.checkBoxTextAllCaps.TabIndex = 61;
+            this.checkBoxTextAllCaps.TabIndex = 6;
             this.checkBoxTextAllCaps.Text = "Chữ hoa";
             this.checkBoxTextAllCaps.CheckedChanged += new System.EventHandler(this.checkBoxTextAllCaps_CheckedChanged);
             // 
@@ -179,7 +179,7 @@
             this.checkBoxTextShadow.Location = new System.Drawing.Point(97, 103);
             this.checkBoxTextShadow.Name = "checkBoxTextShadow";
             this.checkBoxTextShadow.Size = new System.Drawing.Size(93, 24);
-            this.checkBoxTextShadow.TabIndex = 60;
+            this.checkBoxTextShadow.TabIndex = 8;
             this.checkBoxTextShadow.Text = "Đổ bóng";
             this.checkBoxTextShadow.CheckedChanged += new System.EventHandler(this.checkBoxTextShadow_CheckedChanged);
             // 
@@ -188,7 +188,7 @@
             this.checkBoxTextDoubleSpace.Location = new System.Drawing.Point(97, 79);
             this.checkBoxTextDoubleSpace.Name = "checkBoxTextDoubleSpace";
             this.checkBoxTextDoubleSpace.Size = new System.Drawing.Size(149, 24);
-            this.checkBoxTextDoubleSpace.TabIndex = 62;
+            this.checkBoxTextDoubleSpace.TabIndex = 7;
             this.checkBoxTextDoubleSpace.Text = "Nhân đôi khoảng trống";
             this.checkBoxTextDoubleSpace.CheckedChanged += new System.EventHandler(this.checkBoxTextDoubleSpace_CheckedChanged);
             // 
@@ -197,7 +197,7 @@
             this.buttonTextForeColor.Location = new System.Drawing.Point(202, 125);
             this.buttonTextForeColor.Name = "buttonTextForeColor";
             this.buttonTextForeColor.Size = new System.Drawing.Size(64, 24);
-            this.buttonTextForeColor.TabIndex = 54;
+            this.buttonTextForeColor.TabIndex = 12;
             this.buttonTextForeColor.Text = "Màu chữ";
             this.buttonTextForeColor.Click += new System.EventHandler(this.buttonTextForeColor_Click_1);
             // 
@@ -206,7 +206,7 @@
             this.buttonTextBackColor.Location = new System.Drawing.Point(282, 125);
             this.buttonTextBackColor.Name = "buttonTextBackColor";
             this.buttonTextBackColor.Size = new System.Drawing.Size(64, 24);
-            this.buttonTextBackColor.TabIndex = 53;
+            this.buttonTextBackColor.TabIndex = 13;
             this.buttonTextBackColor.Text = "Màu nền";
             this.buttonTextBackColor.Click += new System.EventHandler(this.buttonTextBackColor_Click_1);
             // 
@@ -236,7 +236,7 @@
             this.cmdChapNhan.Location = new System.Drawing.Point(192, 179);
             this.cmdChapNhan.Name = "cmdChapNhan";
             this.cmdChapNhan.Size = new System.Drawing.Size(86, 25);
-            this.cmdChapNhan.TabIndex = 79;
+            this.cmdChapNhan.TabIndex = 14;
             this.cmdChapNhan.Text = "Chấp nhận";
             this.cmdChapNhan.UseVisualStyleBackColor = true;
             this.cmdChapNhan.Click += new System.EventHandler(this.cmdChapNhan_Click);
@@ -247,7 +247,7 @@
             this.cmdHuy.Location = new System.Drawing.Point(285, 179);
             this.cmdHuy.Name = "cmdHuy";
             this.cmdHuy.Size = new System.Drawing.Size(81, 24);
-            this.cmdHuy.TabIndex = 80;
+            this.cmdHuy.TabIndex = 15;
             this.cmdHuy.Text = "Huỷ lệnh";
             this.cmdHuy.UseVisualStyleBackColor = true;
             this.cmdHuy.Click += new System.EventHandler(this.cmdHuy_Click_1);

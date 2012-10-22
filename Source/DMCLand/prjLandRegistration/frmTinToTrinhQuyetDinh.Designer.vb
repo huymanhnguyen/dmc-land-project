@@ -43,11 +43,13 @@ Partial Class frmTinToTrinhQuyetDinh
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(546, 127)
         Me.Controls.Add(Me.CtrToTrinhQuyetDinh1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "frmTinToTrinhQuyetDinh"
         Me.ShowIcon = False
         Me.ShowInTaskbar = False
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "IN TO TRINH VA QUYET DINH"
         Me.ResumeLayout(False)
 

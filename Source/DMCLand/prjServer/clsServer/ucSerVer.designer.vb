@@ -30,6 +30,8 @@ Partial Class ucSerVer
         Me.Label3 = New System.Windows.Forms.Label
         Me.btnKiemTra = New System.Windows.Forms.Button
         Me.GroupBox2 = New System.Windows.Forms.GroupBox
+        Me.cmbDatabasesQuan = New System.Windows.Forms.ComboBox
+        Me.Label4 = New System.Windows.Forms.Label
         Me.txtMayChu = New System.Windows.Forms.TextBox
         Me.btnRefresh = New System.Windows.Forms.Button
         Me.radTaiKhoanSQL = New System.Windows.Forms.RadioButton
@@ -40,8 +42,6 @@ Partial Class ucSerVer
         Me.txtPass = New System.Windows.Forms.TextBox
         Me.txtUser = New System.Windows.Forms.TextBox
         Me.cmbDatabases = New System.Windows.Forms.ComboBox
-        Me.cmbDatabasesQuan = New System.Windows.Forms.ComboBox
-        Me.Label4 = New System.Windows.Forms.Label
         Me.GroupBox2.SuspendLayout()
         Me.groupSQL.SuspendLayout()
         Me.SuspendLayout()
@@ -58,7 +58,7 @@ Partial Class ucSerVer
         Me.btnChapNhan.Location = New System.Drawing.Point(179, 260)
         Me.btnChapNhan.Name = "btnChapNhan"
         Me.btnChapNhan.Size = New System.Drawing.Size(88, 23)
-        Me.btnChapNhan.TabIndex = 9
+        Me.btnChapNhan.TabIndex = 10
         Me.btnChapNhan.Text = "Chấp nhận"
         Me.btnChapNhan.UseVisualStyleBackColor = True
         '
@@ -67,7 +67,7 @@ Partial Class ucSerVer
         Me.btnXoa.Location = New System.Drawing.Point(268, 260)
         Me.btnXoa.Name = "btnXoa"
         Me.btnXoa.Size = New System.Drawing.Size(88, 23)
-        Me.btnXoa.TabIndex = 10
+        Me.btnXoa.TabIndex = 11
         Me.btnXoa.Text = "Xóa"
         Me.btnXoa.UseVisualStyleBackColor = True
         '
@@ -103,7 +103,7 @@ Partial Class ucSerVer
         Me.btnKiemTra.Location = New System.Drawing.Point(85, 260)
         Me.btnKiemTra.Name = "btnKiemTra"
         Me.btnKiemTra.Size = New System.Drawing.Size(88, 23)
-        Me.btnKiemTra.TabIndex = 8
+        Me.btnKiemTra.TabIndex = 9
         Me.btnKiemTra.Text = "Kiểm tra kết nối"
         Me.btnKiemTra.UseVisualStyleBackColor = True
         '
@@ -130,6 +130,23 @@ Partial Class ucSerVer
         Me.GroupBox2.TabIndex = 15
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Cấu hình kết nối cơ sở dữ liệu"
+        '
+        'cmbDatabasesQuan
+        '
+        Me.cmbDatabasesQuan.FormattingEnabled = True
+        Me.cmbDatabasesQuan.Location = New System.Drawing.Point(84, 232)
+        Me.cmbDatabasesQuan.Name = "cmbDatabasesQuan"
+        Me.cmbDatabasesQuan.Size = New System.Drawing.Size(179, 21)
+        Me.cmbDatabasesQuan.TabIndex = 8
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(6, 235)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(64, 13)
+        Me.Label4.TabIndex = 20
+        Me.Label4.Text = "CSDL Quận"
         '
         'txtMayChu
         '
@@ -222,23 +239,6 @@ Partial Class ucSerVer
         Me.cmbDatabases.Name = "cmbDatabases"
         Me.cmbDatabases.Size = New System.Drawing.Size(179, 21)
         Me.cmbDatabases.TabIndex = 6
-        '
-        'cmbDatabasesQuan
-        '
-        Me.cmbDatabasesQuan.FormattingEnabled = True
-        Me.cmbDatabasesQuan.Location = New System.Drawing.Point(84, 232)
-        Me.cmbDatabasesQuan.Name = "cmbDatabasesQuan"
-        Me.cmbDatabasesQuan.Size = New System.Drawing.Size(179, 21)
-        Me.cmbDatabasesQuan.TabIndex = 21
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(6, 235)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(64, 13)
-        Me.Label4.TabIndex = 20
-        Me.Label4.Text = "CSDL Quận"
         '
         'ucSerVer
         '
